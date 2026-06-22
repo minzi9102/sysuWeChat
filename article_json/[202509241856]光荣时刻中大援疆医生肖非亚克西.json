@@ -797,12 +797,17 @@
       "医疗成果型",
       "情感升华型"
     ],
-    "features": [
-      "先新闻事实，后人物履历，再回溯缘起与困难，最后以成果和金句收束。",
+    "tone": "庄重荣誉型、人物通讯型、家国叙事型、医疗成果型、情感升华型",
+    "sentence_features": [
+      "先新闻事实，后人物履历，再回溯缘起与困难，最后以成果和金句收束。"
+    ],
+    "layout_features": [
       "新闻事实段较短，人物经历段中长，结尾诗化短句密集。",
       "肖非、父母、价值金句均承担段落转折和情绪升温功能。",
       "加粗用于章节标题、人物选择、价值判断、关键成果和结尾金句。"
     ],
+    "common_phrases": [],
+    "rhetorical_devices": [],
     "style_metrics": {
       "headline_emotion_level": 4,
       "fact_density": "high",
@@ -816,14 +821,30 @@
       "image_caption_dependency": "high",
       "policy_context_level": "medium-high",
       "emotional_closing_intensity": "high"
-    }
+    },
+    "reusable_phrases": [],
+    "not_reusable_phrases": []
   },
   "value_narrative": {
-    "personal_level": "肖非从初识新疆、主动许愿，到受学校选派并长期扎根喀什，形成“个人选择回应国家需要”的人物线。",
-    "family_level": "父母支持把私人牵挂转化为家国支撑，增强人物选择的可信度和温度。",
-    "team_level": "荣誉被归属于广东援疆医疗队专家、中山大学和喀地一院共同体，避免个人英雄化过度。",
-    "school_level": "中山大学通过附属医院和医学力量服务国家战略、服务边疆群众。",
-    "national_level": "医疗援疆不只是技术支援，更是民族团结、健康中国和边疆治理能力建设。"
+    "themes": [],
+    "levels": {
+      "personal_level": "肖非从初识新疆、主动许愿，到受学校选派并长期扎根喀什，形成“个人选择回应国家需要”的人物线。",
+      "team_level": "荣誉被归属于广东援疆医疗队专家、中山大学和喀地一院共同体，避免个人英雄化过度。",
+      "course_level": "",
+      "school_level": "中山大学通过附属医院和医学力量服务国家战略、服务边疆群众。",
+      "national_level": "医疗援疆不只是技术支援，更是民族团结、健康中国和边疆治理能力建设。",
+      "family_level": "父母支持把私人牵挂转化为家国支撑，增强人物选择的可信度和温度。"
+    },
+    "transition_method": "",
+    "school_image": [
+      "服务国家战略",
+      "医者仁心",
+      "专业担当",
+      "长期主义",
+      "民族团结",
+      "家国情怀"
+    ],
+    "ending_method": ""
   },
   "visuals": [
     {
@@ -974,6 +995,15 @@
       "position": "p017后"
     }
   ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 16,
+    "decorative_images": 4,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 21,
+    "unique_image_urls": 21
+  },
   "templates": {
     "title_templates": [
       {

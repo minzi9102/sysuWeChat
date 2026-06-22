@@ -785,12 +785,17 @@
       "课堂纪实型",
       "美育升华型"
     ],
-    "features": [
+    "tone": "温和探访型、教师人物型、课堂纪实型、美育升华型",
+    "sentence_features": [
       "先制度背景，再人物课堂，随后教学理念和学生反馈交替推进。",
+      "教师和学生引语共同构成课堂可信度。"
+    ],
+    "layout_features": [
       "短句分行开篇，正文中长段解释教学方法，结尾回到柔和价值表达。",
-      "教师和学生引语共同构成课堂可信度。",
       "加粗用于章节标题、教学金句、方法关键词、学生成长和美育价值。"
     ],
+    "common_phrases": [],
+    "rhetorical_devices": [],
     "style_metrics": {
       "headline_emotion_level": 2,
       "fact_density": "medium-high",
@@ -804,14 +809,31 @@
       "image_caption_dependency": "medium-high",
       "campus_life_texture": "high",
       "professional_term_density": "medium-high"
-    }
+    },
+    "reusable_phrases": [],
+    "not_reusable_phrases": []
   },
   "value_narrative": {
-    "teacher_level": "李治被塑造成专业积累深、热爱课堂、愿意把复杂技能拆解给学生的教师。",
-    "student_level": "学生不只是学习演奏技巧，也学习倾听、协作、理解音乐和表达情感。",
-    "course_level": "专业课、室内乐课和美育公选课共同构成大学音乐教育的多层次图景。",
-    "school_level": "中山大学通过教学竞赛和美育课程建设，呈现重视教学质量与审美教育的形象。",
-    "aesthetic_level": "文章最终把音乐课提升为“欣赏美、享受美、创造美”的育人过程。"
+    "themes": [],
+    "levels": {
+      "personal_level": "",
+      "team_level": "",
+      "course_level": "专业课、室内乐课和美育公选课共同构成大学音乐教育的多层次图景。",
+      "school_level": "中山大学通过教学竞赛和美育课程建设，呈现重视教学质量与审美教育的形象。",
+      "national_level": "",
+      "teacher_level": "李治被塑造成专业积累深、热爱课堂、愿意把复杂技能拆解给学生的教师。",
+      "student_level": "学生不只是学习演奏技巧，也学习倾听、协作、理解音乐和表达情感。",
+      "aesthetic_level": "文章最终把音乐课提升为“欣赏美、享受美、创造美”的育人过程。"
+    },
+    "transition_method": "",
+    "school_image": [
+      "重视美育",
+      "尊重教学",
+      "课堂生动",
+      "教师专业",
+      "学生主动成长"
+    ],
+    "ending_method": ""
   },
   "visuals": [
     {
@@ -892,6 +914,15 @@
       "position": "p020后"
     }
   ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 9,
+    "decorative_images": 1,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 11,
+    "unique_image_urls": 11
+  },
   "templates": {
     "title_templates": [
       {

@@ -433,18 +433,20 @@
     }
   ],
   "style": {
-    "tone": [
+    "labels": [
       "庄重权威型",
       "科研硬核型",
       "校史深情型",
       "价值升华型"
     ],
+    "tone": "庄重权威型、科研硬核型、校史深情型、价值升华型",
     "sentence_features": [
       "长句承载高密度事实和技术指标",
       "加粗句突出核心新闻点和平台价值",
       "历史段落使用时间线推进",
       "结尾使用今昔对照完成升华"
     ],
+    "layout_features": [],
     "common_phrases": [
       "值此重要节点之际",
       "将兼顾课程教学、学生实践和科学研究等用途",
@@ -472,6 +474,13 @@
       "timeline_usage": "dense",
       "image_caption_dependency": "high"
     },
+    "reusable_phrases": [
+      "值此重要节点之际",
+      "将兼顾课程教学、学生实践和科学研究等用途",
+      "互相补充、协同攻关",
+      "昔日辉煌深植于历史星河",
+      "续写新的篇章"
+    ],
     "not_reusable_phrases": [
       "我国口径最大的校内教学天文望远镜",
       "我国高校首座天文台",
@@ -490,12 +499,23 @@
       "探索宇宙",
       "重大科技任务"
     ],
+    "levels": {
+      "personal_level": "",
+      "team_level": "",
+      "course_level": "",
+      "school_level": "",
+      "national_level": ""
+    },
     "transition_method": "从天文台揭牌和望远镜功能出发，转向教学科研用途，再回溯中大天文学传统，最后落到学院十年建设、天琴计划和探索宇宙的未来征程。",
     "school_image": [
       "有百年学科传统的大学",
       "重视实践教学和科研平台建设的大学",
       "参与国家重大科技任务的大学",
-      "能把校史记忆转化为未来行动的大学"
+      "能把校史记忆转化为未来行动的大学",
+      "百年学科传统",
+      "硬核科研平台",
+      "实践育人",
+      "服务国家战略"
     ],
     "ending_method": "用“昔日辉煌”与“今日中大人”并置，把历史荣光转化为继续探索宇宙的现实使命。"
   },
@@ -571,6 +591,15 @@
       "position": "p008后"
     }
   ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 8,
+    "decorative_images": 1,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 10,
+    "unique_image_urls": 10
+  },
   "templates": {
     "title_templates": [
       {

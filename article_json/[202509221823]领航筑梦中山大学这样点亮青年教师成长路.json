@@ -671,19 +671,21 @@
     }
   ],
   "style": {
-    "tone": [
+    "labels": [
       "庄重权威型",
       "党建思政型",
       "组织机制型",
       "教师成长型",
       "价值升华型"
     ],
+    "tone": "庄重权威型、党建思政型、组织机制型、教师成长型、价值升华型",
     "sentence_features": [
       "短句口号开场",
       "长句承载组织机制和培养安排",
       "分节标题使用起航、领航、护航的对称结构",
       "后段用第一人称感言增强温度"
     ],
+    "layout_features": [],
     "common_phrases": [
       "教育大计，教师为本",
       "一体化学习成长平台",
@@ -712,6 +714,13 @@
       "timeline_usage": "medium",
       "image_caption_dependency": "medium"
     },
+    "reusable_phrases": [
+      "教育大计，教师为本",
+      "一体化学习成长平台",
+      "三位一体的培育格局",
+      "思想提升的沃土、专业成长的摇篮、团结互助的家园",
+      "为加快教育强国建设夯实人才基础"
+    ],
     "not_reusable_phrases": [
       "教育部首批高校教师“领航工作站”试点建设单位",
       "首期成功吸纳90名骨干教师入站",
@@ -734,12 +743,24 @@
       "青年教师成长",
       "高层次人才培养"
     ],
+    "levels": {
+      "personal_level": "",
+      "team_level": "",
+      "course_level": "",
+      "school_level": "",
+      "national_level": ""
+    },
     "transition_method": "从教师为本的价值命题出发，进入教育部试点与工作站建设事实，再用贝锦新个案证明政治引领，随后通过起航、领航、护航机制展开，最后用站员感言和教育强国目标完成升华。",
     "school_image": [
       "把教师队伍建设纳入核心战略的大学",
       "重视青年教师政治引领和专业成长的大学",
       "党建工作有体系、有抓手、有温度的大学",
-      "服务教育强国建设的高水平大学"
+      "服务教育强国建设的高水平大学",
+      "党建引领",
+      "教师发展",
+      "人才强校",
+      "组织保障有力",
+      "服务教育强国"
     ],
     "ending_method": "以持续深化工作站建设承接前文机制，以高质量内涵式发展和教育强国建设完成价值收束。"
   },
@@ -850,6 +871,15 @@
       "position": "p017-p019"
     }
   ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 7,
+    "decorative_images": 7,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 20,
+    "unique_image_urls": 13
+  },
   "templates": {
     "title_templates": [
       {

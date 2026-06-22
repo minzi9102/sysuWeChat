@@ -678,19 +678,21 @@
     }
   ],
   "style": {
-    "tone": [
+    "labels": [
       "紧急提醒型",
       "权威发布型",
       "校园守护型",
       "科学科普型",
       "服务保障型"
     ],
+    "tone": "紧急提醒型、权威发布型、校园守护型、科学科普型、服务保障型",
     "sentence_features": [
       "开头短句密集堆叠制造紧迫感",
       "中段使用行动清单和图注推进",
       "科普段使用较长解释句说明风险机制",
       "结尾用温和祝愿降低焦虑"
     ],
+    "layout_features": [],
     "common_phrases": [
       "请放心",
       "正在行动",
@@ -719,6 +721,13 @@
       "image_caption_dependency": "high",
       "urgency_level": "high"
     },
+    "reusable_phrases": [
+      "请放心",
+      "正在行动",
+      "切实做好台风防御工作",
+      "每一步都有“大气学问”",
+      "以官方平台发布的预报为准"
+    ],
     "not_reusable_phrases": [
       "今年最强台风",
       "防风Ⅰ级应急响应",
@@ -736,11 +745,23 @@
       "共同体行动",
       "服务保障"
     ],
+    "levels": {
+      "personal_level": "",
+      "team_level": "",
+      "course_level": "",
+      "school_level": "",
+      "national_level": ""
+    },
     "transition_method": "从台风风险转向学校防御行动，再以多校区图文证明组织落实，随后用大气科学科普把应急报道转化为公共安全指南。",
     "school_image": [
       "快速响应突发天气的校园共同体",
       "把专业知识转化为公共安全指南的大学",
-      "关心师生生活、重视校园保障的大学"
+      "关心师生生活、重视校园保障的大学",
+      "安全负责",
+      "快速响应",
+      "科学防灾",
+      "守护师生",
+      "服务社会"
     ],
     "ending_method": "不做宏大叙事，而用“希望台风尽快过去、生活恢复日常”完成温情收束。"
   },
@@ -872,6 +893,15 @@
       "position": "img016后"
     }
   ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 15,
+    "decorative_images": 2,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 19,
+    "unique_image_urls": 18
+  },
   "templates": {
     "title_templates": [
       {
