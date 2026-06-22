@@ -1,0 +1,979 @@
+{
+  "article_id": "sysu_20250922_1823",
+  "title": "领航筑梦！中山大学这样点亮青年教师成长路",
+  "publish_time": "2025-09-22 18:23",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": [
+    "教师发展类",
+    "党建思政类",
+    "人才培养类",
+    "队伍建设类",
+    "学校治理类"
+  ],
+  "keywords": [
+    "高校教师领航工作站",
+    "青年教师",
+    "高层次人才",
+    "政治吸纳",
+    "思想引领",
+    "专业服务",
+    "困难帮扶",
+    "教师党建",
+    "红色教育",
+    "人才强校",
+    "教育强国"
+  ],
+  "summary": "本文围绕中山大学教师“领航工作站”试点建设，通过贝锦新成长个案、“起航—领航—护航”三段式机制介绍和站员学习感言，呈现学校以党建引领青年教师和高层次人才成长、服务教育强国建设的实践路径。",
+  "communication_goal": {
+    "surface_goal": "介绍中山大学教师“领航工作站”的建设背景、运行机制和阶段性实践。",
+    "middle_goal": "突出学校围绕政治吸纳、思想引领、专业服务、困难帮扶构建教师成长支持体系。",
+    "deep_goal": "塑造中大重视教师队伍建设、坚持党建引领人才成长、服务教育强国战略的学校形象。",
+    "target_readers": [
+      "中大师生",
+      "青年教师和高层次人才",
+      "基层党组织工作者",
+      "高校党建与教师发展相关群体"
+    ],
+    "school_image": [
+      "党建引领",
+      "教师发展",
+      "人才强校",
+      "组织保障有力",
+      "服务教育强国"
+    ]
+  },
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "2024年，中山大学入选教育部首批高校教师“领航工作站”试点建设单位。",
+      "type": "机构事实",
+      "time": "2024",
+      "subject": "中山大学",
+      "object": "入选教育部首批高校教师“领航工作站”试点建设单位",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "“首批”需保留教育部试点语境",
+      "source_paragraph_id": "p001",
+      "source_quote": "2024年，中山大学入选教育部首批高校教师“领航工作站”试点建设单位。",
+      "confidence": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "中山大学教师“领航工作站”首期吸纳90名骨干教师入站。",
+      "type": "数字事实",
+      "time": "2024",
+      "subject": "中山大学教师“领航工作站”",
+      "object": "首期吸纳90名骨干教师",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "“90名”不可扩大为约数或全体教师",
+      "source_paragraph_id": "p001",
+      "source_quote": "首期成功吸纳90名骨干教师入站，涵盖三校区五校园、文理医工农艺各学科领域。",
+      "confidence": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "工作站致力打造“政治吸纳、思想引领、专业服务、困难帮扶”一体化学习成长平台。",
+      "type": "机制事实",
+      "time": "2024",
+      "subject": "中山大学教师“领航工作站”",
+      "object": "一体化学习成长平台",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "四组表述顺序和措辞需准确",
+      "source_paragraph_id": "p001",
+      "source_quote": "致力打造“政治吸纳、思想引领、专业服务、困难帮扶”一体化学习成长平台，系统加强教师党建和思想政治工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "f004",
+      "fact": "贝锦新被中山大学肿瘤防治中心实验研究部师生第四党支部正式接收为中共预备党员。",
+      "type": "人物事件",
+      "time": "",
+      "subject": "贝锦新",
+      "object": "被正式接收为中共预备党员",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "涉及党员发展，须保持原文表述",
+      "source_paragraph_id": "p002",
+      "source_quote": "日前，中山大学肿瘤防治中心研究员贝锦新，被中山大学肿瘤防治中心实验研究部师生第四党支部正式接收为中共预备党员。",
+      "confidence": "high"
+    },
+    {
+      "id": "f005",
+      "fact": "贝锦新深耕肿瘤精准医学与转化医学领域，是学校高层次人才队伍的重要力量。",
+      "type": "人物事实",
+      "time": "",
+      "subject": "贝锦新",
+      "object": "学校高层次人才队伍的重要力量",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "人物评价需按原文语境使用",
+      "source_paragraph_id": "p002",
+      "source_quote": "贝锦新是学校重点引进的科研骨干，深耕肿瘤精准医学与转化医学领域，是学校高层次人才队伍的重要力量。",
+      "confidence": "high"
+    },
+    {
+      "id": "f006",
+      "fact": "贝锦新加入教师“领航工作站”后更加坚定向党组织靠拢的决心。",
+      "type": "人物成长事实",
+      "time": "",
+      "subject": "贝锦新",
+      "object": "更加坚定向党组织靠拢的决心",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "属个案叙事，不宜泛化到所有成员",
+      "source_paragraph_id": "p003",
+      "source_quote": "加入中山大学教师“领航工作站”后，在组织的引领与培养下，贝锦新对这一问题的思考愈发深刻，也愈发坚定了向党组织靠拢的决心。",
+      "confidence": "high"
+    },
+    {
+      "id": "f007",
+      "fact": "贝锦新在会上表示将聚焦肿瘤早诊早治难题，践行“为党育人、为国育才”的使命。",
+      "type": "引语事实",
+      "time": "",
+      "subject": "贝锦新",
+      "object": "聚焦肿瘤早诊早治难题并践行使命",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "直接引语不可伪造或改写成他人表述",
+      "source_paragraph_id": "p004",
+      "source_quote": "“感谢党组织的培养，我将持续深入学习贯彻习近平新时代中国特色社会主义思想，深耕主责主业，聚焦肿瘤早诊早治难题，发挥专业特长服务群众，努力建设高水平科研团队，践行‘为党育人、为国育才’的使命。”",
+      "confidence": "high"
+    },
+    {
+      "id": "f008",
+      "fact": "教师“领航工作站”入站仪式在中山大学庆祝中国共产党成立104周年暨“七一”表彰大会上举行。",
+      "type": "活动事实",
+      "time": "中国共产党成立104周年暨“七一”表彰大会",
+      "subject": "教师“领航工作站”入站仪式",
+      "object": "举行",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "活动名称和节点需完整",
+      "source_paragraph_id": "p006",
+      "source_quote": "在中山大学庆祝中国共产党成立104周年暨“七一”表彰大会上，教师“领航工作站”入站仪式举行。",
+      "confidence": "high"
+    },
+    {
+      "id": "f009",
+      "fact": "90名站员在庄重仪式中接受思想洗礼，增强政治认同感、组织归属感和使命感。",
+      "type": "价值事实",
+      "time": "",
+      "subject": "90名站员",
+      "object": "接受思想洗礼",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "属原文评价，不宜改为量化成效",
+      "source_paragraph_id": "p006",
+      "source_quote": "90名站员在老党员勋章颁授、获奖代表分享、预备党员宣誓暨正式党员重温入党誓词等庄重仪式中，接受思想洗礼，进一步增强了政治认同感、组织归属感和投身教育事业的使命感。",
+      "confidence": "high"
+    },
+    {
+      "id": "f010",
+      "fact": "高松院士为教师“领航工作站”授牌，项泽亮同志接牌。",
+      "type": "活动事实",
+      "time": "",
+      "subject": "高松院士",
+      "object": "为教师“领航工作站”授牌",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "图注事实需保留人物职务语境",
+      "source_paragraph_id": "p006",
+      "source_quote": "校党委副书记、校长高松院士为教师“领航工作站”授牌，站长项泽亮同志接牌。",
+      "confidence": "high"
+    },
+    {
+      "id": "f011",
+      "fact": "工作站成员聆听朱孔军同志讲授专题党课，学习党的作风建设相关论述。",
+      "type": "活动事实",
+      "time": "",
+      "subject": "工作站成员",
+      "object": "聆听专题党课",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "“时任校党委书记”需准确",
+      "source_paragraph_id": "p007",
+      "source_quote": "工作站成员们还聆听了时任校党委书记朱孔军同志讲授的专题党课，深入学习领会习近平总书记关于加强党的作风建设的重要论述。",
+      "confidence": "high"
+    },
+    {
+      "id": "f012",
+      "fact": "李勃兴表示要将工作站打造成为思想提升的沃土、专业成长的摇篮、团结互助的家园。",
+      "type": "引语事实",
+      "time": "",
+      "subject": "李勃兴",
+      "object": "对工作站建设表态",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "直接引语不可伪造",
+      "source_paragraph_id": "p008",
+      "source_quote": "“我将深学细悟、恪尽职守，努力将工作站打造成为思想提升的沃土、专业成长的摇篮、团结互助的家园。”",
+      "confidence": "high"
+    },
+    {
+      "id": "f013",
+      "fact": "国亚萍对工作站提出三点要求，强调政治站位、核心任务和责任担当。",
+      "type": "观点事实",
+      "time": "",
+      "subject": "国亚萍",
+      "object": "对工作站提出三点要求",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "三点要求不可错置",
+      "source_paragraph_id": "p008",
+      "source_quote": "校党委常务副书记国亚萍同志对工作站提出三点要求：要领会“领航”之重，政治站位再提升；要聚焦“工作站”之要，核心任务再突出；要夯实“建设”之基，责任担当再压实。",
+      "confidence": "high"
+    },
+    {
+      "id": "f014",
+      "fact": "中山大学党委将工作站建设纳入学校人才强校核心战略。",
+      "type": "机制事实",
+      "time": "",
+      "subject": "中山大学党委",
+      "object": "将工作站建设纳入学校人才强校核心战略",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "“人才强校核心战略”属战略表述，需保留原词",
+      "source_paragraph_id": "p009",
+      "source_quote": "中山大学党委将工作站建设纳入学校人才强校核心战略，以高度的政治自觉和系统谋划推动试点工作落地见效。",
+      "confidence": "high"
+    },
+    {
+      "id": "f015",
+      "fact": "学校创新实施四项行动计划，构建“起航—领航—护航”三位一体培育格局。",
+      "type": "机制事实",
+      "time": "",
+      "subject": "中山大学党委",
+      "object": "构建三位一体培育格局",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "四项计划和三段结构需准确",
+      "source_paragraph_id": "p009",
+      "source_quote": "创新实施“组织领航计划”“政治引领计划”“发展赋能计划”和“强基护航计划”四项行动计划，构建起“起航—领航—护航”三位一体的培育格局。",
+      "confidence": "high"
+    },
+    {
+      "id": "f016",
+      "fact": "学校围绕深化理论学习、强化实践调研、做实联系关怀和促进交流研讨设计学习培养安排。",
+      "type": "机制事实",
+      "time": "",
+      "subject": "学校党委",
+      "object": "设计学习培养安排",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "四个方面需完整",
+      "source_paragraph_id": "p010",
+      "source_quote": "学校党委创新学习机制，围绕深化理论学习、强化实践调研、做实联系关怀和促进交流研讨四个方面设计学习培养安排。",
+      "confidence": "high"
+    },
+    {
+      "id": "f017",
+      "fact": "学校邀请站员共享“干部大讲堂”“青年人才培训班”等校内精品课程，并策划“领航·思享汇”活动。",
+      "type": "活动事实",
+      "time": "",
+      "subject": "学校",
+      "object": "完善学习矩阵",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "活动名称需准确",
+      "source_paragraph_id": "p011",
+      "source_quote": "邀请站员共享“干部大讲堂”“青年人才培训班”等校内精品课程，策划“领航·思享汇”活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "f018",
+      "fact": "学校搭建“三级列席”平台，支持站员列席校院两级重要会议。",
+      "type": "机制事实",
+      "time": "",
+      "subject": "学校",
+      "object": "搭建“三级列席”平台",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "“三级列席”需保留引号",
+      "source_paragraph_id": "p012",
+      "source_quote": "搭建“三级列席”平台，支持站员列席如学校教代会、二级党组织党委会会议等校院两级重要会议。",
+      "confidence": "high"
+    },
+    {
+      "id": "f019",
+      "fact": "学校将探索工作站与地方政府、企业跨领域合作，并选派成员赴“双百行动”结对点开展帮扶。",
+      "type": "未来计划",
+      "time": "",
+      "subject": "学校",
+      "object": "拓宽培养渠道",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "“将探索”“计划”不可写成已完成",
+      "source_paragraph_id": "p013",
+      "source_quote": "充分发挥粤港澳大湾区优势，将探索工作站与地方政府、企业的跨领域合作；选派工作站成员赴“双百行动”结对点开展教育、科技帮扶；并计划选任优秀成员到重要岗位历练。",
+      "confidence": "high"
+    },
+    {
+      "id": "f020",
+      "fact": "学校党委将教师“领航工作站”建设列为党建重点工作，并形成“1+N”工作格局。",
+      "type": "机制事实",
+      "time": "",
+      "subject": "学校党委",
+      "object": "形成“1+N”工作格局",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "组织机制表述需完整",
+      "source_paragraph_id": "p014",
+      "source_quote": "学校党委将教师“领航工作站”建设列为党建重点工作，校党委书记履行第一责任人职责，成立建设工作组，分管校领导担任组长，构建起学校党委统一领导、组织部门牵头抓总、相关部门各司其职、二级党组织和党支部具体落实的体制机制。结合学校办学格局和学科布局，以校区（园）为单位建立分站，依托二级党组织建立若干个“二级工作站”，形成“1+N”工作格局。",
+      "confidence": "high"
+    },
+    {
+      "id": "f021",
+      "fact": "学校构建校领导、校院支部三级联系人日常联系机制，探索贯穿全职业生涯的教育培训体系。",
+      "type": "机制事实",
+      "time": "",
+      "subject": "学校",
+      "object": "构建联系机制和培训体系",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "不宜改写成已完成全部体系建设",
+      "source_paragraph_id": "p015",
+      "source_quote": "校领导带头联系高层次人才，校、院、支部三级联系人日常联系，动态掌握站员的思想动态与生活需求。分层分类探索构建贯穿全职业生涯的教育培训体系，组织教师人才参加红色教育培训、国情研修和履职能力培训等，不断吸收优秀人才加入到党的组织中来。",
+      "confidence": "high"
+    },
+    {
+      "id": "f022",
+      "fact": "2025年暑期，工作站多名站员参加红色教育专题研讨班。",
+      "type": "活动事实",
+      "time": "2025年暑期",
+      "subject": "教师“领航工作站”多名站员",
+      "object": "参加红色教育专题研讨班",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "培训地点需与原文一致",
+      "source_paragraph_id": "p016",
+      "source_quote": "2025年暑期，教师“领航工作站”多名站员在浙江大学、中共福建省委党校、福建古田干部学院参加红色教育专题研讨班。",
+      "confidence": "high"
+    },
+    {
+      "id": "f023",
+      "fact": "黄健锋表示将聚焦科研成果临床转化，为学校发展贡献力量。",
+      "type": "引语事实",
+      "time": "",
+      "subject": "黄健锋",
+      "object": "聚焦科研成果临床转化",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "站员感言不可挪作他人表述",
+      "source_paragraph_id": "p017",
+      "source_quote": "未来我将聚焦科研成果的临床转化，努力为学校发展贡献力量。",
+      "confidence": "high"
+    },
+    {
+      "id": "f024",
+      "fact": "刘洋表示将在岗位上履职尽责，为学校奋进世界一流大学前列贡献力量。",
+      "type": "引语事实",
+      "time": "",
+      "subject": "刘洋",
+      "object": "为学校奋进世界一流大学前列贡献力量",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "站员感言不可挪作他人表述",
+      "source_paragraph_id": "p018",
+      "source_quote": "日后，我将以更加饱满的热情投入工作，在岗位上履职尽责，为学校奋进世界一流大学前列贡献自己的力量！",
+      "confidence": "high"
+    },
+    {
+      "id": "f025",
+      "fact": "邵晓剑表示更加坚定“以科研守护生态安全”的职业信念。",
+      "type": "引语事实",
+      "time": "",
+      "subject": "邵晓剑",
+      "object": "坚定职业信念",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "站员感言不可挪作他人表述",
+      "source_paragraph_id": "p019",
+      "source_quote": "作为新污染物毒理学研究者，我更加坚定了“以科研守护生态安全”的职业信念。",
+      "confidence": "high"
+    },
+    {
+      "id": "f026",
+      "fact": "中山大学将持续深化工作站建设，打造高质量工作站，为教育强国建设夯实人才基础。",
+      "type": "未来计划",
+      "time": "",
+      "subject": "中山大学",
+      "object": "持续深化工作站建设",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "未来规划不可写成已实现成效",
+      "source_paragraph_id": "p020",
+      "source_quote": "未来，中山大学将持续深化工作站建设，着力打造“工作机制健全、引领作用凸显、发展支持有力、组织保障有效”的高质量工作站，为推进学校高质量内涵式发展、加快教育强国建设夯实人才基础。",
+      "confidence": "high"
+    }
+  ],
+  "structure": [
+    {
+      "section": "开头",
+      "function": "价值命题与背景导入",
+      "summary": "以教师为本和入选教育部首批试点开场，交代工作站定位和90名站员。"
+    },
+    {
+      "section": "引入",
+      "function": "人物个案",
+      "summary": "用贝锦新成为中共预备党员的个案说明政治引领与教师成长。"
+    },
+    {
+      "section": "展开",
+      "function": "三段式机制说明",
+      "summary": "按起航、领航、护航展开仪式铸魂、学习培养、系统保障。"
+    },
+    {
+      "section": "支撑",
+      "function": "活动与制度举措",
+      "summary": "列举党课、推进会、四项行动计划、三级列席、红色教育等做法。"
+    },
+    {
+      "section": "升华",
+      "function": "站员感言与未来展望",
+      "summary": "通过三位站员感言落到岗位行动，结尾升华至教育强国建设。"
+    }
+  ],
+  "paragraph_functions": [
+    {
+      "paragraph_id": "p001",
+      "summary": "教师为本、入选试点、90名站员、平台定位。",
+      "function_tags": [
+        "价值开场",
+        "核心事实"
+      ],
+      "writing_method": "价值短句开场后密集给出平台背景。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p002",
+      "summary": "贝锦新成为中共预备党员及科研背景。",
+      "function_tags": [
+        "人物个案",
+        "核心事实"
+      ],
+      "writing_method": "用个案切入制度成效。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p003",
+      "summary": "贝锦新加入工作站后的思考和决心。",
+      "function_tags": [
+        "问题意识",
+        "成长转折"
+      ],
+      "writing_method": "设问句连接科研追求与时代使命。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p004",
+      "summary": "贝锦新直接引语。",
+      "function_tags": [
+        "人物引语",
+        "价值表达"
+      ],
+      "writing_method": "用第一人称增强真实感。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p005",
+      "summary": "个案上升为学校政治引领写照。",
+      "function_tags": [
+        "过渡升维"
+      ],
+      "writing_method": "从个人成长转向学校机制。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p006",
+      "summary": "入站仪式和授牌。",
+      "function_tags": [
+        "起航",
+        "仪式叙事"
+      ],
+      "writing_method": "庄重仪式强化政治认同。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p007",
+      "summary": "专题党课与作风建设。",
+      "function_tags": [
+        "思想教育",
+        "价值强调"
+      ],
+      "writing_method": "加粗先给判断，再展开学习内容。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p008",
+      "summary": "李勃兴表态和国亚萍三点要求。",
+      "function_tags": [
+        "领导背书",
+        "要求部署"
+      ],
+      "writing_method": "引语与三点要求并用。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p009",
+      "summary": "四项行动计划与三位一体格局。",
+      "function_tags": [
+        "机制总述"
+      ],
+      "writing_method": "用命名化计划增强体系感。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p010",
+      "summary": "四方面学习培养安排。",
+      "function_tags": [
+        "问题引导",
+        "机制展开"
+      ],
+      "writing_method": "设问引出制度设计。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p011",
+      "summary": "共享课程和“领航·思享汇”。",
+      "function_tags": [
+        "举措列举"
+      ],
+      "writing_method": "小标题加具体活动。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p012",
+      "summary": "“三级列席”平台。",
+      "function_tags": [
+        "举措列举",
+        "治理参与"
+      ],
+      "writing_method": "制度名词加参与场景。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p013",
+      "summary": "大湾区合作、“双百行动”、岗位历练。",
+      "function_tags": [
+        "发展赋能",
+        "未来计划"
+      ],
+      "writing_method": "分号并列形成行动清单。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p014",
+      "summary": "党建重点工作、工作组、“1+N”格局。",
+      "function_tags": [
+        "组织保障"
+      ],
+      "writing_method": "长句压缩组织机制。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p015",
+      "summary": "三级联系人和全职业生涯培训。",
+      "function_tags": [
+        "关怀保障",
+        "培养体系"
+      ],
+      "writing_method": "联系关怀与培训体系并置。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p016",
+      "summary": "红色教育专题研讨班。",
+      "function_tags": [
+        "活动过渡"
+      ],
+      "writing_method": "由机制转入站员体验。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p017",
+      "summary": "黄健锋感言。",
+      "function_tags": [
+        "站员证言"
+      ],
+      "writing_method": "红色教育体验连接科研转化。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p018",
+      "summary": "刘洋感言。",
+      "function_tags": [
+        "站员证言"
+      ],
+      "writing_method": "学习体验连接岗位履职。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p019",
+      "summary": "邵晓剑感言。",
+      "function_tags": [
+        "站员证言"
+      ],
+      "writing_method": "课程内容连接科研信念。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p020",
+      "summary": "持续深化工作站建设和教育强国升华。",
+      "function_tags": [
+        "未来展望",
+        "价值升华"
+      ],
+      "writing_method": "以高质量工作站和教育强国收束。",
+      "reuse_value": "高"
+    }
+  ],
+  "style": {
+    "tone": [
+      "庄重权威型",
+      "党建思政型",
+      "组织机制型",
+      "教师成长型",
+      "价值升华型"
+    ],
+    "sentence_features": [
+      "短句口号开场",
+      "长句承载组织机制和培养安排",
+      "分节标题使用起航、领航、护航的对称结构",
+      "后段用第一人称感言增强温度"
+    ],
+    "common_phrases": [
+      "教育大计，教师为本",
+      "一体化学习成长平台",
+      "三位一体的培育格局",
+      "思想提升的沃土、专业成长的摇篮、团结互助的家园",
+      "为加快教育强国建设夯实人才基础"
+    ],
+    "rhetorical_devices": [
+      "价值口号开场",
+      "设问引导",
+      "人物个案",
+      "三段式分节",
+      "行动清单",
+      "站员证言",
+      "价值升华"
+    ],
+    "style_metrics": {
+      "headline_emotion_level": 3,
+      "fact_density": "high",
+      "history_density": "low",
+      "quote_density": "high",
+      "value_sublimation_level": "high",
+      "average_paragraph_length": "medium",
+      "bold_usage": "section_heading_and_core_value_highlight",
+      "technical_detail_density": "low",
+      "timeline_usage": "medium",
+      "image_caption_dependency": "medium"
+    },
+    "not_reusable_phrases": [
+      "教育部首批高校教师“领航工作站”试点建设单位",
+      "首期成功吸纳90名骨干教师入站",
+      "三级列席",
+      "组织领航计划",
+      "政治引领计划",
+      "发展赋能计划",
+      "强基护航计划"
+    ]
+  },
+  "value_narrative": {
+    "themes": [
+      "立德树人",
+      "教师为本",
+      "党建引领",
+      "政治吸纳",
+      "思想引领",
+      "人才强校",
+      "教育强国",
+      "青年教师成长",
+      "高层次人才培养"
+    ],
+    "transition_method": "从教师为本的价值命题出发，进入教育部试点与工作站建设事实，再用贝锦新个案证明政治引领，随后通过起航、领航、护航机制展开，最后用站员感言和教育强国目标完成升华。",
+    "school_image": [
+      "把教师队伍建设纳入核心战略的大学",
+      "重视青年教师政治引领和专业成长的大学",
+      "党建工作有体系、有抓手、有温度的大学",
+      "服务教育强国建设的高水平大学"
+    ],
+    "ending_method": "以持续深化工作站建设承接前文机制，以高质量内涵式发展和教育强国建设完成价值收束。"
+  },
+  "visuals": [
+    {
+      "image_id": "cover",
+      "caption": "封面图",
+      "type": "封面大图",
+      "function": "定调教师成长和领航主题",
+      "position": "标题前"
+    },
+    {
+      "image_id": "img001",
+      "caption": "开场动图",
+      "type": "动态视觉",
+      "function": "进入公众号正文的视觉节奏",
+      "position": "元信息后"
+    },
+    {
+      "image_id": "img002",
+      "caption": "领航工作站主题装饰图",
+      "type": "主题视觉",
+      "function": "强化开场主题",
+      "position": "p001前"
+    },
+    {
+      "image_id": "img003",
+      "caption": "中山大学肿瘤防治中心实验研究部师生第四党支部党员大会现场，国亚萍常务副书记列席参加",
+      "type": "活动现场图",
+      "function": "证明贝锦新个案发生场景",
+      "position": "p001后"
+    },
+    {
+      "image_id": "img004",
+      "caption": "贝锦新相关现场图，无文字图注",
+      "type": "人物/活动图",
+      "function": "连接个人成长个案",
+      "position": "p003后"
+    },
+    {
+      "image_id": "img005",
+      "caption": "分隔图",
+      "type": "视觉分隔",
+      "function": "引出人物引语",
+      "position": "p003后"
+    },
+    {
+      "image_id": "img006",
+      "caption": "起航分节图",
+      "type": "章节视觉",
+      "function": "标识“起航”段落",
+      "position": "p005后"
+    },
+    {
+      "image_id": "img007",
+      "caption": "校党委副书记、校长高松院士为教师“领航工作站”授牌，站长项泽亮同志接牌",
+      "type": "活动现场图",
+      "function": "支撑入站仪式事实",
+      "position": "p006后"
+    },
+    {
+      "image_id": "img008",
+      "caption": "朱孔军讲授专题党课",
+      "type": "活动现场图",
+      "function": "支撑专题党课事实",
+      "position": "p007后"
+    },
+    {
+      "image_id": "img009",
+      "caption": "教师“领航工作站”建设试点工作推进会",
+      "type": "会议现场图",
+      "function": "支撑工作推进和领导要求",
+      "position": "p008后"
+    },
+    {
+      "image_id": "img010",
+      "caption": "领航分节图",
+      "type": "章节视觉",
+      "function": "标识“领航”段落",
+      "position": "p008后"
+    },
+    {
+      "image_id": "img011",
+      "caption": "学习矩阵/小节配图",
+      "type": "装饰/机制图",
+      "function": "配合三项培养举措",
+      "position": "p011前"
+    },
+    {
+      "image_id": "img012",
+      "caption": "教师“领航工作站”站员集体参加学校2025年度工作会议并开展学习研讨",
+      "type": "活动现场图",
+      "function": "证明集中学习活动",
+      "position": "p013后"
+    },
+    {
+      "image_id": "img013",
+      "caption": "护航分节图",
+      "type": "章节视觉",
+      "function": "标识“护航”段落",
+      "position": "p013后"
+    },
+    {
+      "image_id": "img014",
+      "caption": "红色教育感言配图",
+      "type": "人物感言图",
+      "function": "连接三位站员感言",
+      "position": "p017-p019"
+    }
+  ],
+  "templates": {
+    "title_templates": [
+      {
+        "template": "[行动口号]！中山大学这样[支持/护航/点亮][群体成长]",
+        "applicable_scenarios": [
+          "教师发展",
+          "学生成长",
+          "党建思政",
+          "人才培养平台报道"
+        ],
+        "not_applicable_scenarios": [
+          "硬科研成果快讯",
+          "招生政策通知",
+          "普通会议报道",
+          "节日祝福"
+        ]
+      },
+      {
+        "template": "[价值关键词]！中大以[机制/平台]助力[对象]成长成才",
+        "applicable_scenarios": [
+          "队伍建设",
+          "培养计划",
+          "组织育人",
+          "服务保障类长文"
+        ],
+        "not_applicable_scenarios": [
+          "单篇人物专访",
+          "轻量互动推文",
+          "纯活动预告",
+          "成果获奖快讯"
+        ]
+      }
+    ],
+    "opening_templates": [
+      {
+        "template": "[价值判断短句]。[对象]的成长对于[核心使命]有着至关重要的作用。[年份]，[学校/单位][入选/启动/建设][平台/计划]，并通过[核心举措]打造[目标平台]。",
+        "applicable_scenarios": [
+          "教师发展",
+          "人才培养",
+          "党建平台",
+          "组织育人报道"
+        ],
+        "not_applicable_scenarios": [
+          "无政策背景的活动报道",
+          "纯人物故事",
+          "轻松校园生活推文",
+          "招生简章"
+        ]
+      }
+    ],
+    "case_intro_templates": [
+      {
+        "template": "日前，[人物]在[组织/场景]中[关键事件]。作为[身份/背景]，[人物]的成长正是[平台/机制]发挥作用的生动写照。",
+        "applicable_scenarios": [
+          "制度成效报道",
+          "教师发展报道",
+          "党建育人报道",
+          "人才培养案例"
+        ],
+        "not_applicable_scenarios": [
+          "没有可核实人物材料的生成任务",
+          "群像快讯",
+          "纯通知",
+          "无个案支撑的评论"
+        ]
+      }
+    ],
+    "mechanism_templates": [
+      {
+        "template": "[学校/单位]创新实施[若干行动计划]，构建起[阶段/维度]一体化的[培养/保障]格局，为[目标对象]探索[发展路径]。",
+        "applicable_scenarios": [
+          "制度建设",
+          "平台建设",
+          "队伍建设",
+          "组织体系报道"
+        ],
+        "not_applicable_scenarios": [
+          "单个活动复盘",
+          "个人访谈",
+          "招生宣传",
+          "文艺活动"
+        ]
+      }
+    ],
+    "section_templates": [
+      {
+        "template": "[小标题动词]：[方法概括]，[目标表达]",
+        "applicable_scenarios": [
+          "三段式机制介绍",
+          "多维培养体系",
+          "平台建设长文",
+          "组织工作报道"
+        ],
+        "not_applicable_scenarios": [
+          "线性人物传记",
+          "新闻快讯",
+          "政策公告",
+          "短消息"
+        ]
+      }
+    ],
+    "testimonial_templates": [
+      {
+        "template": "在[学习/实践场景]中，[人物]从[理论/精神/实践]中获得启发，并表示将[回到岗位行动]，为[学校/国家目标]贡献力量。",
+        "applicable_scenarios": [
+          "培训报道",
+          "学习心得",
+          "教师成长故事",
+          "学生成长故事"
+        ],
+        "not_applicable_scenarios": [
+          "无真实发言材料的生成任务",
+          "硬新闻导语",
+          "通知公告",
+          "无人物材料的机制介绍"
+        ]
+      }
+    ],
+    "ending_templates": [
+      {
+        "template": "未来，[学校/单位]将持续深化[平台/机制]建设，着力打造[目标特征]的高质量[平台/体系]，为[学校发展/国家战略]夯实[基础]。",
+        "applicable_scenarios": [
+          "机制建设长文",
+          "队伍建设报道",
+          "党建思政平台报道",
+          "人才培养报道"
+        ],
+        "not_applicable_scenarios": [
+          "短消息",
+          "普通活动报道",
+          "轻松互动推文",
+          "纯招生信息"
+        ]
+      }
+    ]
+  },
+  "generation_constraints": [
+    {
+      "term": "教育部首批高校教师“领航工作站”试点建设单位",
+      "constraint": "属于具体资质和试点事实，必须有来源支撑，不得套用于其他平台。"
+    },
+    {
+      "term": "90名骨干教师",
+      "constraint": "具体数字必须与原文一致，不得泛化为近百名或大批教师。"
+    },
+    {
+      "term": "党员发展事实",
+      "constraint": "涉及贝锦新被接收为中共预备党员，必须准确引用，不得推断其他政治身份。"
+    },
+    {
+      "term": "领导讲话和三点要求",
+      "constraint": "不得伪造国亚萍、李勃兴等人的直接引语或要求。"
+    },
+    {
+      "term": "未来计划",
+      "constraint": "“将探索”“计划选任”“将持续深化”等表述不可写成已完成。"
+    },
+    {
+      "term": "站员感言",
+      "constraint": "黄健锋、刘洋、邵晓剑的第一人称感言不可挪作他人表述。"
+    },
+    {
+      "term": "起航—领航—护航",
+      "constraint": "该结构适用于成长培养机制报道，不宜套用到普通活动或硬科研成果快讯。"
+    }
+  ]
+}
