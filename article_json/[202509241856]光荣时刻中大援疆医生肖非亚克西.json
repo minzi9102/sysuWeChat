@@ -1,0 +1,1068 @@
+{
+  "article_id": "sysu_20250924_1856",
+  "title": "光荣时刻！中大援疆医生肖非，亚克西！",
+  "publish_time": "2025-09-24 18:56",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": [
+    "人物通讯类",
+    "援疆医疗类",
+    "荣誉报道类",
+    "社会服务类",
+    "民族团结叙事类",
+    "附属医院建设类"
+  ],
+  "keywords": [
+    "肖非",
+    "援疆医生",
+    "广东援疆医疗队",
+    "喀什地区第一人民医院",
+    "中山大学附属喀什医院",
+    "民族团结",
+    "健康中国",
+    "带不走的医疗队",
+    "5G远程手术机器人",
+    "组团式援疆"
+  ],
+  "summary": "本文以肖非作为中大援疆医生代表受到接见的“光荣时刻”为新闻入口，回顾其从珠江到天山的援疆经历、广东援疆医疗队在喀什的医疗帮扶成果与人才培养成效，最终升华为中大服务国家战略、守护边疆健康、促进民族团结的价值叙事。",
+  "communication_goal": {
+    "surface_goal": "报道中大援疆医生肖非受到接见的荣誉事件，介绍其身份和援疆经历。",
+    "middle_goal": "展示中山大学及附属医院参与医疗援疆、服务边疆群众、推动喀什医疗能力提升的具体成果。",
+    "deep_goal": "塑造中大“国家需要时挺身而出”的使命形象，把个人荣誉转化为团队荣誉、学校荣誉与民族团结叙事。",
+    "target_readers": [
+      "中大师生",
+      "附属医院医务工作者",
+      "校友",
+      "关注援疆事业的公众",
+      "关注医疗帮扶的公众"
+    ],
+    "school_image": [
+      "服务国家战略",
+      "医者仁心",
+      "专业担当",
+      "长期主义",
+      "民族团结",
+      "家国情怀"
+    ]
+  },
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "9月23日下午，习近平抵达乌鲁木齐，出席新疆维吾尔自治区成立70周年庆祝活动。",
+      "type": "时政背景事实",
+      "time": "2025-09-23",
+      "subject": "习近平",
+      "object": "抵达乌鲁木齐并出席庆祝活动",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "涉及时政活动，复用需核对官方表述",
+      "source_paragraph_id": "p001",
+      "source_quote": "23日下午，中共中央总书记、国家主席、中央军委主席习近平抵达乌鲁木齐，出席新疆维吾尔自治区成立70周年庆祝活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "习近平在乌鲁木齐接见援疆干部代表并合影。",
+      "type": "时政背景事实",
+      "time": "2025-09-23",
+      "subject": "习近平",
+      "object": "接见援疆干部代表并合影",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "涉及时政活动，复用需核对官方表述",
+      "source_paragraph_id": "p002",
+      "source_quote": "在乌鲁木齐，他亲切接见了援疆干部代表，并同大家合影留念。",
+      "confidence": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "中山大学附属第五医院副院长、党委委员肖非教授在受接见援疆干部代表之中。",
+      "type": "人物荣誉事实",
+      "time": "2025-09-23",
+      "subject": "肖非",
+      "object": "作为援疆干部代表之一受到接见",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "人物职务必须准确",
+      "source_paragraph_id": "p002",
+      "source_quote": "我校中山大学附属第五医院副院长、党委委员肖非教授就在其中。",
+      "confidence": "high"
+    },
+    {
+      "id": "f004",
+      "fact": "肖非称自己作为中山大学选派的广东援疆医疗队队长和喀什地区第一人民医院院长，代表团队受到接见，内心充满光荣与自豪。",
+      "type": "人物引语",
+      "time": "2025-09-24",
+      "subject": "肖非",
+      "object": "表达受到接见的荣誉感",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "直接引语不可改写为事实判断",
+      "source_paragraph_id": "p003",
+      "source_quote": "“作为中山大学选派的广东援疆医疗队队长和喀什地区第一人民医院（中山大学附属喀什医院）院长，我深感荣幸能代表团队受到总书记的亲切接见，内心充满光荣与自豪！”",
+      "confidence": "high"
+    },
+    {
+      "id": "f005",
+      "fact": "肖非认为荣誉属于全体广东援疆医疗队专家，也属于培养他的中山大学。",
+      "type": "人物引语",
+      "time": "2025-09-24",
+      "subject": "肖非",
+      "object": "将荣誉归于团队和学校",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "适合复用为团队荣誉叙事，但需注明引语来源",
+      "source_paragraph_id": "p003",
+      "source_quote": "这份崇高荣誉，属于全体广东援疆医疗队专家，属于培养我的中山大学。",
+      "confidence": "high"
+    },
+    {
+      "id": "f006",
+      "fact": "肖非表示两年半援疆岁月中，团队以仁心守护边疆健康，以医术厚植民族团结。",
+      "type": "价值引语",
+      "time": "2025-09-24",
+      "subject": "肖非",
+      "object": "概括援疆经历价值",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "属人物评价和价值表达，不应写成第三方证明",
+      "source_paragraph_id": "p003",
+      "source_quote": "两年半的援疆岁月，我们以仁心守护边疆健康，以医术厚植民族团结。",
+      "confidence": "high"
+    },
+    {
+      "id": "f007",
+      "fact": "肖非是中组部第十一批“组团式”援疆广东省医疗队队长，任喀什地区第一人民医院院长、党委副书记。",
+      "type": "人物身份事实",
+      "time": "未注明",
+      "subject": "肖非",
+      "object": "担任援疆医疗队和喀地一院相关职务",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "职务较多，复用需完整核对",
+      "source_paragraph_id": "p004",
+      "source_quote": "肖非，中组部第十一批“组团式”援疆广东省医疗队队长，喀什地区第一人民医院院长、党委副书记。",
+      "confidence": "high"
+    },
+    {
+      "id": "f008",
+      "fact": "肖非任中山大学附属第五医院副院长、党委委员，中山大学医学院传染病教研室主任等职务。",
+      "type": "人物身份事实",
+      "time": "未注明",
+      "subject": "肖非",
+      "object": "担任中山大学及附属医院相关职务",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "职务较多，复用需完整核对",
+      "source_paragraph_id": "p004",
+      "source_quote": "中山大学附属第五医院副院长、党委委员，中山大学医学院传染病教研室主任，附属第五医院感染病防治中心党支部书记。",
+      "confidence": "high"
+    },
+    {
+      "id": "f009",
+      "fact": "肖非入选教育部“长江学者”特岗教授，并获得多项人才和荣誉称号。",
+      "type": "人物荣誉事实",
+      "time": "未注明",
+      "subject": "肖非",
+      "object": "获得人才和荣誉称号",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "荣誉清单不可扩展或遗漏关键限定",
+      "source_paragraph_id": "p004",
+      "source_quote": "入选教育部“长江学者”特岗教授，获批教育部“双带头人”工作室建设，湖北省“百人计划”，广东省杰出青年医学人才，中山大学“百人计划”引进人才、广东省抗击新冠肺炎疫情先进个人，广东好医生。",
+      "confidence": "high"
+    },
+    {
+      "id": "f010",
+      "fact": "2019年，肖非从斯坦福留学回来不久，来到新疆参加喀什专项教育培训班。",
+      "type": "人物经历事实",
+      "time": "2019年",
+      "subject": "肖非",
+      "object": "参加喀什专项教育培训班",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "需保留时间和事件语境",
+      "source_paragraph_id": "p005",
+      "source_quote": "2019年，从斯坦福留学回来不久的肖非来到新疆参加喀什专项教育培训班。",
+      "confidence": "high"
+    },
+    {
+      "id": "f011",
+      "fact": "2023年2月，肖非接到学校通知，被选派前往新疆喀什担任广东援疆医疗队队长及中山大学附属喀什医院第四任院长。",
+      "type": "人物经历事实",
+      "time": "2023年2月",
+      "subject": "肖非",
+      "object": "被选派赴新疆喀什任职",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "需保留“选派”和职务信息",
+      "source_paragraph_id": "p006",
+      "source_quote": "2023年2月，肖非接到学校通知，选派他前往新疆喀什担任广东援疆医疗队队长及中山大学附属喀什医院第四任院长。",
+      "confidence": "high"
+    },
+    {
+      "id": "f012",
+      "fact": "肖非父母支持他赴新疆工作，认为国家需要、中山大学信任。",
+      "type": "家庭支持引语",
+      "time": "2023年2月",
+      "subject": "肖非父母",
+      "object": "支持肖非赴疆",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "直接引语需保留语气",
+      "source_paragraph_id": "p006",
+      "source_quote": "“你在新疆做的事，比守在我们身边更有意义。中山大学信任你，国家需要你，你就去。别担心我们，我们绝不拖后腿！”",
+      "confidence": "high"
+    },
+    {
+      "id": "f013",
+      "fact": "2023年4月，肖非带领64名广东医生开始为期三年的援疆工作。",
+      "type": "团队事实",
+      "time": "2023年4月",
+      "subject": "肖非",
+      "object": "带领64名广东医生开始三年援疆工作",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "数字和周期需准确",
+      "source_paragraph_id": "p007",
+      "source_quote": "2023年4月，肖非作为中组部第十一批“组团式”援疆广东省医疗队队长、喀什地区第一人民医院院长，带领64名广东医生开始了为期三年的援疆工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "f014",
+      "fact": "喀什气候干燥、风沙频繁、冬季低温，部分区域海拔超过3000米。",
+      "type": "环境背景事实",
+      "time": "未注明",
+      "subject": "喀什",
+      "object": "自然环境条件",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "不可夸大为所有区域均超过3000米",
+      "source_paragraph_id": "p008",
+      "source_quote": "喀什，紧邻我国最大的沙漠塔克拉玛干沙漠，这里气候干燥，风沙频繁，冬季气温降至零下十度以下，部分区域海拔超过3000米，空气含氧量低。",
+      "confidence": "high"
+    },
+    {
+      "id": "f015",
+      "fact": "援疆医生日常诊疗尽职尽责，并利用下班时间培训本地医生，周末赴县乡义诊。",
+      "type": "工作行动事实",
+      "time": "援疆期间",
+      "subject": "援疆医生们",
+      "object": "诊疗、培训和义诊",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "需保留“常常”“周末”等原文语气",
+      "source_paragraph_id": "p008",
+      "source_quote": "每个人不仅日常诊疗尽职尽责，还常常利用下班时间主动为本地医生开展培训，周末一起奔赴县乡开展义诊。",
+      "confidence": "high"
+    },
+    {
+      "id": "f016",
+      "fact": "队员们通过翻译老师、学习常用维吾尔语、微笑耐心和肢体语言克服沟通差异。",
+      "type": "融入行动事实",
+      "time": "援疆期间",
+      "subject": "队员们",
+      "object": "构建沟通机制",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "不可简化为已完全无语言障碍",
+      "source_paragraph_id": "p009",
+      "source_quote": "一方面找到得力的翻译老师，成为工作中不可或缺的桥梁；另一方面，队员们也主动学习常用维吾尔语。",
+      "confidence": "high"
+    },
+    {
+      "id": "f017",
+      "fact": "广东援疆医疗队于2024年被党中央、国务院授予“全国民族团结进步模范集体”，喀地一院荣获“全国卫生健康系统先进单位”。",
+      "type": "团队荣誉事实",
+      "time": "2024年",
+      "subject": "广东援疆医疗队、喀地一院",
+      "object": "获得荣誉",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "荣誉名称必须原样复用",
+      "source_paragraph_id": "p010",
+      "source_quote": "肖非所在的广东援疆医疗队，也于2024年被党中央、国务院授予“全国民族团结进步模范集体”，喀地一院荣获“全国卫生健康系统先进单位”。",
+      "confidence": "high"
+    },
+    {
+      "id": "f018",
+      "fact": "肖非在医院开设“疑难重症院长门诊”，专门看最复杂的病。",
+      "type": "医疗服务事实",
+      "time": "援疆期间",
+      "subject": "肖非",
+      "object": "开设疑难重症院长门诊",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "“最复杂的病”为原文表述，复用需保留语境",
+      "source_paragraph_id": "p011",
+      "source_quote": "他自己在医院开设了“疑难重症院长门诊”，专门看最复杂的病。",
+      "confidence": "high"
+    },
+    {
+      "id": "f019",
+      "fact": "肖非带领广东医疗队走入乡镇和村落，开展大规模义诊、送药上门和健康科普。",
+      "type": "医疗服务事实",
+      "time": "援疆期间",
+      "subject": "肖非和广东医疗队",
+      "object": "开展基层医疗服务",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "行动范围和服务内容需准确",
+      "source_paragraph_id": "p012",
+      "source_quote": "肖非带着广东医疗队频繁走入乡镇和村落，开展大规模义诊、送药上门活动，把医院的优质资源送到群众家门口。",
+      "confidence": "high"
+    },
+    {
+      "id": "f020",
+      "fact": "团队推动“粤新光明行”“粤新消结行”“结石宝宝”救助计划和“全科医生培养计划”等惠民项目。",
+      "type": "项目事实",
+      "time": "援疆期间",
+      "subject": "广东援疆医疗队",
+      "object": "推动惠民项目",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "项目名称必须原样复用",
+      "source_paragraph_id": "p013",
+      "source_quote": "他们推动了一系列惠民项目，如“粤新光明行”、“粤新消结行”、“结石宝宝”救助计划以及“全科医生培养计划”等。",
+      "confidence": "high"
+    },
+    {
+      "id": "f021",
+      "fact": "团队已完成白内障复明手术超过3000例，免费治疗肺结核患者1500例，免费为227名结石患儿实施手术。",
+      "type": "数字成果事实",
+      "time": "截至原文发布时",
+      "subject": "广东援疆医疗队",
+      "object": "完成多项医疗救助数字成果",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "数字强断言必须有来源，不可泛化",
+      "source_paragraph_id": "p013",
+      "source_quote": "至今，团队已完成白内障复明手术超过3000例，免费治疗肺结核患者1500例，免费为227名结石患儿实施手术。",
+      "confidence": "high"
+    },
+    {
+      "id": "f022",
+      "fact": "团队引进5G远程手术机器人系统，已成功开展29台远程手术。",
+      "type": "科技医疗事实",
+      "time": "截至原文发布时",
+      "subject": "团队",
+      "object": "引进5G远程手术机器人系统并开展远程手术",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "数字和技术名称不可改写夸大",
+      "source_paragraph_id": "p014",
+      "source_quote": "引进了5G远程手术机器人系统，已成功开展29台远程手术。",
+      "confidence": "high"
+    },
+    {
+      "id": "f023",
+      "fact": "2024年7月26日，林天歆到新疆喀什看望患者，此前他用国产机器人远程为该患者手术。",
+      "type": "图片图注事实",
+      "time": "2024-07-26",
+      "subject": "林天歆",
+      "object": "看望远程手术患者",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "来自图注，需与图片语境同用",
+      "source_paragraph_id": "p014",
+      "source_image_id": "img015",
+      "source_quote": "2024年7月26日，中山大学副校长、附属第五医院院长林天歆教授到新疆喀什看望患者；此前，林天歆教授用国产机器人远程为她手术",
+      "confidence": "high"
+    },
+    {
+      "id": "f024",
+      "fact": "肖非强调援疆不仅要治好病人，更要把技术种在当地，留下一支“带不走的医疗队”。",
+      "type": "人物引语",
+      "time": "援疆期间",
+      "subject": "肖非",
+      "object": "阐释人才培养目标",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "引语可作为人才培养主题模板，但需注明来源",
+      "source_paragraph_id": "p015",
+      "source_quote": "我们来这里，不仅仅是为了治好一个个病人，更是要把真正的技术种在这片土地上，让它生根发芽。留下一支真正‘带不走的医疗队’，也是我们最想为新疆留下的财富。",
+      "confidence": "high"
+    },
+    {
+      "id": "f025",
+      "fact": "肖非秉承“输血”与“造血”并重理念，开设“院长科研门诊”，推动传帮带。",
+      "type": "人才培养事实",
+      "time": "援疆期间",
+      "subject": "肖非",
+      "object": "推动科研和传帮带",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "“输血/造血”比喻需保留帮扶语境",
+      "source_paragraph_id": "p015",
+      "source_quote": "秉承“输血”与“造血”并重的帮扶理念，肖非积极协调和争取广东省优质医疗资源，开设“院长科研门诊”，把医院的科研手把手带起来。",
+      "confidence": "high"
+    },
+    {
+      "id": "f026",
+      "fact": "喀地一院先后引进252名专家、36项新技术新项目，填补区域内技术空白22项。",
+      "type": "数字成果事实",
+      "time": "截至原文发布时",
+      "subject": "喀地一院",
+      "object": "引进专家和新技术新项目",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "数字强断言必须有来源，不可泛化",
+      "source_paragraph_id": "p016",
+      "source_quote": "喀地一院先后引进252名专家，引进新技术新项目36项，填补区域内技术空白22项。",
+      "confidence": "high"
+    },
+    {
+      "id": "f027",
+      "fact": "“广东名医进疆”工程组织专家团队140批、1213人次来喀开展手术、攻坚疑难重症、临床带教和学术交流。",
+      "type": "数字成果事实",
+      "time": "截至原文发布时",
+      "subject": "广东名医进疆工程",
+      "object": "组织专家团队赴喀",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "数字强断言必须有来源，不可泛化",
+      "source_paragraph_id": "p016",
+      "source_quote": "创新性实施“广东名医进疆”工程，组织专家团队140批、1213人次来喀主刀高难手术、攻克疑难重症、进行临床带教和学术交流。",
+      "confidence": "high"
+    },
+    {
+      "id": "f028",
+      "fact": "喀地一院已成为南疆最大的医疗人才培养基地，2024-2025连续两年住培结业考试合格率创历史新高。",
+      "type": "平台成果事实",
+      "time": "2024-2025",
+      "subject": "喀地一院",
+      "object": "成为医疗人才培养基地并创住培成绩新高",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "“南疆最大”“历史新高”属强断言，必须有来源",
+      "source_paragraph_id": "p017",
+      "source_quote": "如今，喀地一院已成为南疆最大的医疗人才培养基地，2024-2025连续两年医院住院医师规范化培训结业考试合格率创历史新高。",
+      "confidence": "high"
+    },
+    {
+      "id": "f029",
+      "fact": "文章称援疆专家指导下，本地年轻医生成长为业务骨干，实现从“输血”到“造血”的转变。",
+      "type": "人才培养事实",
+      "time": "援疆期间",
+      "subject": "本地年轻医生",
+      "object": "成长为业务骨干",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "属原文判断，应避免脱离援疆语境",
+      "source_paragraph_id": "p017",
+      "source_quote": "一批批本地年轻医生在援疆专家的指导下快速成长，成为科室的业务骨干，实现了从“输血”到“造血”的根本转变。",
+      "confidence": "high"
+    },
+    {
+      "id": "f030",
+      "fact": "肖非表示医疗援疆不仅是看病做手术，更是在书写“心贴心的民族团结”。",
+      "type": "价值引语",
+      "time": "援疆期间",
+      "subject": "肖非",
+      "object": "阐释医疗援疆价值",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "价值表达需保留人物来源",
+      "source_paragraph_id": "p019",
+      "source_quote": "肖非表示，医疗援疆不仅仅是看病做手术，更是在书写一种“心贴心的民族团结”。",
+      "confidence": "high"
+    },
+    {
+      "id": "f031",
+      "fact": "肖非认为广东医生带来的不仅是医术，更是带不走的能力与希望。",
+      "type": "价值引语",
+      "time": "援疆期间",
+      "subject": "肖非",
+      "object": "概括广东医生援疆价值",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "适合做结尾金句，但不可泛化为所有援助项目成果",
+      "source_paragraph_id": "p020",
+      "source_quote": "“广东医生带来的不仅是医术，更是一种带不走的能力与希望。当医生，一定要来一次新疆。”",
+      "confidence": "high"
+    }
+  ],
+  "structure": [
+    {
+      "section_id": "s001",
+      "title": "新闻入口",
+      "paragraphs": [
+        "p001",
+        "p002",
+        "p003"
+      ],
+      "function": "以总书记接见援疆干部代表和肖非在其中打开荣誉场景。"
+    },
+    {
+      "section_id": "s002",
+      "title": "人物定位",
+      "paragraphs": [
+        "p004"
+      ],
+      "function": "用履历说明肖非身份、专业背景和中大关联。"
+    },
+    {
+      "section_id": "s003",
+      "title": "援疆缘起",
+      "paragraphs": [
+        "p005",
+        "p006",
+        "p007"
+      ],
+      "function": "回到2019年初识新疆和2023年受学校选派，建立个人选择的情感根基。"
+    },
+    {
+      "section_id": "s004",
+      "title": "艰苦现场",
+      "paragraphs": [
+        "p008",
+        "p009",
+        "p010"
+      ],
+      "function": "写喀什自然环境、语言文化差异、团队融入和荣誉背书。"
+    },
+    {
+      "section_id": "s005",
+      "title": "服务成果",
+      "paragraphs": [
+        "p011",
+        "p012",
+        "p013",
+        "p014"
+      ],
+      "function": "从院长门诊、义诊送药、惠民项目、5G远程手术呈现医疗援疆成效。"
+    },
+    {
+      "section_id": "s006",
+      "title": "造血机制",
+      "paragraphs": [
+        "p015",
+        "p016",
+        "p017"
+      ],
+      "function": "强调传帮带、专家引进、技术项目和本地人才培养。"
+    },
+    {
+      "section_id": "s007",
+      "title": "价值收束",
+      "paragraphs": [
+        "p018",
+        "p019",
+        "p020"
+      ],
+      "function": "用生活化细节和肖非金句升华为民族团结和能力传递。"
+    }
+  ],
+  "paragraph_functions": [
+    {
+      "paragraph_id": "p001",
+      "summary": "习近平抵达乌鲁木齐，出席新疆成立70周年庆祝活动。",
+      "function_tags": [
+        "时政背景",
+        "新闻入口"
+      ],
+      "writing_method": "借权威事件建立新闻价值",
+      "reuse_value": "荣誉报道开篇"
+    },
+    {
+      "paragraph_id": "p002",
+      "summary": "援疆干部代表被接见，肖非在其中。",
+      "function_tags": [
+        "新闻主事实",
+        "人物关联"
+      ],
+      "writing_method": "从大场景切入中大人物",
+      "reuse_value": "学校人物关联"
+    },
+    {
+      "paragraph_id": "p003",
+      "summary": "肖非发表受接见感言。",
+      "function_tags": [
+        "人物引语",
+        "荣誉归属"
+      ],
+      "writing_method": "荣誉归属从个人转向团队和学校",
+      "reuse_value": "人物荣誉叙事"
+    },
+    {
+      "paragraph_id": "p004",
+      "summary": "肖非职务和荣誉履历。",
+      "function_tags": [
+        "人物档案"
+      ],
+      "writing_method": "密集列举身份、职务、荣誉",
+      "reuse_value": "人物背景卡"
+    },
+    {
+      "paragraph_id": "p005",
+      "summary": "回溯2019年初到新疆和“来干一干”的愿望。",
+      "function_tags": [
+        "缘起叙事",
+        "人物成长"
+      ],
+      "writing_method": "引语触发人生选择",
+      "reuse_value": "人物成长线"
+    },
+    {
+      "paragraph_id": "p006",
+      "summary": "2023年受学校选派，父母支持赴疆。",
+      "function_tags": [
+        "选择节点",
+        "家庭支持"
+      ],
+      "writing_method": "家国选择与家庭情感并置",
+      "reuse_value": "使命叙事"
+    },
+    {
+      "paragraph_id": "p007",
+      "summary": "2023年4月带领64名广东医生援疆三年。",
+      "function_tags": [
+        "团队出征",
+        "数字事实"
+      ],
+      "writing_method": "时间、身份、数字压实事实",
+      "reuse_value": "团队报道"
+    },
+    {
+      "paragraph_id": "p008",
+      "summary": "写喀什环境艰苦和队员诊疗培训义诊。",
+      "function_tags": [
+        "艰苦坚守",
+        "工作行动"
+      ],
+      "writing_method": "环境铺垫加行动列表",
+      "reuse_value": "援派工作叙事"
+    },
+    {
+      "paragraph_id": "p009",
+      "summary": "写语言文化融入和“来这一趟，值”。",
+      "function_tags": [
+        "融入叙事",
+        "民族团结"
+      ],
+      "writing_method": "细节语言和情感判断",
+      "reuse_value": "民族团结叙事"
+    },
+    {
+      "paragraph_id": "p010",
+      "summary": "团队和喀地一院获国家级荣誉。",
+      "function_tags": [
+        "荣誉背书"
+      ],
+      "writing_method": "组织荣誉证明工作价值",
+      "reuse_value": "成果背书"
+    },
+    {
+      "paragraph_id": "p011",
+      "summary": "医者初心、院长门诊和身份转变。",
+      "function_tags": [
+        "服务使命",
+        "医疗服务"
+      ],
+      "writing_method": "共同心愿到具体诊疗入口",
+      "reuse_value": "医疗服务叙事"
+    },
+    {
+      "paragraph_id": "p012",
+      "summary": "义诊、送药上门、健康科普。",
+      "function_tags": [
+        "群众服务"
+      ],
+      "writing_method": "“家门口”表达降低距离",
+      "reuse_value": "服务群众模板"
+    },
+    {
+      "paragraph_id": "p013",
+      "summary": "惠民项目和治疗数字成果。",
+      "function_tags": [
+        "成果量化",
+        "项目事实"
+      ],
+      "writing_method": "项目名和数字增强可信度",
+      "reuse_value": "成果事实库"
+    },
+    {
+      "paragraph_id": "p014",
+      "summary": "高难手术、新技术和5G远程手术。",
+      "function_tags": [
+        "技术赋能",
+        "医疗创新"
+      ],
+      "writing_method": "用科技案例表现医疗能力跃升",
+      "reuse_value": "科技医疗模板"
+    },
+    {
+      "paragraph_id": "p015",
+      "summary": "“带不走的医疗队”和输血造血并重。",
+      "function_tags": [
+        "人才培养主旨",
+        "造血帮扶"
+      ],
+      "writing_method": "金句化主题和机制解释",
+      "reuse_value": "造血帮扶模板"
+    },
+    {
+      "paragraph_id": "p016",
+      "summary": "专家、新技术、师带徒、广东名医进疆数字成果。",
+      "function_tags": [
+        "机制成果",
+        "数字成果"
+      ],
+      "writing_method": "多维数字铺陈规模",
+      "reuse_value": "平台建设报道"
+    },
+    {
+      "paragraph_id": "p017",
+      "summary": "南疆人才培养基地、本地医生成长。",
+      "function_tags": [
+        "可持续成果",
+        "人才培养"
+      ],
+      "writing_method": "从机构能力到本地人才",
+      "reuse_value": "长期主义收束"
+    },
+    {
+      "paragraph_id": "p018",
+      "summary": "九百多个日夜和人与土地的牵挂。",
+      "function_tags": [
+        "情感回望"
+      ],
+      "writing_method": "诗化排比、生活细节",
+      "reuse_value": "人物通讯结尾"
+    },
+    {
+      "paragraph_id": "p019",
+      "summary": "医疗援疆书写民族团结。",
+      "function_tags": [
+        "价值升华"
+      ],
+      "writing_method": "从医疗行为上升到民族团结",
+      "reuse_value": "价值提炼"
+    },
+    {
+      "paragraph_id": "p020",
+      "summary": "“不仅是医术，更是能力与希望”。",
+      "function_tags": [
+        "金句收束"
+      ],
+      "writing_method": "三段加粗制造记忆点",
+      "reuse_value": "结尾金句"
+    }
+  ],
+  "style": {
+    "labels": [
+      "庄重荣誉型",
+      "人物通讯型",
+      "家国叙事型",
+      "医疗成果型",
+      "情感升华型"
+    ],
+    "features": [
+      "先新闻事实，后人物履历，再回溯缘起与困难，最后以成果和金句收束。",
+      "新闻事实段较短，人物经历段中长，结尾诗化短句密集。",
+      "肖非、父母、价值金句均承担段落转折和情绪升温功能。",
+      "加粗用于章节标题、人物选择、价值判断、关键成果和结尾金句。"
+    ],
+    "style_metrics": {
+      "headline_emotion_level": 4,
+      "fact_density": "high",
+      "character_story_density": "high",
+      "quote_density": "high",
+      "medical_result_density": "high",
+      "history_density": "medium",
+      "value_sublimation_level": "high",
+      "average_paragraph_length": "medium-long",
+      "bold_usage": "section_title_key_quote_core_result_and_value_highlight",
+      "image_caption_dependency": "high",
+      "policy_context_level": "medium-high",
+      "emotional_closing_intensity": "high"
+    }
+  },
+  "value_narrative": {
+    "personal_level": "肖非从初识新疆、主动许愿，到受学校选派并长期扎根喀什，形成“个人选择回应国家需要”的人物线。",
+    "family_level": "父母支持把私人牵挂转化为家国支撑，增强人物选择的可信度和温度。",
+    "team_level": "荣誉被归属于广东援疆医疗队专家、中山大学和喀地一院共同体，避免个人英雄化过度。",
+    "school_level": "中山大学通过附属医院和医学力量服务国家战略、服务边疆群众。",
+    "national_level": "医疗援疆不只是技术支援，更是民族团结、健康中国和边疆治理能力建设。"
+  },
+  "visuals": [
+    {
+      "image_id": "cover",
+      "caption": "封面图",
+      "type": "封面",
+      "function": "建立人物与荣誉视觉入口",
+      "position": "元信息前"
+    },
+    {
+      "image_id": "img001",
+      "caption": "开场动图",
+      "type": "氛围图",
+      "function": "引入官微视觉节奏",
+      "position": "标题后"
+    },
+    {
+      "image_id": "img002",
+      "caption": "习近平抵达乌鲁木齐相关画面",
+      "type": "新闻背景图",
+      "function": "建立时政背景",
+      "position": "p001后"
+    },
+    {
+      "image_id": "img003",
+      "caption": "肖非在图第四排左边第二",
+      "type": "合影定位图",
+      "function": "证明肖非在场",
+      "position": "p002后"
+    },
+    {
+      "image_id": "img004",
+      "caption": "章节分隔图",
+      "type": "分隔图",
+      "function": "过渡到人物介绍",
+      "position": "p003后"
+    },
+    {
+      "image_id": "img005",
+      "caption": "肖非人物照",
+      "type": "人物图",
+      "function": "配合履历说明",
+      "position": "p004前后"
+    },
+    {
+      "image_id": "img006",
+      "caption": "肖非和父母的合影",
+      "type": "家庭图",
+      "function": "支撑家庭支持段落",
+      "position": "p006后"
+    },
+    {
+      "image_id": "img007",
+      "caption": "广东援疆医疗队相关照片",
+      "type": "团队图",
+      "function": "展示援疆队伍",
+      "position": "p007后"
+    },
+    {
+      "image_id": "img008",
+      "caption": "广东省援疆医疗队开展义诊",
+      "type": "服务图",
+      "function": "证明义诊行动",
+      "position": "p008后"
+    },
+    {
+      "image_id": "img009",
+      "caption": "2024年援疆医疗队庆祝元旦活动",
+      "type": "生活图",
+      "function": "呈现融入和团队氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img010",
+      "caption": "肖非作为代表领取全国民族团结进步模范集体奖项",
+      "type": "荣誉图",
+      "function": "证明团队荣誉",
+      "position": "p010后"
+    },
+    {
+      "image_id": "img011",
+      "caption": "肖非及医疗团队为新疆小朋友庆祝生日",
+      "type": "温情图",
+      "function": "呈现医患关系",
+      "position": "p011后"
+    },
+    {
+      "image_id": "img012",
+      "caption": "医疗队基层服务现场",
+      "type": "服务图",
+      "function": "支撑乡镇村落服务",
+      "position": "p012后"
+    },
+    {
+      "image_id": "img013",
+      "caption": "医疗援疆项目现场",
+      "type": "项目图",
+      "function": "支撑惠民项目成果",
+      "position": "p013后"
+    },
+    {
+      "image_id": "img014",
+      "caption": "远程手术相关照片之一",
+      "type": "技术图",
+      "function": "呈现远程医疗场景",
+      "position": "p014后"
+    },
+    {
+      "image_id": "img015",
+      "caption": "2024年7月26日，中山大学副校长、附属第五医院院长林天歆教授到新疆喀什看望患者；此前，林天歆教授用国产机器人远程为她手术",
+      "type": "图注事实图",
+      "function": "支撑国产机器人远程手术案例",
+      "position": "p014后"
+    },
+    {
+      "image_id": "img016",
+      "caption": "章节分隔图",
+      "type": "分隔图",
+      "function": "过渡到人才培养",
+      "position": "p015后"
+    },
+    {
+      "image_id": "img017",
+      "caption": "肖非向广东省党政代表团汇报援疆情况",
+      "type": "汇报图",
+      "function": "展示组织汇报场景",
+      "position": "p016后"
+    },
+    {
+      "image_id": "img018",
+      "caption": "启动“一带一路”国际全科医师培训",
+      "type": "项目图",
+      "function": "展示培训扩展",
+      "position": "p016后"
+    },
+    {
+      "image_id": "img019",
+      "caption": "本地医疗人才培养相关照片",
+      "type": "人才培养图",
+      "function": "支撑本地医生成长",
+      "position": "p017后"
+    },
+    {
+      "image_id": "img020",
+      "caption": "章节收束图",
+      "type": "收束图",
+      "function": "进入情感结尾",
+      "position": "p017后"
+    }
+  ],
+  "templates": {
+    "title_templates": [
+      {
+        "template": "[荣誉/高光时刻]！[学校/单位][身份人物]，[地域文化表达/口语赞叹]！",
+        "applicable_scenarios": [
+          "援疆援藏人物",
+          "国家级荣誉",
+          "重大接见",
+          "先进典型报道"
+        ],
+        "not_applicable_scenarios": [
+          "普通会议报道",
+          "负面事件",
+          "科研成果发布",
+          "招生宣传"
+        ]
+      }
+    ],
+    "opening_templates": [
+      {
+        "template": "[时间]，[重大背景事件]。[人物/团队]作为[身份]出现在[荣誉场景]中。",
+        "applicable_scenarios": [
+          "人物获奖",
+          "代表受表彰",
+          "重大活动出席",
+          "荣誉报道"
+        ],
+        "not_applicable_scenarios": [
+          "无明确新闻事件的人物软文",
+          "普通经验分享",
+          "纯成果发布",
+          "校园生活短讯"
+        ]
+      }
+    ],
+    "character_arc_templates": [
+      {
+        "template": "[初识地点/事业]时，[一句触动人物的话]埋下种子。几年后，[组织选派/国家需要]让这个愿望成为现实。",
+        "applicable_scenarios": [
+          "援疆援藏",
+          "支教支医",
+          "基层挂职",
+          "乡村振兴人物"
+        ],
+        "not_applicable_scenarios": [
+          "短期活动",
+          "一次性志愿服务",
+          "纯成果新闻",
+          "无人物成长线的通知"
+        ]
+      }
+    ],
+    "result_templates": [
+      {
+        "template": "他们推动[项目A]、[项目B]、[项目C]等，至今已完成[数字成果1]、[数字成果2]、[数字成果3]。",
+        "applicable_scenarios": [
+          "医疗帮扶",
+          "教育帮扶",
+          "科研平台建设",
+          "社会服务项目总结"
+        ],
+        "not_applicable_scenarios": [
+          "缺少可靠数字来源的宣传稿",
+          "情绪化倡议文",
+          "单次活动报道",
+          "人物访谈摘编"
+        ]
+      }
+    ],
+    "capacity_building_templates": [
+      {
+        "template": "不仅要[解决当下问题]，更要把[能力/技术/机制]留在当地，形成一支真正“带不走的[队伍/能力]”。",
+        "applicable_scenarios": [
+          "人才培养",
+          "基层帮扶",
+          "医疗援助",
+          "教育支援"
+        ],
+        "not_applicable_scenarios": [
+          "短期慰问",
+          "单次捐赠",
+          "没有本地能力建设的活动",
+          "普通会议报道"
+        ]
+      }
+    ]
+  },
+  "generation_constraints": {
+    "must_not_invent": [
+      "受到接见的时政背景",
+      "肖非具体职务",
+      "荣誉名称",
+      "援疆队伍人数",
+      "医疗项目名称",
+      "手术和治疗数字",
+      "专家引进数字",
+      "新技术新项目数字",
+      "南疆最大医疗人才培养基地",
+      "2024-2025连续两年住培结业考试合格率创历史新高"
+    ],
+    "strong_claims_require_source": [
+      "中组部第十一批“组团式”援疆广东省医疗队队长",
+      "全国民族团结进步模范集体",
+      "全国卫生健康系统先进单位",
+      "白内障复明手术超过3000例",
+      "免费治疗肺结核患者1500例",
+      "免费为227名结石患儿实施手术",
+      "已成功开展29台远程手术",
+      "引进252名专家",
+      "引进新技术新项目36项",
+      "填补区域内技术空白22项",
+      "组织专家团队140批、1213人次来喀",
+      "南疆最大的医疗人才培养基地",
+      "住培结业考试合格率创历史新高"
+    ],
+    "quote_handling": [
+      "肖非原话必须标注为人物引语，不可改写为客观事实。",
+      "父母原话只能用于家庭支持和家国选择语境。",
+      "“带不走的医疗队”“能力与希望”等金句可复用句式，但不能替换事实来源。"
+    ],
+    "scenario_boundaries": [
+      "“亚克西”等地域文化表达仅适合新疆、援疆、民族团结相关报道。",
+      "医疗援疆成果模板不可用于没有医疗事实和数字来源的普通人物稿。",
+      "涉及党和国家领导人活动的表述必须使用原文或官方权威来源，不得自由发挥。"
+    ],
+    "recommended_writer_use": [
+      "适合用于援疆援藏人物通讯、附属医院服务国家战略报道、先进典型人物长文、医疗帮扶成果总结。",
+      "生成同类文章时保留“新闻荣誉入口 + 人物缘起 + 艰苦现场 + 具体成果 + 造血机制 + 价值金句”的结构。",
+      "强断言数字和荣誉名称必须要求事实来源。"
+    ]
+  }
+}
