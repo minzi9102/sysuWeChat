@@ -1,0 +1,972 @@
+{
+  "article_id": "sysu_20251025_1843",
+  "title": "大学的音乐课长什么样？",
+  "publish_time": "2025-10-25 18:43",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": [
+    "教师人物类",
+    "教学竞赛类",
+    "美育课程类",
+    "课堂纪实类",
+    "艺术教育类",
+    "教学方法类"
+  ],
+  "keywords": [
+    "大学音乐课",
+    "李治",
+    "古典吉他",
+    "美育公选课",
+    "教师教学竞赛",
+    "个性化指导",
+    "西学中用",
+    "重奏",
+    "室内乐",
+    "音乐人文素养"
+  ],
+  "summary": "本文以中山大学第十三届教师教学竞赛文科组特等奖获得者李治为人物入口，通过吉他课堂、教学方法、学生反馈和美育公选课展示大学音乐课如何在技术训练、审美感知、协作能力和人文理解之间展开。",
+  "communication_goal": {
+    "surface_goal": "介绍李治老师的吉他课堂和教学竞赛获奖情况。",
+    "middle_goal": "展示中山大学美育课程、艺术学院专业教学和教师教学能力建设成果。",
+    "deep_goal": "传递大学教育不只传授技能，也培养审美、协作、理解和创造美的能力。",
+    "target_readers": [
+      "中大师生",
+      "校友",
+      "艺术教育关注者",
+      "对大学公选课感兴趣的读者",
+      "对美育课程感兴趣的读者"
+    ],
+    "school_image": [
+      "重视美育",
+      "尊重教学",
+      "课堂生动",
+      "教师专业",
+      "学生主动成长"
+    ]
+  },
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "中山大学每年组织一届教师教学竞赛和一届临床教师教学技能大赛。",
+      "type": "学校制度事实",
+      "time": "每年",
+      "subject": "中山大学",
+      "object": "组织教师教学竞赛和临床教师教学技能大赛",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "需保留“一届”频率表述",
+      "source_paragraph_id": "p001",
+      "source_quote": "中山大学每年组织一届教师教学竞赛、一届临床教师教学技能大赛。",
+      "confidence": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "教师教学竞赛旨在提升教师教学能力和水平，营造教书育人氛围。",
+      "type": "教学建设事实",
+      "time": "未注明",
+      "subject": "教师教学竞赛",
+      "object": "提升教师教学能力和水平",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "属学校工作表述，不宜夸大为唯一路径",
+      "source_paragraph_id": "p001",
+      "source_quote": "着力提升教师的教学能力和水平，积极营造教书育人的良好氛围。",
+      "confidence": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "李治在中山大学第十三届教师教学竞赛中荣获文科组特等奖。",
+      "type": "荣誉事实",
+      "time": "第十三届教师教学竞赛",
+      "subject": "李治",
+      "object": "荣获文科组特等奖",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "奖项名称必须准确",
+      "source_paragraph_id": "p002",
+      "source_quote": "在第十三届教师教学竞赛中，艺术学院李治老师荣获文科组特等奖。",
+      "confidence": "high"
+    },
+    {
+      "id": "f004",
+      "fact": "李治是音乐艺术博士，中山大学艺术学院古典吉他教师、硕士生导师。",
+      "type": "人物身份事实",
+      "time": "未注明",
+      "subject": "李治",
+      "object": "担任古典吉他教师和硕士生导师",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "职务与学位需准确",
+      "source_paragraph_id": "p003",
+      "source_quote": "李治，音乐艺术博士（D.M.A），中山大学艺术学院古典吉他教师、硕士生导师。",
+      "confidence": "high"
+    },
+    {
+      "id": "f005",
+      "fact": "李治担任中山大学吉他协会行政与业务指导教师。",
+      "type": "人物身份事实",
+      "time": "未注明",
+      "subject": "李治",
+      "object": "担任中山大学吉他协会行政与业务指导教师",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "不可改写为协会负责人",
+      "source_paragraph_id": "p003",
+      "source_quote": "中山大学吉他协会行政与业务指导教师。",
+      "confidence": "high"
+    },
+    {
+      "id": "f006",
+      "fact": "李治荣获广东省第二届高校美育教师教学基本功比赛音乐类一等奖。",
+      "type": "荣誉事实",
+      "time": "未注明",
+      "subject": "李治",
+      "object": "获得教学基本功比赛音乐类一等奖",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "奖项名称必须准确",
+      "source_paragraph_id": "p003",
+      "source_quote": "荣获广东省第二届高校美育教师教学基本功比赛音乐类一等奖。",
+      "confidence": "high"
+    },
+    {
+      "id": "f007",
+      "fact": "李治本学期承担五门课程教学任务。",
+      "type": "教学任务事实",
+      "time": "本学期",
+      "subject": "李治",
+      "object": "承担五门课程教学任务",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "“本学期”具有时间语境",
+      "source_paragraph_id": "p004",
+      "source_quote": "李治这学期承担了五门课程的教学任务。",
+      "confidence": "high"
+    },
+    {
+      "id": "f008",
+      "fact": "李治一对一专业主课带着5个学生，强调每个学生都需要个性化指导。",
+      "type": "教学方法事实",
+      "time": "本学期",
+      "subject": "李治",
+      "object": "开展一对一个性化指导",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "数字和引语需保留语境",
+      "source_paragraph_id": "p004",
+      "source_quote": "我现在带着5个学生，每一个学生都需要个性化指导。",
+      "confidence": "high"
+    },
+    {
+      "id": "f009",
+      "fact": "吉他专业演奏涉及指法、姿势、节奏、速度、力度、音色等十几个要素。",
+      "type": "专业知识事实",
+      "time": "未注明",
+      "subject": "吉他专业演奏",
+      "object": "涉及十几个演奏要素",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "专业要素不宜任意增删为完整清单",
+      "source_paragraph_id": "p005",
+      "source_quote": "演奏一首吉他专业曲目需要同时兼顾十几个要素，涉及指法、持琴姿势、节奏、速度、力度、音色、音量、消音、揉弦、触弦方式、触弦角度等等。",
+      "confidence": "high"
+    },
+    {
+      "id": "f010",
+      "fact": "李治将困难片段拆解为多个独立技术模块，帮助学生化繁为简、逐个击破。",
+      "type": "教学方法事实",
+      "time": "课堂教学中",
+      "subject": "李治",
+      "object": "拆解困难片段",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "可复用为教学方法模板",
+      "source_paragraph_id": "p005",
+      "source_quote": "将困难片段拆解为分解和弦、琶音、音阶、圆滑音、揉弦、消音、轮指等各个独立的技术模块，化繁为简、逐个击破。",
+      "confidence": "high"
+    },
+    {
+      "id": "f011",
+      "fact": "李治从7岁开始接触古典吉他，至原文发布时已有30年。",
+      "type": "人物经历事实",
+      "time": "截至2025-10-25",
+      "subject": "李治",
+      "object": "接触古典吉他30年",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "年限随时间变化，复用需带原文时间",
+      "source_paragraph_id": "p006",
+      "source_quote": "他从7岁开始接触古典吉他，到现在已经30年了。",
+      "confidence": "high"
+    },
+    {
+      "id": "f012",
+      "fact": "学生王一帆认为几乎每次上课都能学到新知识。",
+      "type": "学生反馈",
+      "time": "未注明",
+      "subject": "王一帆",
+      "object": "评价李治课堂",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "属学生主观评价，需保留人物来源",
+      "source_paragraph_id": "p007",
+      "source_quote": "几乎每次上课都能学到新知识。",
+      "confidence": "high"
+    },
+    {
+      "id": "f013",
+      "fact": "李治认为上课是“助人为乐”，并享受上课的感觉。",
+      "type": "人物引语",
+      "time": "未注明",
+      "subject": "李治",
+      "object": "表达教学动机",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "直接引语不可改成普遍评价",
+      "source_paragraph_id": "p008",
+      "source_quote": "上课对我来说是‘助人为乐’，我享受上课的感觉。",
+      "confidence": "high"
+    },
+    {
+      "id": "f014",
+      "fact": "李治在美国读博后更加坚定西学中用、师夷长技的决心。",
+      "type": "教学理念事实",
+      "time": "在美国读博后",
+      "subject": "李治",
+      "object": "形成西学中用教学理念",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "“师夷长技”为原文表述，需保留语境",
+      "source_paragraph_id": "p009",
+      "source_quote": "在美国读博的李治，接受了西方的教育理念之后，更加坚定了西学中用、师夷长技的决心。",
+      "confidence": "high"
+    },
+    {
+      "id": "f015",
+      "fact": "李治认为理解和表达音乐情境重要，但掌握技术也重要。",
+      "type": "教学理念引语",
+      "time": "未注明",
+      "subject": "李治",
+      "object": "阐释技术与审美关系",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "适合作为技术与审美平衡模板",
+      "source_paragraph_id": "p009",
+      "source_quote": "理解和表达音乐情境很重要，但掌握技术也很重要。",
+      "confidence": "high"
+    },
+    {
+      "id": "f016",
+      "fact": "李治编写教材《古典吉他演奏指南》，由中山大学出版社出版。",
+      "type": "教材事实",
+      "time": "未注明",
+      "subject": "李治",
+      "object": "编写并出版教材",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "教材名称和出版社需准确",
+      "source_paragraph_id": "p010",
+      "source_quote": "他还自己编写了一本教材《古典吉他演奏指南》，由中山大学出版社出版。",
+      "confidence": "high"
+    },
+    {
+      "id": "f017",
+      "fact": "李治课堂上仔细听学生演奏，纠正指法并示范演奏。",
+      "type": "课堂行动事实",
+      "time": "课堂教学中",
+      "subject": "李治",
+      "object": "听演奏、纠正指法、示范演奏",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "不可泛化为所有课程形式",
+      "source_paragraph_id": "p011",
+      "source_quote": "李治则总是仔细听学生的演奏，耐心地一点点纠正指法、示范演奏。",
+      "confidence": "high"
+    },
+    {
+      "id": "f018",
+      "fact": "李治采用独奏、齐奏、重奏等多样化授课方式，并结合自主学习、情境教学、翻转课堂。",
+      "type": "教学方法事实",
+      "time": "课堂教学中",
+      "subject": "李治",
+      "object": "采用多样化授课方式",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "方法清单需准确",
+      "source_paragraph_id": "p012",
+      "source_quote": "采用了独奏、齐奏、重奏等多样化的授课方式，并结合自主学习、情境教学、翻转课堂等手段。",
+      "confidence": "high"
+    },
+    {
+      "id": "f019",
+      "fact": "李治认为重奏是“弯道超车”的另一个途径。",
+      "type": "教学理念引语",
+      "time": "未注明",
+      "subject": "李治",
+      "object": "评价重奏教学价值",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "比喻需保留音乐教学语境",
+      "source_paragraph_id": "p013",
+      "source_quote": "重奏是我们弯道超车的另一个途径。",
+      "confidence": "high"
+    },
+    {
+      "id": "f020",
+      "fact": "中山大学开设室内乐课，包含“吉他+小提琴、长笛、手风琴”等组合。",
+      "type": "课程事实",
+      "time": "未注明",
+      "subject": "中山大学",
+      "object": "开设室内乐课",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "组合示例不可写成完整清单",
+      "source_paragraph_id": "p014",
+      "source_quote": "中山大学还开设有室内乐课，会有不同乐器的组合，比如“吉他+小提琴、长笛、手风琴”等等。",
+      "confidence": "high"
+    },
+    {
+      "id": "f021",
+      "fact": "李治学生曾获2025上海国际吉他艺术周重奏组第三名等竞赛成绩。",
+      "type": "学生成果事实",
+      "time": "2023至2025年",
+      "subject": "李治的学生",
+      "object": "获得重奏和室内乐竞赛成绩",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "奖项和年份需逐项核对",
+      "source_paragraph_id": "p015",
+      "source_quote": "曾获得2025上海国际吉他艺术周重奏组第三名、2023年第十一届西贝柳斯国际器乐大赛二等奖、第九届香港国际室内乐大赛二等奖等。",
+      "confidence": "high"
+    },
+    {
+      "id": "f022",
+      "fact": "刘硕博认为自己在音乐素养上从“演奏者”延伸向“倾听者”和“协作者”。",
+      "type": "学生反馈",
+      "time": "未注明",
+      "subject": "刘硕博",
+      "object": "评价重奏学习收获",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "主观评价需保留人物来源",
+      "source_paragraph_id": "p016",
+      "source_quote": "在音乐素养上，我从‘演奏者’延伸向了‘倾听者’和‘协作者’。",
+      "confidence": "high"
+    },
+    {
+      "id": "f023",
+      "fact": "李治希望学生学会协作、良性竞争，在沟通交流中共同进步。",
+      "type": "育人目标事实",
+      "time": "未注明",
+      "subject": "李治",
+      "object": "培养学生协作和良性竞争",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "可复用为课堂育人目标",
+      "source_paragraph_id": "p016",
+      "source_quote": "他希望学生学会协作，学会良性竞争，在沟通交流中共同进步。",
+      "confidence": "high"
+    },
+    {
+      "id": "f024",
+      "fact": "李治认为高年级和低年级共同上专业小组课可以彼此促进和帮助。",
+      "type": "教学组织事实",
+      "time": "课堂教学中",
+      "subject": "不同年级学生",
+      "object": "彼此促进和帮助",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "需保留“专业小组课”语境",
+      "source_paragraph_id": "p018",
+      "source_quote": "两个群体会彼此促进和帮助。",
+      "confidence": "high"
+    },
+    {
+      "id": "f025",
+      "fact": "李治希望学生在课堂中收获音乐人文素养提升。",
+      "type": "美育目标事实",
+      "time": "课堂教学中",
+      "subject": "李治",
+      "object": "提升学生音乐人文素养",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "不应简化为只训练技术",
+      "source_paragraph_id": "p019",
+      "source_quote": "李治还希望学生在他的课堂能收获音乐人文素养的提升。",
+      "confidence": "high"
+    },
+    {
+      "id": "f026",
+      "fact": "徐滢认为李治把古典音乐与当下连接，将音符变成“可感知的生活”。",
+      "type": "学生反馈",
+      "time": "未注明",
+      "subject": "徐滢",
+      "object": "评价李治课堂",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "直接评价需保留学生来源",
+      "source_paragraph_id": "p020",
+      "source_quote": "建立起古典音乐与当下的连接，讲音乐中的情感和故事，将音符变成‘可感知的生活’。",
+      "confidence": "high"
+    },
+    {
+      "id": "f027",
+      "fact": "李治最爱的课程是《多元风格下的吉他音乐导赏》美育公选课。",
+      "type": "课程偏好事实",
+      "time": "未注明",
+      "subject": "李治",
+      "object": "最爱美育公选课",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "属人物自述偏好",
+      "source_paragraph_id": "p021",
+      "source_quote": "各种课程里，李治最爱的还是《多元风格下的吉他音乐导赏》美育公选课。",
+      "confidence": "high"
+    },
+    {
+      "id": "f028",
+      "fact": "李治会把吉他与电影、动漫、指弹吉他、电吉他等学生感兴趣的信息融入课堂。",
+      "type": "教学内容事实",
+      "time": "备课过程中",
+      "subject": "李治",
+      "object": "融入学生感兴趣的信息",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "适用于美育公选课内容设计",
+      "source_paragraph_id": "p022",
+      "source_quote": "吉他和电影的结合，和动漫的结合，或者是指弹吉他、电吉他等内容，李治会在备课过程中搜集并了解很多学生会感兴趣的信息，然后融入到讲课内容中。",
+      "confidence": "high"
+    },
+    {
+      "id": "f029",
+      "fact": "李治认为音乐很美好，希望学生欣赏、享受并共同创造更多美。",
+      "type": "价值引语",
+      "time": "未注明",
+      "subject": "李治",
+      "object": "阐释美育初心",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "适合作为美育结尾金句",
+      "source_paragraph_id": "p023",
+      "source_quote": "音乐是很美好的，希望学生能欣赏和享受这份美好，并学会一起创造更多的美。",
+      "confidence": "high"
+    }
+  ],
+  "structure": [
+    {
+      "section_id": "s001",
+      "title": "教学竞赛导入",
+      "paragraphs": [
+        "p001",
+        "p002"
+      ],
+      "function": "以学校教师教学竞赛和李治获奖引出大学音乐课。"
+    },
+    {
+      "section_id": "s002",
+      "title": "人物与课堂画像",
+      "paragraphs": [
+        "p003",
+        "p004",
+        "p005",
+        "p006",
+        "p007",
+        "p008"
+      ],
+      "function": "说明李治身份、课程任务、个性化指导、学生反馈和教学动机。"
+    },
+    {
+      "section_id": "s003",
+      "title": "教学理念与方法",
+      "paragraphs": [
+        "p009",
+        "p010",
+        "p011",
+        "p012"
+      ],
+      "function": "展开西学中用、技术训练、教材建设和多样化授课方式。"
+    },
+    {
+      "section_id": "s004",
+      "title": "协作训练与课程成效",
+      "paragraphs": [
+        "p013",
+        "p014",
+        "p015",
+        "p016",
+        "p017",
+        "p018"
+      ],
+      "function": "通过重奏、室内乐、竞赛成绩和学生互助呈现课堂成效。"
+    },
+    {
+      "section_id": "s005",
+      "title": "美育升华",
+      "paragraphs": [
+        "p019",
+        "p020",
+        "p021",
+        "p022",
+        "p023"
+      ],
+      "function": "从人文素养、公选课兴趣内容和教师金句升华到发现美和创造美。"
+    }
+  ],
+  "paragraph_functions": [
+    {
+      "paragraph_id": "p001",
+      "summary": "教师教学竞赛制度和目的。",
+      "function_tags": [
+        "背景导入",
+        "教学建设"
+      ],
+      "writing_method": "从学校机制切入",
+      "reuse_value": "教学建设开头"
+    },
+    {
+      "paragraph_id": "p002",
+      "summary": "李治获文科组特等奖，引出吉他课堂。",
+      "function_tags": [
+        "人物入场",
+        "悬念设置"
+      ],
+      "writing_method": "提问制造阅读兴趣",
+      "reuse_value": "教师人物开场"
+    },
+    {
+      "paragraph_id": "p003",
+      "summary": "李治身份、职务和荣誉。",
+      "function_tags": [
+        "人物档案"
+      ],
+      "writing_method": "学位、职务、荣誉并列",
+      "reuse_value": "教师简介模板"
+    },
+    {
+      "paragraph_id": "p004",
+      "summary": "五门课程和一对一个性化指导。",
+      "function_tags": [
+        "教学负荷",
+        "个性化指导"
+      ],
+      "writing_method": "课程清单加引语",
+      "reuse_value": "课堂画像"
+    },
+    {
+      "paragraph_id": "p005",
+      "summary": "吉他技术要素和拆解方法。",
+      "function_tags": [
+        "方法说明",
+        "专业细节"
+      ],
+      "writing_method": "细节密集列举",
+      "reuse_value": "教学方法模板"
+    },
+    {
+      "paragraph_id": "p006",
+      "summary": "30年吉他经验和揉弦教学。",
+      "function_tags": [
+        "专业积累"
+      ],
+      "writing_method": "经历支撑课堂反应",
+      "reuse_value": "专业能力证明"
+    },
+    {
+      "paragraph_id": "p007",
+      "summary": "王一帆学生反馈。",
+      "function_tags": [
+        "学生评价"
+      ],
+      "writing_method": "学生视角证明教学效果",
+      "reuse_value": "口碑支撑"
+    },
+    {
+      "paragraph_id": "p008",
+      "summary": "李治讲述教学乐趣。",
+      "function_tags": [
+        "人物动机",
+        "教育初心"
+      ],
+      "writing_method": "引语凸显教育初心",
+      "reuse_value": "教师精神"
+    },
+    {
+      "paragraph_id": "p009",
+      "summary": "西学中用与技术重要性。",
+      "function_tags": [
+        "理念转折"
+      ],
+      "writing_method": "章节标题加价值判断",
+      "reuse_value": "教学理念"
+    },
+    {
+      "paragraph_id": "p010",
+      "summary": "教材编写和技术训练理念。",
+      "function_tags": [
+        "教材建设",
+        "课程建设"
+      ],
+      "writing_method": "中西结合、教材落地",
+      "reuse_value": "课程建设"
+    },
+    {
+      "paragraph_id": "p011",
+      "summary": "指法纠正和曲目讲解。",
+      "function_tags": [
+        "课堂现场"
+      ],
+      "writing_method": "案例化呈现教学",
+      "reuse_value": "课堂纪实"
+    },
+    {
+      "paragraph_id": "p012",
+      "summary": "多样化授课方式。",
+      "function_tags": [
+        "方法清单",
+        "教学设计"
+      ],
+      "writing_method": "教学法并列",
+      "reuse_value": "教学设计"
+    },
+    {
+      "paragraph_id": "p013",
+      "summary": "重奏价值。",
+      "function_tags": [
+        "理念深化",
+        "协作训练"
+      ],
+      "writing_method": "比喻解释协作训练",
+      "reuse_value": "协作教学"
+    },
+    {
+      "paragraph_id": "p014",
+      "summary": "室内乐课特色。",
+      "function_tags": [
+        "课程特色"
+      ],
+      "writing_method": "乐器组合举例",
+      "reuse_value": "学校课程亮点"
+    },
+    {
+      "paragraph_id": "p015",
+      "summary": "学生竞赛成果。",
+      "function_tags": [
+        "成效证明"
+      ],
+      "writing_method": "奖项列举",
+      "reuse_value": "成果段落"
+    },
+    {
+      "paragraph_id": "p016",
+      "summary": "学生从演奏者到协作者。",
+      "function_tags": [
+        "美育目标",
+        "能力成长"
+      ],
+      "writing_method": "学生自述",
+      "reuse_value": "能力成长"
+    },
+    {
+      "paragraph_id": "p017",
+      "summary": "课间学生交流。",
+      "function_tags": [
+        "课堂氛围"
+      ],
+      "writing_method": "对话式现场",
+      "reuse_value": "学生主体性"
+    },
+    {
+      "paragraph_id": "p018",
+      "summary": "不同年级互促。",
+      "function_tags": [
+        "组织机制"
+      ],
+      "writing_method": "教师解释",
+      "reuse_value": "小组课机制"
+    },
+    {
+      "paragraph_id": "p019",
+      "summary": "音乐人文素养。",
+      "function_tags": [
+        "育人目标"
+      ],
+      "writing_method": "技术之外拓展",
+      "reuse_value": "美育价值"
+    },
+    {
+      "paragraph_id": "p020",
+      "summary": "古典音乐与当下生活连接。",
+      "function_tags": [
+        "学生反馈",
+        "美育表达"
+      ],
+      "writing_method": "金句化评价",
+      "reuse_value": "美育表达"
+    },
+    {
+      "paragraph_id": "p021",
+      "summary": "美育公选课偏好。",
+      "function_tags": [
+        "课程选择"
+      ],
+      "writing_method": "教师自述",
+      "reuse_value": "公选课宣传"
+    },
+    {
+      "paragraph_id": "p022",
+      "summary": "融入电影、动漫等兴趣内容。",
+      "function_tags": [
+        "内容设计",
+        "兴趣导向"
+      ],
+      "writing_method": "兴趣导向",
+      "reuse_value": "美育课程设计"
+    },
+    {
+      "paragraph_id": "p023",
+      "summary": "音乐美好、创造更多美。",
+      "function_tags": [
+        "价值收束"
+      ],
+      "writing_method": "教师金句结尾",
+      "reuse_value": "结尾模板"
+    }
+  ],
+  "style": {
+    "labels": [
+      "温和探访型",
+      "教师人物型",
+      "课堂纪实型",
+      "美育升华型"
+    ],
+    "features": [
+      "先制度背景，再人物课堂，随后教学理念和学生反馈交替推进。",
+      "短句分行开篇，正文中长段解释教学方法，结尾回到柔和价值表达。",
+      "教师和学生引语共同构成课堂可信度。",
+      "加粗用于章节标题、教学金句、方法关键词、学生成长和美育价值。"
+    ],
+    "style_metrics": {
+      "headline_emotion_level": 2,
+      "fact_density": "medium-high",
+      "classroom_detail_density": "high",
+      "quote_density": "high",
+      "student_feedback_density": "high",
+      "teaching_method_density": "high",
+      "value_sublimation_level": "medium-high",
+      "average_paragraph_length": "medium",
+      "bold_usage": "section_title_key_quote_teaching_method_and_value_highlight",
+      "image_caption_dependency": "medium-high",
+      "campus_life_texture": "high",
+      "professional_term_density": "medium-high"
+    }
+  },
+  "value_narrative": {
+    "teacher_level": "李治被塑造成专业积累深、热爱课堂、愿意把复杂技能拆解给学生的教师。",
+    "student_level": "学生不只是学习演奏技巧，也学习倾听、协作、理解音乐和表达情感。",
+    "course_level": "专业课、室内乐课和美育公选课共同构成大学音乐教育的多层次图景。",
+    "school_level": "中山大学通过教学竞赛和美育课程建设，呈现重视教学质量与审美教育的形象。",
+    "aesthetic_level": "文章最终把音乐课提升为“欣赏美、享受美、创造美”的育人过程。"
+  },
+  "visuals": [
+    {
+      "image_id": "cover",
+      "caption": "封面图",
+      "type": "封面",
+      "function": "建立音乐课堂视觉入口",
+      "position": "元信息前"
+    },
+    {
+      "image_id": "img001",
+      "caption": "教师教学竞赛主题图",
+      "type": "导入图",
+      "function": "承接教学竞赛背景",
+      "position": "标题后"
+    },
+    {
+      "image_id": "img002",
+      "caption": "章节视觉图",
+      "type": "分隔图",
+      "function": "过渡到人物介绍",
+      "position": "p002后"
+    },
+    {
+      "image_id": "img003",
+      "caption": "李治在课间指导学生",
+      "type": "课堂图",
+      "function": "呈现一对一指导",
+      "position": "p005后"
+    },
+    {
+      "image_id": "img004",
+      "caption": "李治给学生上课",
+      "type": "课堂图",
+      "function": "支撑学生反馈和教学现场",
+      "position": "p007后"
+    },
+    {
+      "image_id": "img005",
+      "caption": "《古典吉他演奏指南》",
+      "type": "教材图",
+      "function": "证明教材建设",
+      "position": "p010后"
+    },
+    {
+      "image_id": "img006",
+      "caption": "李治纠正学生指法",
+      "type": "课堂图",
+      "function": "具象化技术指导",
+      "position": "p011后"
+    },
+    {
+      "image_id": "img007",
+      "caption": "李治指导学生重奏",
+      "type": "课堂图",
+      "function": "支撑重奏教学",
+      "position": "p012后"
+    },
+    {
+      "image_id": "img008",
+      "caption": "不同年级的学生间互相交流",
+      "type": "互动图",
+      "function": "呈现学生交流",
+      "position": "p017后"
+    },
+    {
+      "image_id": "img009",
+      "caption": "学生在课间自发练习",
+      "type": "练习图",
+      "function": "呈现学习主动性",
+      "position": "p020后"
+    },
+    {
+      "image_id": "img010",
+      "caption": "学生在课上轮流示范",
+      "type": "示范图",
+      "function": "呈现课堂参与",
+      "position": "p020后"
+    }
+  ],
+  "templates": {
+    "title_templates": [
+      {
+        "template": "大学的[课程/课堂/实验课]长什么样？",
+        "applicable_scenarios": [
+          "课程探访",
+          "课堂纪实",
+          "校园生活",
+          "美育课程介绍"
+        ],
+        "not_applicable_scenarios": [
+          "招生简章",
+          "重大科研成果",
+          "政策通知",
+          "严肃悼念"
+        ]
+      }
+    ],
+    "teacher_opening_templates": [
+      {
+        "template": "在[竞赛/评选/课程建设]中，[学院][教师]荣获[奖项]。[课程]是怎么样的？[教师]有哪些上课妙招？一起走进[课堂]。",
+        "applicable_scenarios": [
+          "教师获奖",
+          "教学竞赛",
+          "课程展示",
+          "名师课堂"
+        ],
+        "not_applicable_scenarios": [
+          "无明确人物和课堂现场的新闻",
+          "纯活动报道",
+          "政策通知",
+          "科研论文发布"
+        ]
+      }
+    ],
+    "teaching_method_templates": [
+      {
+        "template": "面对[复杂任务]，[教师]将其拆解为[模块A]、[模块B]、[模块C]等独立训练环节，帮助学生[学习效果]。",
+        "applicable_scenarios": [
+          "艺术教学",
+          "实验教学",
+          "医学技能训练",
+          "工程实践课程"
+        ],
+        "not_applicable_scenarios": [
+          "缺少课堂细节的宏观总结",
+          "单纯成果宣传",
+          "会议报道",
+          "招生通知"
+        ]
+      }
+    ],
+    "student_feedback_templates": [
+      {
+        "template": "“[学生原话]。”[学生身份]的[学生姓名]认为，[教师/课程]帮助自己[成长变化]。",
+        "applicable_scenarios": [
+          "课堂纪实",
+          "课程口碑",
+          "教学改革案例",
+          "人物通讯"
+        ],
+        "not_applicable_scenarios": [
+          "没有真实采访来源的生成任务",
+          "官方通知",
+          "纯政策解读",
+          "无学生体验材料的报道"
+        ]
+      }
+    ],
+    "aesthetic_ending_templates": [
+      {
+        "template": "对[教师]来说，[课程/学科]的初心很纯粹：[价值金句]。",
+        "applicable_scenarios": [
+          "美育课程",
+          "通识教育",
+          "人文艺术课堂",
+          "校园文化专题"
+        ],
+        "not_applicable_scenarios": [
+          "技术规范",
+          "考试通知",
+          "纯数据成果稿",
+          "突发事件报道"
+        ]
+      }
+    ]
+  },
+  "generation_constraints": {
+    "must_not_invent": [
+      "李治的学位和职务",
+      "教师教学竞赛奖项",
+      "广东省第二届高校美育教师教学基本功比赛音乐类一等奖",
+      "本学期五门课程",
+      "一对一专业主课5个学生",
+      "《古典吉他演奏指南》",
+      "中山大学出版社",
+      "学生竞赛获奖名称和年份",
+      "学生姓名和专业方向"
+    ],
+    "strong_claims_require_source": [
+      "中山大学每年组织一届教师教学竞赛",
+      "李治荣获第十三届教师教学竞赛文科组特等奖",
+      "从7岁开始接触古典吉他，到现在已经30年",
+      "2025上海国际吉他艺术周重奏组第三名",
+      "2023年第十一届西贝柳斯国际器乐大赛二等奖",
+      "第九届香港国际室内乐大赛二等奖"
+    ],
+    "quote_handling": [
+      "教师引语和学生引语必须区分来源。",
+      "学生反馈不可改写为学校官方结论。",
+      "“助人为乐”“弯道超车”“可感知的生活”等表达需保留原文语境。"
+    ],
+    "scenario_boundaries": [
+      "提问式标题适合课程探访，不适合政策通知或重大成果稿。",
+      "教学方法模板必须有课堂细节支撑。",
+      "美育结尾金句适合人文艺术课程，不适合安全提醒或招生简章。"
+    ],
+    "recommended_writer_use": [
+      "适合用于教师教学人物稿、课堂探访稿、美育课程介绍、教学竞赛获奖人物延展报道。",
+      "生成同类文章时保留“学校教学背景 + 获奖教师 + 课堂细节 + 教学理念 + 学生反馈 + 美育价值”的结构。",
+      "奖项、课程名、教材名、竞赛成绩等强事实必须有来源。"
+    ]
+  }
+}
