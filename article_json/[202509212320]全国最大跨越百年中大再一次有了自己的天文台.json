@@ -442,6 +442,18 @@
       "今昔并置",
       "价值升华"
     ],
+    "style_metrics": {
+      "headline_emotion_level": 4,
+      "fact_density": "high",
+      "history_density": "high",
+      "quote_density": "medium",
+      "value_sublimation_level": "high",
+      "average_paragraph_length": "medium-long",
+      "bold_usage": "core_fact_and_value_highlight",
+      "technical_detail_density": "high",
+      "timeline_usage": "dense",
+      "image_caption_dependency": "high"
+    },
     "not_reusable_phrases": [
       "我国口径最大的校内教学天文望远镜",
       "我国高校首座天文台",
