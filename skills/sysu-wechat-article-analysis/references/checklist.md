@@ -40,6 +40,16 @@ $missing.Count
 
 Expected: `0`.
 
+Interaction prompts must not be paragraph functions:
+
+```powershell
+@($j.paragraph_functions | Where-Object {
+  $_.display_text -match '左右滑动查看更多' -or $_.normalized_text -match '左右滑动查看更多' -or $_.function_tags -contains '交互提示'
+}).Count
+```
+
+Expected: `0`.
+
 ## Anchor Backlinks
 
 ```powershell
@@ -65,6 +75,34 @@ $j.image_stats.unique_image_urls -eq @($urls | Sort-Object -Unique).Count
 ```
 
 Expected: both `True`.
+
+## structural_notes
+
+When present, every structural note must include required fields:
+
+```powershell
+@($j.structural_notes | Where-Object { -not $_.text -or -not $_.note_type -or -not $_.position }).Count
+```
+
+Expected: `0`.
+
+All visual items must include a valid `caption_source`:
+
+```powershell
+@($j.visuals | Where-Object { $_.caption_source -notin @('original','inferred','structural') }).Count
+```
+
+Expected: `0`.
+
+All fact paragraph references must resolve to clean Markdown anchors:
+
+```powershell
+@($j.facts.source_paragraph_id | Where-Object {
+  $_ -and $clean -notmatch "<!--\s*$([regex]::Escape($_))\s*-->"
+}).Count
+```
+
+Expected: `0`.
 
 ## Unified Schema
 

@@ -52,6 +52,8 @@ Use `source_image_id` only when a fact is supported by an image caption. Keep `s
 
 `confidence` values: `high`, `medium`, `low`.
 
+`source_quote` may remove Markdown styling markers such as `**` and normalize excess whitespace. It must not change meaning, add missing details, or reorder source text in a way that weakens traceability.
+
 ## paragraph_functions[]
 
 Each paragraph object must include:
@@ -67,6 +69,23 @@ Each paragraph object must include:
 `display_text` preserves original WeChat layout rhythm: short lines, blank lines, bold markers, section headings, and quote placement.
 
 `normalized_text` preserves clean semantic text: merged short lines, corrected spacing, stable punctuation, and no reader noise.
+
+Interaction prompts and layout hints such as `左右滑动查看更多` are not body paragraphs. Keep them out of `paragraph_functions[]` and record them in `structural_notes[]`.
+
+## structural_notes[]
+
+Optional but required when retained clean Markdown contains interaction or layout notes that are not body paragraphs.
+
+Each structural note should include:
+
+- `id`
+- `note_type`
+- `text`
+- `position`
+- `related_image_ids`
+- `source_quote`
+
+Use `structural_notes[]` for carousel prompts, swipe hints, layout-only labels, or other retained structural information that should not train paragraph writing.
 
 ## style
 
@@ -124,9 +143,16 @@ Each visual item should include:
 
 - `image_id`
 - `caption`
+- `caption_source`
 - `type`
 - `function`
 - `position`
+
+`caption_source` values:
+
+- `original`: caption text appears in the source article.
+- `inferred`: caption is supplied by analysis to describe an uncaptained image.
+- `structural`: caption describes a decorative, divider, opening, closing, or interaction-only visual.
 
 Use this exact `image_stats` shape:
 

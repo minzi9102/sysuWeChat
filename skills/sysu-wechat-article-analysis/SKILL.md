@@ -45,8 +45,9 @@ Add anchors:
 - `<!-- img001 -->`, `<!-- img002 -->` before images retained in clean output.
 - `<!-- caption: ... -->` after images with real or structural captions.
 - `<!-- p001 -->`, `<!-- p002 -->` before analyzed body paragraphs.
+- `<!-- structural_note: ... -->` for retained interaction or layout notes such as `左右滑动查看更多`.
 
-Do not count metadata, cover, source/editor chain, recommendation blocks, or preview residue as body paragraphs.
+Do not count metadata, cover, source/editor chain, recommendation blocks, preview residue, or interaction prompts as body paragraphs. Interaction prompts must not appear in `paragraph_functions[]`; keep them in `structural_notes[]`.
 
 ## Analysis Document Rules
 
@@ -67,6 +68,8 @@ Cover these sections:
 
 Facts table must include source paragraph, source quote, and confidence.
 
+`source_quote` may remove Markdown styling markers such as `**` and normalize excess whitespace, but it must not change the meaning, invent missing details, or reorder text in a way that weakens traceability. If the quote is supported by an image caption, preserve the caption's original meaning and pair it with `source_image_id`.
+
 ## JSON Rules
 
 Use the stable fields in `references/schema.md`.
@@ -75,6 +78,8 @@ Critical requirements:
 
 - Every `facts[]` item must include `source_paragraph_id`, `source_quote`, and `confidence`.
 - Every `paragraph_functions[]` item must include `display_text` and `normalized_text`.
+- Do not place interaction prompts such as `左右滑动查看更多` in `paragraph_functions[]`; use top-level `structural_notes[]`.
+- Every `visuals[]` item must include `caption_source`: `original`, `inferred`, or `structural`.
 - Every template must include `applicable_scenarios` and `not_applicable_scenarios`.
 - Strong assertions must appear in `generation_constraints.strong_claims_require_source` and/or `type_specific_constraints`.
 - Do not invent facts, quotes, dates, awards, official statuses, image captions, or numbers.
