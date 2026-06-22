@@ -1,0 +1,640 @@
+{
+  "article_id": "sysu_20251020_2108",
+  "title": "科摩罗新生：我和父亲有着同一个母校",
+  "publish_time": "2025-10-20 21:08",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": [
+    "招生通知类",
+    "政策公告类",
+    "思想宣传类",
+    "校园风物类",
+    "科普服务类",
+    "国家战略类"
+  ],
+  "keywords": [
+    "科摩罗新生",
+    "我和父亲有着同一个母校",
+    "知识无国界",
+    "友谊跨山海",
+    "在这里",
+    "世界走进中大",
+    "中大走向世界",
+    "我们记录相遇",
+    "见证成长",
+    "书写全球中大人"
+  ],
+  "summary": "本文围绕“科摩罗新生：我和父亲有着同一个母校”展开，结合原文事实、现场内容和价值表达，呈现中山大学相关工作、人物或校园生活的传播重点。",
+  "communication_goal": {
+    "surface_goal": "提炼原文核心信息，帮助读者快速理解文章主题。",
+    "middle_goal": "呈现中山大学相关事实、人物、活动或服务的组织化表达。",
+    "deep_goal": "沉淀可复用的校园公众号写作结构和价值叙事方式。",
+    "target_readers": [
+      "中大师生",
+      "校友",
+      "考生及家长",
+      "关注中山大学的公众"
+    ],
+    "school_image": [
+      "开放包容",
+      "重视人才培养",
+      "服务社会",
+      "富有校园文化活力"
+    ]
+  },
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "知识无国界 友谊跨山海 在这里 世界走进中大 中大走向世界 我们记录相遇，见证成长 书写全球中大人 与世界相交、与时代相通的 无限可能 盛夏的校园里，临床医学新生Marwa第一次走进中山大学中山医学院。",
+      "type": "核心事实",
+      "time": "",
+      "subject": "中山大学",
+      "object": "知识无国界 友谊跨山海 在这里 世界走进中大 中大走向世界 我们记录相遇...",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "荣誉、典型案例、首批和比较性表述必须保留来源，不得泛化。",
+      "source_paragraph_id": "p001",
+      "source_quote": "知识无国界 友谊跨山海 在这里 世界走进中大 中大走向世界 我们记录相遇，见证成长 书写全球中大人 与世界相交、与时代相通的 无限可能 盛夏的校园里，临床医学新生Marwa第一次走进中山大学中山医学院。",
+      "confidence": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "父辈足迹 · 医学先驱 Marwa与中大的缘分，早在三十年前就已由父亲亲手埋下。",
+      "type": "核心事实",
+      "time": "",
+      "subject": "科摩罗新生：我和父亲有着同一个母校",
+      "object": "父辈足迹 · 医学先驱 Marwa与中大的缘分，早在三十年前就已由父亲亲...",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "复用时需回到原文核对语境。",
+      "source_paragraph_id": "p002",
+      "source_quote": "父辈足迹 · 医学先驱 Marwa与中大的缘分，早在三十年前就已由父亲亲手埋下。",
+      "confidence": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "“回国后，我发现很多病人患有神经系统疾病，而当时科摩罗没有神经科专科医生。",
+      "type": "核心事实",
+      "time": "",
+      "subject": "科摩罗新生：我和父亲有着同一个母校",
+      "object": "“回国后，我发现很多病人患有神经系统疾病，而当时科摩罗没有神经科专科医生...",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "复用时需回到原文核对语境。",
+      "source_paragraph_id": "p003",
+      "source_quote": "“回国后，我发现很多病人患有神经系统疾病，而当时科摩罗没有神经科专科医生。",
+      "confidence": "high"
+    },
+    {
+      "id": "f004",
+      "fact": "穆萨医生的进修证书 回国后，他在首都莫罗尼的中央医院 创立了神经内科门诊，成为该领域的开拓者。",
+      "type": "内容事实",
+      "time": "",
+      "subject": "科摩罗新生：我和父亲有着同一个母校",
+      "object": "穆萨医生的进修证书 回国后，他在首都莫罗尼的中央医院 创立了神经内科门诊...",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "复用时需回到原文核对语境。",
+      "source_paragraph_id": "p004",
+      "source_quote": "穆萨医生的进修证书 回国后，他在首都莫罗尼的中央医院 创立了神经内科门诊，成为该领域的开拓者。",
+      "confidence": "high"
+    },
+    {
+      "id": "f005",
+      "fact": "新生新程 · 医路启航 如今，接过父亲接力棒的Marwa，正在南校园开启属于自己的医学旅程。",
+      "type": "内容事实",
+      "time": "",
+      "subject": "科摩罗新生：我和父亲有着同一个母校",
+      "object": "新生新程 · 医路启航 如今，接过父亲接力棒的Marwa，正在南校园开启...",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "复用时需回到原文核对语境。",
+      "source_paragraph_id": "p005",
+      "source_quote": "新生新程 · 医路启航 如今，接过父亲接力棒的Marwa，正在南校园开启属于自己的医学旅程。",
+      "confidence": "high"
+    },
+    {
+      "id": "f006",
+      "fact": "Marwa在新生报到当天 “同学们都非常热情友好，每当我遇到困难，他们总是乐意帮忙、耐心解答。",
+      "type": "内容事实",
+      "time": "",
+      "subject": "科摩罗新生：我和父亲有着同一个母校",
+      "object": "Marwa在新生报到当天 “同学们都非常热情友好，每当我遇到困难，他们总...",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "复用时需回到原文核对语境。",
+      "source_paragraph_id": "p006",
+      "source_quote": "Marwa在新生报到当天 “同学们都非常热情友好，每当我遇到困难，他们总是乐意帮忙、耐心解答。",
+      "confidence": "high"
+    },
+    {
+      "id": "f007",
+      "fact": "两代同心· 医脉相承 从父亲Dr. Msa Mliva在中山医进修神经内科，到女儿Marwa在这里攻读临床医学， 两代人的选择不仅是医学事业的传承，更是中科友谊的生动写照。",
+      "type": "内容事实",
+      "time": "",
+      "subject": "科摩罗新生：我和父亲有着同一个母校",
+      "object": "两代同心· 医脉相承 从父亲Dr. Msa Mliva在中山医进修神经内...",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "复用时需回到原文核对语境。",
+      "source_paragraph_id": "p007",
+      "source_quote": "两代同心· 医脉相承 从父亲Dr. Msa Mliva在中山医进修神经内科，到女儿Marwa在这里攻读临床医学， 两代人的选择不仅是医学事业的传承，更是中科友谊的生动写照。",
+      "confidence": "high"
+    },
+    {
+      "id": "f008",
+      "fact": "Marwa和父亲的合照 ▼杨振宁：“我也可以说是中山大学的半个校友吧”。",
+      "type": "观点引语",
+      "time": "",
+      "subject": "中山大学",
+      "object": "Marwa和父亲的合照 ▼杨振宁：“我也可以说是中山大学的半个校友吧”",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "复用时需回到原文核对语境。",
+      "source_paragraph_id": "p008",
+      "source_quote": "Marwa和父亲的合照 ▼杨振宁：“我也可以说是中山大学的半个校友吧”",
+      "confidence": "high"
+    },
+    {
+      "id": "f009",
+      "fact": "▼ 关注粮食安全日：中大人努力把“中国人的饭碗”端得更稳。",
+      "type": "核心事实",
+      "time": "",
+      "subject": "科摩罗新生：我和父亲有着同一个母校",
+      "object": "▼ 关注粮食安全日：中大人努力把“中国人的饭碗”端得更稳",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "复用时需回到原文核对语境。",
+      "source_paragraph_id": "p009",
+      "source_quote": "▼ 关注粮食安全日：中大人努力把“中国人的饭碗”端得更稳",
+      "confidence": "high"
+    }
+  ],
+  "structure": [
+    {
+      "section": "开头",
+      "function": "主题导入",
+      "summary": "交代文章主题和核心对象。"
+    },
+    {
+      "section": "展开",
+      "function": "事实展开",
+      "summary": "围绕主题展开关键事实、人物或活动。"
+    },
+    {
+      "section": "支撑",
+      "function": "图文支撑",
+      "summary": "通过图文、数据或场景增强可信度。"
+    },
+    {
+      "section": "收束",
+      "function": "价值收束",
+      "summary": "以价值表达、提醒或行动号召完成收束。"
+    }
+  ],
+  "paragraph_functions": [
+    {
+      "paragraph_id": "p001",
+      "display_text": "知识无国界\n\n友谊跨山海\n\n在这里\n\n** 世界走进中大  **\n\n** 中大走向世界  **\n\n我们记录相遇，见证成长\n\n** 书写全球中大人  **\n\n** 与世界相交、与时代相通的  **\n\n** 无限可能  **\n\n盛夏的校园里，临床医学新生Marwa第一次走进中山大学中山医学院。阳光洒在百年建筑的红墙上，她想起父亲书架上那张泛黄的进修证书——1992年，同一个校园，同一个夏天，父亲Dr.\n\nMsa Mliva（穆萨·穆里瓦）也曾这样背着行囊，站在相同的起点。",
+      "normalized_text": "知识无国界 友谊跨山海 在这里 世界走进中大 中大走向世界 我们记录相遇，见证成长 书写全球中大人 与世界相交、与时代相通的 无限可能 盛夏的校园里，临床医学新生Marwa第一次走进中山大学中山医学院。阳光洒在百年建筑的红墙上，她想起父亲书架上那张泛黄的进修证书——1992年，同一个校园，同一个夏天，父亲Dr. Msa Mliva（穆萨·穆里瓦）也曾这样背着行囊，站在相同的起点。",
+      "summary": "知识无国界 友谊跨山海 在这里 世界走进中大 中大走向世界 我们记录相遇...",
+      "function_tags": [
+        "人物叙事"
+      ],
+      "writing_method": "以具体时间、数字或对象增强信息可信度。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p002",
+      "display_text": "** 父辈足迹 · 医学先驱  **\n\n** Marwa与中大的缘分，早在三十年前就已由父亲亲手埋下。  ** 穆萨医生（Dr. Msa\n\nMliva）是第一个留学中国的科摩罗人。1982年，他先赴北京语言文化大学学习汉语，随后进入广州中医药大学攻读本科，并于1989年毕业回国，成为  **\n\n科摩罗最早一批中西医结合的医生  ** 。",
+      "normalized_text": "父辈足迹 · 医学先驱 Marwa与中大的缘分，早在三十年前就已由父亲亲手埋下。 穆萨医生（Dr. Msa Mliva）是第一个留学中国的科摩罗人。1982年，他先赴北京语言文化大学学习汉语，随后进入广州中医药大学攻读本科，并于1989年毕业回国，成为 科摩罗最早一批中西医结合的医生。",
+      "summary": "父辈足迹 · 医学先驱 Marwa与中大的缘分，早在三十年前就已由父亲亲...",
+      "function_tags": [
+        "人物叙事"
+      ],
+      "writing_method": "以具体时间、数字或对象增强信息可信度。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p003",
+      "display_text": "“回国后，我发现很多病人患有神经系统疾病，而当时科摩罗没有神经科专科医生。”穆萨医生回忆道。为了精进医术，他于1992年再次回到中国，  **\n\n进入中山医科大学第一附属医院神经内科进修  ** ，直至1995年。  ** 那一纸进修证书，见证了他从中医毕业生到神经专科医生的蜕变。  **",
+      "normalized_text": "“回国后，我发现很多病人患有神经系统疾病，而当时科摩罗没有神经科专科医生。”穆萨医生回忆道。为了精进医术，他于1992年再次回到中国， 进入中山医科大学第一附属医院神经内科进修，直至1995年。 那一纸进修证书，见证了他从中医毕业生到神经专科医生的蜕变。",
+      "summary": "“回国后，我发现很多病人患有神经系统疾病，而当时科摩罗没有神经科专科医生...",
+      "function_tags": [
+        "内容推进"
+      ],
+      "writing_method": "以具体时间、数字或对象增强信息可信度。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p004",
+      "display_text": "穆萨医生的进修证书\n\n回国后，他在首都莫罗尼的中央医院  ** 创立了神经内科门诊，成为该领域的开拓者  ** 。2000年，因在公共卫生领域的卓越表现，他被总统任命为  **\n\n科摩罗卫生部卫生总局局长  ** 。此后，他进入世界卫生组织非洲公共卫生学院攻读硕士，并于2010年起担任  ** 世卫组织国家卫生系统与服务国家专业官员\n\n** 。如今，他不仅是世卫组织驻科摩罗的代表，也是科摩罗-中国友好协会的会长，  ** 持续推动两国在医疗与文化领域的交流  ** 。",
+      "normalized_text": "穆萨医生的进修证书 回国后，他在首都莫罗尼的中央医院 创立了神经内科门诊，成为该领域的开拓者。2000年，因在公共卫生领域的卓越表现，他被总统任命为 科摩罗卫生部卫生总局局长。此后，他进入世界卫生组织非洲公共卫生学院攻读硕士，并于2010年起担任 世卫组织国家卫生系统与服务国家专业官员。如今，他不仅是世卫组织驻科摩罗的代表，也是科摩罗-中国友好协会的会长， 持续推动两国在医疗与文化领域的交流。",
+      "summary": "穆萨医生的进修证书 回国后，他在首都莫罗尼的中央医院 创立了神经内科门诊...",
+      "function_tags": [
+        "内容推进"
+      ],
+      "writing_method": "以具体时间、数字或对象增强信息可信度。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p005",
+      "display_text": "** 新生新程 · 医路启航  **\n\n如今，接过父亲接力棒的Marwa，正在南校园开启属于自己的医学旅程。开学一个月，  ** 她深深喜欢上这里的学习氛围。  **\n\n“我住在南校门附近，很喜欢骑自行车或步行去上课，沿途风景让人心情舒畅。”",
+      "normalized_text": "新生新程 · 医路启航 如今，接过父亲接力棒的Marwa，正在南校园开启属于自己的医学旅程。开学一个月， 她深深喜欢上这里的学习氛围。 “我住在南校门附近，很喜欢骑自行车或步行去上课，沿途风景让人心情舒畅。”",
+      "summary": "新生新程 · 医路启航 如今，接过父亲接力棒的Marwa，正在南校园开启...",
+      "function_tags": [
+        "人物叙事"
+      ],
+      "writing_method": "以具体时间、数字或对象增强信息可信度。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p006",
+      "display_text": "Marwa在新生报到当天\n\n“同学们都非常热情友好，每当我遇到困难，他们总是乐意帮忙、耐心解答。”  ** 谈及课程，她充满期待  **\n\n：“老师们敬业而优秀，对教学充满热情。”尽管语言障碍仍是她需要克服的挑战，但她说：“在中大，  ** 每个人都有一个共同的目标——  ** **\n\n立大志，做大事。  ** 这样的环境激励着我不断前进。”",
+      "normalized_text": "Marwa在新生报到当天 “同学们都非常热情友好，每当我遇到困难，他们总是乐意帮忙、耐心解答。” 谈及课程，她充满期待：“老师们敬业而优秀，对教学充满热情。”尽管语言障碍仍是她需要克服的挑战，但她说：“在中大， 每个人都有一个共同的目标—— 立大志，做大事。 这样的环境激励着我不断前进。”",
+      "summary": "Marwa在新生报到当天 “同学们都非常热情友好，每当我遇到困难，他们总...",
+      "function_tags": [
+        "人物叙事"
+      ],
+      "writing_method": "用引语或金句增强现场感和传播记忆。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p007",
+      "display_text": "** 两代同心· 医脉相承  **\n\n从父亲Dr. Msa Mliva在中山医进修神经内科，到女儿Marwa在这里攻读临床医学，  **\n\n两代人的选择不仅是医学事业的传承，更是中科友谊的生动写照。  **\n\n“我爸爸常说，中大是他医学道路上的重要一站。”Marwa说，“如今走在校园里，我能感受到他当年的足迹。我希望我也能像他一样，学成后为世界的医疗事业贡献力量。”\n\n三十年前，父亲在这里习得医术，回国开创神经内科先河；三十年后，女儿在这里追逐梦想，续写中大与科摩罗的情缘。在这个全球化的时代，  **\n\n中山大学不仅是知识的殿堂，更是连接不同文化与世代梦想的桥梁。  ** 一如Marwa所说：“在这里，  **\n\n我不仅学习医学，也在书写我和中山大学、和中国的新故事。  ** ”",
+      "normalized_text": "两代同心· 医脉相承 从父亲Dr. Msa Mliva在中山医进修神经内科，到女儿Marwa在这里攻读临床医学， 两代人的选择不仅是医学事业的传承，更是中科友谊的生动写照。 “我爸爸常说，中大是他医学道路上的重要一站。”Marwa说，“如今走在校园里，我能感受到他当年的足迹。我希望我也能像他一样，学成后为世界的医疗事业贡献力量。” 三十年前，父亲在这里习得医术，回国开创神经内科先河；三十年后，女儿在这里追逐梦想，续写中大与科摩罗的情缘。在这个全球化的时代， 中山大学不仅是知识的殿堂，更是连接不同文化与世代梦想的桥梁。 一如Marwa所说：“在这里， 我不仅学习医学，也在书写我和中山大学、和中国的新故事。 ”",
+      "summary": "两代同心· 医脉相承 从父亲Dr. Msa Mliva在中山医进修神经内...",
+      "function_tags": [
+        "人物叙事"
+      ],
+      "writing_method": "以具体时间、数字或对象增强信息可信度。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p008",
+      "display_text": "Marwa和父亲的合照\n\n** ▼杨振宁：“我也可以说是中山大学的半个校友吧”  **",
+      "normalized_text": "Marwa和父亲的合照 ▼杨振宁：“我也可以说是中山大学的半个校友吧”",
+      "summary": "Marwa和父亲的合照 ▼杨振宁：“我也可以说是中山大学的半个校友吧”",
+      "function_tags": [
+        "人物叙事"
+      ],
+      "writing_method": "用引语或金句增强现场感和传播记忆。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p009",
+      "display_text": "** ▼  关注粮食安全日：中大人努力把“中国人的饭碗”端得更稳  **",
+      "normalized_text": "▼ 关注粮食安全日：中大人努力把“中国人的饭碗”端得更稳",
+      "summary": "▼ 关注粮食安全日：中大人努力把“中国人的饭碗”端得更稳",
+      "function_tags": [
+        "主题阐释",
+        "行动号召"
+      ],
+      "writing_method": "以具体时间、数字或对象增强信息可信度。",
+      "reuse_value": "高"
+    }
+  ],
+  "structural_notes": [],
+  "style": {
+    "labels": [
+      "招生通知类",
+      "政策公告类",
+      "思想宣传类",
+      "校园风物类"
+    ],
+    "tone": "稳健、清晰、具有校园公众号传播感",
+    "sentence_features": [
+      "短句分行适配移动端阅读",
+      "事实段落与情绪表达交替推进",
+      "标题和小标题承担导读功能"
+    ],
+    "layout_features": [
+      "图文穿插",
+      "段落锚点清晰",
+      "来源编辑链保留"
+    ],
+    "common_phrases": [
+      "中山大学",
+      "中大",
+      "欢迎关注",
+      "共同见证"
+    ],
+    "rhetorical_devices": [
+      "设问",
+      "排比",
+      "图文证明",
+      "价值收束"
+    ],
+    "style_metrics": {
+      "headline_emotion_level": 3,
+      "fact_density": "high",
+      "quote_density": "medium",
+      "value_sublimation_level": "medium",
+      "average_paragraph_length": "short-medium",
+      "bold_usage": "key_information_highlight",
+      "image_caption_dependency": "medium"
+    },
+    "reusable_phrases": [
+      "围绕主题展开事实",
+      "以图文呈现现场",
+      "在结尾完成价值收束"
+    ],
+    "not_reusable_phrases": []
+  },
+  "value_narrative": {
+    "themes": [
+      "科摩罗新生",
+      "我和父亲有着同一个母校",
+      "知识无国界",
+      "友谊跨山海",
+      "在这里",
+      "世界走进中大"
+    ],
+    "levels": {
+      "personal_level": "呈现个人体验、成长或行动。",
+      "team_level": "呈现团队、院系或部门协同。",
+      "course_level": "",
+      "school_level": "塑造中山大学重视育人、科研、文化和社会服务的形象。",
+      "national_level": ""
+    },
+    "transition_method": "从具体事实进入校园价值，再以读者可感的表达收束。",
+    "school_image": [
+      "重视学生成长",
+      "注重学术与文化传播",
+      "积极服务社会"
+    ],
+    "ending_method": "以来源链、行动提示或情绪表达完成收尾。"
+  },
+  "visuals": [
+    {
+      "image_id": "cover",
+      "caption": "封面图",
+      "caption_source": "structural",
+      "type": "封面图",
+      "function": "建立文章主题和视觉入口",
+      "position": "标题前"
+    },
+    {
+      "image_id": "img001",
+      "caption": "正文图片1",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "正文前"
+    },
+    {
+      "image_id": "img002",
+      "caption": "正文图片2",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p001后"
+    },
+    {
+      "image_id": "img003",
+      "caption": "正文图片3",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p002后"
+    },
+    {
+      "image_id": "img004",
+      "caption": "正文图片4",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p003后"
+    },
+    {
+      "image_id": "img005",
+      "caption": "正文图片5",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p004后"
+    },
+    {
+      "image_id": "img006",
+      "caption": "正文图片6",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p005后"
+    },
+    {
+      "image_id": "img007",
+      "caption": "正文图片7",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p006后"
+    },
+    {
+      "image_id": "img008",
+      "caption": "正文图片8",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p007后"
+    },
+    {
+      "image_id": "img009",
+      "caption": "正文图片9",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p008后"
+    },
+    {
+      "image_id": "img010",
+      "caption": "正文图片10",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p008后"
+    },
+    {
+      "image_id": "img011",
+      "caption": "正文图片11",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img012",
+      "caption": "正文图片12",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img014",
+      "caption": "正文图片14",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img015",
+      "caption": "正文图片15",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img016",
+      "caption": "正文图片16",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img017",
+      "caption": "正文图片17",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img018",
+      "caption": "正文图片18",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img019",
+      "caption": "正文图片19",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img020",
+      "caption": "正文图片20",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img021",
+      "caption": "正文图片21",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img022",
+      "caption": "正文图片22",
+      "caption_source": "inferred",
+      "type": "正文图片",
+      "function": "辅助呈现正文事实和现场氛围",
+      "position": "p009后"
+    }
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 21,
+    "decorative_images": 0,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 22,
+    "unique_image_urls": 20
+  },
+  "templates": {
+    "title_templates": [
+      {
+        "template": "[主题/人物/事件]，中大这样讲述",
+        "applicable_scenarios": [
+          "校园新闻",
+          "人物报道",
+          "活动报道"
+        ],
+        "not_applicable_scenarios": [
+          "无事实支撑的营销文",
+          "纯私人表达"
+        ]
+      }
+    ],
+    "structure_templates": [
+      {
+        "template": "主题导入 -> 事实展开 -> 图文支撑 -> 价值收束",
+        "applicable_scenarios": [
+          "公众号推文",
+          "校园活动报道",
+          "人物故事"
+        ],
+        "not_applicable_scenarios": [
+          "正式公文",
+          "纯数据报表"
+        ]
+      }
+    ],
+    "opening_templates": [
+      {
+        "template": "以[时间/事件/问题]开篇，迅速点明[主题对象]。",
+        "applicable_scenarios": [
+          "新闻导语",
+          "服务提醒",
+          "人物故事"
+        ],
+        "not_applicable_scenarios": [
+          "无明确主题的散文"
+        ]
+      }
+    ],
+    "ending_templates": [
+      {
+        "template": "以[感谢/提醒/邀请/价值表达]收束，回到读者行动或学校形象。",
+        "applicable_scenarios": [
+          "校园传播",
+          "服务通知",
+          "文化推文"
+        ],
+        "not_applicable_scenarios": [
+          "需保持中立的统计材料"
+        ]
+      }
+    ]
+  },
+  "generation_constraints": {
+    "must_not_invent": [
+      "不得编造原文没有的日期、数字、地点、奖项、职务、报名条件或官方状态。"
+    ],
+    "strong_claims_require_source": [
+      "招生报名时间、报考代码、会议名称、获奖入选、全国/首批/最大等强声明必须来自原文。"
+    ],
+    "quote_handling": [
+      "source_quote 可以去除 Markdown 加粗标记和多余空白，但不得改变原意。"
+    ],
+    "scenario_boundaries": [
+      "仅适用于中山大学公众号推文分析，不替代正式通知或新闻通稿。"
+    ],
+    "recommended_writer_use": [
+      "用于提取结构、事实、风格和可复用写作模板。"
+    ],
+    "type_specific_constraints": [
+      {
+        "term": "精确数字和日期",
+        "constraint": "必须逐字核对原文，不得自行推算或补充。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "官方称谓和奖项",
+        "constraint": "必须保持原文表述，避免扩大荣誉范围。",
+        "category": "strong_claim"
+      }
+    ]
+  }
+}
