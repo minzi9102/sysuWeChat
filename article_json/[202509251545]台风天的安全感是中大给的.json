@@ -1,0 +1,1203 @@
+{
+  "article_id": "sysu_20250925_1545",
+  "title": "“台风天的安全感，是中大给的！”",
+  "publish_time": "2025-09-25 15:45",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": [
+    "台风复盘类",
+    "校园安全类",
+    "服务保障类",
+    "医疗守护类",
+    "应急科普类",
+    "共同体叙事类"
+  ],
+  "keywords": [
+    "台风桦加沙",
+    "校园恢复",
+    "全天候保障",
+    "风险隐患排查",
+    "后勤保障",
+    "官方应急避难场所",
+    "附属医院",
+    "台风宝宝",
+    "临时困难补助",
+    "线上授课",
+    "灾后出行安全"
+  ],
+  "summary": "本文以台风“桦加沙”离粤后的校园恢复为入口，集中呈现中山大学各部门、后勤、附属医院和师生在台风期间的保障行动，并以灾后出行提醒收束，塑造“安全感来自组织行动与共同守护”的校园形象。",
+  "communication_goal": {
+    "surface_goal": "通报台风过后校园秩序恢复情况，提醒师生继续注意灾后出行安全。",
+    "middle_goal": "展示学校各部门、后勤系统、附属医院和师生群体在台风中的具体行动。",
+    "deep_goal": "把“台风天的安全感”落到校园治理、医疗服务、学生资助、教学调整和社会服务上，强化中大可靠、温暖、负责的共同体形象。",
+    "target_readers": [
+      "中大师生",
+      "学生家长",
+      "校友",
+      "附属医院服务对象",
+      "珠海校区周边群众",
+      "关注校园应急保障的公众"
+    ],
+    "school_image": [
+      "有组织力",
+      "有服务力",
+      "有医疗担当",
+      "有师生互助温度",
+      "守护校园和社会"
+    ]
+  },
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "第18号台风“桦加沙”于9月24日、25日分别在阳江海陵岛沿海、广西北海市沿海登陆。",
+      "type": "气象事实",
+      "time": "2025-09-24至2025-09-25",
+      "subject": "第18号台风“桦加沙”",
+      "object": "登陆阳江海陵岛沿海和广西北海市沿海",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "台风路径和登陆信息需以官方发布为准",
+      "source_paragraph_id": "p001",
+      "source_quote": "根据广州发布相关信息，今年第18号台风“桦加沙”于9月24日、25日分别在阳江海陵岛沿海、广西北海市沿海登陆。",
+      "confidence": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "9月25日07时，台风“桦加沙”的中心已经离开广东，目前为热带风暴级，残余环流仍影响广东。",
+      "type": "气象事实",
+      "time": "2025-09-25 07:00",
+      "subject": "台风“桦加沙”",
+      "object": "中心离开广东但残余环流仍影响广东",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "时效性强，不可用于其他日期",
+      "source_paragraph_id": "p002",
+      "source_quote": "9月25日07时，台风“桦加沙”的中心已经离开广东，目前已是热带风暴级。“桦加沙”的残余环流仍影响广东。",
+      "confidence": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "风雨过后，中山大学校园教学、生活秩序有序恢复。",
+      "type": "校园恢复事实",
+      "time": "2025-09-25",
+      "subject": "中山大学校园",
+      "object": "教学、生活秩序有序恢复",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "不等同于风险完全解除",
+      "source_paragraph_id": "p003",
+      "source_quote": "风雨过后，校园之内，教学、生活秩序有序恢复。",
+      "confidence": "high"
+    },
+    {
+      "id": "f004",
+      "fact": "9月24日当天，学校各部门提前预案、积极行动，全天候保障台风天师生安全与校园稳定。",
+      "type": "应急保障事实",
+      "time": "2025-09-24",
+      "subject": "中山大学各部门",
+      "object": "保障师生安全与校园稳定",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "属综合表述，需有具体行动支撑",
+      "source_paragraph_id": "p005",
+      "source_quote": "学校各部门提前预案、积极行动，全天候保障台风天师生安全与校园稳定。",
+      "confidence": "high"
+    },
+    {
+      "id": "f005",
+      "fact": "总务部门组织力量对校园基础设施进行加固维护。",
+      "type": "部门行动",
+      "time": "2025-09-24",
+      "subject": "总务部门",
+      "object": "校园基础设施加固维护",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "不可扩展为全部设施风险已消除",
+      "source_paragraph_id": "p007",
+      "source_quote": "总务部门组织力量，对校园基础设施进行加固维护。",
+      "confidence": "high"
+    },
+    {
+      "id": "f006",
+      "fact": "各校区物业工作人员巡逻、清理倒伏树木。",
+      "type": "部门行动",
+      "time": "2025-09-24",
+      "subject": "各校区物业工作人员",
+      "object": "巡逻、清理倒伏树木",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "需保留“巡逻、清理”具体动作",
+      "source_paragraph_id": "p008",
+      "source_quote": "各校区物业工作人员巡逻、清理倒伏树木。",
+      "confidence": "high"
+    },
+    {
+      "id": "f007",
+      "fact": "保卫部门加强校园巡查，实验动物中心排查重点区域和设施设备。",
+      "type": "部门行动",
+      "time": "2025-09-24",
+      "subject": "保卫部门和实验动物中心",
+      "object": "校园巡查与重点区域、设施设备排查",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "不可泛化为所有实验平台均无风险",
+      "source_paragraph_id": "p009",
+      "source_quote": "保卫部门加强校园巡查；实验动物中心对重点区域、设施设备开展排查。",
+      "confidence": "high"
+    },
+    {
+      "id": "f008",
+      "fact": "学校食堂增加食材储备，确保正常供餐。",
+      "type": "后勤保障",
+      "time": "2025-09-24",
+      "subject": "学校食堂",
+      "object": "增加食材储备并正常供餐",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "仅适用于该次台风期间",
+      "source_paragraph_id": "p011",
+      "source_quote": "学校食堂增加了食材储备，确保正常供餐。",
+      "confidence": "high"
+    },
+    {
+      "id": "f009",
+      "fact": "珠海校区响应珠海市高新区应急部署，第一时间开放校区体育馆作为官方应急避难场所。",
+      "type": "社会服务事实",
+      "time": "2025-09-24",
+      "subject": "中山大学珠海校区",
+      "object": "开放校区体育馆作为官方应急避难场所",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "“官方应急避难场所”是强表述，需保留来源语境",
+      "source_paragraph_id": "p013",
+      "source_quote": "第一时间开放校区体育馆作为官方应急避难场所。",
+      "confidence": "high"
+    },
+    {
+      "id": "f010",
+      "fact": "中山大学各附属医院医护人员坚守岗位，急诊通道保持畅通，为有需要的市民提供医疗服务。",
+      "type": "医疗保障",
+      "time": "2025-09-24",
+      "subject": "中山大学各附属医院",
+      "object": "急诊通道畅通并提供医疗服务",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "医疗服务能力不可夸大为无限保障",
+      "source_paragraph_id": "p015",
+      "source_quote": "中山大学各附属医院医护人员坚守岗位，急诊通道保持畅通，随时为有需要的市民朋友提供医疗服务。",
+      "confidence": "high"
+    },
+    {
+      "id": "f011",
+      "fact": "中山大学附属第一医院急诊区70余名医护人员提前待命，23、24两日承接近800人次诊疗救治工作。",
+      "type": "医疗数据事实",
+      "time": "2025-09-23至2025-09-24",
+      "subject": "中山大学附属第一医院急诊区",
+      "object": "诊疗救治近800人次",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "精确人数必须保留来源和日期",
+      "source_paragraph_id": "p015",
+      "source_image_id": "img024",
+      "source_quote": "急诊区70余名医护人员提前待命、坚守岗位，23、24两日高效承接了近800人次的诊疗救治工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "f012",
+      "fact": "中山大学附属第一医院截至24日下午16时，产科已累计迎来18名新生儿。",
+      "type": "医疗数据事实",
+      "time": "2025-09-24 16:00",
+      "subject": "中山大学附属第一医院产科",
+      "object": "累计迎来18名新生儿",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "精确数字和时间必须保留",
+      "source_paragraph_id": "p017",
+      "source_image_id": "img031",
+      "source_quote": "截至24日下午16时，产科已累计迎来18名新生儿。",
+      "confidence": "high"
+    },
+    {
+      "id": "f013",
+      "fact": "党委学生工作部于9月24日发布临时困难补助申请通知，为受灾导致家庭经济困难的学子提供帮助。",
+      "type": "学生支持",
+      "time": "2025-09-24",
+      "subject": "党委学生工作部",
+      "object": "发布临时困难补助申请通知",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "资助条件和程序需以通知为准",
+      "source_paragraph_id": "p021",
+      "source_quote": "党委学生工作部于9月24日发布临时困难补助申请通知，明确资助程序和要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "f014",
+      "fact": "受台风影响期间，各院系迅速调整教学安排，部分课程转为线上授课。",
+      "type": "教学调整",
+      "time": "2025-09-24",
+      "subject": "各院系",
+      "object": "调整教学安排、部分课程线上授课",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "不可写成全部课程均转线上",
+      "source_paragraph_id": "p022",
+      "source_quote": "各院系迅速调整教学安排，部分课程转为线上授课。",
+      "confidence": "high"
+    },
+    {
+      "id": "f015",
+      "fact": "台风过后不等于危险解除，出行仍需谨防高空坠物。",
+      "type": "安全提醒",
+      "time": "",
+      "subject": "灾后出行",
+      "object": "谨防高空坠物",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "涉及人身安全，语气不能弱化",
+      "source_paragraph_id": "p025",
+      "source_quote": "台风过后，外出要谨防高空坠物，尤其不要在户外广告牌周边逗留。",
+      "confidence": "high"
+    },
+    {
+      "id": "f016",
+      "fact": "台风前被撤离人员最好等居住地宣布安全后再按安排返回。",
+      "type": "安全提醒",
+      "time": "",
+      "subject": "台风前被撤离人员",
+      "object": "等待安全宣布后返回",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "不可鼓励自行返回",
+      "source_paragraph_id": "p026",
+      "source_quote": "最好等居住地宣布安全后，再按照安排返回家园。",
+      "confidence": "high"
+    },
+    {
+      "id": "f017",
+      "fact": "台风过后不要盲目开车进山，需警惕山体滑坡、泥石流、河岸崩塌、路基被毁等隐患。",
+      "type": "安全提醒",
+      "time": "",
+      "subject": "灾后进山出行",
+      "object": "警惕地质灾害隐患",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "涉及灾害风险，不可淡化",
+      "source_paragraph_id": "p027",
+      "source_quote": "不要盲目开车进山，因为经过暴雨冲刷，有些地方会存在山体滑坡、泥石流、河岸崩塌、路基被毁等地质灾害隐患。",
+      "confidence": "high"
+    },
+    {
+      "id": "f018",
+      "fact": "台风过后应与掉落电线保持安全距离，并及时向电业部门报告。",
+      "type": "安全提醒",
+      "time": "",
+      "subject": "灾后掉落电线",
+      "object": "保持安全距离并报告",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "生命安全类建议必须严格保留",
+      "source_paragraph_id": "p028",
+      "source_quote": "无论带电与否，都应视为带电，与电线断落点保持足够的安全距离，并及时向电业部门报告。",
+      "confidence": "high"
+    }
+  ],
+  "structure": [
+    {
+      "section": "开头",
+      "function": "台风事实与风险状态",
+      "summary": "引用广州发布信息，说明台风登陆、离粤和残余环流影响。"
+    },
+    {
+      "section": "校园恢复",
+      "function": "情绪安抚",
+      "summary": "用教学生活秩序恢复和三校区放晴图片降低焦虑。"
+    },
+    {
+      "section": "校园保障",
+      "function": "部门行动展示",
+      "summary": "呈现总务、物业、保卫、实验动物中心等单位的加固、巡查和排查。"
+    },
+    {
+      "section": "生活与社会服务",
+      "function": "后勤保障和避难场所",
+      "summary": "写食堂供餐、学生体验和珠海校区体育馆开放。"
+    },
+    {
+      "section": "医疗守护",
+      "function": "附属医院坚守",
+      "summary": "集中展示急诊、手术、接诊、新生儿和社区避险点医疗保障。"
+    },
+    {
+      "section": "师生互助",
+      "function": "学生支持与教学保障",
+      "summary": "说明临时困难补助和部分课程线上授课。"
+    },
+    {
+      "section": "灾后提醒",
+      "function": "安全指南",
+      "summary": "提醒高空坠物、返家、进山、掉落电线等风险。"
+    },
+    {
+      "section": "结尾",
+      "function": "致谢与通知收口",
+      "summary": "感谢坚守岗位者，提醒关注天气预报与学校通知。"
+    }
+  ],
+  "paragraph_functions": [
+    {
+      "paragraph_id": "p001",
+      "display_text": "根据广州发布相关信息\n\n今年第18号台风“桦加沙”\n\n于9月24日、25日分别在\n\n阳江海陵岛沿海、广西北海市沿海登陆",
+      "normalized_text": "根据广州发布相关信息，今年第18号台风“桦加沙”于9月24日、25日分别在阳江海陵岛沿海、广西北海市沿海登陆。",
+      "summary": "台风登陆信息。",
+      "function_tags": [
+        "权威导入",
+        "气象事实"
+      ],
+      "writing_method": "引用外部发布信息建立事实起点。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p002",
+      "display_text": "**9月25日07时**\n\n**台风“桦加沙”的中心已经离开广东**\n\n目前已是热带风暴级\n\n“桦加沙”的残余环流仍影响广东",
+      "normalized_text": "**9月25日07时**，**台风“桦加沙”的中心已经离开广东**，目前已是热带风暴级。“桦加沙”的残余环流仍影响广东。",
+      "summary": "台风离粤但残余环流仍影响广东。",
+      "function_tags": [
+        "风险状态",
+        "气象更新"
+      ],
+      "writing_method": "精确时间加粗提示，既安抚又保留风险。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p003",
+      "display_text": "风雨过后，校园之内\n\n教学、生活秩序有序恢复",
+      "normalized_text": "风雨过后，校园之内，教学、生活秩序有序恢复。",
+      "summary": "校园秩序恢复。",
+      "function_tags": [
+        "情绪安抚",
+        "校园恢复"
+      ],
+      "writing_method": "风雨后转入恢复叙事。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p004",
+      "display_text": "今日清晨，广州、珠海、深圳\n\n各校区逐渐放晴",
+      "normalized_text": "今日清晨，广州、珠海、深圳各校区逐渐放晴。",
+      "summary": "三校区逐渐放晴。",
+      "function_tags": [
+        "视觉转场",
+        "情绪安抚"
+      ],
+      "writing_method": "多地并列强化校园整体性。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p005",
+      "display_text": "9月24日当天\n\n学校各部门  **提前预案、积极行动**\n\n全天候保障台风天师生安全与校园稳定",
+      "normalized_text": "9月24日当天，学校各部门**提前预案、积极行动**，全天候保障台风天师生安全与校园稳定。",
+      "summary": "各部门全天候保障。",
+      "function_tags": [
+        "应急保障总述"
+      ],
+      "writing_method": "加粗行动关键词，建立后文部门行动总纲。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p006",
+      "display_text": "**各部门协同应对，全面排查风险隐患**",
+      "normalized_text": "**各部门协同应对，全面排查风险隐患**",
+      "summary": "风险排查章节标题。",
+      "function_tags": [
+        "结构提示"
+      ],
+      "writing_method": "章节化进入部门行动。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p007",
+      "display_text": "**总务部门**组织力量\n\n对校园基础设施进行加固维护",
+      "normalized_text": "**总务部门**组织力量，对校园基础设施进行加固维护。",
+      "summary": "总务加固维护。",
+      "function_tags": [
+        "部门行动"
+      ],
+      "writing_method": "单部门单动作，便于图文对应。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p008",
+      "display_text": "各校区  **物业** **工作人员** 巡逻、清理倒伏树木",
+      "normalized_text": "各校区**物业****工作人员**巡逻、清理倒伏树木。",
+      "summary": "物业巡逻清树。",
+      "function_tags": [
+        "部门行动",
+        "现场支撑"
+      ],
+      "writing_method": "用现场图支撑劳动场景。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p009",
+      "display_text": "**保卫部门**加强校园巡查\n\n确保随时掌握校内实时情况\n\n**实验动物中心**对重点区域、设施设备开展排查\n\n确保师生科研实验顺利开展",
+      "normalized_text": "**保卫部门**加强校园巡查，确保随时掌握校内实时情况。**实验动物中心**对重点区域、设施设备开展排查，确保师生科研实验顺利开展。",
+      "summary": "保卫和实验动物中心排查。",
+      "function_tags": [
+        "部门协同",
+        "科研保障"
+      ],
+      "writing_method": "多主体并列，连接校园安全与科研秩序。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p010",
+      "display_text": "**后勤全天候保障，守护师生正常生活**",
+      "normalized_text": "**后勤全天候保障，守护师生正常生活**",
+      "summary": "后勤保障章节标题。",
+      "function_tags": [
+        "结构提示"
+      ],
+      "writing_method": "从校园安全转入生活保障。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p011",
+      "display_text": "台风期间\n\n后勤保障工作是重中之重\n\n学校食堂  **增加了食材储备**\n\n确保正常供餐",
+      "normalized_text": "台风期间，后勤保障工作是重中之重。学校食堂**增加了食材储备**，确保正常供餐。",
+      "summary": "食堂储备供餐。",
+      "function_tags": [
+        "后勤保障",
+        "生活服务"
+      ],
+      "writing_method": "先判断重要性再给具体动作。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p012",
+      "display_text": "“本来屯了一点零食打算度过台风天，\n\n后面看到群里同学说食堂还开着，\n\n非常惊喜和感动，可以吃热食！”",
+      "normalized_text": "“本来屯了一点零食打算度过台风天，后面看到群里同学说食堂还开着，非常惊喜和感动，可以吃热食！”",
+      "summary": "学生热食体验。",
+      "function_tags": [
+        "直接引语",
+        "情绪证明"
+      ],
+      "writing_method": "用学生口吻证明后勤保障的体感价值。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p013",
+      "display_text": "中山大学珠海校区积极响应\n\n珠海市高新区的应急部署\n\n第一时间开放校区体育馆\n\n作为  **官方应急避难场所**\n\n为周边群众筑起一座坚实的“安全港湾”",
+      "normalized_text": "中山大学珠海校区积极响应珠海市高新区的应急部署，第一时间开放校区体育馆作为**官方应急避难场所**，为周边群众筑起一座坚实的“安全港湾”。",
+      "summary": "珠海校区开放体育馆。",
+      "function_tags": [
+        "社会服务",
+        "应急保障"
+      ],
+      "writing_method": "用“安全港湾”将场所开放价值化。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p014",
+      "display_text": "**“台风天的安全感，是中大给的”**",
+      "normalized_text": "**“台风天的安全感，是中大给的”**",
+      "summary": "标题金句回扣。",
+      "function_tags": [
+        "情绪锚点"
+      ],
+      "writing_method": "复现标题形成传播记忆。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p015",
+      "display_text": "中山大学各附属医院\n\n医护人员坚守岗位\n\n急诊通道保持畅通\n\n**随时为有需要的市民朋友**\n\n**提供医疗服务**",
+      "normalized_text": "中山大学各附属医院医护人员坚守岗位，急诊通道保持畅通，**随时为有需要的市民朋友****提供医疗服务**。",
+      "summary": "附属医院坚守岗位。",
+      "function_tags": [
+        "医疗保障",
+        "社会服务"
+      ],
+      "writing_method": "总述后用图注列举多家医院事实。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p016",
+      "display_text": "左右滑动查看更多",
+      "normalized_text": "左右滑动查看更多",
+      "summary": "轮播提示。",
+      "function_tags": [
+        "交互提示"
+      ],
+      "writing_method": "保留原文图片轮播结构信息。",
+      "reuse_value": "低"
+    },
+    {
+      "paragraph_id": "p017",
+      "display_text": "抗击台风这天，温暖与希望也在悄然降临\n\n中山大学多家附属医院\n\n相继迎来了  **平安降生的“台风宝宝”**\n\n新生命的第一声啼哭\n\n见证了风雨中守护生命的坚定力量",
+      "normalized_text": "抗击台风这天，温暖与希望也在悄然降临。中山大学多家附属医院相继迎来了**平安降生的“台风宝宝”**，新生命的第一声啼哭见证了风雨中守护生命的坚定力量。",
+      "summary": "台风宝宝叙事。",
+      "function_tags": [
+        "生命叙事",
+        "医疗守护"
+      ],
+      "writing_method": "从医疗保障转入温暖故事。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p018",
+      "display_text": "中山大学附属第八医院落细落实\n\n医疗卫生服务和医疗救治工作\n\n及时发布服务信息\n\n扎实做好社区避险点医疗保障",
+      "normalized_text": "中山大学附属第八医院落细落实医疗卫生服务和医疗救治工作，及时发布服务信息，扎实做好社区避险点医疗保障。",
+      "summary": "附属八院社区避险点医疗保障。",
+      "function_tags": [
+        "医疗保障",
+        "社区服务"
+      ],
+      "writing_method": "用社康义诊补足基层服务维度。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p019",
+      "display_text": "**师生同心协力，应对“桦加沙”**",
+      "normalized_text": "**师生同心协力，应对“桦加沙”**",
+      "summary": "师生同心章节标题。",
+      "function_tags": [
+        "结构提示",
+        "共同体叙事"
+      ],
+      "writing_method": "转向校园共同体。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p020",
+      "display_text": "在台风防御工作中\n\n中大师生  **团结一心、互帮互助**",
+      "normalized_text": "在台风防御工作中，中大师生**团结一心、互帮互助**。",
+      "summary": "团结互助价值概括。",
+      "function_tags": [
+        "价值概括"
+      ],
+      "writing_method": "简短加粗共同体关键词。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p021",
+      "display_text": "党委学生工作部\n\n于9月24日发布临时困难补助申请通知\n\n明确资助程序和要求\n\n为受灾而导致家庭经济困难的学子\n\n第一时间提供帮助",
+      "normalized_text": "党委学生工作部于9月24日发布临时困难补助申请通知，明确资助程序和要求，为受灾而导致家庭经济困难的学子第一时间提供帮助。",
+      "summary": "临时困难补助。",
+      "function_tags": [
+        "学生支持",
+        "制度化关怀"
+      ],
+      "writing_method": "用正式通知体现关怀落实。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p022",
+      "display_text": "受台风影响期间\n\n各院系迅速调整教学安排\n\n部分课程转为线上授课",
+      "normalized_text": "受台风影响期间，各院系迅速调整教学安排，部分课程转为线上授课。",
+      "summary": "教学调整和线上授课。",
+      "function_tags": [
+        "教学保障"
+      ],
+      "writing_method": "说明秩序维护但保留“部分课程”边界。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p023",
+      "display_text": "**台风过后，出行一定要注意**",
+      "normalized_text": "**台风过后，出行一定要注意**",
+      "summary": "灾后出行标题。",
+      "function_tags": [
+        "安全提醒",
+        "结构提示"
+      ],
+      "writing_method": "从报道转操作指南。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p024",
+      "display_text": "台风过后  **≠**  危险解除\n\n大家出行时\n\n一定要注意以下事项",
+      "normalized_text": "台风过后**≠**危险解除。大家出行时一定要注意以下事项。",
+      "summary": "危险未解除提醒。",
+      "function_tags": [
+        "安全提醒"
+      ],
+      "writing_method": "符号化表达增强记忆。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p025",
+      "display_text": "台风过后，外出要谨防高空坠物，尤其不要在户外广告牌周边逗留，如发现户外存在高空坠物隐患，请赶快与应急管理部门联系。",
+      "normalized_text": "台风过后，外出要谨防高空坠物，尤其不要在户外广告牌周边逗留，如发现户外存在高空坠物隐患，请赶快与应急管理部门联系。",
+      "summary": "谨防高空坠物。",
+      "function_tags": [
+        "操作指南",
+        "灾后安全"
+      ],
+      "writing_method": "风险说明后给出联系部门。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p026",
+      "display_text": "台风前被撤离的人员不要急着回家查看受灾情况，最好等居住地宣布安全后，再按照安排返回家园。",
+      "normalized_text": "台风前被撤离的人员不要急着回家查看受灾情况，最好等居住地宣布安全后，再按照安排返回家园。",
+      "summary": "撤离人员返家提醒。",
+      "function_tags": [
+        "操作指南",
+        "灾后安全"
+      ],
+      "writing_method": "明确禁止急返，强调服从安排。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p027",
+      "display_text": "不要盲目开车进山，因为经过暴雨冲刷，有些地方会存在山体滑坡、泥石流、河岸崩塌、路基被毁等地质灾害隐患，非常危险。",
+      "normalized_text": "不要盲目开车进山，因为经过暴雨冲刷，有些地方会存在山体滑坡、泥石流、河岸崩塌、路基被毁等地质灾害隐患，非常危险。",
+      "summary": "进山风险提醒。",
+      "function_tags": [
+        "操作指南",
+        "地质灾害提醒"
+      ],
+      "writing_method": "列举灾害链条说明危险性。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p028",
+      "display_text": "走路时与路边掉落电线保持安全距离。台风过后，路上常常看见刮落电线。无论带电与否，都应视为带电，与电线断落点保持足够的安全距离，并及时向电业部门报告。",
+      "normalized_text": "走路时与路边掉落电线保持安全距离。台风过后，路上常常看见刮落电线。无论带电与否，都应视为带电，与电线断落点保持足够的安全距离，并及时向电业部门报告。",
+      "summary": "掉落电线提醒。",
+      "function_tags": [
+        "操作指南",
+        "生命安全"
+      ],
+      "writing_method": "用“无论带电与否”强化最保守安全原则。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p029",
+      "display_text": "中大人\n\n用责任和行动\n\n构筑起一道坚实的“防风墙”\n\n**感谢每一位坚守岗位的你们**",
+      "normalized_text": "中大人用责任和行动构筑起一道坚实的“防风墙”，**感谢每一位坚守岗位的你们**。",
+      "summary": "感谢坚守岗位者。",
+      "function_tags": [
+        "情感收束",
+        "价值升华"
+      ],
+      "writing_method": "用“防风墙”把行动凝结为共同体意象。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p030",
+      "display_text": "请大家持续关注天气预报与学校通知\n\n若需帮助请及时联系学校\n\n鸭鸭与你同在！",
+      "normalized_text": "请大家持续关注天气预报与学校通知，若需帮助请及时联系学校。鸭鸭与你同在！",
+      "summary": "关注预报与学校通知。",
+      "function_tags": [
+        "最终提醒",
+        "情绪陪伴"
+      ],
+      "writing_method": "官方通知收口，轻量化陪伴语气结束。",
+      "reuse_value": "高"
+    }
+  ],
+  "style": {
+    "labels": [
+      "灾后安抚型",
+      "行动复盘型",
+      "校园守护型",
+      "医疗服务型",
+      "安全提醒型"
+    ],
+    "tone": "灾后安抚、行动复盘、温暖致谢、服务报道、安全提醒",
+    "sentence_features": [
+      "开头用短句交代气象状态",
+      "中段多用“部门+动作”推进",
+      "医院段依赖图注承载密集事实",
+      "尾段转为安全指南和致谢收束"
+    ],
+    "layout_features": [
+      "多章节标题分隔",
+      "图片密集",
+      "图注承载关键事实",
+      "短句分行适配移动端"
+    ],
+    "common_phrases": [
+      "台风天的安全感",
+      "提前预案、积极行动",
+      "全天候保障",
+      "坚守岗位",
+      "台风过后不等于危险解除"
+    ],
+    "rhetorical_devices": [
+      "标题金句",
+      "直接引语",
+      "图文证明",
+      "价值比喻",
+      "风险清单",
+      "致谢收束"
+    ],
+    "style_metrics": {
+      "headline_emotion_level": 5,
+      "fact_density": "high",
+      "quote_density": "low-medium",
+      "value_sublimation_level": "medium-high",
+      "average_paragraph_length": "short-medium",
+      "bold_usage": "action_and_value_highlight",
+      "image_caption_dependency": "very_high",
+      "safety_instruction_density": "medium-high"
+    },
+    "reusable_phrases": [
+      "风雨过后，校园之内，教学、生活秩序有序恢复。",
+      "提前预案、积极行动",
+      "全天候保障台风天师生安全与校园稳定",
+      "台风过后不等于危险解除",
+      "感谢每一位坚守岗位的你们"
+    ],
+    "not_reusable_phrases": [
+      "台风“桦加沙”的中心已经离开广东",
+      "官方应急避难场所",
+      "70余名医护人员",
+      "近800人次",
+      "台风宝宝“加沙”"
+    ]
+  },
+  "value_narrative": {
+    "themes": [
+      "校园安全",
+      "组织协同",
+      "生活保障",
+      "医疗担当",
+      "师生互助",
+      "社会服务",
+      "灾后安全"
+    ],
+    "levels": {
+      "personal_level": "学生能吃到热食、受灾困难学生可申请临时补助、患者和新生儿得到医疗守护。",
+      "team_level": "总务、物业、保卫、实验动物中心、后勤、附属医院等团队协同响应。",
+      "course_level": "各院系调整教学安排，部分课程转为线上授课。",
+      "school_level": "学校通过校园保障、后勤供餐、体育馆开放和附属医院服务构建安全感。",
+      "national_level": "",
+      "social_level": "珠海校区体育馆服务周边群众，附属医院为市民提供医疗服务。"
+    },
+    "transition_method": "从台风气象事实转向校园恢复，再用部门行动、后勤服务、医疗守护和师生互助逐层证明“安全感”的来源，最后回到灾后安全提醒。",
+    "school_image": [
+      "突发天气中维持秩序和服务的大学",
+      "拥有附属医院医疗守护能力的大学",
+      "回应师生困难和周边群众需求的大学",
+      "把安全提醒做到最后一段的负责共同体"
+    ],
+    "ending_method": "以“防风墙”和“感谢坚守岗位”完成致谢，再用天气预报、学校通知和求助方式作实用收口。"
+  },
+  "visuals": [
+    {
+      "image_id": "cover",
+      "caption": "封面图",
+      "type": "封面大图",
+      "function": "建立台风守护主题",
+      "position": "标题前"
+    },
+    {
+      "image_id": "img001",
+      "caption": "开场动图",
+      "type": "动态视觉",
+      "function": "保留公众号节奏",
+      "position": "元信息后"
+    },
+    {
+      "image_id": "img002",
+      "caption": "台风中珠海校区鸭鸭（情绪稳定版）",
+      "type": "轻松情绪图",
+      "function": "在灾后语境中缓和情绪",
+      "position": "p001后"
+    },
+    {
+      "image_id": "img003",
+      "caption": "校园风雨后现场图",
+      "type": "校园现场图",
+      "function": "证明秩序恢复",
+      "position": "p003后"
+    },
+    {
+      "image_id": "img004",
+      "caption": "广州、珠海、深圳校区放晴图1",
+      "type": "校园现场图",
+      "function": "呈现天气转好",
+      "position": "p004后"
+    },
+    {
+      "image_id": "img005",
+      "caption": "广州、珠海、深圳校区放晴图2",
+      "type": "校园现场图",
+      "function": "呈现天气转好",
+      "position": "img004后"
+    },
+    {
+      "image_id": "img006",
+      "caption": "广州、珠海、深圳校区放晴图3",
+      "type": "校园现场图",
+      "function": "呈现天气转好",
+      "position": "img005后"
+    },
+    {
+      "image_id": "img007",
+      "caption": "广州、珠海、深圳校区放晴图4",
+      "type": "校园现场图",
+      "function": "呈现天气转好",
+      "position": "img006后"
+    },
+    {
+      "image_id": "img008",
+      "caption": "章节分隔图",
+      "type": "装饰图",
+      "function": "分隔风险排查板块",
+      "position": "p006后"
+    },
+    {
+      "image_id": "img009",
+      "caption": "珠海校区检查加固工程围挡",
+      "type": "校园保障图",
+      "function": "支撑总务加固维护",
+      "position": "p007后"
+    },
+    {
+      "image_id": "img010",
+      "caption": "各校区物业巡逻清理图1",
+      "type": "校园保障图",
+      "function": "支撑物业巡逻清理",
+      "position": "p008后"
+    },
+    {
+      "image_id": "img011",
+      "caption": "各校区物业巡逻清理图2",
+      "type": "校园保障图",
+      "function": "支撑物业巡逻清理",
+      "position": "img010后"
+    },
+    {
+      "image_id": "img012",
+      "caption": "各校区物业巡逻清理图3",
+      "type": "校园保障图",
+      "function": "支撑物业巡逻清理",
+      "position": "img011后"
+    },
+    {
+      "image_id": "img013",
+      "caption": "各校区物业巡逻清理图4",
+      "type": "校园保障图",
+      "function": "支撑物业巡逻清理",
+      "position": "img012后"
+    },
+    {
+      "image_id": "img014",
+      "caption": "深圳校区物业人员进行安全巡逻",
+      "type": "校园保障图",
+      "function": "支撑校园巡查",
+      "position": "p009后"
+    },
+    {
+      "image_id": "img015",
+      "caption": "实验动物中心工作人员对重点区域、设施设备开展排查图1",
+      "type": "科研保障图",
+      "function": "支撑实验动物中心排查",
+      "position": "img014后"
+    },
+    {
+      "image_id": "img016",
+      "caption": "实验动物中心工作人员对重点区域、设施设备开展排查图2",
+      "type": "科研保障图",
+      "function": "支撑实验动物中心排查",
+      "position": "img015后"
+    },
+    {
+      "image_id": "img017",
+      "caption": "章节分隔图",
+      "type": "装饰图",
+      "function": "分隔后勤保障板块",
+      "position": "p010后"
+    },
+    {
+      "image_id": "img018",
+      "caption": "食堂供餐保障图1",
+      "type": "后勤保障图",
+      "function": "呈现食堂正常供餐",
+      "position": "p011后"
+    },
+    {
+      "image_id": "img019",
+      "caption": "食堂供餐保障图2",
+      "type": "后勤保障图",
+      "function": "呈现食堂正常供餐",
+      "position": "img018后"
+    },
+    {
+      "image_id": "img020",
+      "caption": "食堂供餐保障图3",
+      "type": "后勤保障图",
+      "function": "呈现食堂正常供餐",
+      "position": "img019后"
+    },
+    {
+      "image_id": "img021",
+      "caption": "食堂供餐保障图4",
+      "type": "后勤保障图",
+      "function": "呈现食堂正常供餐",
+      "position": "img020后"
+    },
+    {
+      "image_id": "img022",
+      "caption": "同学分享自己的“台风限定”餐",
+      "type": "生活体验图",
+      "function": "支撑学生引语",
+      "position": "p012后"
+    },
+    {
+      "image_id": "img023",
+      "caption": "网友分享自己在中珠体育馆内的感受",
+      "type": "社会服务图",
+      "function": "支撑应急避难场所叙事",
+      "position": "p013后"
+    },
+    {
+      "image_id": "img024",
+      "caption": "中山大学附属第一医院急诊区70余名医护人员提前待命、坚守岗位，23、24两日高效承接了近800人次的诊疗救治工作",
+      "type": "医疗保障图",
+      "function": "证明附属医院急诊保障",
+      "position": "p015后"
+    },
+    {
+      "image_id": "img025",
+      "caption": "中山大学孙逸仙纪念医院24日上午急诊科院前出车接诊94岁老人",
+      "type": "医疗保障图",
+      "function": "证明急诊出车接诊",
+      "position": "img024后"
+    },
+    {
+      "image_id": "img026",
+      "caption": "中山大学附属三院康复科治疗师在新生儿科病房为患儿做治疗，解决患儿喂养问题",
+      "type": "医疗保障图",
+      "function": "证明病房治疗不中断",
+      "position": "img025后"
+    },
+    {
+      "image_id": "img027",
+      "caption": "中山大学眼科中心23日晚上9点半起眼科急症与眼外伤科全体医护驻守在医院，守护患者健康",
+      "type": "医疗保障图",
+      "function": "证明专科急症保障",
+      "position": "img026后"
+    },
+    {
+      "image_id": "img028",
+      "caption": "中山大学肿瘤防治中心胃外科陈映波主任医师团队为患者行腹腔镜胃癌根治术",
+      "type": "医疗保障图",
+      "function": "证明手术服务开展",
+      "position": "img027后"
+    },
+    {
+      "image_id": "img029",
+      "caption": "中山大学附属口腔医院24日住院部、急诊科医护坚持“24小时×365天”全年无休，各项工作照常开展、平稳有序",
+      "type": "医疗保障图",
+      "function": "证明住院部和急诊照常开展",
+      "position": "img028后"
+    },
+    {
+      "image_id": "img030",
+      "caption": "中山大学附属五院23日下午启用绿色通道、依托多学科协作为一名心脏多支血管闭塞的急诊患者成功实施手术",
+      "type": "医疗保障图",
+      "function": "证明绿色通道和多学科协作",
+      "position": "img029后"
+    },
+    {
+      "image_id": "img031",
+      "caption": "中山大学附属第一医院截至24日下午16时，产科已累计迎来18名新生儿",
+      "type": "生命叙事图",
+      "function": "支撑台风宝宝叙事",
+      "position": "p017后"
+    },
+    {
+      "image_id": "img032",
+      "caption": "中山大学附属第六医院新出生的双胞胎宝宝",
+      "type": "生命叙事图",
+      "function": "支撑台风宝宝叙事",
+      "position": "img031后"
+    },
+    {
+      "image_id": "img033",
+      "caption": "中山大学附属第七医院台风宝宝“加沙”",
+      "type": "生命叙事图",
+      "function": "支撑台风宝宝叙事",
+      "position": "img032后"
+    },
+    {
+      "image_id": "img034",
+      "caption": "下属海滨社康中心为工友们开展义诊",
+      "type": "社区医疗图",
+      "function": "连接医院与社区避险点保障",
+      "position": "p018后"
+    },
+    {
+      "image_id": "img035",
+      "caption": "章节分隔图",
+      "type": "装饰图",
+      "function": "分隔师生同心板块",
+      "position": "p019后"
+    },
+    {
+      "image_id": "img036",
+      "caption": "临时困难补助申请通知截图",
+      "type": "通知截图",
+      "function": "支撑学生资助事实",
+      "position": "p021后"
+    },
+    {
+      "image_id": "img037",
+      "caption": "线上授课与教学调整图1",
+      "type": "教学保障图",
+      "function": "呈现教学调整",
+      "position": "p022后"
+    },
+    {
+      "image_id": "img038",
+      "caption": "线上授课与教学调整图2",
+      "type": "教学保障图",
+      "function": "呈现教学调整",
+      "position": "img037后"
+    },
+    {
+      "image_id": "img039",
+      "caption": "章节分隔图",
+      "type": "装饰图",
+      "function": "分隔灾后安全提醒板块",
+      "position": "p023后"
+    }
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 34,
+    "decorative_images": 5,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 40,
+    "unique_image_urls": 37
+  },
+  "templates": {
+    "opening_templates": [
+      {
+        "template": "根据[权威来源]相关信息，[风险事件]已于[时间/地点]出现关键变化。当前[风险状态]，但[残余影响/注意事项]仍需关注。",
+        "applicable_scenarios": [
+          "台风灾后信息更新",
+          "暴雨后校园恢复报道",
+          "寒潮后服务复盘",
+          "突发公共事件后续通报"
+        ],
+        "not_applicable_scenarios": [
+          "无权威来源的预测",
+          "普通活动报道",
+          "人物专访",
+          "招生宣传"
+        ]
+      }
+    ],
+    "action_templates": [
+      {
+        "template": "[时间]，[学校/单位]各部门提前预案、积极行动，全天候保障[对象]安全与[秩序]稳定。[部门A]开展[行动]，[部门B]开展[行动]，[部门C]确保[目标]。",
+        "applicable_scenarios": [
+          "校园应急响应",
+          "重大活动保障",
+          "后勤服务报道",
+          "多部门协同报道"
+        ],
+        "not_applicable_scenarios": [
+          "没有跨部门行动材料的短消息",
+          "纯情绪倡议",
+          "科研成果发布",
+          "人物故事"
+        ]
+      }
+    ],
+    "medical_templates": [
+      {
+        "template": "[医院/医疗系统]医护人员坚守岗位，[关键通道/服务]保持畅通，随时为[对象]提供[服务]。用[案例/数据/图注]呈现具体守护。",
+        "applicable_scenarios": [
+          "附属医院应急保障",
+          "节假日医疗值守",
+          "公共卫生服务",
+          "重大天气医疗保障"
+        ],
+        "not_applicable_scenarios": [
+          "无医疗事实支撑的校园综合报道",
+          "招生宣传",
+          "纯教学活动",
+          "无授权患者故事"
+        ]
+      }
+    ],
+    "safety_templates": [
+      {
+        "template": "[事件]过后不等于危险解除。大家出行时请注意：[风险一]、[风险二]、[风险三]。如遇[隐患]，请及时联系[主管部门/学校]。",
+        "applicable_scenarios": [
+          "灾后出行提醒",
+          "安全教育",
+          "校园通知",
+          "公共安全科普"
+        ],
+        "not_applicable_scenarios": [
+          "庆祝类报道",
+          "轻松生活类推文",
+          "无风险提示需求的文章",
+          "科研成果长文"
+        ]
+      }
+    ]
+  },
+  "generation_constraints": {
+    "must_not_invent": [
+      "不得编造台风路径、登陆时间、预警等级或应急响应级别。",
+      "不得编造医院数据、患者案例、新生儿数量或学校资助政策。",
+      "不得把“部分课程转为线上授课”写成全部课程线上。"
+    ],
+    "strong_claims_require_source": [
+      "台风“桦加沙”登陆地点和时间必须以官方发布为准。",
+      "9月25日07时中心离开广东、热带风暴级、残余环流影响广东等气象状态必须保留来源和时间。",
+      "官方应急避难场所必须有属地应急部署或官方确认支撑。",
+      "70余名医护、近800人次、18名新生儿等数字必须来自原文或正式来源。"
+    ],
+    "quote_handling": [
+      "学生关于食堂热食的直接引语应保持原意，不得改写为代表全体学生。",
+      "“台风天的安全感，是中大给的”可作为标题金句使用，但必须有具体行动支撑。"
+    ],
+    "scenario_boundaries": [
+      "本文是台风“桦加沙”灾后复盘与保障报道，不适合作为普通活动报道模板直接套用。",
+      "灾后安全提醒可复用，但需结合当地官方安全指引。",
+      "附属医院案例不可泛化为所有医院、所有科室均有同等行动。"
+    ],
+    "recommended_writer_use": [
+      "适合生成校园灾后复盘、后勤保障、医疗值守和共同体致谢类文章。",
+      "标题情绪强，正文必须配套具体事实和图文证据。",
+      "结尾建议保留官方通知和求助渠道，避免只做情绪升华。"
+    ],
+    "type_specific_constraints": [
+      {
+        "term": "台风“桦加沙”登陆信息",
+        "constraint": "登陆地点、时间和强度必须核查官方发布，不得凭旧稿或记忆复用。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "官方应急避难场所",
+        "constraint": "必须有属地应急部署或官方确认支撑，不得把临时开放场馆泛称为官方避难场所。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "医疗数据",
+        "constraint": "70余名、近800人次、18名新生儿等数字必须逐字核对来源。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "线上授课",
+        "constraint": "原文为“部分课程转为线上授课”，不得扩写成全部课程或全校统一线上。",
+        "category": "scenario_boundary"
+      },
+      {
+        "term": "灾后安全提醒",
+        "constraint": "涉及高空坠物、撤离返家、地质灾害、掉落电线等生命安全事项，不得弱化或娱乐化表达。",
+        "category": "must_not_invent"
+      }
+    ]
+  }
+}
