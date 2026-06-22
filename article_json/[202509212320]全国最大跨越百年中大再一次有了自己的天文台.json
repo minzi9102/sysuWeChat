@@ -768,34 +768,59 @@
       }
     ]
   },
-  "generation_constraints": [
-    {
-      "term": "全国最大",
-      "constraint": "仅在有可靠事实来源证明比较范围、时间点和评价口径时可使用。"
-    },
-    {
-      "term": "我国高校首座",
-      "constraint": "属于强历史断言，必须有原文或权威来源支撑，不得泛化套用。"
-    },
-    {
-      "term": "国内首个",
-      "constraint": "属于强断言，生成时须核查学科史或官方来源。"
-    },
-    {
-      "term": "最高水平之一",
-      "constraint": "属于评价性表述，须保留来源语境，不可扩写为最高水平或全球领先。"
-    },
-    {
-      "term": "专家引语",
-      "constraint": "不得伪造杨山清、马波或其他专家的直接引语。"
-    },
-    {
-      "term": "2026年春季学期课程教学",
-      "constraint": "原文为计划用于课程教学，不得写成已经投入教学。"
-    },
-    {
-      "term": "历史天文台时间线",
-      "constraint": "文明路、石牌、韶关坪石三处地点及年份不可混淆。"
-    }
-  ]
+  "generation_constraints": {
+    "must_not_invent": [],
+    "strong_claims_require_source": [
+      "全国最大：仅在有可靠事实来源证明比较范围、时间点和评价口径时可使用。",
+      "我国高校首座：属于强历史断言，必须有原文或权威来源支撑，不得泛化套用。",
+      "国内首个：属于强断言，生成时须核查学科史或官方来源。",
+      "最高水平之一：属于评价性表述，须保留来源语境，不可扩写为最高水平或全球领先。",
+      "历史天文台时间线：文明路、石牌、韶关坪石三处地点及年份不可混淆。",
+      "2026年春季学期课程教学：原文为计划用于课程教学，不得写成已经投入教学。"
+    ],
+    "quote_handling": [
+      "专家引语：不得伪造杨山清、马波或其他专家的直接引语。"
+    ],
+    "scenario_boundaries": [
+      "2026年春季学期课程教学：原文为计划用于课程教学，不得写成已经投入教学。"
+    ],
+    "recommended_writer_use": [],
+    "type_specific_constraints": [
+      {
+        "term": "全国最大",
+        "constraint": "仅在有可靠事实来源证明比较范围、时间点和评价口径时可使用。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "我国高校首座",
+        "constraint": "属于强历史断言，必须有原文或权威来源支撑，不得泛化套用。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "国内首个",
+        "constraint": "属于强断言，生成时须核查学科史或官方来源。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "最高水平之一",
+        "constraint": "属于评价性表述，须保留来源语境，不可扩写为最高水平或全球领先。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "专家引语",
+        "constraint": "不得伪造杨山清、马波或其他专家的直接引语。",
+        "category": "quote_handling"
+      },
+      {
+        "term": "2026年春季学期课程教学",
+        "constraint": "原文为计划用于课程教学，不得写成已经投入教学。",
+        "category": "scenario_boundary"
+      },
+      {
+        "term": "历史天文台时间线",
+        "constraint": "文明路、石牌、韶关坪石三处地点及年份不可混淆。",
+        "category": "strong_claim"
+      }
+    ]
+  }
 }
