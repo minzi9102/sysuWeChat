@@ -43,6 +43,9 @@ Clean Markdown must not contain:
 - `预览时标签不可点`
 - `微信扫一扫`
 - comment-area residue unrelated to article body
+- `iSYSU`, source/editor chains, QR codes, or any content following the first recommendation-reading marker
+
+When the source contains a recommendation-reading marker, verify that clean Markdown ends before that marker and retains all substantive body sections before it.
 
 ## JSON Parse
 
@@ -60,6 +63,13 @@ $j = Get-Content -LiteralPath 'article_json\[id]title.json' -Raw | ConvertFrom-J
 ```
 
 Expected: `0`.
+
+## Section Coverage
+
+- Identify the substantive body sections from headings and topic transitions.
+- Every substantive section must be represented by at least one `facts[]` item.
+- Important people, dates, figures, awards, research results, and conclusions should be separate facts when combining them would weaken traceability.
+- There is no fixed maximum fact count; long articles must not be compressed into an arbitrary 6-10 facts.
 
 ## Paragraph Dual Text
 

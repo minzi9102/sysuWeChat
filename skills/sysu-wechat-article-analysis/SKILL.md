@@ -63,7 +63,7 @@ Remove:
 Keep:
 
 - Cover image, title, account, publish time, publish location.
-- Body paragraphs, bold emphasis, image links, real captions, source and editor chain.
+- Body paragraphs, bold emphasis, image links, and real captions.
 - Article-specific section headings and meaningful display rhythm.
 
 Add anchors:
@@ -75,6 +75,8 @@ Add anchors:
 - `<!-- structural_note: ... -->` for retained interaction or layout notes such as `左右滑动查看更多`.
 
 Do not count metadata, cover, source/editor chain, recommendation blocks, preview residue, or interaction prompts as body paragraphs. Interaction prompts must not appear in `paragraph_functions[]`; keep them in `structural_notes[]`.
+
+Treat the first recommendation-reading marker (for example `推荐阅读` or a recommendation list introduced by `▼`) as a hard cutoff. Remove the marker and everything after it, including recommendation links and images, `iSYSU`, source/editor chains, QR codes, platform footers, and comments. Preserve title, account, publish time, publish location, and all article body content before the cutoff.
 
 ## Analysis Document Rules
 
@@ -94,6 +96,8 @@ Cover these sections:
 12. 写作器调用建议
 
 Facts table must include source paragraph, source quote, and confidence.
+
+Facts are coverage-driven rather than count-driven. Identify the article's substantive sections first, then include at least one traceable fact for every section and additional facts for important people, dates, figures, results, and conclusions. Do not impose a fixed global fact limit or collapse a long article into a small generic list.
 
 `source_quote` may remove Markdown styling markers such as `**` and normalize excess whitespace, but it must not change the meaning, invent missing details, or reorder text in a way that weakens traceability. If the quote is supported by an image caption, preserve the caption's original meaning and pair it with `source_image_id`.
 
