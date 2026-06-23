@@ -2,11 +2,46 @@
 
 ## Outputs
 
-For input `md/[timestamp]title.md`, generate:
+For a `text` input, generate:
 
 - `clean_md/[timestamp]title.clean.md`
 - `article_analysis_md/[timestamp]title.analysis.md`
 - `article_json/[timestamp]title.json`
+
+For a `long_image` or `pasted_image` input, generate only:
+
+- `article_markers/[timestamp]title.marker.json`
+
+The marker and the three analysis artifacts are mutually exclusive.
+
+## Image-Dominant Marker
+
+Use this exact outer shape:
+
+```json
+{
+  "article_id": "",
+  "title": "",
+  "source_file": "md/[timestamp]title.md",
+  "content_mode": "long_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 0,
+    "effective_characters": 0,
+    "body_image_nodes": 0,
+    "unique_body_image_urls": 0,
+    "pre_title_image_nodes": 0,
+    "pre_title_unique_urls": 0,
+    "post_title_image_nodes": 0,
+    "matched_rule": ""
+  }
+}
+```
+
+Allowed `content_mode` values: `long_image`, `pasted_image`.
+
+`processing_status` must be `skipped`, and `reason` must be `image_dominant_article`. Marker files must not contain analysis fields such as `facts`, `paragraph_functions`, `style`, `templates`, or `generation_constraints`.
 
 ## JSON Top-Level Fields
 

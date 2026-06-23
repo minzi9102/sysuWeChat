@@ -1,0 +1,18 @@
+{
+  "article_id": "sysu_20260621_123654",
+  "title": "这个中秋中大人踩云追月",
+  "source_file": "md/[20260621123654]这个中秋中大人踩云追月.md",
+  "content_mode": "pasted_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 7,
+    "effective_characters": 267,
+    "body_image_nodes": 17,
+    "unique_body_image_urls": 16,
+    "pre_title_image_nodes": 17,
+    "pre_title_unique_urls": 16,
+    "post_title_image_nodes": 0,
+    "matched_rule": "pre_title_gallery_without_post_title_images"
+  }
+}

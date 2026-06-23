@@ -1,0 +1,18 @@
+{
+  "article_id": "sysu_20260621_102455",
+  "title": "冬至中大岁暖情长",
+  "source_file": "md/[20260621102455]冬至中大岁暖情长.md",
+  "content_mode": "pasted_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 6,
+    "effective_characters": 412,
+    "body_image_nodes": 18,
+    "unique_body_image_urls": 17,
+    "pre_title_image_nodes": 18,
+    "pre_title_unique_urls": 17,
+    "post_title_image_nodes": 0,
+    "matched_rule": "pre_title_gallery_without_post_title_images"
+  }
+}

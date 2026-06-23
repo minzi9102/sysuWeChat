@@ -1,0 +1,18 @@
+{
+  "article_id": "sysu_20251114_1609",
+  "title": "第十六届国际青年学者论坛，诚盼您来！",
+  "source_file": "md/[202511141609]第十六届国际青年学者论坛诚盼您来.md",
+  "content_mode": "long_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 1,
+    "effective_characters": 20,
+    "body_image_nodes": 7,
+    "unique_body_image_urls": 7,
+    "pre_title_image_nodes": 0,
+    "pre_title_unique_urls": 0,
+    "post_title_image_nodes": 7,
+    "matched_rule": "sparse_text_multiple_unique_images"
+  }
+}

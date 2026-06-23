@@ -1,0 +1,18 @@
+{
+  "article_id": "sysu_20260621_101842",
+  "title": "雷锋精神中大人以青春之名作答",
+  "source_file": "md/[20260621101842]雷锋精神中大人以青春之名作答.md",
+  "content_mode": "pasted_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 10,
+    "effective_characters": 348,
+    "body_image_nodes": 10,
+    "unique_body_image_urls": 9,
+    "pre_title_image_nodes": 10,
+    "pre_title_unique_urls": 9,
+    "post_title_image_nodes": 0,
+    "matched_rule": "pre_title_gallery_without_post_title_images"
+  }
+}

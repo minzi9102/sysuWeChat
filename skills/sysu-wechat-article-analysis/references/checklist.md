@@ -2,6 +2,36 @@
 
 Run checks after generating or updating artifacts.
 
+## Content Mode Gate
+
+Classify before analysis. For `long_image` and `pasted_image`:
+
+- A marker must exist under `article_markers/`.
+- No matching clean Markdown, analysis Markdown, or article JSON may exist.
+- `content_mode` must be `long_image` or `pasted_image`.
+- `processing_status` must be `skipped`.
+- `reason` must be `image_dominant_article`.
+- Every evidence field defined in `schema.md` must be present.
+
+Example marker validation:
+
+```powershell
+$m = Get-Content -LiteralPath 'article_markers\[id]title.marker.json' -Raw | ConvertFrom-Json
+$requiredEvidence = @(
+  'effective_paragraphs','effective_characters','body_image_nodes',
+  'unique_body_image_urls','pre_title_image_nodes','pre_title_unique_urls',
+  'post_title_image_nodes','matched_rule'
+)
+@($requiredEvidence | Where-Object { $_ -notin $m.evidence.PSObject.Properties.Name }).Count
+$m.content_mode -in @('long_image','pasted_image')
+$m.processing_status -eq 'skipped'
+$m.reason -eq 'image_dominant_article'
+```
+
+Expected: `0`, `True`, `True`, `True`.
+
+For `text`, no marker should exist; continue with the checks below.
+
 ## Noise Check
 
 Clean Markdown must not contain:

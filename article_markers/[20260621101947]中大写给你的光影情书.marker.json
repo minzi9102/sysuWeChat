@@ -1,0 +1,18 @@
+{
+  "article_id": "sysu_20260621_101947",
+  "title": "中大写给你的光影情书",
+  "source_file": "md/[20260621101947]中大写给你的光影情书.md",
+  "content_mode": "pasted_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 4,
+    "effective_characters": 99,
+    "body_image_nodes": 16,
+    "unique_body_image_urls": 15,
+    "pre_title_image_nodes": 16,
+    "pre_title_unique_urls": 15,
+    "post_title_image_nodes": 0,
+    "matched_rule": "pre_title_gallery_without_post_title_images"
+  }
+}

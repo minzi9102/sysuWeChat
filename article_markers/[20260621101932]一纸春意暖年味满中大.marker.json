@@ -1,0 +1,18 @@
+{
+  "article_id": "sysu_20260621_101932",
+  "title": "一纸春意暖年味满中大",
+  "source_file": "md/[20260621101932]一纸春意暖年味满中大.md",
+  "content_mode": "pasted_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 5,
+    "effective_characters": 175,
+    "body_image_nodes": 12,
+    "unique_body_image_urls": 11,
+    "pre_title_image_nodes": 12,
+    "pre_title_unique_urls": 11,
+    "post_title_image_nodes": 0,
+    "matched_rule": "pre_title_gallery_without_post_title_images"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "article_id": "sysu_20260614_2200",
+  "title": "一图读懂中山大学2026年招生培养亮点",
+  "source_file": "md/[202606142200]一图读懂中山大学2026年招生培养亮点.md",
+  "content_mode": "long_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 2,
+    "effective_characters": 32,
+    "body_image_nodes": 41,
+    "unique_body_image_urls": 41,
+    "pre_title_image_nodes": 0,
+    "pre_title_unique_urls": 0,
+    "post_title_image_nodes": 41,
+    "matched_rule": "few_paragraphs_many_images"
+  }
+}

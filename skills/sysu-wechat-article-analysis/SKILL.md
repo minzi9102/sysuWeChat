@@ -5,11 +5,17 @@ description: Analyze a single Sun Yat-sen University WeChat article from md/*.md
 
 # SYSU WeChat Article Analysis
 
-Use this skill to analyze one 中山大学公众号 Markdown article into the project-standard three artifacts:
+Use this skill to classify one 中山大学公众号 Markdown article before analysis. Text articles produce the project-standard three artifacts:
 
 - `clean_md/[id]title.clean.md`
 - `article_analysis_md/[id]title.analysis.md`
 - `article_json/[id]title.json`
+
+Image-dominant articles produce only:
+
+- `article_markers/[id]title.marker.json`
+
+Do not generate clean Markdown, analysis Markdown, or article JSON for `long_image` or `pasted_image` articles.
 
 Before writing outputs, read:
 
@@ -20,9 +26,30 @@ Before writing outputs, read:
 
 1. Use `md/[timestamp]title.md` as the primary input.
 2. Use a same-name file under `中山大学/` only as a reference copy, not the primary source.
-3. Create output directories if missing.
-4. Produce clean Markdown first, then the analysis document, then JSON.
-5. Keep the work scoped to the requested article unless the user explicitly asks for batch changes.
+3. Classify the article as `pasted_image`, `long_image`, or `text` before generating outputs.
+4. For `pasted_image` or `long_image`, write only the marker file and stop.
+5. For `text`, produce clean Markdown first, then the analysis document, then JSON.
+6. Keep the work scoped to the requested article unless the user explicitly asks for batch changes.
+
+## Content Mode Classification
+
+Measure only article-body content:
+
+- Stop at the earliest recommendation-reading block, `iSYSU`, or selected-comment section.
+- Exclude explicit `cover_image` nodes, author/comment avatars, mini-program prompts, and platform residue.
+- Exclude metadata, source/editor chains, recommendation titles, and interaction prompts from effective paragraphs and characters.
+
+Classify in this order:
+
+1. `pasted_image`: at least 2 pre-title body image nodes, at least 2 unique pre-title image URLs, and no post-title body images.
+2. `long_image`: not `pasted_image`, and either:
+   - fewer than 6 effective paragraphs and more than 20 body image nodes; or
+   - fewer than 80 effective characters and at least 5 unique body image URLs.
+3. `text`: all remaining articles.
+
+Classification is mutually exclusive. `pasted_image` takes precedence over `long_image`.
+
+For image-dominant articles, set `processing_status` to `skipped` and do not infer image text, facts, captions, or writing templates.
 
 ## clean_md Rules
 

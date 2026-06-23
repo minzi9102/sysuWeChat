@@ -1,0 +1,18 @@
+{
+  "article_id": "sysu_20260621_102255",
+  "title": "医学的精准与画笔的温柔在中大人笔下相逢",
+  "source_file": "md/[20260621102255]医学的精准与画笔的温柔在中大人笔下相逢.md",
+  "content_mode": "pasted_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 5,
+    "effective_characters": 396,
+    "body_image_nodes": 19,
+    "unique_body_image_urls": 18,
+    "pre_title_image_nodes": 19,
+    "pre_title_unique_urls": 18,
+    "post_title_image_nodes": 0,
+    "matched_rule": "pre_title_gallery_without_post_title_images"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "article_id": "sysu_20260621_102435",
+  "title": "一平米里藏着这些校园美好",
+  "source_file": "md/[20260621102435]一平米里藏着这些校园美好.md",
+  "content_mode": "pasted_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 6,
+    "effective_characters": 334,
+    "body_image_nodes": 19,
+    "unique_body_image_urls": 18,
+    "pre_title_image_nodes": 19,
+    "pre_title_unique_urls": 18,
+    "post_title_image_nodes": 0,
+    "matched_rule": "pre_title_gallery_without_post_title_images"
+  }
+}

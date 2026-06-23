@@ -1,0 +1,18 @@
+{
+  "article_id": "sysu_20250926_1112",
+  "title": "老师，你看见我家宇轩了吗？",
+  "source_file": "md/[202509261112]老师你看见我家宇轩了吗.md",
+  "content_mode": "long_image",
+  "processing_status": "skipped",
+  "reason": "image_dominant_article",
+  "evidence": {
+    "effective_paragraphs": 1,
+    "effective_characters": 20,
+    "body_image_nodes": 11,
+    "unique_body_image_urls": 11,
+    "pre_title_image_nodes": 0,
+    "pre_title_unique_urls": 0,
+    "post_title_image_nodes": 11,
+    "matched_rule": "sparse_text_multiple_unique_images"
+  }
+}
