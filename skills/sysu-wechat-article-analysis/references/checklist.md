@@ -164,6 +164,22 @@ Required generation constraint keys:
 'must_not_invent','strong_claims_require_source','quote_handling','scenario_boundaries','recommended_writer_use','type_specific_constraints'
 ```
 
+## Style Label Discrimination
+
+```powershell
+$base = @('事实驱动','分章节叙事','校媒报道')
+$j.style.labels.Count -in 5..7
+@($j.style.labels | Select-Object -Unique).Count -eq $j.style.labels.Count
+@($j.style.labels[0..2]) -join '|' -eq $base -join '|'
+@($j.style.labels | Where-Object { $_ -notin $base }).Count -in 2..4
+```
+
+Expected: all `True`.
+
+- JSON and analysis Markdown must list the same labels in the same order.
+- Prefer canonical labels and reject unregistered synonyms when a canonical equivalent exists.
+- Discriminative labels must describe writing mode, emotional posture, or narrative mechanism rather than mechanically repeat `article_types`.
+
 ## Final Review
 
 - `clean_md`, `analysis.md`, and JSON agree on paragraph IDs and image IDs.

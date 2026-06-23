@@ -115,6 +115,8 @@ Critical requirements:
 - Strong assertions must appear in `generation_constraints.strong_claims_require_source` and/or `type_specific_constraints`.
 - Do not invent facts, quotes, dates, awards, official statuses, image captions, or numbers.
 
+Use `style.labels` as a semi-controlled retrieval vocabulary. Start every text article with the base labels `事实驱动`, `分章节叙事`, and `校媒报道`, then add 2-4 discriminative labels describing its writing mode, emotional posture, or narrative mechanism. Prefer an existing canonical label over a synonym; add a new label only when no existing label expresses the distinction. Do not mechanically copy `article_types` into `style.labels`.
+
 ## Commit and Notification
 
 Follow repository `AGENTS.md`:
