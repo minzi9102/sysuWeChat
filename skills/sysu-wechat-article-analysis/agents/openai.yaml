@@ -1,6 +1,6 @@
 interface:
   display_name: "SYSU WeChat Article Analysis"
-  short_description: "Analyze SYSU WeChat articles into clean MD and JSON"
-  default_prompt: "Use $sysu-wechat-article-analysis to analyze this 中山大学公众号 Markdown article into clean_md, analysis Markdown, and structured JSON."
+  short_description: "Classify, analyze, repair, and validate SYSU WeChat articles"
+  default_prompt: "Use $sysu-wechat-article-analysis to classify this 中山大学公众号 Markdown article, then generate or repair the correct artifacts and validate them."
 policy:
   allow_implicit_invocation: true

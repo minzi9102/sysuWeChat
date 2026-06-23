@@ -153,16 +153,9 @@ Use this exact outer shape:
 `labels` must contain 5-7 unique values in this order:
 
 1. Base labels: `事实驱动`, `分章节叙事`, `校媒报道`.
-2. Two to four discriminative labels selected from the semi-controlled vocabulary.
+2. Two to four discriminative labels selected from `style-labels.md`.
 
-Canonical labels currently include:
-
-- Research and education: `科研硬核型`, `科研平台建设型`, `科普解释型`, `青年科研型`, `教育创新型`, `课堂探访型`, `课程导览型`, `教学方法型`, `美育叙事型`.
-- People and values: `人物通讯型`, `人物群像型`, `学生成长型`, `教师成长型`, `榜样荣誉型`, `学者纪念型`, `学术传承型`, `家国叙事型`, `共同体叙事型`.
-- Service and policy: `招生公告型`, `政策通知型`, `考试服务型`, `流程指引型`, `长条款信息型`, `灾前预警型`, `灾后安抚型`, `应急科普型`, `服务保障型`.
-- Campus and outreach: `国际交流型`, `会议综述型`, `书单推荐型`, `视觉游览型`, `校园风物型`, `人才招募型`, `志愿服务纪实型`, `创新创业荣誉型`.
-
-Additional labels are allowed when needed, but do not create synonyms such as `硬核科研型` when `科研硬核型` already exists. Labels should describe style or narrative mechanism rather than duplicate `article_types` verbatim.
+Additional labels are allowed under the extension rules in `style-labels.md`. Labels describe style or narrative mechanism rather than duplicate `article_types` verbatim.
 
 ## value_narrative
 

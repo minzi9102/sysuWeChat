@@ -1,127 +1,122 @@
 ---
 name: sysu-wechat-article-analysis
-description: Analyze a single Sun Yat-sen University WeChat article from md/*.md into clean_md, article_analysis_md, and article_json outputs. Use when Codex needs to process 中山大学公众号推文, create clean Markdown with anchors, build fact-traceable analysis docs, generate writing-training JSON, maintain paragraph display/normalized text, image_stats, unified style/value_narrative/generation_constraints schemas, or validate article-analysis artifacts.
+description: Classify, analyze, repair, and validate Sun Yat-sen University WeChat Markdown articles. Use for 中山大学公众号推文 when Codex must distinguish text, long-image, or pasted-image content; generate clean Markdown, traceable analysis Markdown, structured writing-training JSON, or marker JSON; repair unreliable existing artifacts; enforce recommendation cutoffs, fact provenance, image statistics, style labels, and batch consistency.
 ---
 
 # SYSU WeChat Article Analysis
 
-Use this skill to classify one 中山大学公众号 Markdown article before analysis. Text articles produce the project-standard three artifacts:
+Process `md/[timestamp]title.md` through six stages: classify, clean, model structure, extract facts, label style, validate.
+
+Read these references before editing artifacts:
+
+- `references/schema.md`: output interfaces and invariants.
+- `references/style-labels.md`: semi-controlled style vocabulary.
+- `references/checklist.md`: deterministic and manual acceptance checks.
+
+Use the source under `md/` as primary evidence. A same-name file under `中山大学/` is reference-only.
+
+## 1. Classify
+
+Run:
+
+```powershell
+./skills/sysu-wechat-article-analysis/scripts/classify-article.ps1 -SourcePath 'md/[id]title.md'
+```
+
+The script is read-only and emits `content_mode`, the body boundary, and marker-compatible evidence.
+
+Classification order is exclusive:
+
+1. `pasted_image`
+2. `long_image`
+3. `text`
+
+For `pasted_image` or `long_image`, create only `article_markers/[id]title.marker.json`, set `processing_status` to `skipped`, and stop. Do not infer text, facts, captions, or templates from images.
+
+For `text`, ensure no marker exists and continue.
+
+## 2. Clean
+
+Create `clean_md/[id]title.clean.md`.
+
+Use the classifier's line-level boundary. A title containing an ordinary word such as `推荐` is not a cutoff. Cut at the earliest explicit recommendation heading, recommendation item beginning with `▼`, `iSYSU` footer, or selected-comment heading. Remove the matched line and everything after it.
+
+Remove reader UI, `javascript:void`, preview residue, comments, mini-program prompts, empty shells, duplicated metadata, source/editor chains, QR codes, and footer content.
+
+Keep cover, title, account, publish time/location, complete body text, meaningful headings, body images, emphasis, and real captions.
+
+Add continuous anchors:
+
+- `<!-- cover -->`
+- `<!-- img001 -->`, `<!-- img002 -->`, ...
+- `<!-- p001 -->`, `<!-- p002 -->`, ...
+- `<!-- caption: ... -->` for real or structural captions
+- `<!-- structural_note: ... -->` for retained layout notes
+
+Do not assign paragraph anchors to metadata, captions, interaction prompts, or layout-only notes.
+
+## 3. Model Structure
+
+Identify substantive sections from headings and topic transitions before writing facts. Record article-specific structure rather than a generic opening/expansion/support/ending template.
+
+Choose `article_types` from subject and function. Keep them separate from writing style.
+
+For existing artifacts:
+
+- Fully rebuild when article type, structure, paragraph segmentation, or fact coverage is broadly unreliable.
+- Repair only affected fields when clean body, structure, and facts are otherwise trustworthy.
+- Never preserve recommendation-derived content merely to keep old IDs stable; renumber retained anchors and IDs continuously.
+
+## 4. Extract Facts
+
+Cover every substantive section with at least one fact. Add separate facts for important people, dates, figures, conditions, awards, research results, and conclusions. Do not impose a global fact limit.
+
+Every fact must include `source_paragraph_id`, `source_quote`, and `confidence`. The quote must occur inside the referenced paragraph after removing Markdown emphasis and normalizing whitespace. Whole-article occurrence is insufficient.
+
+`source_quote` may remove Markdown styling and excess whitespace. It must not paraphrase, combine distant sentences, invent missing details, or weaken traceability. Use `source_image_id` only for facts supported by an original image caption.
+
+Strong assertions such as first/largest/highest, awards, official titles, exact dates, codes, counts, and percentages require direct evidence and generation constraints.
+
+## 5. Label Style
+
+Set `style.labels` to the three base labels followed by 2-4 discriminative labels:
+
+1. `事实驱动`
+2. `分章节叙事`
+3. `校媒报道`
+
+Select canonical fine labels from `references/style-labels.md`. Add a new label only when no existing term captures the writing mode, emotional posture, or narrative mechanism. Do not mechanically copy `article_types` or create synonyms.
+
+Keep JSON and analysis Markdown labels identical and ordered.
+
+## 6. Validate
+
+Validate one article:
+
+```powershell
+./skills/sysu-wechat-article-analysis/scripts/validate-artifacts.ps1 -Root . -ArticleBaseName '[id]title'
+```
+
+Validate every existing text artifact and marker:
+
+```powershell
+./skills/sysu-wechat-article-analysis/scripts/validate-artifacts.ps1 -Root . -All
+```
+
+The validator is read-only. It checks mode exclusivity, noise, schema keys, paragraph-local quote provenance, continuous anchors, image statistics, visual caption sources, templates, style labels, and analysis consistency. Any `FAIL` must be fixed before completion. Review `WARN` items manually.
+
+Then perform the semantic checks in `references/checklist.md`, especially section coverage, article type accuracy, strong assertions, inferred captions, and admissions or policy conditions.
+
+## Outputs
+
+Text articles:
 
 - `clean_md/[id]title.clean.md`
 - `article_analysis_md/[id]title.analysis.md`
 - `article_json/[id]title.json`
 
-Image-dominant articles produce only:
+Image-dominant articles:
 
 - `article_markers/[id]title.marker.json`
 
-Do not generate clean Markdown, analysis Markdown, or article JSON for `long_image` or `pasted_image` articles.
-
-Before writing outputs, read:
-
-- `references/schema.md` for required JSON and analysis schema.
-- `references/checklist.md` for validation commands and acceptance checks.
-
-## Workflow
-
-1. Use `md/[timestamp]title.md` as the primary input.
-2. Use a same-name file under `中山大学/` only as a reference copy, not the primary source.
-3. Classify the article as `pasted_image`, `long_image`, or `text` before generating outputs.
-4. For `pasted_image` or `long_image`, write only the marker file and stop.
-5. For `text`, produce clean Markdown first, then the analysis document, then JSON.
-6. Keep the work scoped to the requested article unless the user explicitly asks for batch changes.
-
-## Content Mode Classification
-
-Measure only article-body content:
-
-- Stop at the earliest recommendation-reading block, `iSYSU`, or selected-comment section.
-- Exclude explicit `cover_image` nodes, author/comment avatars, mini-program prompts, and platform residue.
-- Exclude metadata, source/editor chains, recommendation titles, and interaction prompts from effective paragraphs and characters.
-
-Classify in this order:
-
-1. `pasted_image`: at least 2 pre-title body image nodes, at least 2 unique pre-title image URLs, and no post-title body images.
-2. `long_image`: not `pasted_image`, and either:
-   - fewer than 6 effective paragraphs and more than 20 body image nodes; or
-   - fewer than 80 effective characters and at least 5 unique body image URLs.
-3. `text`: all remaining articles.
-
-Classification is mutually exclusive. `pasted_image` takes precedence over `long_image`.
-
-For image-dominant articles, set `processing_status` to `skipped` and do not infer image text, facts, captions, or writing templates.
-
-## clean_md Rules
-
-Remove:
-
-- Reader noise such as `在小说阅读器读本章`, `去阅读`.
-- `javascript:void`, preview UI residue, mini-program prompts, comments, and interaction leftovers.
-- Recommendation-reading blocks and their images.
-- Empty shell content and repeated metadata labels.
-
-Keep:
-
-- Cover image, title, account, publish time, publish location.
-- Body paragraphs, bold emphasis, image links, and real captions.
-- Article-specific section headings and meaningful display rhythm.
-
-Add anchors:
-
-- `<!-- cover -->` before the cover image.
-- `<!-- img001 -->`, `<!-- img002 -->` before images retained in clean output.
-- `<!-- caption: ... -->` after images with real or structural captions.
-- `<!-- p001 -->`, `<!-- p002 -->` before analyzed body paragraphs.
-- `<!-- structural_note: ... -->` for retained interaction or layout notes such as `左右滑动查看更多`.
-
-Do not count metadata, cover, source/editor chain, recommendation blocks, preview residue, or interaction prompts as body paragraphs. Interaction prompts must not appear in `paragraph_functions[]`; keep them in `structural_notes[]`.
-
-Treat the first recommendation-reading marker (for example `推荐阅读` or a recommendation list introduced by `▼`) as a hard cutoff. Remove the marker and everything after it, including recommendation links and images, `iSYSU`, source/editor chains, QR codes, platform footers, and comments. Preserve title, account, publish time, publish location, and all article body content before the cutoff.
-
-## Analysis Document Rules
-
-Cover these sections:
-
-1. 基础信息
-2. 一句话主旨
-3. 传播目的
-4. 核心事实库
-5. 文章结构
-6. 段落功能表
-7. 标题分析
-8. 语言风格
-9. 价值叙事
-10. 图文编排
-11. 可复用模板
-12. 写作器调用建议
-
-Facts table must include source paragraph, source quote, and confidence.
-
-Facts are coverage-driven rather than count-driven. Identify the article's substantive sections first, then include at least one traceable fact for every section and additional facts for important people, dates, figures, results, and conclusions. Do not impose a fixed global fact limit or collapse a long article into a small generic list.
-
-`source_quote` may remove Markdown styling markers such as `**` and normalize excess whitespace, but it must not change the meaning, invent missing details, or reorder text in a way that weakens traceability. If the quote is supported by an image caption, preserve the caption's original meaning and pair it with `source_image_id`.
-
-## JSON Rules
-
-Use the stable fields in `references/schema.md`.
-
-Critical requirements:
-
-- Every `facts[]` item must include `source_paragraph_id`, `source_quote`, and `confidence`.
-- Every `paragraph_functions[]` item must include `display_text` and `normalized_text`.
-- Do not place interaction prompts such as `左右滑动查看更多` in `paragraph_functions[]`; use top-level `structural_notes[]`.
-- Every `visuals[]` item must include `caption_source`: `original`, `inferred`, or `structural`.
-- Every template must include `applicable_scenarios` and `not_applicable_scenarios`.
-- Strong assertions must appear in `generation_constraints.strong_claims_require_source` and/or `type_specific_constraints`.
-- Do not invent facts, quotes, dates, awards, official statuses, image captions, or numbers.
-
-Use `style.labels` as a semi-controlled retrieval vocabulary. Start every text article with the base labels `事实驱动`, `分章节叙事`, and `校媒报道`, then add 2-4 discriminative labels describing its writing mode, emotional posture, or narrative mechanism. Prefer an existing canonical label over a synonym; add a new label only when no existing label expresses the distinction. Do not mechanically copy `article_types` into `style.labels`.
-
-## Commit and Notification
-
-Follow repository `AGENTS.md`:
-
-- Read the required git history before modifications.
-- Commit only task-related files.
-- Ignore unrelated untracked files unless the user asks otherwise.
-- Send the completion notification after final verification.
+Follow repository `AGENTS.md`: read required Git history before edits, commit only task files, and send the completion notification after verification.
