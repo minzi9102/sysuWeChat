@@ -1,0 +1,108 @@
+{
+  "article_id": "sysu_20251030_2211",
+  "title": "面对面〡骆腾：“做有人文温度与家国情怀的苍生大医”",
+  "publish_time": "2025-10-30 22:11",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": ["人物访谈类", "红色校史类", "医学人文类", "医疗援助类", "贺信周年专题类"],
+  "keywords": ["骆腾", "中山一院", "抗战救护", "医学教育", "红色基因", "医疗帮扶", "白衣外交", "苍生大医"],
+  "summary": "文章以骆腾访谈串联中山一院抗战救护、烽火育人和新时代医疗帮扶实践，阐释“救人救国救世”的历史传承及“苍生大医”的人才培养目标。",
+  "communication_goal": "用可追溯的历史人物、救护行动、帮扶数据和医者表述，把中山一院红色基因转化为医学教育、基层服务、公共卫生担当与国际医疗援助的当代叙事。",
+  "facts": [
+    {"id":"f001","fact":"文章发布时正值中山一院建院115周年。","type":"纪念节点","time":"2025年","subject":"中山大学附属第一医院","object":"建院115周年","importance":"高","can_reuse":true,"risk":"周年数必须以原文为准","source_paragraph_id":"p005","source_quote":"中山一院建院115周年","confidence":"high"},
+    {"id":"f002","fact":"1937年全面抗战爆发后，中大战地服务团、附属医院救护队、医学生和医学院抗敌后援团分别投入救护与防疫。","type":"抗战医疗史","time":"1937年后","subject":"中山医人","object":"投入战地救护与防疫","importance":"高","can_reuse":true,"risk":"战争背景、组织和人数必须准确","source_paragraph_id":"p006","source_quote":"1937年全面抗战爆发后","confidence":"high"},
+    {"id":"f003","fact":"姚碧澄在广州遭轰炸时亲率救护车救治伤员，并在医院困难时垫付医药费。","type":"人物行动","time":"抗战时期","subject":"姚碧澄","object":"组织并亲赴灾区救护","importance":"高","can_reuse":true,"risk":"人物身份和行动不得扩写","source_paragraph_id":"p007","source_quote":"姚碧澄在广州遭轰炸时","confidence":"high"},
+    {"id":"f004","fact":"柯麟抗战期间以澳门镜湖医院为阵地救治伤员、掩护人员转移。","type":"人物行动","time":"抗战期间","subject":"柯麟","object":"开展救治与掩护转移","importance":"高","can_reuse":true,"risk":"人物政治身份及行动须限于原文","source_paragraph_id":"p009","source_quote":"以镜湖医院","confidence":"high"},
+    {"id":"f005","fact":"1941年12月香港沦陷后，柯麟帮助数十位爱国民主人士、文化界人士和共产党人转移。","type":"历史事件","time":"1941年12月","subject":"柯麟","object":"参与文化界人士大营救","importance":"高","can_reuse":true,"risk":"日期、名单、人数范围和政治称谓必须准确","source_paragraph_id":"p010","source_quote":"数十位爱国民主人士","confidence":"high"},
+    {"id":"f006","fact":"周寿恺投身中国红十字会救援总队，提出“救护与防疫并重”。","type":"人物贡献","time":"抗战时期","subject":"周寿恺","object":"从事前线救护与卫生训练","importance":"高","can_reuse":true,"risk":"任职与引语必须按原文","source_paragraph_id":"p012","source_quote":"救护与防疫并重","confidence":"high"},
+    {"id":"f007","fact":"梁伯强在澄江、坪石办学期间坚持医学教育研究并带领学生克服器材困难。","type":"医学教育史","time":"抗战时期","subject":"梁伯强","object":"坚持教学研究","importance":"高","can_reuse":true,"risk":"人物称谓、地点和替代器材细节须准确","source_paragraph_id":"p013","source_quote":"用凡士林代替手套","confidence":"high"},
+    {"id":"f008","fact":"西迁澄江期间，医学院师生完成当地首例甲状腺肿切除和首例剖宫产手术。","type":"医疗实践","time":"西迁澄江期间","subject":"中大医学院师生","object":"完成两项当地首例手术","importance":"高","can_reuse":true,"risk":"“首例”属于强声明","source_paragraph_id":"p014","source_quote":"首例甲状腺肿切除","confidence":"high"},
+    {"id":"f009","fact":"“中山一院DNA”模式覆盖10省、23个市县及31家医疗机构，近一年派出帮扶专家2700多人次。","type":"医疗帮扶","time":"近一年","subject":"中山一院DNA模式","object":"覆盖基层医疗机构并派出专家","importance":"高","can_reuse":true,"risk":"覆盖范围和人次必须逐项核验","source_paragraph_id":"p016","source_quote":"31家医疗机构","confidence":"high"},
+    {"id":"f010","fact":"疫情期间中山一院派出3万余人次医疗队，支援全国13个省区乃至国际。","type":"公共卫生响应","time":"疫情期间","subject":"中山一院","object":"派出医疗队支援","importance":"高","can_reuse":true,"risk":"人次、地域范围和相对时期必须准确","source_paragraph_id":"p017","source_quote":"3万余人次医疗队","confidence":"high"},
+    {"id":"f011","fact":"管向东出征16次并获“全国优秀共产党员”“全国十大最美医生”荣誉。","type":"人物荣誉","time":"未注明","subject":"管向东","object":"抗疫出征并获荣誉","importance":"高","can_reuse":true,"risk":"次数、荣誉名称属于强声明","source_paragraph_id":"p017","source_quote":"管向东出征16次","confidence":"high"},
+    {"id":"f012","fact":"吴德熙所在的中国援外医疗队被授予“时代楷模”称号。","type":"援外医疗荣誉","time":"未注明","subject":"吴德熙所在中国援外医疗队","object":"获时代楷模称号","importance":"高","can_reuse":true,"risk":"团队归属和荣誉名称必须准确","source_paragraph_id":"p018","source_quote":"时代楷模","confidence":"high"},
+    {"id":"f013","fact":"文章将技艺精湛、具有人文温度和家国情怀的“苍生大医”设为更深层次培养目标。","type":"人才培养观点","time":"当代","subject":"中山一院医学人才培养","object":"培养苍生大医","importance":"高","can_reuse":true,"risk":"必须保留受访者观点语境","source_paragraph_id":"p019","source_quote":"人文温度与家国情怀","confidence":"high"}
+  ],
+  "structure": [
+    {"section":"贺信周年与受访者导入","paragraphs":["p001","p002","p003"],"purpose":"交代栏目背景和骆腾身份。"},
+    {"section":"烽火仁心","paragraphs":["p004","p005","p006","p007","p008","p009","p010"],"purpose":"以救护队、姚碧澄和柯麟呈现抗战医者担当。"},
+    {"section":"师者风骨","paragraphs":["p011","p012","p013","p014"],"purpose":"以周寿恺、梁伯强和西迁医疗呈现医学教育火种。"},
+    {"section":"时代担当","paragraphs":["p015","p016","p017","p018","p019"],"purpose":"以基层帮扶、公共卫生、援外医疗和人才培养呈现当代担当。"},
+    {"section":"使命收束","paragraphs":["p020"],"purpose":"由115年历史落到健康中国与人类福祉。"}
+  ],
+  "paragraph_functions": [
+    {"paragraph_id":"p001","display_text":"中山大学百年校庆时，习近平总书记亲致贺信。","normalized_text":"中山大学百年校庆时，习近平总书记亲致贺信。文章在学习贯彻贺信精神一周年之际推出访谈栏目。","summary":"交代贺信周年和栏目背景。","function_tags":["时点导入","栏目说明"],"writing_method":"重要节点加栏目目标","reuse_value":"系列专题开场"},
+    {"paragraph_id":"p002","display_text":"收信人","normalized_text":"收信人","summary":"受访者栏标题。","function_tags":["小节标题"],"writing_method":"身份标签","reuse_value":"人物引入"},
+    {"paragraph_id":"p003","display_text":"骆腾，中山大学附属第一医院党委书记。","normalized_text":"骆腾，中山大学附属第一医院党委书记。","summary":"说明受访者身份。","function_tags":["人物身份"],"writing_method":"简历式介绍","reuse_value":"访谈人物卡"},
+    {"paragraph_id":"p004","display_text":"烽火仁心：白袍为甲铸忠魂","normalized_text":"烽火仁心：白袍为甲铸忠魂","summary":"抗战救护章标题。","function_tags":["章节标题"],"writing_method":"医学意象与价值判断","reuse_value":"历史章节标题"},
+    {"paragraph_id":"p005","display_text":"今年是中国人民抗日战争暨世界反法西斯战争胜利80周年……","normalized_text":"提问以抗战胜利80周年和中山一院建院115周年引出红色故事。","summary":"提出抗战医疗史问题。","function_tags":["主持人提问","纪念节点"],"writing_method":"双周年设问","reuse_value":"访谈转场"},
+    {"paragraph_id":"p006","display_text":"80年前山河破碎，烽火连天。中山医人以白袍为甲……","normalized_text":"1937年全面抗战爆发后，中大战地服务团、医疗骨干、29名医学生和抗敌后援团分别投入战地救护和疫苗制造。","summary":"列举抗战救护组织行动。","function_tags":["历史叙事","行动清单"],"writing_method":"意象总起后列举","reuse_value":"机构抗战史"},
+    {"paragraph_id":"p007","display_text":"面对广州屡遭日军轰炸……姚碧澄亲率救护车奔赴灾区。","normalized_text":"姚碧澄在广州遭轰炸时组织救护并垫付医药费。","summary":"讲述姚碧澄救护故事。","function_tags":["人物故事","医者担当"],"writing_method":"灾难场景加具体行动","reuse_value":"人物通讯"},
+    {"paragraph_id":"p008","display_text":"中山一院老院长柯麟利用自己的“红色特工”身份……","normalized_text":"提问引出柯麟抗战时期的营救工作。","summary":"转入柯麟故事。","function_tags":["主持人提问","人物转场"],"writing_method":"身份悬念","reuse_value":"人物访谈转场"},
+    {"paragraph_id":"p009","display_text":"柯麟先生毕业于广东公医大学。1927年，他投身北伐……","normalized_text":"柯麟受组织安排潜伏澳门，抗战期间以镜湖医院开展救治和人员转移。","summary":"交代柯麟经历与救援网络。","function_tags":["人物履历","历史行动"],"writing_method":"时间线叙述","reuse_value":"校史人物介绍"},
+    {"paragraph_id":"p010","display_text":"1941年12月香港沦陷……","normalized_text":"香港沦陷后，柯麟帮助数十位爱国民主人士、文化界人士和共产党人转移。","summary":"呈现文化界大营救。","function_tags":["历史事件","人物行动"],"writing_method":"危机场景加名单举证","reuse_value":"历史故事高潮"},
+    {"paragraph_id":"p011","display_text":"师者风骨：风雨育人传薪火","normalized_text":"师者风骨：风雨育人传薪火","summary":"烽火育人章标题。","function_tags":["章节标题"],"writing_method":"风雨与薪火意象","reuse_value":"教育史章节标题"},
+    {"paragraph_id":"p012","display_text":"著名内分泌学家周寿恺教授在抗战爆发后……","normalized_text":"周寿恺投身前线救护，提出救护与防疫并重并培养战时卫生人才。","summary":"介绍周寿恺的救护与育人。","function_tags":["人物贡献","医学育人"],"writing_method":"履历、困境、方法并列","reuse_value":"医学人物介绍"},
+    {"paragraph_id":"p013","display_text":"坪石先生不是一个人，而是一群人……","normalized_text":"梁伯强在澄江和坪石坚持医学教育研究，带领学生用凡士林代替手套、云母片代替玻片、白糖水浸制标本，克服教学困难。","summary":"介绍梁伯强烽火办学。","function_tags":["人物故事","艰苦办学"],"writing_method":"群像判断转代表人物","reuse_value":"烽火教育叙述"},
+    {"paragraph_id":"p014","display_text":"“医病医身医心，救人救国救世”是永恒的信念。","normalized_text":"医学院师生在澄江完成当地首例甲状腺肿切除手术和首例剖宫产手术，并在澄江、乐昌行医防疫，为群众提供接种和免费体检。","summary":"概括西迁期间医疗服务。","function_tags":["医疗实践","服务群众"],"writing_method":"价值引语加行动清单","reuse_value":"服务人民案例"},
+    {"paragraph_id":"p015","display_text":"时代担当：红色基因谱新章","normalized_text":"时代担当：红色基因谱新章","summary":"新时代实践章标题。","function_tags":["章节标题"],"writing_method":"传承式标题","reuse_value":"今昔转场"},
+    {"paragraph_id":"p016","display_text":"百年来，医院的红色基因代代相传……","normalized_text":"中山一院构建DNA健康服务模式，覆盖10省、23个市县和31家医疗机构。","summary":"介绍基层帮扶模式。","function_tags":["医疗帮扶","数据举证"],"writing_method":"使命判断加覆盖数据","reuse_value":"机构成果综述"},
+    {"paragraph_id":"p017","display_text":"在突发公共卫生事件中，中山一院勇担重任。","normalized_text":"疫情期间中山一院派出3万余人次医疗队；管向东出征16次并获得国家级荣誉。","summary":"介绍公共卫生担当。","function_tags":["应急响应","人物荣誉"],"writing_method":"规模数据加代表人物","reuse_value":"抗疫工作综述"},
+    {"paragraph_id":"p018","display_text":"在白衣外交中，中山一院积极服务“一带一路”……","normalized_text":"中山一院开展援外医疗，吴德熙所在医疗队获时代楷模称号。","summary":"介绍国际医疗援助。","function_tags":["援外医疗","国际交流"],"writing_method":"地域列举、荣誉和外方引语","reuse_value":"援外工作综述"},
+    {"paragraph_id":"p019","display_text":"习近平总书记要求医务工作者……做苍生大医。","normalized_text":"文章提出培养技艺精湛、具有人文温度与家国情怀的苍生大医。","summary":"提出医学人才培养目标。","function_tags":["权威引语","人才培养","主题升华"],"writing_method":"引语定向后解释目标","reuse_value":"医学教育结论"},
+    {"paragraph_id":"p020","display_text":"始终与民族同命运，与时代共奋进。","normalized_text":"文章以115年历史、健康中国和人类福祉收束。","summary":"完成使命升华。","function_tags":["总结升华","未来展望"],"writing_method":"短句排比","reuse_value":"机构纪念结尾"}
+  ],
+  "style": {
+    "labels": ["事实驱动", "分章节叙事", "校媒报道", "人物通讯型", "家国叙事型", "医学人文型", "医疗援助型"],
+    "tone": "庄重、深情、昂扬",
+    "sentence_features": ["主持人提问与受访者长答交替", "历史部分使用精确年份和动作清单", "当代部分密集使用覆盖范围、人数和荣誉", "章节标题采用双短语结构"],
+    "layout_features": ["三大主题章节", "人物照片与历史资料图穿插", "重要观点和引语加粗", "结尾短行排比"],
+    "common_phrases": ["红色基因", "救人救国救世", "家国情怀", "苍生大医"],
+    "rhetorical_devices": ["医学意象", "今昔对照", "排比", "人物群像", "问答推进"],
+    "style_metrics": {"headline_emotion_level":"high","fact_density":"high","quote_density":"high","value_sublimation_level":"high","average_paragraph_length":"long","bold_usage":"questions_quotes_and_key_claims","image_caption_dependency":"medium-high"},
+    "reusable_phrases": ["以代表人物的历史行动解释机构精神传统", "用基层、抗疫和援外三类实践呈现医学机构的时代担当"],
+    "not_reusable_phrases": ["重要政治引语和革命史表述不得脱离原文改写", "首例、最早、荣誉和精确数据未经核验不得复用"]
+  },
+  "value_narrative": {
+    "themes": ["医者初心", "红色基因", "医学教育", "服务人民", "家国担当"],
+    "levels": {"personal_level":"姚碧澄、柯麟、周寿恺、梁伯强等以救治、营救和育人作出选择。","team_level":"战地服务团、救护队、医疗队和援外团队形成跨时代医者群像。","course_level":"战时卫生训练、读书报告会和医学人才培养延续专业教育。","school_level":"中山一院把院史传统转化为基层健康服务、公共卫生响应和援外医疗。","national_level":"以健康中国、人民健康和国际医疗合作统摄机构使命。"},
+    "transition_method": "从抗战救护进入烽火育人，再由基层、抗疫和援外实践证明精神传统的现实延续。",
+    "school_image": ["医学传统深厚", "救死扶伤", "重视育人", "服务基层", "担当国家使命"],
+    "ending_method": "以115年时间纵深和健康中国、人类福祉完成使命升华。"
+  },
+  "visuals": [
+    {"image_id":"cover","caption":"封面图","caption_source":"structural","type":"封面","function":"建立人物访谈和医学主题入口","position":"标题前"},
+    {"image_id":"img001","caption":"《面对面·我们都是收信人》栏目开篇图","caption_source":"structural","type":"栏目图","function":"提示栏目背景","position":"元数据后"},
+    {"image_id":"img002","caption":"骆腾，中山大学附属第一医院党委书记","caption_source":"original","type":"人物肖像","function":"识别受访者","position":"p002后"},
+    {"image_id":"img003","caption":"抗战时期中山医人开展救护与防疫的历史资料图","caption_source":"inferred","type":"历史资料图","function":"承接战地救护内容","position":"p006后"},
+    {"image_id":"img004","caption":"柯麟院长","caption_source":"original","type":"人物图","function":"呈现抗战营救人物","position":"p009后"},
+    {"image_id":"img005","caption":"1939年在茅草屋内，周寿恺（右一）讨论前线士兵营养，制定标准饮食手册","caption_source":"original","type":"历史人物图","function":"呈现战时医学训练","position":"p012后"},
+    {"image_id":"img006","caption":"梁伯强教授","caption_source":"original","type":"人物图","function":"呈现烽火办学人物","position":"p013后"},
+    {"image_id":"img007","caption":"中山大学附属第一医院航拍图","caption_source":"original","type":"机构图","function":"呈现医院空间","position":"p016后"},
+    {"image_id":"img008","caption":"中山大学附属第一医院停机坪","caption_source":"original","type":"设施图","function":"呈现医疗救援设施","position":"p016后"},
+    {"image_id":"img009","caption":"管向东教授被授予“全国优秀共产党员”","caption_source":"original","type":"荣誉图","function":"支撑人物荣誉","position":"p017后"},
+    {"image_id":"img010","caption":"“时代楷模”吴德熙医生在海外进行医疗援助","caption_source":"original","type":"援外纪实图","function":"呈现国际医疗援助","position":"p018后"},
+    {"image_id":"img011","caption":"何晓顺团队开创“无缺血”器官移植技术","caption_source":"original","type":"医疗技术图","function":"呈现医学技术实践","position":"p019后"},
+    {"image_id":"img012","caption":"医生在用达芬奇手术机器人操作手术","caption_source":"original","type":"医疗技术图","function":"呈现现代手术场景","position":"p019后"},
+    {"image_id":"img013","caption":"中山一院为儿童打造会讲故事的温暖病房","caption_source":"original","type":"医学人文图","function":"呈现人文医疗环境","position":"p019后"},
+    {"image_id":"img014","caption":"《面对面·我们都是收信人》栏目收束图","caption_source":"structural","type":"收束图","function":"结束访谈专题","position":"p020后"}
+  ],
+  "image_stats": {"cover_images":1,"content_images":12,"decorative_images":2,"recommendation_images":0,"footer_images":0,"total_image_nodes_in_clean":15,"unique_image_urls":15},
+  "templates": [
+    {"template":"纪念节点 -> 栏目与受访者 -> 历史事件 -> 代表人物 -> 当代实践 -> 人才培养目标 -> 使命收束","applicable_scenarios":["医院院史","人物访谈","精神传承专题"],"not_applicable_scenarios":["缺乏受访者直接观点的短消息","没有跨时期事实链的活动稿"]},
+    {"template":"主持人提出时代问题 -> 受访者给出价值判断 -> 精确时间、人物和行动举证 -> 回扣机构传统","applicable_scenarios":["校史访谈","医学人文访谈","行业人物专访"],"not_applicable_scenarios":["事实和引语未经原始材料核验的宣传稿"]}
+  ],
+  "generation_constraints": {
+    "must_not_invent": ["抗战史、革命史、重要贺信和政治表述", "人物身份、组织名称、医疗行为、荣誉、覆盖范围和人数", "无原始说明图片中的人物、地点和活动细节"],
+    "strong_claims_require_source": ["中山一院建院115周年", "当地首例甲状腺肿切除手术和首例剖宫产手术", "最早接受国家卫健委指定的国家医疗队的医院", "覆盖10省、23个市县和31家医疗机构", "近一年派出帮扶专家2700多人次", "派出3万余人次医疗队", "支援全国13个省区乃至国际", "管向东出征16次", "全国优秀共产党员", "全国十大最美医生", "时代楷模"],
+    "quote_handling": ["习近平总书记关于医务工作者的引语必须逐字回查原文", "骆腾的判断需保留访谈说话人语境", "多米尼克卫生部长引语不得改变说话人和原意"],
+    "scenario_boundaries": ["仅使用“▼ 推荐阅读 ▼”之前正文", "出品单位、编辑链、推荐链接、二维码和预览残留不得作为事实", "“近一年”不擅自换算为具体日期范围"],
+    "recommended_writer_use": ["按抗战救护、烽火育人、时代担当三章组织材料", "每项首例、最早、荣誉、人数和覆盖范围逐项回查对应段落", "保留人物—困境—行动—价值的证据链"],
+    "type_specific_constraints": [
+      {"term":"重要政治引语","constraint":"不得扩写原文未呈现内容或改变政治表述。","category":"quote_handling"},
+      {"term":"抗战医疗史","constraint":"人物、组织、日期、事件因果和政治评价必须以正文为限。","category":"must_not_invent"},
+      {"term":"医疗首例与荣誉","constraint":"首例、最早、时代楷模和全国性荣誉只可在有直接引文时使用。","category":"strong_claim"},
+      {"term":"医疗帮扶数据","constraint":"10省、23个市县、31家机构、2700多人次、3万余人次、13个省区和16次不得互换或推算。","category":"strong_claim"}
+    ]
+  }
+}
