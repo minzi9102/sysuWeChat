@@ -1,0 +1,284 @@
+{
+  "article_id": "sysu_20251111_2030",
+  "title": "中大英文官微，来了！",
+  "publish_time": "2025-11-11 20:30",
+  "account": "Global SYSU",
+  "publish_location": "广东",
+  "article_types": ["平台上线类", "国际传播类", "内容导览类", "互动征集类"],
+  "keywords": ["中山大学英文官微", "Global SYSU", "国际传播", "海外社交媒体", "国际师生", "海外校友", "全球传播矩阵"],
+  "summary": "文章宣布中山大学英文官方微信公众号上线，回顾四个海外社交媒体账号的运营成果，说明由英文官网、四个海外平台和英文官微组成的六平台国际传播矩阵，并介绍目标受众、五类内容和投稿分享邀请。",
+  "communication_goal": "向国际师生、海外校友及关注学校国际化办学的读者介绍英文官方微信公众号的定位与内容，推动关注、投稿和分享，扩大中山大学国际传播触达。",
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "中山大学英文官方微信公众号于2025年11月11日正式上线。",
+      "type": "平台上线",
+      "time": "2025年11月11日",
+      "subject": "中山大学英文官方微信公众号",
+      "object": "正式上线",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "上线日期和官方属性必须按原文发布语境表述",
+      "source_paragraph_id": "p001",
+      "source_quote": "今天，中大全球传播矩阵添加新成员，中大英文官微正式上线",
+      "confidence": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "中山大学在百年校庆之际开通Facebook、Instagram、YouTube和TikTok四个海外社交媒体平台官方账号。",
+      "type": "平台建设",
+      "time": "2024年百年校庆之际",
+      "subject": "中山大学",
+      "object": "开通四个海外社交媒体平台官方账号",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "平台数量与官方账号属性须保留；正文一处写作Tik Tok，图片说明采用标准写法TikTok",
+      "source_paragraph_id": "p002",
+      "source_quote": "中山大学重磅开通 Facebook、Instagram、YouTube、Tik Tok 四大海外社交媒体平台官方账号",
+      "confidence": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "四个海外社交媒体平台官方账号运营一年后累计获得超过3.6万粉丝。",
+      "type": "传播数据",
+      "time": "开通后一年",
+      "subject": "中山大学四个海外社交媒体平台官方账号",
+      "object": "粉丝数超过3.6万",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "粉丝数具有时点性，不得作为当前实时数据复用",
+      "source_paragraph_id": "p002",
+      "source_quote": "目前已经收获超过3.6万粉丝",
+      "confidence": "high"
+    },
+    {
+      "id": "f004",
+      "fact": "英文官方微信公众号上线后，中山大学国际传播平台增至6个。",
+      "type": "平台规模",
+      "time": "2025年11月11日",
+      "subject": "中山大学国际传播平台",
+      "object": "增至6个",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "数量仅适用于文章发布时点；六个平台由英文官网、四个海外社交媒体账号和英文官微构成",
+      "source_paragraph_id": "p004",
+      "source_quote": "加上原有的英文官网（英文新闻网），中大国际传播平台现已增至6个",
+      "confidence": "high"
+    },
+    {
+      "id": "f005",
+      "fact": "英文官微重点面向在校国际师生、海外校友和关注中山大学国际化办学发展的读者。",
+      "type": "受众定位",
+      "time": "2025年11月",
+      "subject": "中山大学英文官微",
+      "object": "服务三类国际传播受众",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "不得将重点受众误写为排他性用户范围",
+      "source_paragraph_id": "p006",
+      "source_quote": "重点面向在校国际师生、情系母校的海外校友，以及每一位关注中大国际化办学发展的朋友",
+      "confidence": "high"
+    },
+    {
+      "id": "f006",
+      "fact": "英文官微将发布学校最新动态和校园新闻。",
+      "type": "内容栏目",
+      "time": "未来运营期",
+      "subject": "中山大学英文官微",
+      "object": "发布校园新闻",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "属于平台内容规划，不是既有发布量承诺",
+      "source_paragraph_id": "p009",
+      "source_quote": "我们发布学校最新动态，记录每一个中大前行的脚步",
+      "confidence": "high"
+    },
+    {
+      "id": "f007",
+      "fact": "英文官微将传播科研成果和科研工作者故事。",
+      "type": "内容栏目",
+      "time": "未来运营期",
+      "subject": "中山大学英文官微",
+      "object": "发布科研动态",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "不得扩写为具体科研成果或固定更新频率",
+      "source_paragraph_id": "p011",
+      "source_quote": "我们传递前沿科研成果，讲述科研工作者的奋进故事",
+      "confidence": "high"
+    },
+    {
+      "id": "f008",
+      "fact": "英文官微计划面向国际学子发布招生政策、奖学金和申请指南，并面向全球人才发布学者招聘与合作信息。",
+      "type": "内容栏目",
+      "time": "未来运营期",
+      "subject": "中山大学英文官微",
+      "object": "发布招生与招聘信息",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "仅说明信息类别，不能据此生成具体资格、奖学金金额、申请期限或招聘条件",
+      "source_paragraph_id": "p013",
+      "source_quote": "我们面向国际学子，推送招生政策、奖学金与申请指南；面向全球英才，发布学者招聘与合作信息",
+      "confidence": "high"
+    },
+    {
+      "id": "f009",
+      "fact": "英文官微将分享国际师生在中山大学三校区五校园的校园生活体验。",
+      "type": "内容栏目",
+      "time": "未来运营期",
+      "subject": "中山大学英文官微",
+      "object": "呈现三校区五校园的国际师生体验",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "“三校区五校园”为学校办学空间表述，数量需直接核验",
+      "source_paragraph_id": "p015",
+      "source_quote": "我们分享国际师生在中大三校区五校园的多元体验",
+      "confidence": "high"
+    },
+    {
+      "id": "f010",
+      "fact": "英文官微还将发布人物故事，并邀请中大人投稿校园故事、校园瞬间和国际交流见闻。",
+      "type": "内容与互动",
+      "time": "未来运营期",
+      "subject": "中山大学英文官微",
+      "object": "发布人物故事并征集用户投稿",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "文章未给出投稿渠道、格式、截止日期或采用规则，不得补写",
+      "source_paragraph_id": "p019",
+      "source_quote": "欢迎投稿你的中大故事、校园瞬间或国际交流见闻",
+      "confidence": "high"
+    }
+  ],
+  "structure": [
+    {
+      "section": "英文官微上线与海外传播回顾",
+      "paragraphs": ["p001", "p002", "p003", "p004"],
+      "purpose": "宣布新平台上线，以四个海外账号的一年运营成果说明国际传播矩阵扩展的背景。"
+    },
+    {
+      "section": "平台身份与目标受众",
+      "paragraphs": ["p005", "p006"],
+      "purpose": "界定英文官微的官方信息平台属性及其重点服务人群。"
+    },
+    {
+      "section": "五类发布内容",
+      "paragraphs": ["p007", "p008", "p009", "p010", "p011", "p012", "p013", "p014", "p015", "p016", "p017"],
+      "purpose": "按校园新闻、科研动态、招生与招聘、校园生活、人物故事五个栏目解释平台内容。"
+    },
+    {
+      "section": "平台价值与共同参与",
+      "paragraphs": ["p018", "p019", "p020"],
+      "purpose": "将平台定位提升至展示中国高校形象，并以投稿、分享和订阅号召收束。"
+    }
+  ],
+  "paragraph_functions": [
+    {"paragraph_id":"p001","display_text":"今天，中大全球传播矩阵添加新成员，**中大英文官微正式上线！**","normalized_text":"今天，中大全球传播矩阵添加新成员，中大英文官微正式上线。初次见面，请多多关照。点击关注并星标名片，解锁中大国际朋友圈最新动态。","summary":"宣布英文官微上线并发出关注邀请。","function_tags":["核心消息","行动引导"],"writing_method":"当天节点加拟人化问候","reuse_value":"平台上线开篇"},
+    {"paragraph_id":"p002","display_text":"去年百年校庆之际……目前已经收获超过3.6万粉丝。","normalized_text":"去年百年校庆之际，中山大学重磅开通 Facebook、Instagram、YouTube、Tik Tok 四大海外社交媒体平台官方账号。总书记的贺信精神给予我们强大动力。一年来，我们持续讲述绿色中大、医学中大、人文中大，致力让全世界了解中大、了解湾区、了解中国，目前已经收获超过3.6万粉丝。","summary":"回顾四个海外平台及粉丝成果。","function_tags":["背景回顾","数字成果"],"writing_method":"时间回溯加平台清单和量化结果","reuse_value":"传播平台成果介绍"},
+    {"paragraph_id":"p003","display_text":"一年来，我们通过这些平台……**来看看我们如何把中大讲给世界听。**","normalized_text":"一年来，校园新闻和故事通过海外平台跨越语言和国界，触达世界各地的朋友。","summary":"概括海外平台传播作用。","function_tags":["作用说明","案例过渡"],"writing_method":"传播路径加读者邀请","reuse_value":"案例入口过渡"},
+    {"paragraph_id":"p004","display_text":"时隔一年，又启新程……**中大国际传播平台现已增至6个！**","normalized_text":"时隔一年，又启新程。在101周年校庆之际，我们创建英文官方微信公众号，进一步壮大全球传播矩阵力量。加上原有的英文官网（英文新闻网），中大国际传播平台现已增至6个！","summary":"说明新平台上线后的矩阵规模。","function_tags":["节点推进","规模结论"],"writing_method":"周年节点与平台加法","reuse_value":"矩阵扩展说明"},
+    {"paragraph_id":"p005","display_text":"## 我们是谁？","normalized_text":"我们是谁？","summary":"引出平台身份。","function_tags":["设问标题"],"writing_method":"读者视角设问","reuse_value":"产品定位分节"},
+    {"paragraph_id":"p006","display_text":"中山大学英文官微，是学校重点面向在校国际师生……","normalized_text":"中山大学英文官微，是学校重点面向在校国际师生、情系母校的海外校友，以及每一位关注中大国际化办学发展的朋友搭建的英文官方信息发布平台，是学校连接全球的全新纽带。","summary":"定义平台属性与目标受众。","function_tags":["平台定位","受众说明"],"writing_method":"受众列举加功能定性","reuse_value":"官方平台定位"},
+    {"paragraph_id":"p007","display_text":"## 中大英文官微将发布哪些内容？","normalized_text":"中大英文官微将发布哪些内容？","summary":"引出五类内容。","function_tags":["设问标题","内容导览"],"writing_method":"问题式转场","reuse_value":"栏目导览分节"},
+    {"paragraph_id":"p008","display_text":"### 1 校园新闻","normalized_text":"1 校园新闻","summary":"第一类内容标题。","function_tags":["编号标题"],"writing_method":"序号加栏目名","reuse_value":"栏目清单"},
+    {"paragraph_id":"p009","display_text":"我们发布学校最新动态……","normalized_text":"我们发布学校最新动态，记录每一个中大前行的脚步，让你实时触摸校园脉搏。","summary":"说明校园新闻栏目。","function_tags":["栏目说明"],"writing_method":"发布对象加读者收益","reuse_value":"校园新闻介绍"},
+    {"paragraph_id":"p010","display_text":"### 2 科研动态","normalized_text":"2 科研动态","summary":"第二类内容标题。","function_tags":["编号标题"],"writing_method":"序号加栏目名","reuse_value":"栏目清单"},
+    {"paragraph_id":"p011","display_text":"我们传递前沿科研成果……","normalized_text":"我们传递前沿科研成果，讲述科研工作者的奋进故事，让中大的绿色理念与创新精神可感可及。","summary":"说明科研动态栏目。","function_tags":["栏目说明"],"writing_method":"成果与人物并列","reuse_value":"科研内容介绍"},
+    {"paragraph_id":"p012","display_text":"### 3 招生与招聘","normalized_text":"3 招生与招聘","summary":"第三类内容标题。","function_tags":["编号标题"],"writing_method":"序号加栏目名","reuse_value":"栏目清单"},
+    {"paragraph_id":"p013","display_text":"我们面向国际学子……","normalized_text":"我们面向国际学子，推送招生政策、奖学金与申请指南；面向全球英才，发布学者招聘与合作信息。","summary":"说明招生与招聘栏目。","function_tags":["栏目说明","双受众"],"writing_method":"面向两类人群平行展开","reuse_value":"招生招聘导览"},
+    {"paragraph_id":"p014","display_text":"### 4 校园生活","normalized_text":"4 校园生活","summary":"第四类内容标题。","function_tags":["编号标题"],"writing_method":"序号加栏目名","reuse_value":"栏目清单"},
+    {"paragraph_id":"p015","display_text":"我们分享国际师生在中大三校区五校园的多元体验……","normalized_text":"我们分享国际师生在中大三校区五校园的多元体验，带你感受百年学府的人文底蕴与青春活力。","summary":"说明校园生活栏目。","function_tags":["栏目说明","空间展示"],"writing_method":"场景范围加体验价值","reuse_value":"校园生活介绍"},
+    {"paragraph_id":"p016","display_text":"### 5 人物故事","normalized_text":"5 人物故事","summary":"第五类内容标题。","function_tags":["编号标题"],"writing_method":"序号加栏目名","reuse_value":"栏目清单"},
+    {"paragraph_id":"p017","display_text":"我们挖掘中大鲜活立体的面孔……","normalized_text":"平台挖掘中大人物，讲述温暖而有亮点的故事。","summary":"说明人物故事栏目。","function_tags":["栏目说明","人物叙事"],"writing_method":"人物形象加情感定调","reuse_value":"人物栏目介绍"},
+    {"paragraph_id":"p018","display_text":"中大正加快建设中国特色世界一流大学……","normalized_text":"英文官微既是学校沟通世界的新起点，也是向世界展示新时代中国高校风采的重要窗口。","summary":"阐释平台的学校与国家传播价值。","function_tags":["价值升华","国际传播"],"writing_method":"不仅是、更是递进","reuse_value":"平台价值提升"},
+    {"paragraph_id":"p019","display_text":"我们也诚挚邀请全体中大人共同参与……","normalized_text":"我们也诚挚邀请全体中大人共同参与：欢迎投稿你的中大故事、校园瞬间或国际交流见闻；欢迎分享英文官微内容，让更多国际朋友了解中大、走近中大。","summary":"发出投稿和分享邀请。","function_tags":["互动征集","行动号召"],"writing_method":"两个欢迎并列","reuse_value":"共创型互动段"},
+    {"paragraph_id":"p020","display_text":"新平台，新起点……**关注订阅中山大学英文官微，与中大共赴新的全球旅程！**","normalized_text":"平台未来将用更鲜活的表达、生动的影像和多元形式讲述中大故事、传递中国声音，并邀请读者关注订阅。","summary":"未来愿景与订阅号召。","function_tags":["未来展望","关注引导"],"writing_method":"三项形式排比加旅程意象","reuse_value":"平台上线结尾"}
+  ],
+  "style": {
+    "labels": ["事实驱动", "分章节叙事", "校媒报道", "国际交流型", "平台吸引型", "流程指引型"],
+    "tone": "亲切、明快、开放，在官方发布中保持面向国际社群的邀请感",
+    "sentence_features": ["短句和口语化招呼用于上线宣布", "平台名称与数字提供事实支撑", "五个编号栏目形成整齐并列", "欢迎投稿与欢迎分享构成行动号召"],
+    "layout_features": ["上线消息先行", "设问标题划分平台定位与内容导览", "编号展示五类栏目", "多张平台和内容示例图穿插"],
+    "common_phrases": ["初次见面，请多多关照", "我们是谁", "将发布哪些内容", "欢迎投稿", "欢迎分享", "新平台，新起点"],
+    "rhetorical_devices": ["拟人化问候", "设问", "排比", "递进", "旅程意象"],
+    "style_metrics": {
+      "headline_emotion_level": "high",
+      "fact_density": "medium",
+      "quote_density": "none",
+      "value_sublimation_level": "medium",
+      "average_paragraph_length": "short",
+      "bold_usage": "key_messages_and_calls_to_action",
+      "image_caption_dependency": "medium"
+    },
+    "reusable_phrases": ["用当天消息和初次见面问候宣布平台上线", "用设问解释平台是谁和发布什么", "按编号列出内容栏目并说明读者收益", "以投稿、分享、关注形成三级行动引导"],
+    "not_reusable_phrases": ["粉丝数和平台总数不得脱离发布时点复用", "平台官方属性、英文名称和受众范围不得自行扩大"]
+  },
+  "value_narrative": {
+    "themes": ["国际传播", "开放连接", "学校形象", "师生共创", "中国高校叙事"],
+    "levels": {
+      "personal_level": "读者通过关注、投稿和分享参与英文官微建设。",
+      "team_level": "国际师生、海外校友和全体中大人共同提供并传播校园故事。",
+      "school_level": "学校以六个平台构建国际传播矩阵，呈现教学、科研、校园和人物内容。",
+      "national_level": "平台被定位为向世界展示新时代中国高校风采、传递中国声音的窗口。"
+    },
+    "transition_method": "从新平台上线消息出发，回顾既有海外传播成果，再解释平台受众和内容，最后上升到学校国际传播价值并邀请共同参与。",
+    "school_image": ["国际开放", "内容多元", "绿色创新", "人文温度", "主动连接全球"],
+    "ending_method": "以“新平台，新起点”提出内容形式愿景，以“全球旅程”意象引导关注订阅。"
+  },
+  "visuals": [
+    {"image_id":"cover","caption":"封面图","caption_source":"structural","type":"封面","function":"建立英文官微上线主题","position":"标题前"},
+    {"image_id":"img001","caption":"中大英文官方微信公众号上线主题视觉","caption_source":"inferred","type":"上线主视觉","function":"强化核心消息","position":"元数据后"},
+    {"image_id":"img002","caption":"Instagram、Facebook、YouTube、TikTok四大海外社交媒体平台，欢迎国际师生、海外朋友关注","caption_source":"original","type":"平台展示图","function":"展示既有海外平台","position":"p002后"},
+    {"image_id":"img003","caption":"海外社交媒体传播案例入口","caption_source":"inferred","type":"案例图","function":"承接海外传播案例","position":"p003后"},
+    {"image_id":"img004","caption":"栏目分隔视觉","caption_source":"structural","type":"分隔图","function":"划分平台介绍部分","position":"p004后"},
+    {"image_id":"img005","caption":"栏目标题装饰图","caption_source":"structural","type":"装饰图","function":"装饰平台身份标题","position":"p005后"},
+    {"image_id":"img006","caption":"栏目分隔视觉","caption_source":"structural","type":"分隔图","function":"划分内容导览部分","position":"p006后"},
+    {"image_id":"img007","caption":"栏目标题装饰图","caption_source":"structural","type":"装饰图","function":"装饰内容导览标题","position":"p007后"},
+    {"image_id":"img008","caption":"内容类别装饰图","caption_source":"structural","type":"装饰图","function":"配合校园新闻栏目","position":"p008后"},
+    {"image_id":"img009","caption":"内容类别装饰图","caption_source":"structural","type":"装饰图","function":"配合科研动态栏目","position":"p010后"},
+    {"image_id":"img010","caption":"科研动态示例视觉之一","caption_source":"inferred","type":"内容示例图","function":"展示科研传播形态","position":"p011后"},
+    {"image_id":"img011","caption":"科研动态示例视觉之二","caption_source":"inferred","type":"内容示例图","function":"补充科研传播形态","position":"img010后"},
+    {"image_id":"img012","caption":"内容类别装饰图","caption_source":"structural","type":"装饰图","function":"配合招生与招聘栏目","position":"p012后"},
+    {"image_id":"img013","caption":"内容类别装饰图","caption_source":"structural","type":"装饰图","function":"配合校园生活栏目","position":"p014后"},
+    {"image_id":"img014","caption":"内容类别装饰图","caption_source":"structural","type":"装饰图","function":"配合人物故事栏目","position":"p016后"},
+    {"image_id":"img015","caption":"人物故事示例视觉之一","caption_source":"inferred","type":"内容示例图","function":"展示人物叙事形态","position":"p017后"},
+    {"image_id":"img016","caption":"人物故事示例视觉之二","caption_source":"inferred","type":"内容示例图","function":"补充人物叙事形态","position":"img015后"},
+    {"image_id":"img017","caption":"英文官微内容展示与参与邀请视觉","caption_source":"inferred","type":"平台展示图","function":"承接投稿分享邀请","position":"p019后"},
+    {"image_id":"img018","caption":"中山大学英文官微关注引导图","caption_source":"inferred","type":"关注引导图","function":"引导订阅平台","position":"p020后"}
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 9,
+    "decorative_images": 9,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 19,
+    "unique_image_urls": 13
+  },
+  "templates": [
+    {
+      "template": "上线消息 -> 既有矩阵与量化成果 -> 新平台定位 -> 栏目清单 -> 参与方式 -> 关注号召",
+      "applicable_scenarios": ["官方媒体平台上线", "校园融媒体矩阵扩展", "面向特定受众的新账号发布"],
+      "not_applicable_scenarios": ["单项科研成果新闻", "人物深度报道", "仅含操作步骤的服务通知"]
+    },
+    {
+      "template": "设问标题 -> 目标受众 -> 编号栏目 -> 每栏一句内容与读者收益",
+      "applicable_scenarios": ["账号功能介绍", "栏目改版说明", "内容产品导览"],
+      "not_applicable_scenarios": ["需要完整资格条款的招生公告", "需要论证过程的政策解读"]
+    }
+  ],
+  "generation_constraints": {
+    "must_not_invent": ["英文官微的具体微信号、二维码内容和投稿地址", "各栏目更新频率和固定发布时间", "招生资格、奖学金金额、申请截止日期及招聘条件", "图片中的具体人物、页面文字或传播数据"],
+    "strong_claims_require_source": ["2025年11月11日正式上线", "Facebook、Instagram、YouTube、TikTok四个海外社交媒体平台官方账号", "粉丝超过3.6万", "国际传播平台增至6个", "三校区五校园"],
+    "quote_handling": ["正文中的Global SYSU是发布账号署名，不应误作英文官网名称", "平台名称Facebook、Instagram、YouTube、TikTok须保持官方拼写；引用正文时可说明原文一处写作Tik Tok", "“展示新时代中国高校风采的重要窗口”属于文章对平台价值的定位，不应改写为外部评价"],
+    "scenario_boundaries": ["分析仅覆盖“▼ 推荐阅读 ▼”之前正文", "推荐阅读、iSYSU来源编辑链、预览界面和评论不得进入事实库", "超过3.6万粉丝和六个平台均是2025年11月11日发布时点信息", "文章介绍内容类别，不构成具体招生、奖学金或招聘政策"],
+    "recommended_writer_use": ["先用明确上线消息吸引注意，再以既有传播成果建立可信度", "用受众定位回答平台服务谁，用编号栏目回答平台提供什么", "将关注、投稿和分享分别写成清晰行动入口"],
+    "type_specific_constraints": [
+      {"term":"Global SYSU","constraint":"作为本文发布账号名称保留英文大小写和空格，不与“中山大学英文官微”中文产品称谓相互替换。","category":"must_not_invent"},
+      {"term":"TikTok","constraint":"统一使用平台官方拼写TikTok；如逐字引用p002，可注明源文写作Tik Tok。","category":"quote_handling"},
+      {"term":"超过3.6万粉丝","constraint":"必须与四个海外社交媒体平台运营一年及2025年11月11日发布时点共同理解。","category":"strong_claim"},
+      {"term":"国际传播平台增至6个","constraint":"仅按英文官网、四个海外社交媒体账号和英文官微的原文构成解释，不增加其他平台。","category":"strong_claim"},
+      {"term":"招生与招聘","constraint":"仅可复用为未来内容栏目，严禁生成文章未提供的申请或招聘规则。","category":"scenario_boundary"}
+    ]
+  }
+}
