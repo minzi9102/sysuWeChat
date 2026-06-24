@@ -1,0 +1,97 @@
+{
+  "article_id": "sysu_20251110_1435",
+  "title": "《瞭望》专访高松校长：以交叉创新激发教育科技人才一体发展新动能",
+  "publish_time": "2025-11-10 14:35",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": ["校长访谈类", "教育科技人才一体发展类", "学科交叉改革类", "科研与人才培养类"],
+  "keywords": ["高松", "交叉创新", "基础研究", "创造性人才", "预聘长聘制", "粤港澳大湾区"],
+  "summary": "高松校长从科研组织、课程体系、学科治理、教师制度和湾区协同五个层面，阐释中山大学以交叉创新推进教育科技人才一体发展的实践路径。",
+  "communication_goal": "通过权威媒体问答和制度事实，解释中山大学服务国家战略、培养创造性人才与建设世界一流大学的改革逻辑。",
+  "facts": [
+    {"id":"f001","fact":"专访发表于2025年第45期《瞭望》。","type":"出版事实","time":"2025年","subject":"《瞭望》新闻周刊","object":"刊发高松专访","importance":"高","can_reuse":true,"risk":"刊物期次须准确","source_paragraph_id":"p001","source_quote":"文章发表于2025年第45期《瞭望》","confidence":"high"},
+    {"id":"f002","fact":"5项中山大学作为第一完成单位的科研成果获2023年度国家科学技术奖。","type":"科研荣誉","time":"2023年度","subject":"中山大学","object":"国家科学技术奖","importance":"高","can_reuse":true,"risk":"数量、完成单位身份和奖项名称须准确","source_paragraph_id":"p006","source_quote":"5项中山大学作为第一完成单位的科研成果荣获2023年度国家科学技术奖","confidence":"high"},
+    {"id":"f003","fact":"青年科学家培育项目为基础学科青年人才提供3～6年稳定支持。","type":"人才项目","time":"2025年","subject":"青年科学家培育项目","object":"提供长期稳定支持","importance":"高","can_reuse":true,"risk":"支持期限和覆盖学科须准确","source_paragraph_id":"p007","source_quote":"提供3～6年的长周期稳定支持","confidence":"high"},
+    {"id":"f004","fact":"高松将创造性人才核心能力概括为学习力、思想力、行动力的乘积。","type":"教育理念","time":"专访时","subject":"高松","object":"创造性人才能力模型","importance":"高","can_reuse":true,"risk":"公式与说话人不得改动","source_paragraph_id":"p009","source_quote":"创造力=学习力×思想力×行动力","confidence":"high"},
+    {"id":"f005","fact":"学校建设16个交叉专业、12个跨学科微专业，开放2738门专业课，占专业课总门数54%。","type":"人才培养","time":"截至原文发布","subject":"中山大学","object":"构建交叉育人项目","importance":"高","can_reuse":true,"risk":"各数字口径不得混淆","source_paragraph_id":"p010","source_quote":"建设“整合科学”“政治学、经济学与哲学（PPE）”等16个交叉专业，设置12个跨学科微专业，鼓励院系开放2738门专业课，占专业课总门数比例达54%","confidence":"high"},
+    {"id":"f006","fact":"2025级起中山大学所有专业增设跨学科课程模块。","type":"课程改革","time":"2025级起","subject":"中山大学","object":"增设跨学科课程模块","importance":"高","can_reuse":true,"risk":"适用年级与范围须准确","source_paragraph_id":"p010","source_quote":"2025级起所有专业增设“跨学科课程模块”","confidence":"high"},
+    {"id":"f007","fact":"中山大学学科交叉中心2024年成立并获教育部试点建设任务批复。","type":"组织建设","time":"2024年","subject":"中山大学学科交叉中心","object":"获试点建设任务批复","importance":"高","can_reuse":true,"risk":"年份、机构与批复主体须准确","source_paragraph_id":"p011","source_quote":"于2024年正式成立学科交叉中心并获教育部试点建设任务批复","confidence":"high"},
+    {"id":"f008","fact":"预聘长聘制度设置6年预聘期作为评估周期。","type":"教师制度","time":"2023年全面实施以来","subject":"中山大学","object":"实施教研系列预聘长聘制度","importance":"高","can_reuse":true,"risk":"不得解释为非升即走","source_paragraph_id":"p013","source_quote":"设置6年预聘期作为评估周期","confidence":"high"},
+    {"id":"f009","fact":"王猛、邝栋明、覃章才团队分别形成超导、肿瘤代谢和森林固碳交叉研究成果。","type":"科研成果","time":"近年","subject":"三支青年教师团队","object":"跨学科原创成果","importance":"高","can_reuse":true,"risk":"团队、成果与首次率先表述须逐一对应","source_paragraph_id":"p014","source_quote":"王猛教授团队历时5年，率先在镍氧化物中发现液氮温区超导现象","confidence":"high"},
+    {"id":"f010","fact":"中山大学香港高等研究院是内地高校在香港设立的首个综合性研究机构。","type":"平台建设","time":"2024年10月揭牌后","subject":"中山大学香港高等研究院","object":"综合性研究机构","importance":"高","can_reuse":true,"risk":"首个声明需直接来源","source_paragraph_id":"p018","source_quote":"是内地高校在香港设立的首个综合性研究机构","confidence":"high"},
+    {"id":"f011","fact":"学校提出到2030年跻身世界一流大学行列、到2035年若干学科和整体办学实力进入世界一流前列。","type":"战略目标","time":"2030年、2035年","subject":"中山大学","object":"两步走战略目标","importance":"高","can_reuse":true,"risk":"规划不得写成已实现","source_paragraph_id":"p019","source_quote":"到2030年高质量内涵式发展取得突出成效，跻身世界一流大学行列","confidence":"high"}
+  ],
+  "structure": [
+    {"section":"专访总论","paragraphs":["p001","p002","p003"],"purpose":"交代刊发背景，以三条要点和教育科技人才关系总领全文。"},
+    {"section":"科研与人才培养","paragraphs":["p004","p005","p006","p007","p008","p009","p010"],"purpose":"解释基础研究、科研评价改革和创造性人才培养路径。"},
+    {"section":"学科与教师制度","paragraphs":["p011","p012","p013","p014","p015"],"purpose":"呈现交叉学科治理、教师制度及跨学科成果。"},
+    {"section":"湾区协同与战略目标","paragraphs":["p016","p017","p018","p019"],"purpose":"由四地协同和香港平台收束至两步走目标。"}
+  ],
+  "paragraph_functions": [
+    {"paragraph_id":"p001","display_text":"近日，中国科学院院士、中山大学校长高松接受新华社《瞭望》新闻周刊专访，指出要以交叉创新激发教育科技人才一体发展新动能。文章发表于2025年第45期《瞭望》。","normalized_text":"近日，中国科学院院士、中山大学校长高松接受新华社《瞭望》新闻周刊专访，指出要以交叉创新激发教育科技人才一体发展新动能。文章发表于2025年第45期《瞭望》。","summary":"交代专访来源和主题。","function_tags":["背景导入"],"writing_method":"权威媒体引题","reuse_value":"专访报道开场"},
+    {"paragraph_id":"p002","display_text":"三条专访核心要点。","normalized_text":"基础研究成果、青年科学家支持与制度创新三条核心要点。","summary":"摘要先行。","function_tags":["核心摘要"],"writing_method":"提要式列举","reuse_value":"长访谈导读"},
+    {"paragraph_id":"p003","display_text":"记者署名及教育科技人才一体发展总论。","normalized_text":"中山大学以交叉为突破口，通过体制机制创新一体推进教育科技人才发展。","summary":"建立全文总论。","function_tags":["主题定调"],"writing_method":"引语加概括","reuse_value":"战略报道总起"},
+    {"paragraph_id":"p004","display_text":"以交叉创新促进基础研究与国家重大战略需求相结合","normalized_text":"以交叉创新促进基础研究与国家重大战略需求相结合","summary":"第一部分标题。","function_tags":["章节标题"],"writing_method":"议题式标题","reuse_value":"章节分隔"},
+    {"paragraph_id":"p005","display_text":"基础研究的“冷”与国家需求的“热”并非对立。","normalized_text":"通过交叉创新、目标导向与自由探索结合基础研究和国家需求。","summary":"阐释基础研究组织逻辑。","function_tags":["理念解释","机制说明"],"writing_method":"矛盾设问后解答","reuse_value":"科研治理论述"},
+    {"paragraph_id":"p006","display_text":"重大平台、科考任务和国家科技奖成果。","normalized_text":"国家超级计算广州中心新一代“天河星逸”系统正式投入运营，科考船完成多项任务；5项中山大学作为第一完成单位的科研成果荣获2023年度国家科学技术奖。","summary":"用成果证明科研能力。","function_tags":["成果列举","数据证明"],"writing_method":"平台和数字并列","reuse_value":"科研成果段"},
+    {"paragraph_id":"p007","display_text":"评价改革和青年科学家培育项目。","normalized_text":"学校以代表性成果评价、小同行评议及稳定支持释放交叉活力，青年科学家培育项目提供3～6年的长周期稳定支持。","summary":"解释科研内生动力。","function_tags":["制度改革","人才支持"],"writing_method":"两点式机制拆解","reuse_value":"科研制度段"},
+    {"paragraph_id":"p008","display_text":"以交叉融合培育引领未来的创造性人才","normalized_text":"以交叉融合培育引领未来的创造性人才","summary":"第二部分标题。","function_tags":["章节标题"],"writing_method":"目标式标题","reuse_value":"章节分隔"},
+    {"paragraph_id":"p009","display_text":"创造力=学习力×思想力×行动力。","normalized_text":"创造性人才核心能力是学习力、思想力和行动力的有机统一，即创造力=学习力×思想力×行动力。","summary":"提出人才能力模型。","function_tags":["教育理念","核心引语"],"writing_method":"公式化表达","reuse_value":"人才培养论述"},
+    {"paragraph_id":"p010","display_text":"交叉专业、微专业、开放课程、双学位和探索平台。","normalized_text":"学校建设“整合科学”“政治学、经济学与哲学（PPE）”等16个交叉专业，设置12个跨学科微专业，鼓励院系开放2738门专业课，占专业课总门数比例达54%；2025级起所有专业增设“跨学科课程模块”。","summary":"拆解交叉育人体系。","function_tags":["课程体系","数据清单"],"writing_method":"递进式制度列举","reuse_value":"教育改革段"},
+    {"paragraph_id":"p011","display_text":"四方面构建前沿交叉学科体系。","normalized_text":"学校通过学部、学位点、交叉中心和评议组织完善学科治理，于2024年正式成立学科交叉中心并获教育部试点建设任务批复。","summary":"介绍学科治理体系。","function_tags":["治理机制","组织建设"],"writing_method":"四点式拆解","reuse_value":"学科治理段"},
+    {"paragraph_id":"p012","display_text":"以交叉融合激发教师队伍活力和协同创新动能","normalized_text":"以交叉融合激发教师队伍活力和协同创新动能","summary":"第三部分标题。","function_tags":["章节标题"],"writing_method":"行动式标题","reuse_value":"章节分隔"},
+    {"paragraph_id":"p013","display_text":"预聘长聘制提供三方面保障。","normalized_text":"制度以资源、时间和学术自主权保障支持青年学者，设置6年预聘期作为评估周期。","summary":"解释教师制度。","function_tags":["教师制度","机制说明"],"writing_method":"核心判断加三项保障","reuse_value":"人才制度段"},
+    {"paragraph_id":"p014","display_text":"三支青年教师团队的交叉科研成果。","normalized_text":"王猛教授团队历时5年，率先在镍氧化物中发现液氮温区超导现象；邝栋明、覃章才教授团队也形成肿瘤代谢和森林固碳交叉成果。","summary":"以案例验证制度成效。","function_tags":["科研案例","强声明"],"writing_method":"领域并列","reuse_value":"成果论证段"},
+    {"paragraph_id":"p015","display_text":"预聘长聘制重在留才育才。","normalized_text":"首批预聘教师仍处评估周期，制度定位是支持体系。","summary":"澄清制度边界。","function_tags":["边界澄清"],"writing_method":"先否后肯","reuse_value":"政策解读纠偏"},
+    {"paragraph_id":"p016","display_text":"大湾区优势与内外联动策略。","normalized_text":"以创新要素跨区域流动和融合解释湾区办学优势。","summary":"引出区域协同。","function_tags":["区域战略","核心引语"],"writing_method":"优势判断加策略","reuse_value":"湾区报道"},
+    {"paragraph_id":"p017","display_text":"四地办学和香港高研院协同。","normalized_text":"对内整合四地资源，对外依托联盟和香港平台。","summary":"拆解内外联动路径。","function_tags":["协同机制"],"writing_method":"对内对外对举","reuse_value":"区域协同段"},
+    {"paragraph_id":"p018","display_text":"香港高研院定位和三项功能。","normalized_text":"中山大学香港高等研究院是内地高校在香港设立的首个综合性研究机构，承担人才引育、学术交流和政策试验功能。","summary":"介绍战略平台。","function_tags":["平台建设","强声明"],"writing_method":"平台定位加功能清单","reuse_value":"平台介绍"},
+    {"paragraph_id":"p019","display_text":"2030年、2035年两步走目标。","normalized_text":"学校提出到2030年高质量内涵式发展取得突出成效，跻身世界一流大学行列，到2035年若干学科和整体办学实力进入世界一流前列。","summary":"战略目标与价值升华。","function_tags":["规划目标","使命收束"],"writing_method":"时间表加总括句","reuse_value":"战略报道结尾"}
+  ],
+  "style": {
+    "labels": ["事实驱动", "分章节叙事", "校媒报道", "国家战略型", "教育创新型", "科研平台建设型", "会议综述型"],
+    "tone": "权威、理性、战略性",
+    "sentence_features": ["问答长句承载观点与机制", "数字和专有名词密集", "对举与分项列举突出逻辑"],
+    "layout_features": ["三大主题章节", "记者提问与校长回答交替", "重点判断加粗"],
+    "common_phrases": ["交叉创新", "一体推进", "服务国家战略"],
+    "rhetorical_devices": ["冷热对举", "公式化概括", "分项排比"],
+    "style_metrics": {"headline_emotion_level":"medium","fact_density":"high","quote_density":"high","value_sublimation_level":"high","average_paragraph_length":"long","bold_usage":"questions_and_core_claims","image_caption_dependency":"medium"},
+    "reusable_phrases": ["让创新要素在跨学科流动中自然生长", "将区位优势转化为协同创新动能"],
+    "not_reusable_phrases": ["强声明、数字、机构名称和直接引语未经核验不得迁移", "规划目标不得写成完成事实"]
+  },
+  "value_narrative": {
+    "themes": ["教育科技人才一体发展", "交叉创新", "国家战略", "创造性人才", "湾区协同"],
+    "levels": {"personal_level":"青年教师和学生在跨学科环境中自主探索。","team_level":"跨学科团队围绕前沿问题和国家需求协同攻关。","course_level":"通识、专业、微专业、双学位和项目实践共同支撑交叉学习。","school_level":"学校以制度、组织和平台创新推动一体发展。","national_level":"以教育强国、科技强国、人才强国和中国式现代化统摄全文。"},
+    "transition_method": "从基础研究问题出发，经人才培养与学科治理扩展到教师队伍和湾区创新生态。",
+    "school_image": ["制度创新", "交叉融合", "服务国家", "面向未来"],
+    "ending_method": "以2030年和2035年两步走目标及中大贡献完成使命收束。"
+  },
+  "visuals": [
+    {"image_id":"cover","caption":"封面图","caption_source":"structural","type":"封面","function":"建立专访主题入口","position":"标题前"},
+    {"image_id":"img001","caption":"专访导入图","caption_source":"structural","type":"导入图","function":"引出报道","position":"标题后"},
+    {"image_id":"img002","caption":"专访要点视觉图","caption_source":"structural","type":"要点图","function":"承接核心摘要","position":"p001后"},
+    {"image_id":"img003","caption":"中山大学广州校区南校园。","caption_source":"original","type":"校园图","function":"呈现学校环境","position":"p003后"},
+    {"image_id":"img004","caption":"2023年1月6日，中山大学绿色化学与分子工程研究院揭牌仪式举行。肖遥 摄","caption_source":"original","type":"平台图","function":"呈现交叉研究机构建设","position":"p005后"},
+    {"image_id":"img005","caption":"“中山大学极地”号科考人员在冰面上作业。中山大学极地研究中心供图","caption_source":"original","type":"科研图","function":"支撑科考任务","position":"p006后"},
+    {"image_id":"img006","caption":"中山大学海洋工程与技术学院学生在“中山大学”号上作业。中山大学海洋工程与技术学院供图","caption_source":"original","type":"教学实践图","function":"呈现实践育人","position":"p010后"},
+    {"image_id":"img007","caption":"中山大学农业与生物技术学院青年教师谢鹏副教授在实验室里进行科研工作。","caption_source":"original","type":"人物图","function":"呈现青年教师科研","position":"p014后"},
+    {"image_id":"img008","caption":"2024年10月14日，中山大学香港高等研究院正式揭牌成立。","caption_source":"original","type":"平台图","function":"支撑湾区协同平台","position":"p017后"}
+  ],
+  "image_stats": {"cover_images":1,"content_images":5,"decorative_images":3,"recommendation_images":0,"footer_images":0,"total_image_nodes_in_clean":9,"unique_image_urls":9},
+  "templates": [
+    {"template":"权威媒体引题 -> 核心观点摘要 -> 分议题问答 -> 制度与成果证据 -> 战略目标收束","applicable_scenarios":["校长访谈","学校改革与发展战略报道"],"not_applicable_scenarios":["活动短讯","单项成果新闻"]},
+    {"template":"提出矛盾 -> 给出理念判断 -> 拆解制度路径 -> 列举平台、数据与团队成果 -> 回扣国家需求","applicable_scenarios":["科研治理解读","人才培养与体制机制改革报道"],"not_applicable_scenarios":["缺少权威受访者和可核验实践证据的评论"]}
+  ],
+  "generation_constraints": {
+    "must_not_invent": ["人名、职务、刊物期次、机构名称、政策术语、年份、数字、科研结论和直接引语", "图片中未由原文图注说明的细节"],
+    "strong_claims_require_source": ["5项第一完成单位国家科学技术奖成果", "16个交叉专业、12个微专业、2738门课程和54%比例", "率先、首次、首个和最大等科研或机构声明", "2030年和2035年战略目标"],
+    "quote_handling": ["高松直接引语必须保留问答语境和说话人", "创造力公式不得改写变量或关系", "习近平总书记贺信相关表述须保持原文语境"],
+    "scenario_boundaries": ["仅使用推荐阅读硬截止前正文", "“今年”按2025年11月10日解释", "首批预聘教师仍处评估周期，不得写成考核结论", "两步走目标不得写成已经实现"],
+    "recommended_writer_use": ["复用问题—理念—机制—证据的访谈展开结构", "所有强声明、数字和专有术语逐项回查原段落"],
+    "type_specific_constraints": [
+      {"term":"预聘—长聘制","constraint":"制度重点按原文表述为留才育才支持体系，不得简化为非升即走。","category":"scenario_boundary"},
+      {"term":"首个综合性研究机构","constraint":"仅限中山大学香港高等研究院作为内地高校在香港设立的综合性研究机构语境。","category":"strong_claim"},
+      {"term":"科研成果","constraint":"王猛、邝栋明、覃章才团队与各自成果必须一一对应，首次、率先和数量不得互换。","category":"strong_claim"}
+    ]
+  }
+}
