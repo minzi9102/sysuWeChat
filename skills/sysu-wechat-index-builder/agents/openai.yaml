@@ -1,0 +1,6 @@
+interface:
+  display_name: "SYSU WeChat Index Builder"
+  short_description: "Build and validate searchable SYSU WeChat knowledge indexes"
+  default_prompt: "Use $sysu-wechat-index-builder to rebuild and validate the searchable indexes for this SYSU WeChat knowledge base."
+policy:
+  allow_implicit_invocation: true
