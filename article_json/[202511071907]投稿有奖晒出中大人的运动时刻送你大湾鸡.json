@@ -1,0 +1,371 @@
+{
+  "article_id": "sysu_20251107_1907",
+  "title": "投稿有奖！晒出中大人的运动时刻，送你“大湾鸡”！",
+  "publish_time": "2025-11-07 19:07",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": ["校园活动征集类", "体育文化传播类", "活动规则说明类"],
+  "keywords": ["第十五届全国运动会", "运动时刻", "作品征集", "WPS 365", "投票", "活动奖品", "中大师生"],
+  "summary": "文章借第十五届全国运动会氛围发起中大人运动时刻征集，说明投稿内容、参与入口、评奖方式、奖品档位、参与资格和投票规则。",
+  "communication_goal": "以全运会热点激发中大师生记录和分享运动生活，通过明确的投稿路径、奖品和规则推动活动参与，并展示中大人的运动活力与社会责任。",
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "文章称第十五届全国运动会即将正式开幕，并邀请中大人参与运动。",
+      "type": "活动背景",
+      "time": "2025-11-07",
+      "subject": "第十五届全国运动会",
+      "object": "运动征集活动背景",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "赛事届次和时态须依据原文发布时间",
+      "source_paragraph_id": "p001",
+      "source_quote": "第十五届全国运动会即将正式开幕",
+      "confidence": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "文章称刚结束的第十五届全国运动会火炬传递中有14位中大校友担任火炬手。",
+      "type": "人数数据",
+      "time": "2025年11月前",
+      "subject": "14位中大校友",
+      "object": "担任第十五届全国运动会火炬手",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "人数、校友身份和活动名称均须直接引用",
+      "source_paragraph_id": "p003",
+      "source_quote": "有14位中大校友担任火炬手",
+      "confidence": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "文章以“相机里定格的拼搏瞬间”举例说明可分享的运动记录。",
+      "type": "征集主题",
+      "time": "活动期间",
+      "subject": "运动时刻征集",
+      "object": "相机记录的运动瞬间",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "正式投稿格式以征集内容章节为准",
+      "source_paragraph_id": "p006",
+      "source_quote": "相机里定格的拼搏瞬间",
+      "confidence": "high"
+    },
+    {
+      "id": "f004",
+      "fact": "投票得票前20名获得对应奖品。",
+      "type": "评奖规则",
+      "time": "截至2025-11-22 16:00",
+      "subject": "投稿作品",
+      "object": "投票得票前20名获得奖品",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "前20名范围和投票口径必须准确",
+      "source_paragraph_id": "p008",
+      "source_quote": "投票得票前20名获得以下奖品",
+      "confidence": "high"
+    },
+    {
+      "id": "f005",
+      "fact": "第1名奖品为大疆无人机DJI NEO 1台。",
+      "type": "奖品设置",
+      "time": "活动评奖后",
+      "subject": "第1名",
+      "object": "大疆无人机 DJI NEO（1台）",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "品牌、型号、数量和名次不得改写",
+      "source_paragraph_id": "p009",
+      "source_quote": "DJI NEO",
+      "confidence": "high"
+    },
+    {
+      "id": "f006",
+      "fact": "第2至3名每人获全运会“月满湾区”纪念套章1套。",
+      "type": "奖品设置",
+      "time": "活动评奖后",
+      "subject": "第2至3名",
+      "object": "全运会“月满湾区”纪念套章（每人1套）",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "第2至3名、奖品名称和每人1套必须对应",
+      "source_paragraph_id": "p010",
+      "source_quote": "月满湾区",
+      "confidence": "high"
+    },
+    {
+      "id": "f007",
+      "fact": "第6至10名每人随机获全运会吉祥物盲盒1个。",
+      "type": "奖品设置",
+      "time": "活动评奖后",
+      "subject": "第6至10名",
+      "object": "全运会吉祥物盲盒（每人随机1个）",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "第6至10名、随机规则和数量必须对应",
+      "source_paragraph_id": "p012",
+      "source_quote": "吉祥物盲盒",
+      "confidence": "high"
+    },
+    {
+      "id": "f008",
+      "fact": "征集时间为即日起至2025年11月22日16:00。",
+      "type": "截止时间",
+      "time": "截至2025-11-22 16:00",
+      "subject": "运动时刻征集",
+      "object": "征集期限",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "精确日期和时刻必须直接引用，过期后不得继续作为有效通知",
+      "source_paragraph_id": "p014",
+      "source_quote": "2025年11月22日16:00",
+      "confidence": "high"
+    },
+    {
+      "id": "f009",
+      "fact": "投稿需附一段50字内的简短文字描述。",
+      "type": "投稿要求",
+      "time": "活动期间",
+      "subject": "投稿者",
+      "object": "50字内简短文字描述",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "50字上限不得放宽",
+      "source_paragraph_id": "p015",
+      "source_quote": "一段简短的文字描述（50字内）",
+      "confidence": "high"
+    },
+    {
+      "id": "f010",
+      "fact": "投稿入口名为中山大学WPS客户端工作台的“风采征集赢周边”。",
+      "type": "参与流程",
+      "time": "活动期间",
+      "subject": "参与者",
+      "object": "“风采征集赢周边”入口",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "工作台和入口名称须准确；上传细节以活动页面为准",
+      "source_paragraph_id": "p016",
+      "source_quote": "风采征集赢周边",
+      "confidence": "high"
+    },
+    {
+      "id": "f011",
+      "fact": "本次活动仅面向全体中大师生。",
+      "type": "参与资格",
+      "time": "活动期间",
+      "subject": "全体中大师生",
+      "object": "活动参与资格",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "不得扩展至校友、社会公众或其他群体",
+      "source_paragraph_id": "p017",
+      "source_quote": "本次活动仅面向全体中大师生",
+      "confidence": "high"
+    },
+    {
+      "id": "f012",
+      "fact": "活动禁止违规刷票，发现后取消参选资格。",
+      "type": "公平规则",
+      "time": "活动期间",
+      "subject": "参选作品",
+      "object": "禁止违规刷票",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "处罚条件必须保留“一经发现”及“取消参选资格”原意",
+      "source_paragraph_id": "p019",
+      "source_quote": "本次活动禁止违规刷票行为。一经发现，取消参选资格",
+      "confidence": "high"
+    },
+    {
+      "id": "f013",
+      "fact": "每日投稿作品于下午5点完成审核，审核通过后可分享给好友投票。",
+      "type": "审核规则",
+      "time": "每日17:00",
+      "subject": "每日投稿作品",
+      "object": "审核后开放分享投票",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "审核时间和投票前置条件须准确",
+      "source_paragraph_id": "p019",
+      "source_quote": "每日投稿作品将于下午5点完成审核，审核通过后可分享给好友投票",
+      "confidence": "high"
+    },
+    {
+      "id": "f014",
+      "fact": "第4至5名每人获全运会“九龙腾翔”旋转福牌1套。",
+      "type": "奖品设置",
+      "time": "活动评奖后",
+      "subject": "第4至5名",
+      "object": "全运会“九龙腾翔”旋转福牌（每人1套）",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "第4至5名、奖品名称和每人1套必须对应",
+      "source_paragraph_id": "p011",
+      "source_quote": "九龙腾翔",
+      "confidence": "high"
+    },
+    {
+      "id": "f015",
+      "fact": "第11至20名每人获WPS定制保温杯1个。",
+      "type": "奖品设置",
+      "time": "活动评奖后",
+      "subject": "第11至20名",
+      "object": "WPS定制保温杯（每人1个）",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "第11至20名、奖品名称和每人1个必须对应",
+      "source_paragraph_id": "p013",
+      "source_quote": "WPS定制保温杯",
+      "confidence": "high"
+    },
+    {
+      "id": "f016",
+      "fact": "投稿需包含一张或多张与运动有关的图片。",
+      "type": "投稿要求",
+      "time": "活动期间",
+      "subject": "投稿者",
+      "object": "一张或多张运动相关图片",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "图片必须与运动有关，数量为一张或多张",
+      "source_paragraph_id": "p015",
+      "source_quote": "一张或多张与运动有关的图片",
+      "confidence": "high"
+    }
+  ],
+  "structure": [
+    {
+      "section": "全运热点与中大运动氛围",
+      "paragraphs": ["p001", "p002", "p003", "p004"],
+      "purpose": "以十五运会、中大校友火炬手和志愿服务建立活动背景与集体认同。"
+    },
+    {
+      "section": "运动时刻征集号召",
+      "paragraphs": ["p005", "p006", "p007"],
+      "purpose": "用提问、排比和奖品预告邀请中大人分享运动故事。"
+    },
+    {
+      "section": "奖项与征集要求",
+      "paragraphs": ["p008", "p009", "p010", "p011", "p012", "p013", "p014", "p015"],
+      "purpose": "分档列出奖品、截止时间和作品格式。"
+    },
+    {
+      "section": "参与入口与资格",
+      "paragraphs": ["p016", "p017", "p018"],
+      "purpose": "说明WPS客户端入口、活动页面和参与对象。"
+    },
+    {
+      "section": "投票审核规则与收束",
+      "paragraphs": ["p019", "p020", "p021"],
+      "purpose": "明确投票、反刷票、每日审核规则，并以嘉年华信息和体育场邀约收尾。"
+    }
+  ],
+  "paragraph_functions": [
+    {"paragraph_id":"p001","display_text":"激情全运会，活力大湾区\n\n**第十五届全国运动会即将正式开幕！**\n\n今年全运会里的中大身影\n\n你看到了吗\n\n这个月\n\n让我们跟全运会一起\n\n**“趣”运动吧！**","normalized_text":"激情全运会，活力大湾区。第十五届全国运动会即将正式开幕，文章邀请读者关注全运会里的中大身影并一起运动。","summary":"以十五运会开幕预告导入活动。","function_tags":["热点导入","参与号召"],"writing_method":"口号、提问与谐音表达","reuse_value":"体育活动开场"},
+    {"paragraph_id":"p002","display_text":"在中大，运动是\n\n田径场的风声呼啸\n\n游泳池的劈波斩浪\n\n运动会上拼尽全力的呐喊\n\n奥运冠军课上的跃跃欲试","normalized_text":"在中大，运动包括田径、游泳、运动会和奥运冠军课堂等多种场景。","summary":"描摹校园运动场景。","function_tags":["场景铺陈"],"writing_method":"短句排比与感官描写","reuse_value":"校园体育氛围描写"},
+    {"paragraph_id":"p003","display_text":"在刚刚结束的\n\n**第十五届全国运动会火炬传递**中\n\n有**14位中大校友**担任火炬手","normalized_text":"在刚刚结束的第十五届全国运动会火炬传递中，有14位中大校友担任火炬手。","summary":"用校友火炬手数据连接中大与全运会。","function_tags":["事实支撑","校友关联"],"writing_method":"赛事事实加人数数据","reuse_value":"热点关联事实"},
+    {"paragraph_id":"p004","display_text":"赛场内外\n\n**也有许多中大“小海豚”**\n\n每一次热情相助\n\n每一个忙碌的身影\n\n都是中大人\n\n服务社会的责任与担当","normalized_text":"赛场内外有许多中大“小海豚”参与服务，体现中大人服务社会的责任与担当。","summary":"从运动员延伸至赛事志愿服务。","function_tags":["志愿服务","价值提升"],"writing_method":"身份昵称与价值归纳","reuse_value":"赛事志愿者描写"},
+    {"paragraph_id":"p005","display_text":"那么！\n\n在这个洋溢着运动激情的时刻\n\n各位中大人\n\n***你的运动时刻是什么呢？***\n\n现在，就快来告诉我们吧！","normalized_text":"文章向中大人提问“你的运动时刻是什么”，并发出分享邀请。","summary":"以直接提问启动征集。","function_tags":["互动提问","行动号召"],"writing_method":"第二人称对话","reuse_value":"用户征集转场"},
+    {"paragraph_id":"p006","display_text":"相机里定格的拼搏瞬间\n\n文字里藏着的锻炼故事\n\n数据里记载的运动轨迹\n\n只要动起来\n\n**每一种形式**\n\n**都值得好好珍藏！**","normalized_text":"相机里定格的拼搏瞬间，文字里藏着的锻炼故事，数据里记载的运动轨迹。只要动起来，每一种形式都值得好好珍藏！","summary":"扩展运动内容的表达形式。","function_tags":["形式列举","情感动员"],"writing_method":"三项排比","reuse_value":"内容征集号召"},
+    {"paragraph_id":"p007","display_text":"**更有超多全运会的周边等你解锁！**\n\n快来留下你的运动故事\n\n让全世界看见中大人的\n\n运动热血与青春风采吧！","normalized_text":"文章以全运会周边奖品吸引参与，并希望展示中大人的运动热血与青春风采。","summary":"奖品预告并提升传播价值。","function_tags":["激励机制","形象传播"],"writing_method":"利益点前置加价值号召","reuse_value":"征集活动动员"},
+    {"paragraph_id":"p008","display_text":"## 【活动奖品】\n\n截止**2025年11月22日16:00**\n\n在指定平台上传作品后\n\n投票得票**前20名**获得以下奖品","normalized_text":"截止2025年11月22日16:00，在指定平台上传作品后，投票得票前20名获得以下奖品。","summary":"说明评奖截止时间与前20名规则。","function_tags":["规则总述","截止时间"],"writing_method":"标题加关键数字加粗","reuse_value":"活动奖项总则"},
+    {"paragraph_id":"p009","display_text":"### 第1名\n\n**大疆无人机 DJI NEO**（1台）","normalized_text":"第1名获得大疆无人机DJI NEO 1台。","summary":"第一名奖品。","function_tags":["奖品档位"],"writing_method":"名次与奖品对应","reuse_value":"奖项清单"},
+    {"paragraph_id":"p010","display_text":"### 第2-3名\n\n**全运会“月满湾区”纪念套章**（每人1套）","normalized_text":"第2至3名每人获得全运会“月满湾区”纪念套章1套。","summary":"第二至三名奖品。","function_tags":["奖品档位"],"writing_method":"名次与奖品对应","reuse_value":"奖项清单"},
+    {"paragraph_id":"p011","display_text":"### 第4-5名\n\n**全运会“九龙腾翔”旋转福牌**（每人1套）","normalized_text":"第4至5名每人获得全运会“九龙腾翔”旋转福牌1套。","summary":"第四至五名奖品。","function_tags":["奖品档位"],"writing_method":"名次与奖品对应","reuse_value":"奖项清单"},
+    {"paragraph_id":"p012","display_text":"### 第6-10名\n\n**全运会吉祥物盲盒**（每人随机1个）","normalized_text":"第6至10名每人随机获得全运会吉祥物盲盒1个。","summary":"第六至十名奖品。","function_tags":["奖品档位"],"writing_method":"名次与奖品对应","reuse_value":"奖项清单"},
+    {"paragraph_id":"p013","display_text":"### 第11-20名\n\n**WPS定制保温杯**（每人1个）","normalized_text":"第11至20名每人获得WPS定制保温杯1个。","summary":"第十一至二十名奖品。","function_tags":["奖品档位"],"writing_method":"名次与奖品对应","reuse_value":"奖项清单"},
+    {"paragraph_id":"p014","display_text":"## 【征集时间】\n\n即日起至\n\n**2025年11月22日 16:00**","normalized_text":"征集时间为即日起至2025年11月22日16:00。","summary":"给出征集截止时刻。","function_tags":["时间条件"],"writing_method":"独立章节突出期限","reuse_value":"活动期限说明"},
+    {"paragraph_id":"p015","display_text":"## 【征集内容】\n\n一张或多张与运动有关的图片\n\n一段简短的文字描述（50字内）\n\n运动时的随手拍\n\n运动前后对比图\n\n参加某次体育盛会的照片\n\n**只要是运动，都能投稿！**","normalized_text":"一张或多张与运动有关的图片，一段简短的文字描述（50字内）。运动时的随手拍、运动前后对比图、参加某次体育盛会的照片，只要是运动，都能投稿！","summary":"说明投稿载体、字数和示例。","function_tags":["内容要求","示例列举"],"writing_method":"硬性条件加开放示例","reuse_value":"投稿规范说明"},
+    {"paragraph_id":"p016","display_text":"## 【参与方式】\n\n下载WPS 365客户端\n\n打开中山大学WPS客户端工作台\n\n点击工作台**“风采征集赢周边”**入口\n\n跳转活动页面\n\n作品上传操作详情\n\n**请前往活动页面查看**","normalized_text":"下载WPS 365客户端，打开中山大学WPS客户端工作台，点击工作台“风采征集赢周边”入口，跳转活动页面。作品上传操作详情请前往活动页面查看。","summary":"分步说明投稿入口。","function_tags":["操作流程","平台入口"],"writing_method":"动词驱动的步骤列举","reuse_value":"平台活动指引"},
+    {"paragraph_id":"p017","display_text":"*本次活动仅面向全体中大师生*","normalized_text":"本次活动仅面向全体中大师生。","summary":"限定参与资格。","function_tags":["资格条件"],"writing_method":"脚注式强调","reuse_value":"活动对象声明"},
+    {"paragraph_id":"p018","display_text":"**如何下载中大WPS客户端？**\n\n请看以下指南👇","normalized_text":"文章提供中大WPS客户端下载安装指南。","summary":"引导读者获取客户端。","function_tags":["补充指引"],"writing_method":"问答式链接引导","reuse_value":"工具下载过渡"},
+    {"paragraph_id":"p019","display_text":"## 【活动规则】\n\n1. 投稿作品后进入作品展示页面，进行作品投票，选出你心目中的最佳作品。\n2. 最终得票数前20名的作品，获得对应奖品。同时，我们将选取优秀作品在官方平台进行展示。\n3. 为确保活动公平，本次活动禁止违规刷票行为。一经发现，取消参选资格。\n4. 每日投稿作品将于下午5点完成审核，审核通过后可分享给好友投票。","normalized_text":"投稿作品后进入作品展示页面，进行作品投票，选出你心目中的最佳作品。最终得票数前20名的作品获得对应奖品，同时将选取优秀作品在官方平台展示。为确保活动公平，本次活动禁止违规刷票行为。一经发现，取消参选资格。每日投稿作品将于下午5点完成审核，审核通过后可分享给好友投票。","summary":"集中列出展示、投票、反刷票和审核规则。","function_tags":["活动规则","公平约束","审核机制"],"writing_method":"编号条款","reuse_value":"竞赛活动规则"},
+    {"paragraph_id":"p020","display_text":"还有更多惊喜活动\n\n**扫描下方二维码**即刻了解！\n\n参加全运会嘉年华\n\n还有大疆Pocket3等礼品等你来拿","normalized_text":"文章通过二维码延伸至全运会嘉年华及其礼品活动。","summary":"关联另一项嘉年华活动。","function_tags":["活动导流"],"writing_method":"二维码行动指令","reuse_value":"关联活动导流"},
+    {"paragraph_id":"p021","display_text":"全运运动月\n\n你准备好了吗？\n\n**我们在体育场，不见不散！**","normalized_text":"文章以全运运动月提问和体育场邀约结束。","summary":"以线下邀约收束。","function_tags":["互动收尾","行动号召"],"writing_method":"问句加口号","reuse_value":"体育活动结尾"}
+  ],
+  "style": {
+    "labels": ["事实驱动", "分章节叙事", "校媒报道", "体育赛事型", "流程指引型", "服务保障型"],
+    "tone": "活泼、热情、直接",
+    "sentence_features": ["短句密集并频繁换行", "提问和感叹句推动互动", "规则部分转为编号条款和精确数字"],
+    "layout_features": ["活动模块以方括号标题分区", "奖品图片与名次逐项对应", "关键时间、数量和入口加粗"],
+    "common_phrases": ["趣运动吧", "快来告诉我们吧", "等你解锁", "不见不散"],
+    "rhetorical_devices": ["排比", "设问", "谐音", "直接号召"],
+    "style_metrics": {
+      "headline_emotion_level": "high",
+      "fact_density": "medium",
+      "quote_density": "none",
+      "value_sublimation_level": "medium",
+      "average_paragraph_length": "short",
+      "bold_usage": "deadlines_prizes_and_calls_to_action",
+      "image_caption_dependency": "medium"
+    },
+    "reusable_phrases": ["你的运动时刻是什么呢？", "只要动起来，每一种形式都值得好好珍藏", "让运动热血与青春风采被看见"],
+    "not_reusable_phrases": ["具体截止时间、奖品型号、名次区间和平台入口不得迁移套用", "全运会届次、14位校友等事实不得脱离原文复用"]
+  },
+  "value_narrative": {
+    "themes": ["体育活力", "青春风采", "社会责任", "校园共同体"],
+    "levels": {
+      "personal_level": "鼓励个人记录并分享自己的运动瞬间。",
+      "team_level": "以赛事志愿者和投票互动形成参与共同体。",
+      "course_level": "",
+      "school_level": "通过校友火炬手、师生运动和志愿服务展示中大人的活力与担当。",
+      "national_level": "以第十五届全国运动会为公共体育背景。"
+    },
+    "transition_method": "先以全运会和中大身影建立氛围，再转入个人运动故事征集，随后用奖品、流程和规则促成行动。",
+    "school_image": ["热爱运动", "青春活力", "服务社会", "规则清晰"],
+    "ending_method": "以运动月提问和体育场邀约形成线下行动感。"
+  },
+  "visuals": [
+    {"image_id":"cover","caption":"封面图","caption_source":"structural","type":"封面","function":"呈现投稿有奖主题","position":"标题前"},
+    {"image_id":"img001","caption":"活动导入图","caption_source":"structural","type":"导入图","function":"承接全运会活动主题","position":"元数据后"},
+    {"image_id":"img002","caption":"全运主题装饰图","caption_source":"structural","type":"装饰图","function":"分隔活动导入与校园运动场景","position":"p001后"},
+    {"image_id":"img003","caption":"校园运动动态装饰图","caption_source":"structural","type":"动态图","function":"强化运动节奏","position":"p002后"},
+    {"image_id":"img004","caption":"点击图片，查看全运会开幕式上的中大火炬手","caption_source":"original","type":"赛事关联图","function":"支撑中大校友火炬手信息","position":"p003后"},
+    {"image_id":"img005","caption":"志愿服务主题图","caption_source":"structural","type":"装饰图","function":"承接中大“小海豚”志愿服务段落","position":"p004后"},
+    {"image_id":"img006","caption":"运动故事征集图","caption_source":"inferred","type":"活动图","function":"引导投稿者分享运动故事","position":"p006后"},
+    {"image_id":"img007","caption":"大疆无人机 DJI NEO（1台）","caption_source":"original","type":"奖品图","function":"展示第1名奖品","position":"p009中"},
+    {"image_id":"img008","caption":"全运会“月满湾区”纪念套章（每人1套）","caption_source":"original","type":"奖品图","function":"展示第2至3名奖品","position":"p010中"},
+    {"image_id":"img009","caption":"全运会“九龙腾翔”旋转福牌（每人1套）","caption_source":"original","type":"奖品图","function":"展示第4至5名奖品","position":"p011中"},
+    {"image_id":"img010","caption":"全运会吉祥物盲盒（每人随机1个）","caption_source":"original","type":"奖品图","function":"展示第6至10名奖品","position":"p012中"},
+    {"image_id":"img011","caption":"WPS定制保温杯（每人1个）","caption_source":"original","type":"奖品图","function":"展示第11至20名奖品","position":"p013中"},
+    {"image_id":"img012","caption":"“风采征集赢周边”活动入口示意图","caption_source":"inferred","type":"操作指引图","function":"辅助定位投稿入口","position":"p016后"},
+    {"image_id":"img013","caption":"点击图片查看下载安装指南","caption_source":"original","type":"下载指南图","function":"引导下载中大WPS客户端","position":"p018后"},
+    {"image_id":"img014","caption":"全运会嘉年华活动二维码","caption_source":"inferred","type":"二维码","function":"导流至关联活动","position":"p020后"}
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 10,
+    "decorative_images": 4,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 15,
+    "unique_image_urls": 15
+  },
+  "templates": [
+    {
+      "template": "公共热点导入 -> 校园关联场景 -> 互动提问 -> 征集价值 -> 奖品与期限 -> 投稿流程 -> 公平规则 -> 行动口号",
+      "applicable_scenarios": ["校园主题征集", "体育文化活动", "有奖互动活动"],
+      "not_applicable_scenarios": ["无明确参与机制的新闻报道", "正式政策通知"]
+    },
+    {
+      "template": "先以短句和图片营造情绪，再用独立模块列出时间、内容、入口、资格和规则",
+      "applicable_scenarios": ["需要兼顾传播热度与操作说明的活动推文"],
+      "not_applicable_scenarios": ["规则复杂且需法律条款完整呈现的活动"]
+    }
+  ],
+  "generation_constraints": {
+    "must_not_invent": ["活动期限、参与资格、奖品品牌型号及数量、投稿字数、平台入口、投票和审核规则", "图片中未由正文或原始图注说明的人物、场景与奖品细节"],
+    "strong_claims_require_source": ["14位中大校友担任火炬手", "投票得票前20名获奖", "2025年11月22日16:00截止", "文字描述50字内", "仅面向全体中大师生", "每日17:00完成审核"],
+    "quote_handling": ["本文无署名直接引语，不得把互动问句改造成个人发言", "活动口号可概括但不得替代规则条款"],
+    "scenario_boundaries": ["活动信息仅适用于原文所述征集，不得与全运会嘉年华二维码活动的奖品混为一谈", "上传操作详情应以活动页面为准", "发布时间后的相对词“即日起”不得脱离2025年11月7日语境", "推荐阅读边界后的内容不得纳入分析"],
+    "recommended_writer_use": ["复用热点—共鸣—征集—规则—号召的传播结构", "发布活动信息时将资格、期限、格式、入口、评奖与违规处理完整列出"],
+    "type_specific_constraints": [
+      {"term":"投稿截止时间","constraint":"统一写作2025年11月22日16:00，不得只写日期而遗漏具体时刻。","category":"strong_claim"},
+      {"term":"投稿内容","constraint":"必须同时包含一张或多张运动相关图片及50字内文字描述。","category":"scenario_boundary"},
+      {"term":"参与资格","constraint":"仅限全体中大师生，不得扩展为校友或公众。","category":"scenario_boundary"},
+      {"term":"奖品档位","constraint":"第1名、第2至3名、第4至5名、第6至10名、第11至20名的奖品必须逐档对应。","category":"must_not_invent"},
+      {"term":"投票审核","constraint":"禁止违规刷票；每日投稿作品于下午5点完成审核，审核通过后方可分享投票。","category":"strong_claim"}
+    ]
+  }
+}
