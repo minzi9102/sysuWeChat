@@ -24,6 +24,12 @@
 
 ## 核心功能
 
+### 新稿写作
+
+[`新稿写作流程`](docs/writing-workflow.md) 说明如何用活动原始材料和 context pack 完成公众号新稿，包括任务分类、参考选择、事实清单、起草、风格改写、风险校验与发布检查。
+
+写作时必须遵守事实边界：参考库只提供结构、语气、句式、图文节奏和风险约束；本次稿件的人名、时间、地点、数字、项目、直接引语和结论只能来自用户提供的活动材料。
+
 ### 文章分析
 
 [`sysu-wechat-article-analysis`](skills/sysu-wechat-article-analysis/SKILL.md) 负责处理单篇公众号文章：
@@ -64,11 +70,15 @@
 ├── article_json/               # 面向程序处理的结构化分析结果
 ├── article_markers/            # 长图或粘贴图片文章的跳过记录
 ├── indexed_data/               # 生成的检索索引、质量报告和 manifest
+├── docs/
+│   └── writing-workflow.md      # 使用索引辅助新稿写作的一页流程
 ├── skills/
 │   ├── sysu-wechat-article-analysis/  # 文章分析规范、schema、检查表和脚本
 │   └── sysu-wechat-index-builder/     # 索引构建、修复和验证流程
 ├── scripts/
 │   ├── build-indexes.ps1       # 索引构建兼容入口
+│   ├── lint-draft-style.ps1     # 新稿风格风险轻量提醒
+│   ├── make-writing-context.ps1 # 生成新稿参考 context pack
 │   └── repair-indexes.ps1      # 旧索引修复兼容入口
 ├── AGENTS.md                   # 仓库协作、提交和环境规则
 └── README.md
@@ -91,6 +101,26 @@
 ## 常用命令
 
 以下命令均在仓库根目录的 PowerShell 中执行。
+
+### 生成新稿写作参考
+
+```powershell
+./scripts/make-writing-context.ps1 `
+  -Root . `
+  -ArticleTypes '活动报道' `
+  -Keywords '活动主题,核心对象' `
+  -Output 'writing_context/current.json'
+```
+
+生成后按 [`新稿写作流程`](docs/writing-workflow.md) 使用参考文章、结构模板、风格表达、视觉模式和风险清单。context pack 不得作为本次活动事实来源。
+
+### 检查新稿风格
+
+```powershell
+./scripts/lint-draft-style.ps1 -Path 'drafts/current.md'
+```
+
+脚本逐行提示先否定后肯定句式、空泛强调词和需要证据的强断言。命中只表示需要作者复核，不会自动改写草稿或返回失败。
 
 ### 识别单篇文章模式
 
