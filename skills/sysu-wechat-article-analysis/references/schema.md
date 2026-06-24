@@ -56,6 +56,8 @@ Required fields:
 - `keywords`
 - `summary`
 - `communication_goal`
+- `value_themes`
+- `topic_entities`
 - `facts`
 - `structure`
 - `paragraph_functions`
@@ -82,12 +84,20 @@ Each fact object must include:
 - `source_paragraph_id`
 - `source_quote`
 - `confidence`
+- `requires_verification`
+- `risk_level`
 
 Use `source_image_id` only when a fact is supported by an image caption. Keep `source_paragraph_id` as the closest related body paragraph.
 
 `confidence` values: `high`, `medium`, `low`.
 
+`requires_verification` is a JSON boolean. `risk_level` values are `high`, `medium`, `low`.
+
+Set `requires_verification` to `true` and `risk_level` to `high` for comparative or authoritative claims, including `首例`, `全球首例`, `全国首个`, `首次`, `首批`, `最大`, `最高`, `典型案例`, awards, rankings, official titles, and equivalent claims. Exact dates, codes, counts, percentages, and policy conditions must also be reviewed and assigned a risk level based on the consequence of error.
+
 `source_quote` may remove Markdown styling markers such as `**` and normalize excess whitespace. It must not change meaning, add missing details, or reorder source text in a way that weakens traceability.
+
+Keep `source_quote` as a string. Do not split it into raw and normalized fields in this schema revision.
 
 ## paragraph_functions[]
 
@@ -100,6 +110,31 @@ Each paragraph object must include:
 - `function_tags`
 - `writing_method`
 - `reuse_value`
+
+`function_tags` remains an array and has no fixed item limit. Values must be unique, complementary, and selected from this controlled vocabulary:
+
+- `章节标题`
+- `背景交代`
+- `核心事实`
+- `人物经历`
+- `人物引语`
+- `成果支撑`
+- `数据支撑`
+- `案例展开`
+- `机制说明`
+- `价值转场`
+- `群像呈现`
+- `规则说明`
+- `政策解读`
+- `流程指引`
+- `风险提醒`
+- `媒体转载说明`
+- `活动召唤`
+- `未来展望`
+- `行动号召`
+- `结尾收束`
+
+Use every tag only when the paragraph visibly performs that function. `核心事实` is reserved for principal news facts and must not be used as a generic fallback. Do not create synonyms or article-specific tags.
 
 `display_text` preserves original WeChat layout rhythm: short lines, blank lines, bold markers, section headings, and quote placement.
 
@@ -128,34 +163,43 @@ Use this exact outer shape:
 
 ```json
 {
-  "labels": [],
-  "tone": "",
-  "sentence_features": [],
-  "layout_features": [],
-  "common_phrases": [],
-  "rhetorical_devices": [],
-  "style_metrics": {},
   "reusable_phrases": [],
+  "rhetorical_devices": [],
+  "writing_methods": [],
+  "style_labels": [],
   "not_reusable_phrases": []
 }
 ```
 
-`style_metrics` should include operational indicators useful to a writer when supported by the article, such as:
+Field boundaries:
 
-- `headline_emotion_level`
-- `fact_density`
-- `quote_density`
-- `value_sublimation_level`
-- `average_paragraph_length`
-- `bold_usage`
-- `image_caption_dependency`
+- `reusable_phrases`: source-grounded wording that can be adapted without carrying article-specific facts.
+- `rhetorical_devices`: names of rhetorical devices, such as parallelism or rhetorical questions.
+- `writing_methods`: writing or organization methods, such as data-first explanation or scene-to-value transition.
+- `style_labels`: retrieval labels describing writing mode and narrative mechanism.
+- `not_reusable_phrases`: proper nouns, fact-bound claims, full source passages, and wording unsafe to reuse directly.
 
-`labels` must contain 5-7 unique values in this order:
+Do not place entity words such as `中大`, method descriptions such as `图文证明`, rhetorical names such as `排比`, or generic statements such as `长短句结合` in `reusable_phrases`.
+
+`style_labels` must contain 5-7 unique values in this order:
 
 1. Base labels: `事实驱动`, `分章节叙事`, `校媒报道`.
 2. Two to four discriminative labels selected from `style-labels.md`.
 
 Additional labels are allowed under the extension rules in `style-labels.md`. Labels describe style or narrative mechanism rather than duplicate `article_types` verbatim.
+
+## value_themes and topic_entities
+
+Use top-level arrays:
+
+```json
+{
+  "value_themes": ["服务国家战略", "百年传承", "学科建设", "科研报国"],
+  "topic_entities": ["中山大学天文台", "1.2米天文望远镜", "天琴计划"]
+}
+```
+
+`value_themes` contains abstract values, missions, or public meanings. `topic_entities` contains named people, organizations, projects, platforms, instruments, places, programs, and other concrete subjects. Never duplicate an item across the two arrays.
 
 ## value_narrative
 
@@ -163,7 +207,6 @@ Use this exact outer shape:
 
 ```json
 {
-  "themes": [],
   "levels": {
     "personal_level": "",
     "team_level": "",
@@ -220,6 +263,22 @@ Counting rules:
 - `recommendation_images` and `footer_images`: normally `0` because clean_md removes recommendations and footer residue.
 
 ## templates
+
+Use this exact outer shape:
+
+```json
+{
+  "title_templates": [],
+  "opening_templates": [],
+  "structure_templates": [],
+  "transition_templates": [],
+  "ending_templates": [],
+  "visual_caption_templates": [],
+  "notice_flow_templates": []
+}
+```
+
+`title_templates`, `opening_templates`, `structure_templates`, `transition_templates`, and `ending_templates` must each contain at least one entry. `visual_caption_templates` is populated only when source visuals or captions support a reusable pattern. `notice_flow_templates` is populated only for notices, calls for participation, registration instructions, policy explanations, and similar procedural articles. Unsupported optional types must be empty arrays rather than invented content.
 
 Template entries must include:
 

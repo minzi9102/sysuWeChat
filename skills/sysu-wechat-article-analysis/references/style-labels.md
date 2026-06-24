@@ -2,7 +2,7 @@
 
 Use style labels for retrieval by writing mode, emotional posture, and narrative mechanism. Use `article_types` for subject matter.
 
-Every text article starts with:
+Every text article's `style.style_labels` starts with:
 
 1. `事实驱动`
 2. `分章节叙事`

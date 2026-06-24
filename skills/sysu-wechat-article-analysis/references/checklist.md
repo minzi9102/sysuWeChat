@@ -16,7 +16,9 @@ All existing artifacts:
 ./skills/sysu-wechat-article-analysis/scripts/validate-artifacts.ps1 -Root . -All
 ```
 
-The command must return exit code `0`. Fix every `FAIL`; inspect every `WARN`.
+For legacy artifacts, the command must return exit code `0`. Fix every `FAIL`; inspect every `WARN`.
+
+The current script validates the legacy schema. It does not enforce the new templates object, style fields, top-level theme/entity split, controlled paragraph labels, or fact verification fields. For new-schema articles, complete the manual checks below and do not rebuild the full index until the validator and index builder are upgraded.
 
 The validator checks:
 
@@ -54,13 +56,28 @@ The validator checks:
 - Separate important people, dates, figures, conditions, awards, research results, and conclusions when combining them weakens traceability.
 - Do not use a fixed fact limit.
 - Verify each `source_quote` against its specified paragraph, not merely the full article.
+- Keep `source_quote` string-valued; do not split it into raw and normalized fields.
+- Confirm every fact has boolean `requires_verification` and a `high`, `medium`, or `low` `risk_level`.
+- Confirm first/largest/highest, awards, rankings, official titles, typical-case designations, and equivalent strong claims use `requires_verification: true` and `risk_level: high`.
+
+## Templates And Semantic Fields
+
+- Confirm `templates` defines all seven required arrays.
+- Require at least one title, opening, structure, transition, and ending template.
+- Keep unsupported visual-caption and notice-flow template arrays empty; do not invent patterns.
+- Confirm every template has content plus applicable and non-applicable scenarios.
+- Confirm `value_themes` contains only abstract values and `topic_entities` contains only concrete named entities, with no overlap.
+- Confirm every paragraph tag belongs to the controlled vocabulary, is deduplicated, and describes an actual function.
+- Reject systematic use of `核心事实` as a fallback.
 
 ## Type And Style Review
 
 - `article_types` describe subject and function.
-- `style.labels` describe writing mode, emotional posture, and narrative mechanism.
+- `style.style_labels` describe writing mode, emotional posture, and narrative mechanism.
 - Use the canonical vocabulary in `style-labels.md`; reject avoidable synonyms.
 - JSON and analysis Markdown must list identical labels in identical order.
+- Keep reusable wording, rhetorical devices, writing methods, style labels, and non-reusable wording in their respective fields.
+- Reject entities, rhetorical names, method labels, generic descriptions, and fact-bound passages from `reusable_phrases`.
 
 ## High-Risk Review
 

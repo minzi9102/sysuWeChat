@@ -5,7 +5,7 @@ description: Classify, analyze, repair, and validate Sun Yat-sen University WeCh
 
 # SYSU WeChat Article Analysis
 
-Process `md/[timestamp]title.md` through six stages: classify, clean, model structure, extract facts, label style, validate.
+Process `md/[timestamp]title.md` through seven stages: classify, clean, model structure, extract facts, model reusable writing, label style, validate.
 
 Read these references before editing artifacts:
 
@@ -61,6 +61,12 @@ Identify substantive sections from headings and topic transitions before writing
 
 Choose `article_types` from subject and function. Keep them separate from writing style.
 
+Semantic judgments belong here, not in index construction. Determine paragraph functions, value themes, topic entities, reusable expressions, and template types from the source article before writing JSON. Index construction may normalize fields for retrieval, but must not invent or repair missing semantic analysis.
+
+Keep `paragraph_functions[].function_tags` as a deduplicated array of complementary labels selected from the controlled vocabulary in `references/schema.md`. Multiple labels are allowed when they describe distinct functions. Use `核心事实` only for a paragraph that carries a principal news fact; never apply it mechanically as a fallback.
+
+Separate abstract `value_themes` from concrete `topic_entities`. People, organizations, projects, platforms, instruments, places, and named programs are entities, not values.
+
 For existing artifacts:
 
 - Fully rebuild when article type, structure, paragraph segmentation, or fact coverage is broadly unreliable.
@@ -71,15 +77,21 @@ For existing artifacts:
 
 Cover every substantive section with at least one fact. Add separate facts for important people, dates, figures, conditions, awards, research results, and conclusions. Do not impose a global fact limit.
 
-Every fact must include `source_paragraph_id`, `source_quote`, and `confidence`. The quote must occur inside the referenced paragraph after removing Markdown emphasis and normalizing whitespace. Whole-article occurrence is insufficient.
+Every fact must include `source_paragraph_id`, string-valued `source_quote`, `confidence`, `requires_verification`, and `risk_level`. The quote must occur inside the referenced paragraph after removing Markdown emphasis and normalizing whitespace. Whole-article occurrence is insufficient.
 
 `source_quote` may remove Markdown styling and excess whitespace. It must not paraphrase, combine distant sentences, invent missing details, or weaken traceability. Use `source_image_id` only for facts supported by an original image caption.
 
-Strong assertions such as first/largest/highest, awards, official titles, exact dates, codes, counts, and percentages require direct evidence and generation constraints.
+Strong assertions such as first/largest/highest, awards, official titles, exact dates, codes, counts, and percentages require direct evidence and generation constraints. Assertions containing terms such as `首例`, `全球首例`, `全国首个`, `首次`, `首批`, `最大`, `最高`, or `典型案例`, and equivalent comparative or authoritative claims, must set `requires_verification` to `true` and `risk_level` to `high`.
 
-## 5. Label Style
+## 5. Model Reusable Writing
 
-Set `style.labels` to the three base labels followed by 2-4 discriminative labels:
+Generate a `templates` object with all seven arrays defined in `references/schema.md`. Every article must provide at least one title, opening, structure, transition, and ending template. Generate visual-caption and notice-flow templates only when supported by the source; otherwise use empty arrays.
+
+Generalize patterns without copying article-specific names, figures, claims, or quotations. Each template must state applicable and non-applicable scenarios.
+
+## 6. Label Style
+
+Set `style.style_labels` to the three base labels followed by 2-4 discriminative labels:
 
 1. `事实驱动`
 2. `分章节叙事`
@@ -87,9 +99,9 @@ Set `style.labels` to the three base labels followed by 2-4 discriminative label
 
 Select canonical fine labels from `references/style-labels.md`. Add a new label only when no existing term captures the writing mode, emotional posture, or narrative mechanism. Do not mechanically copy `article_types` or create synonyms.
 
-Keep JSON and analysis Markdown labels identical and ordered.
+Keep JSON and analysis Markdown labels identical and ordered. Put only source-grounded reusable wording in `reusable_phrases`; route rhetorical names to `rhetorical_devices`, writing techniques to `writing_methods`, style categories to `style_labels`, and entity-specific or fact-bound wording to `not_reusable_phrases`.
 
-## 6. Validate
+## 7. Validate
 
 Validate one article:
 
@@ -103,7 +115,7 @@ Validate every existing text artifact and marker:
 ./skills/sysu-wechat-article-analysis/scripts/validate-artifacts.ps1 -Root . -All
 ```
 
-The validator is read-only. It checks mode exclusivity, noise, schema keys, paragraph-local quote provenance, continuous anchors, image statistics, visual caption sources, templates, style labels, and analysis consistency. Any `FAIL` must be fixed before completion. Review `WARN` items manually.
+The validator is read-only. It currently checks the legacy article schema only. Use it for existing artifacts, but do not treat it as validation of the new templates, style, theme/entity, paragraph-label, or fact-risk rules. Until the validator and index builder are upgraded, validate newly analyzed articles manually against `references/schema.md` and `references/checklist.md`, and do not rebuild the full index from new-schema artifacts.
 
 Then perform the semantic checks in `references/checklist.md`, especially section coverage, article type accuracy, strong assertions, inferred captions, and admissions or policy conditions.
 
