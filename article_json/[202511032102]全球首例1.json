@@ -1,0 +1,86 @@
+{
+  "article_id": "sysu_20251103_2102",
+  "title": "全球首例+1",
+  "publish_time": "2025-11-03 21:02",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": ["医学科研成果类", "智能医疗类", "科技援疆类", "临床突破类"],
+  "keywords": ["远程机器人", "视网膜下注射", "5G眼科手术机器人", "林浩添", "乌鲁木齐", "科技援疆"],
+  "summary": "文章报道中山眼科中心牵头完成全球首例远程机器人视网膜下注射手术，说明国产远程眼科手术平台的研发基础、临床过程及科技援疆价值。",
+  "communication_goal": "以“全球首例”为新闻核心，用距离、平台能力、科研进展和手术过程建立成果可信度，并将技术突破连接到优质眼科资源下沉与科技援疆。",
+  "facts": [
+    {"id":"f001","fact":"2025年11月2日上午8时，多团队联合实施全球首例远程机器人视网膜下注射手术。","type":"临床首例","time":"2025-11-02 08:00","subject":"中山眼科中心等多团队","object":"远程机器人视网膜下注射手术","importance":"高","can_reuse":true,"risk":"全球首例、时间、手术类型和参与主体必须直接核验","source_paragraph_id":"p001","source_quote":"11月2日上午8时，另一例全球首例的手术也跨越山海顺利完成","confidence":"high"},
+    {"id":"f002","fact":"手术跨越广州与乌鲁木齐约4200公里。","type":"手术距离","time":"2025-11-02","subject":"远程手术","object":"广州与乌鲁木齐","importance":"高","can_reuse":true,"risk":"距离为原文口径，不得自行测算替换","source_paragraph_id":"p001","source_quote":"跨越4200公里","confidence":"high"},
+    {"id":"f003","fact":"手术以国产5G眼科手术机器人连接广州主控端与乌鲁木齐手术端。","type":"技术平台","time":"2025-11-02","subject":"国产5G眼科手术机器人","object":"连接广州主控端与乌鲁木齐手术端","importance":"高","can_reuse":true,"risk":"国产、自主研发、5G及两地角色均须按原文表述","source_paragraph_id":"p001","source_quote":"实时连接广州主控端与乌鲁木齐手术端","confidence":"high"},
+    {"id":"f004","fact":"视网膜下注射高度依赖操作者稳定性与经验，可用于黄斑下出血等致盲性眼病。","type":"医学背景","time":"未注明","subject":"视网膜下注射","object":"治疗黄斑下出血等致盲性眼病","importance":"高","can_reuse":true,"risk":"医学用途不得扩大为适用于所有致盲性眼病","source_paragraph_id":"p002","source_quote":"广泛应用于治疗黄斑下出血等致盲性眼病","confidence":"high"},
+    {"id":"f005","fact":"研发团队构建具备远程操控、微米级运动精度和实时三维高清感知的平台。","type":"平台能力","time":"未注明","subject":"研发团队","object":"远程眼科手术机器人平台","importance":"高","can_reuse":true,"risk":"三项平台能力必须与原文一致","source_paragraph_id":"p003","source_quote":"医生远程操控+微米级运动精度+实时三维高清感知","confidence":"high"},
+    {"id":"f006","fact":"2023年6月，团队在国内率先完成跨越琼州海峡的动物实验。","type":"前期验证","time":"2023-06","subject":"研发团队","object":"跨越琼州海峡的动物实验","importance":"高","can_reuse":true,"risk":"国内率先、时间和动物实验属性属于强断言","source_paragraph_id":"p003","source_quote":"2023年6月，团队在国内率先完成跨越琼州海峡的动物实验","confidence":"high"},
+    {"id":"f007","fact":"相关成果被期刊 Advanced Science 接收发表。","type":"论文成果","time":"文章发布前","subject":"相关科研成果","object":"被 Advanced Science 接收发表","importance":"中","can_reuse":true,"risk":"不得补写卷期、作者或影响因子","source_paragraph_id":"p003","source_quote":"成果已被国际高影响力期刊 Advanced Science 接收发表","confidence":"high"},
+    {"id":"f008","fact":"此次临床手术历经两年多科学验证。","type":"验证周期","time":"两年多","subject":"远程机器人视网膜下注射临床手术","object":"科学验证","importance":"高","can_reuse":true,"risk":"验证周期不得精确化为未提供的起止日期","source_paragraph_id":"p004","source_quote":"历经两年多科学验证","confidence":"high"},
+    {"id":"f009","fact":"术前由广州和新疆多位专家共同规划患者评估、注射路径、剂量与深度。","type":"术前规划","time":"2025-11-02术前","subject":"多地专家","object":"联合手术规划","importance":"高","can_reuse":true,"risk":"不得补写患者诊断、剂量数值或药物名称","source_paragraph_id":"p005","source_quote":"共同完成患者评估、注射路径、剂量与深度联合规划","confidence":"high"},
+    {"id":"f010","fact":"广州专家远程控制新疆手术端微针完成视网膜下注射，远程操作耗时不到7分钟。","type":"手术过程","time":"2025-11-02","subject":"广州专家与新疆手术端机器人","object":"完成远程视网膜下注射","importance":"高","can_reuse":true,"risk":"不到7分钟仅指远程操作耗时，不得改写为总手术时长","source_paragraph_id":"p005","source_quote":"整个远程操作耗时不到7分钟","confidence":"high"},
+    {"id":"f011","fact":"文章称术中网络、图像与机器人响应稳定，达到预期手术目标。","type":"术中结果","time":"2025-11-02","subject":"远程手术系统与操作","object":"达到预期手术目标","importance":"高","can_reuse":true,"risk":"单次术中观察不得扩大为普遍临床安全性或长期疗效","source_paragraph_id":"p005","source_quote":"顺利达到预期手术目标","confidence":"high"},
+    {"id":"f012","fact":"文章将此次手术定位为中山眼科中心科技援疆的重要实践成果。","type":"科技援疆","time":"2025-11-02","subject":"此次手术","object":"科技援疆实践成果","importance":"中","can_reuse":true,"risk":"属于文章定位，须保留主体和语境","source_paragraph_id":"p006","source_quote":"中山眼科中心科技援疆的重要实践成果","confidence":"high"},
+    {"id":"f013","fact":"林浩添表示未来将探索“远程+智能”模式，推动高水平眼科资源共享。","type":"发展规划","time":"文章发布时","subject":"林浩添","object":"远程智能眼科发展方向","importance":"中","can_reuse":true,"risk":"未来规划不得写成已经全面实现的能力","source_paragraph_id":"p007","source_quote":"推动高水平眼科医疗资源实现‘可移动、可共享、可复制’","confidence":"high"}
+  ],
+  "structure": [
+    {"section":"首例成果发布","paragraphs":["p001"],"purpose":"给出手术时间、距离、参与团队和平台能力。"},
+    {"section":"临床需求与研发基础","paragraphs":["p002","p003","p004"],"purpose":"解释操作难点并回溯平台研发、动物实验、论文与科学验证。"},
+    {"section":"临床过程与结果","paragraphs":["p005"],"purpose":"呈现术前联合规划、远程控制步骤、耗时和术中表现。"},
+    {"section":"科技援疆与未来方向","paragraphs":["p006","p007"],"purpose":"将技术突破连接到对口支援、国家需求和医疗资源共享。"}
+  ],
+  "paragraph_functions": [
+    {"paragraph_id":"p001","display_text":"继2025年3月中山大学附属第一医院成功实施全球首例多米诺体外肝治疗技术之后……","normalized_text":"继2025年3月中山大学附属第一医院成功实施全球首例多米诺体外肝治疗技术之后，11月2日上午8时，另一例全球首例的手术也跨越山海顺利完成——跨越4200公里，中山大学中山眼科中心林浩添教授团队牵头，联合新疆生产建设兵团总医院杨波教授团队、中山大学计算机学院黄凯教授团队以及广州市微眸医疗器械有限公司，成功实施全球首例远程机器人视网膜下注射手术。手术以完全自主研发的国产5G眼科手术机器人为核心平台，实时连接广州主控端与乌鲁木齐手术端，实现了微米级眼底操作的远程精准执行。","summary":"发布首例手术及核心平台信息。","function_tags":["新闻导入","强声明","成果概括"],"writing_method":"首例、时间、距离和团队密集前置","reuse_value":"重大医学成果开场"},
+    {"paragraph_id":"p002","display_text":"我国是全球视力损伤与盲症患者最多的国家之一……","normalized_text":"我国是全球视力损伤与盲症患者最多的国家之一，然而，眼科优质医疗资源总量相对不足、分布不均衡。视网膜下注射是一类高度依赖操作者稳定性与经验的眼底手术操作，广泛应用于治疗黄斑下出血等致盲性眼病。对于医疗资源薄弱的地区，患者往往面临“看得见病，看不见专家”的现实难题。","summary":"解释临床需求、技术难点与资源困境。","function_tags":["问题背景","医学科普","需求铺垫"],"writing_method":"行业现状加患者困境","reuse_value":"医疗技术需求说明"},
+    {"paragraph_id":"p003","display_text":"针对这一重大需求，中山眼科中心林浩添教授团队……","normalized_text":"针对这一重大需求，中山眼科中心林浩添教授团队联合黄凯教授团队与广州微眸公司，持续攻关远程眼科手术机器人平台的研发，并协同嘉兴智瞳科技与中国电信，构建“医生远程操控+微米级运动精度+实时三维高清感知”的远程手术机器人平台。2023年6月，团队在国内率先完成跨越琼州海峡的动物实验，实现远程微米级眼内操作，成果已被国际高影响力期刊 Advanced Science 接收发表。","summary":"回溯平台研发、动物实验和论文成果。","function_tags":["研发过程","前期验证","论文成果"],"writing_method":"能力清单加时间节点","reuse_value":"科研转化证据链"},
+    {"paragraph_id":"p004","display_text":"历经两年多科学验证……","normalized_text":"历经两年多科学验证，此次在乌鲁木齐成功实施全球首例临床手术，标志着我国在远程高精度眼科手术领域实现从“可行性”到“实用性”的关键跃迁，是我国在远程高精度智能医疗领域的一次重大突破。","summary":"评价临床实践的阶段意义。","function_tags":["阶段总结","价值判断","强声明"],"writing_method":"可行性与实用性对照","reuse_value":"科研突破评价"},
+    {"paragraph_id":"p005","display_text":"术前，中山眼科中心林浩添教授、吕林教授……","normalized_text":"术前，中山眼科中心林浩添教授、吕林教授、刘炳乾主任医师与新疆生产建设兵团总医院杨波教授等专家共同完成患者评估、注射路径、剂量与深度联合规划。上午8时，患者手术开始。新疆手术室的机器人注射微针入眼后，由在广州的专家远程控制微针移动至病灶区域的视网膜表面，完成针尖刺入预定视网膜深度及注射药物，整个远程操作耗时不到7分钟。术中网络稳定，图像清晰，机器人响应灵敏，注药过程针尖平稳无抖动，顺利达到预期手术目标。","summary":"描述术前规划、远程操作流程与术中结果。","function_tags":["临床过程","多地协同","数据举证"],"writing_method":"按术前、术中顺序还原操作链","reuse_value":"临床过程报道"},
+    {"paragraph_id":"p006","display_text":"此次手术不仅标志全球首例远程视网膜下注射的成功实施……","normalized_text":"此次手术不仅标志全球首例远程视网膜下注射的成功实施，也是中山眼科中心科技援疆的重要实践成果。多年来，中心坚决贯彻落实党中央治疆方略，持续推进对口支援工作，从人才派驻、技术帮扶到智慧医疗赋能，不断探索“输血”与“造血”并重的援疆新模式。","summary":"连接临床成果与科技援疆。","function_tags":["政策语境","援疆实践","机制概括"],"writing_method":"成果定位加行动清单","reuse_value":"科技帮扶价值连接"},
+    {"paragraph_id":"p007","display_text":"中山眼科中心主任、医院院长林浩添教授表示……","normalized_text":"中山眼科中心主任、医院院长林浩添教授表示：“此次手术的成功，意味着我们不仅能将优质医疗资源通过远程方式输送到边疆，还实现了国产高精机器人在高精度眼科手术中的安全应用。中山眼科中心眼病防治全国重点实验室作为国家战略科技力量的重要组成部分，我们始终面向国家重大需求和科技创新战略，建设世界一流学科。更重要的是，逐步从‘书架’到‘货架’，将创意和创造真正做到了创新。未来，我们将继续探索远程+智能的新模式，推动高水平眼科医疗资源实现‘可移动、可共享、可复制’，让更多基层患者从科技创新中受益。”","summary":"由负责人引语解释成果意义和未来方向。","function_tags":["负责人引语","国家需求","未来愿景"],"writing_method":"现实成果、战略使命与未来规划递进","reuse_value":"科研成果收束"}
+  ],
+  "style": {
+    "labels": ["事实驱动", "分章节叙事", "校媒报道", "科研硬核型", "AI应用型", "成果转化型", "国家战略型"],
+    "tone": "权威、振奋、技术导向",
+    "sentence_features": ["长句承载团队与技术信息", "时间、距离和耗时集中举证", "粗体句突出强声明与价值判断", "负责人长引语完成战略收束"],
+    "layout_features": ["开篇成果前置", "动态图分隔内容阶段", "调试图和合影对应临床过程", "无显式章节标题但主题转折清晰"],
+    "common_phrases": ["全球首例", "微米级", "远程+智能", "可移动、可共享、可复制"],
+    "rhetorical_devices": ["数字前置", "阶段对照", "输血与造血对照", "书架与货架对照"],
+    "style_metrics": {"headline_emotion_level":"high","fact_density":"high","quote_density":"medium","value_sublimation_level":"high","average_paragraph_length":"long","bold_usage":"strong_claims_and_value_statements","image_caption_dependency":"medium"},
+    "reusable_phrases": ["用临床需求、技术能力、前期验证和手术过程构建成果证据链", "以多地协同操作流程说明远程医疗如何落地", "由负责人引语连接成果转化和公共服务价值"],
+    "not_reusable_phrases": ["全球首例、国内率先、重大突破未经权威证据不得复用", "单次手术观察不得写成普遍安全性和长期疗效"]
+  },
+  "value_narrative": {
+    "themes": ["自主创新", "临床转化", "智慧医疗", "科技援疆", "资源共享"],
+    "levels": {"personal_level":"多位专家共同完成评估、规划和远程操作。","team_level":"眼科、计算机、医院、企业和通信团队协同研发及实施。","school_level":"中山眼科中心以医工交叉成果服务临床和边疆需求。","national_level":"文章把国产高精机器人、国家战略科技力量与优质医疗资源下沉相连接。"},
+    "transition_method": "从临床资源不均和高难操作切入，以研发及手术证据回应需求，再提升到科技援疆和国家科技战略。",
+    "school_image": ["医学科研前沿", "医工交叉协同", "重视成果转化", "服务国家需求"],
+    "ending_method": "以中心负责人引语从单次手术推进到远程智能医疗资源共享愿景。"
+  },
+  "visuals": [
+    {"image_id":"cover","caption":"封面图","caption_source":"structural","type":"封面","function":"建立首例医学成果入口","position":"标题前"},
+    {"image_id":"img001","caption":"文章开篇视觉图","caption_source":"structural","type":"开篇视觉","function":"引入首例手术报道","position":"元数据后"},
+    {"image_id":"img002","caption":"章节分隔动态图","caption_source":"structural","type":"装饰图","function":"分隔成果发布与需求说明","position":"p001后"},
+    {"image_id":"img003","caption":"林浩添教授指导团队进行手术机器人调试","caption_source":"original","type":"科研纪实图","function":"呈现术前设备调试","position":"p004后"},
+    {"image_id":"img004","caption":"手术团队在完成全球首例远程视网膜下注射后合影","caption_source":"original","type":"团队合影","function":"呈现手术完成团队","position":"p005后"},
+    {"image_id":"img005","caption":"章节分隔动态图","caption_source":"structural","type":"装饰图","function":"分隔临床过程与科技援疆价值","position":"img004后"}
+  ],
+  "image_stats": {"cover_images":1,"content_images":2,"decorative_images":3,"recommendation_images":0,"footer_images":0,"total_image_nodes_in_clean":6,"unique_image_urls":5},
+  "templates": [
+    {"template":"首例成果前置 -> 临床需求解释 -> 技术平台能力 -> 前期验证 -> 临床过程 -> 国家与民生价值","applicable_scenarios":["医工交叉成果","临床技术突破","科研成果转化报道"],"not_applicable_scenarios":["尚未进入临床验证或缺少可核验过程证据的概念性项目"]},
+    {"template":"资源分布难题 -> 远程技术回应 -> 多地协同实施 -> 负责人解释意义 -> 公共服务愿景","applicable_scenarios":["远程医疗","智慧医疗","科技帮扶报道"],"not_applicable_scenarios":["无法证明远程链路、临床角色或服务对象的活动稿"]}
+  ],
+  "generation_constraints": {
+    "must_not_invent": ["患者病情、药物名称、剂量数值、术后疗效和随访结果", "论文卷期、作者排序、影响因子及未披露实验数据", "图片中未由原文说明的人物身份、设备型号和操作细节"],
+    "strong_claims_require_source": ["全球首例远程机器人视网膜下注射手术", "跨越4200公里", "完全自主研发的国产5G眼科手术机器人", "微米级眼底操作", "全球视力损伤与盲症患者最多的国家之一", "国内率先完成跨越琼州海峡的动物实验", "国际高影响力期刊 Advanced Science 接收发表", "历经两年多科学验证", "从可行性到实用性的关键跃迁", "重大突破", "远程操作耗时不到7分钟", "达到预期手术目标", "全球首例远程视网膜下注射"],
+    "quote_handling": ["林浩添关于远程资源输送、国产机器人应用、国家战略科技力量和未来模式的引语须保留说话人语境", "不得把未来愿景改写为已经全面实现的临床能力", "文章评价性表述应明确为原文判断"],
+    "scenario_boundaries": ["仅使用“▼ 推荐阅读 ▼”之前正文", "单次手术术中表现不得扩大为普遍安全性、有效性或长期疗效", "不到7分钟仅指远程操作耗时，不等于总手术时长", "医学用途限于原文所述黄斑下出血等致盲性眼病"],
+    "recommended_writer_use": ["按成果、需求、研发、验证、临床过程和公共价值组织材料", "用时间、距离、平台能力与操作耗时提升技术报道可信度", "在结尾区分已完成成果与未来规划"],
+    "type_specific_constraints": [
+      {"term":"全球首例","constraint":"必须保留远程、机器人、视网膜下注射三项限定，不能缩写为笼统的全球首例眼科手术。","category":"strong_claim"},
+      {"term":"临床安全应用","constraint":"只能作为林浩添对本次手术的评价，不得转化为普遍安全性结论。","category":"scenario_boundary"},
+      {"term":"手术结果","constraint":"仅能写达到预期手术目标；不得补写术后视力、并发症或长期疗效。","category":"must_not_invent"},
+      {"term":"Advanced Science","constraint":"只写原文所载接收发表状态，不补写卷期、作者或期刊指标。","category":"strong_claim"},
+      {"term":"科技援疆","constraint":"须保留中山眼科中心、多年对口支援及此次实践成果的主体关系。","category":"scenario_boundary"}
+    ]
+  }
+}
