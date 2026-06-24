@@ -48,6 +48,8 @@
 
 [`sysu-wechat-index-builder`](skills/sysu-wechat-index-builder/SKILL.md) 负责校验完整的文章产物并生成多类 JSONL 索引。索引记录包含稳定 ID、文章来源、检索字段和 `text_for_embedding`，可用于关键词检索、向量化或后续知识库导入。
 
+[`make-writing-context.ps1`](scripts/make-writing-context.ps1) 提供面向新稿准备的轻量检索入口。脚本直接按文章类型和关键词筛选现有 JSONL，不依赖向量数据库、网页 UI、多 agent 流水线或自动评分模型；它只负责把可用参考材料整理成紧凑的 context pack，不负责自动写作。
+
 索引修复是独立的构建后步骤，主要处理旧分析产物中的字段和分类问题：
 
 - 重构约束分类与适用范围；
@@ -95,6 +97,7 @@
 5. 校验文章三件套、锚点、事实引文和图片统计。
 6. 构建文章、段落、事实、模板、风格、视觉和约束索引。
 7. 对 legacy 索引执行独立修复，得到最终 `indexed_data/`。
+8. 写作前按需从修复后的索引生成 context pack；该文件是可重复生成的派生产物，不属于索引构建结果。
 
 语义判断在文章分析阶段完成；索引阶段只负责字段归一化、检索友好化和确定性兜底，不凭空补造文章事实或写作语义。
 
@@ -107,12 +110,22 @@
 ```powershell
 ./scripts/make-writing-context.ps1 `
   -Root . `
-  -ArticleTypes '活动报道' `
-  -Keywords '活动主题,核心对象' `
-  -Output 'writing_context/current.json'
+  -ArticleTypes '人工智能类,科创育人类,青年成长类,校园纪实类' `
+  -Keywords 'AI,学生,项目,实践,创新,培训' `
+  -Output 'writing_context/vibecoding.context.json'
 ```
 
-生成后按 [`新稿写作流程`](docs/writing-workflow.md) 使用参考文章、结构模板、风格表达、视觉模式和风险清单。context pack 不得作为本次活动事实来源。
+`ArticleTypes` 和 `Keywords` 均接受英文或中文逗号分隔的值，并自动去除空白和重复项。文章采用宽召回：命中任一类型或关键词即可进入候选，再依次按类型命中数、关键词命中数、发布时间和文章 ID 确定顺序。
+
+输出 JSON 包含：
+
+- `reference_articles`：最多 5 篇参考文章；
+- `structure_templates`：最多 5 个结构模板；
+- `reusable_styles`：最多 20 条表达、写作方法和修辞手法；
+- `visual_patterns`：最多 10 类按图片类型和叙事功能聚合的图文模式，不包含图片 URL；
+- `risk_checklist`：最多 20 条去重后的高优先级风险约束。
+
+模板、风格、视觉和约束优先取自入选文章，不足时再按命中的文章类型补足。生成后按 [`新稿写作流程`](docs/writing-workflow.md) 使用这些材料；context pack 只能作为结构、风格和风险参考，不得作为本次活动的事实来源。
 
 ### 检查新稿风格
 
