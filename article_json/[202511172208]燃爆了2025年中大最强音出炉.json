@@ -1,0 +1,154 @@
+{
+  "article_id": "sysu_20251117_2208",
+  "title": "燃爆了！2025年中大最强音出炉",
+  "publish_time": "2025-11-17 22:08",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": ["校园文化类", "赛事报道类", "校友师生联动类", "校庆活动类"],
+  "keywords": ["中山大学2025年校园师生校友歌手大赛总决赛", "青春中大 你我同行", "广州校区南校园", "孙中山纪念馆前草坪", "中大最强音", "校园歌手", "师生校友", "101周年校庆"],
+  "summary": "本文报道“青春中大 你我同行”中山大学2025年校园师生校友歌手大赛总决赛，按赛道呈现获奖选手、嘉宾表演、专家点评和颁奖环节，突出师生校友以音乐献礼校庆、凝聚青春共同体的校园文化氛围。",
+  "communication_goal": "报道总决赛举办和“中大最强音”揭晓，呈现四个赛道的舞台风采和获奖信息，并借嘉宾表演、点评、颁奖与组织鸣谢塑造中大校园文化活跃、师生校友同台、青春与校庆同频的学校形象。",
+  "value_themes": ["青春表达", "师生校友共同体", "校庆献礼", "校园文化传承", "组织协同"],
+  "topic_entities": ["中山大学2025年校园师生校友歌手大赛总决赛", "青春中大 你我同行", "广州校区南校园", "孙中山纪念馆前草坪", "共青团中山大学委员会", "中山大学工会委员会", "教育发展与校友事务办公室", "党委学生工作部", "艺术学院", "外国语学院", "广播台", "太合音乐集团", "太校园TAIYOUTH"],
+  "facts": [
+    {"id":"f001","fact":"11月16日晚，“青春中大 你我同行”中山大学2025年校园师生校友歌手大赛总决赛在广州校区南校园孙中山纪念馆前草坪举行。","type":"事件事实","time":"2025-11-16","subject":"中山大学2025年校园师生校友歌手大赛总决赛","object":"在广州校区南校园孙中山纪念馆前草坪举行","importance":"高","can_reuse":true,"risk":"活动名称、时间、地点需逐字核对","source_paragraph_id":"p001","source_quote":"11月16日晚，“青春中大 你我同行” 中山大学2025年校园师生校友歌手大赛总决赛在广州校区南校园孙中山纪念馆前草坪激情唱响","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f002","fact":"本次活动约2000名观众到场观看，近20万名观众在云端观看视频与图片直播。","type":"数据事实","time":"2025-11-16","subject":"观众","object":"约2000名现场观看，近20万名云端观看","importance":"高","can_reuse":true,"risk":"人数为精确传播数据，不能扩大或弱化","source_paragraph_id":"p001","source_quote":"约2000名观众到场观看，近20万名观众在云端观看视频与图片直播","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f003","fact":"本届大赛分为学生组、教工组、校友组、学生专业组四个赛道，共19组选手登台。","type":"机制事实","time":"2025","subject":"本届大赛","object":"四个赛道、19组选手","importance":"高","can_reuse":true,"risk":"赛道和组选手数量需核对","source_paragraph_id":"p002","source_quote":"本届大赛分为学生组、教工组、校友组、学生专业组四个赛道。19组选手依次登台，风格迥异，各具魅力","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f004","fact":"学生组冠军为地球科学与工程学院梁泳嘉，演唱《Never Enough》。","type":"获奖事实","time":"2025","subject":"梁泳嘉","object":"学生组冠军，演唱《Never Enough》","importance":"高","can_reuse":true,"risk":"获奖名次、人名、院系和曲目需准确","source_paragraph_id":"p003","source_quote":"学生组 冠军 地球科学与工程学院的梁泳嘉 《Never Enough》高亢动人","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f005","fact":"教工组冠军为海洋科学学院谭博珏，演唱《她说》。","type":"获奖事实","time":"2025","subject":"谭博珏","object":"教工组冠军，演唱《她说》","importance":"高","can_reuse":true,"risk":"获奖名次、人名、院系和曲目需准确","source_paragraph_id":"p004","source_quote":"教工组 冠军 海洋科学学院的谭博珏 《她说》温柔细腻","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f006","fact":"校友组冠军为资讯管理学院2016届硕士冯俊壹，演唱《月光》。","type":"获奖事实","time":"2025","subject":"冯俊壹","object":"校友组冠军，演唱《月光》","importance":"高","can_reuse":true,"risk":"届别、学院、人名和曲目需准确","source_paragraph_id":"p005","source_quote":"校友组 冠军 资讯管理学院2016届硕士冯俊壹 以百折千回的唱腔，勾勒出乱世的刀光剑影与爱恨缠绵，《月光》之下照见千古情仇。","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f007","fact":"学生专业组冠军为艺术学院张晓祎，演唱《春天的芭蕾》。","type":"获奖事实","time":"2025","subject":"张晓祎","object":"学生专业组冠军，演唱《春天的芭蕾》","importance":"高","can_reuse":true,"risk":"获奖名次、人名、院系和曲目需准确","source_paragraph_id":"p006","source_quote":"学生专业组 冠军 艺术学院的张晓祎 以芭蕾的轻盈碰撞花腔的华丽","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f008","fact":"丁汀兰演唱《Queen Rhapsody》，获全场最佳人气。","type":"获奖事实","time":"2025","subject":"丁汀兰","object":"获全场最佳人气","importance":"中","can_reuse":true,"risk":"奖项名和曲目需准确","source_paragraph_id":"p006","source_quote":"艺术学院的丁汀兰 《Queen Rhapsody》解锁一场打破边界的音乐冒险，六分钟穿越歌剧摇滚、放克与竞技赞歌，尽览Queen乐队的绚烂艺术革命，获全场最佳人气。","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f009","fact":"嘉宾表演包括刘颖、李达文合奏《满江红》，李白、张朝夕演唱《灯火里的中国》，崔峥嵘、郎奥博演唱《我爱你，中国》。","type":"活动事实","time":"2025","subject":"嘉宾表演","object":"三组节目","importance":"中","can_reuse":true,"risk":"曲目和表演人不可混淆","source_paragraph_id":"p007","source_quote":"嘉宾表演 青年古筝演奏家，“金钟奖”冠军得主刘颖老师和中山大学艺术学院副教授李达文老师带来古琴、钢琴合奏《满江红》，琴声交织，气势磅礴，震撼全场。李白老师、张朝夕老师深情唱响《灯火里的中国》，一灯一景皆是生活之美与新时代风华。崔峥嵘老师、郎奥博老师《我爱你，中国》响彻草坪，以歌声承载对家国的赤诚，致敬英雄传奇与时代脉搏。","confidence":"high","requires_verification":true,"risk_level":"medium"},
+    {"id":"f010","fact":"陈小奇以中国流行音乐协会常务副主席、著名音乐人、中文系校友身份作点评。","type":"人物事实","time":"2025","subject":"陈小奇","object":"作点评并寄语青年学子","importance":"高","can_reuse":true,"risk":"协会职务、身份和校友关系属于权威信息","source_paragraph_id":"p008","source_quote":"中国流行音乐协会常务副主席、著名音乐人、中文系校友陈小奇点评","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f011","fact":"校长高松为四组冠军选手颁奖。","type":"颁奖事实","time":"2025","subject":"高松","object":"为四组冠军选手颁奖","importance":"中","can_reuse":true,"risk":"职务、人名和奖项需准确","source_paragraph_id":"p009","source_quote":"校长高松为四组冠军选手颁奖","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f012","fact":"活动由共青团中山大学委员会等多方共同支持，外国语学院承办，广播台协力相助。","type":"组织事实","time":"2025","subject":"本次活动","object":"多单位共同支持、外国语学院承办、广播台协力相助","importance":"中","can_reuse":true,"risk":"组织名称和承办关系需准确","source_paragraph_id":"p010","source_quote":"本次活动的成功举办汇聚了来自共青团中山大学委员会、中山大学工会委员会、教育发展与校友事务办公室、党委学生工作部及艺术学院的共同力量","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f013","fact":"文章以“四十载歌声不息，新百年青春依旧”收束，将活动与百年中大、新百年青春愿景相连。","type":"价值事实","time":"2025","subject":"文章结尾","object":"以青春与未来愿景收束","importance":"中","can_reuse":true,"risk":"价值概括需保留原文边界","source_paragraph_id":"p011","source_quote":"四十载歌声不息，新百年青春依旧","confidence":"high","requires_verification":false,"risk_level":"low"}
+  ],
+  "structure": [
+    {"section":"导语定调","function":"活动事实与现场氛围","summary":"交代活动主题、时间地点、观众规模和揭晓语境。"},
+    {"section":"赛制总览","function":"结构搭建","summary":"说明四个赛道和19组选手，为分组呈现铺垫。"},
+    {"section":"分组展示","function":"结果呈现","summary":"按学生组、教工组、校友组、学生专业组列出名次、身份、曲目和舞台评价。"},
+    {"section":"活动扩展","function":"嘉宾与点评","summary":"通过嘉宾节目和陈小奇点评增强活动层次。"},
+    {"section":"荣誉与组织","function":"官方闭环","summary":"呈现颁奖环节、合照和组织支持。"},
+    {"section":"价值收束","function":"校园文化升华","summary":"以歌声、校庆、青春和未来愿景收束。"}
+  ],
+  "paragraph_functions": [
+    {"paragraph_id":"p001","display_text":"音浪奔涌、青春主场开场，交代总决赛时间地点和观众规模。","normalized_text":"音浪奔涌 乐动康园 青春主场 由我歌唱 11月16日晚，“青春中大 你我同行” 中山大学2025年校园师生校友歌手大赛总决赛在广州校区南校园孙中山纪念馆前草坪激情唱响。来自三校区五校园的师生校友们，用歌声赓续百年薪火，用旋律唱响新征程风华，为我们带来了一场视听盛宴。约2000名观众到场观看，近20万名观众在云端观看视频与图片直播，一同见证今年中大最强音揭晓时刻。","summary":"总决赛时间、地点、主题、参与范围和观看数据。","function_tags":["背景交代","核心事实","数据支撑"],"writing_method":"热烈短句定调后接新闻要素和观众数据。","reuse_value":"高"},
+    {"paragraph_id":"p002","display_text":"四组交锋，燃情开唱。本届大赛分为四个赛道，19组选手登台。","normalized_text":"四组交锋，燃情开唱 本届大赛分为学生组、教工组、校友组、学生专业组四个赛道。19组选手依次登台，风格迥异，各具魅力，用一首首动人旋律献礼中大101周年校庆，以青春热忱奏响中大新百年的奋进强音。让我们重返现场 一起领略校园歌手的卓越风采。","summary":"赛制、选手数量和校庆献礼语境。","function_tags":["机制说明","价值转场"],"writing_method":"用赛道信息搭架，再导入现场回顾。","reuse_value":"高"},
+    {"paragraph_id":"p003","display_text":"学生组名次、院系、曲目和舞台描写。","normalized_text":"学生组 冠军 地球科学与工程学院的梁泳嘉 《Never Enough》高亢动人，追梦者对完美的渴望与坚持被深情镌刻。亚军 艺术学院的李厚成 说唱作品《无名》，一句“我只想成为最强”的宣言直抵人心，充满力量。季军 岭南学院的许羽萱 《人世间》的深情吟唱，让生命的悲欣与人情的冷暖缓缓铺展。大气科学学院的颜涵 吉他弹唱《只有夜来香》 管理学院（创业学院）的杜芳琪 演唱《Let It Go》 附属第三医院的宋文韬 演唱融合歌曲《心光-余生》 光华口腔医学院的梁龄予 演唱《Part of Your World》 土木工程学院的庞世龙 演唱《红旗飘飘》 农业与生物技术学院的黄子洵 演唱《如愿》 公共卫生学院的梁辰 演唱《还有什么更好的》 【最具潜力奖】","summary":"学生组选手与奖项集中展示。","function_tags":["群像呈现","成果支撑"],"writing_method":"名次、身份、曲目和一句评价构成重复单元。","reuse_value":"高"},
+    {"paragraph_id":"p004","display_text":"教工组三甲及曲目风格。","normalized_text":"教工组 冠军 海洋科学学院的谭博珏 《她说》温柔细腻，唱出爱情里的遗憾与释然，诉说一段藏在时光里的故事。亚军 附属第一医院的邱越 《Colors of the Wind》空灵悠扬的旋律里，藏着人与自然的哲思，诉说万物有灵的和谐。季军 电子与信息工程学院的林玥琪 《终身美丽》沉稳深情，用粤语诠释出“美丽”的真谛，传递出向内生长的生命力量。","summary":"教工组选手和舞台表现。","function_tags":["群像呈现","成果支撑"],"writing_method":"以情绪和音乐质感词进行轻描写。","reuse_value":"中"},
+    {"paragraph_id":"p005","display_text":"校友组三甲及届别身份。","normalized_text":"校友组 冠军 资讯管理学院2016届硕士冯俊壹 以百折千回的唱腔，勾勒出乱世的刀光剑影与爱恨缠绵，《月光》之下照见千古情仇。亚军 中山医学院2015届博士赵乾皓 《她来听我的演唱会》诉尽爱与成长的百味，满载时光的故事与情怀。季军 CJ0012组合（信息科学与技术学院2007届学士丁其乐、管理学院2017级硕士王冠） 组合演唱《无情的情书》，摇滚与情感交织，重现80后的青春火焰，瞬间点燃全场气氛。","summary":"校友组名次、届别和曲目。","function_tags":["群像呈现","人物经历"],"writing_method":"用学院届别强化校友共同体身份。","reuse_value":"高"},
+    {"paragraph_id":"p006","display_text":"学生专业组三甲和最佳人气奖。","normalized_text":"学生专业组 冠军 艺术学院的张晓祎 以芭蕾的轻盈碰撞花腔的华丽，在《春天的芭蕾》中演绎春日复苏的生机与蓬勃活力。亚军 艺术学院的丁汀兰 《Queen Rhapsody》解锁一场打破边界的音乐冒险，六分钟穿越歌剧摇滚、放克与竞技赞歌，尽览Queen乐队的绚烂艺术革命，获全场最佳人气。季军 艺术学院的毛骞 带来歌曲《落叶归根》，以漂泊为纸，乡愁作墨，在旋律深处，每一片落叶都在寻找归途。","summary":"学生专业组选手、曲目和单项奖。","function_tags":["群像呈现","成果支撑"],"writing_method":"使用更具舞台感和艺术性的评价语。","reuse_value":"高"},
+    {"paragraph_id":"p007","display_text":"嘉宾表演三组节目。","normalized_text":"嘉宾表演 青年古筝演奏家，“金钟奖”冠军得主刘颖老师和中山大学艺术学院副教授李达文老师带来古琴、钢琴合奏《满江红》，琴声交织，气势磅礴，震撼全场。李白老师、张朝夕老师深情唱响《灯火里的中国》，一灯一景皆是生活之美与新时代风华。崔峥嵘老师、郎奥博老师《我爱你，中国》响彻草坪，以歌声承载对家国的赤诚，致敬英雄传奇与时代脉搏。","summary":"嘉宾节目和舞台效果。","function_tags":["案例展开","价值转场"],"writing_method":"从竞赛结果转入嘉宾节目，扩展活动层次。","reuse_value":"中"},
+    {"paragraph_id":"p008","display_text":"陈小奇点评并寄语青年学子。","normalized_text":"点评 中国流行音乐协会常务副主席、著名音乐人、中文系校友陈小奇点评，高度赞扬了师生校友们的舞台表现与精神风貌，并寄望青年学子，将生活感悟融入歌曲，唱响更动人的青春乐章。","summary":"权威点评和价值引导。","function_tags":["人物引语","未来展望"],"writing_method":"身份背书后承接评价和寄语。","reuse_value":"高"},
+    {"paragraph_id":"p009","display_text":"荣誉揭晓和颁奖人连续列举。","normalized_text":"荣誉揭晓 校长高松为四组冠军选手颁奖。校长高松为最具人气奖选手颁奖。校党委常务副书记国亚萍为四组亚军选手颁奖。校党委常务副书记国亚萍、副校长邰忠智为最佳组织奖选手颁奖。校党委副书记张琪为四组季军选手颁奖。校党委副书记张琪为最具潜力奖选手颁奖。校团委书记杨小柳、外国语学院党委书记张东蕙为广州校区十佳歌手颁奖。教育发展与校友事务办公室主任黄瑞敏、艺术学院党委书记张哲为珠海校区十佳歌手颁奖。党委学生工作部部长靳祥鹏、艺术学院党委书记张哲为深圳校区十佳歌手颁奖。中国音乐家协会流行音乐学会常务副主席陈小奇、教育发展与校友事务办公室主任黄瑞敏为校友十佳歌手颁奖。党委宣传部常务副部长黄艳、校工会常务副主席许东黎为教职工十佳歌手颁奖。党委办公室主任范元办、校团委书记杨小柳为校园十佳歌手颁奖。全场合照 主持人合影","summary":"颁奖环节、获奖类别和合影。","function_tags":["成果支撑","群像呈现"],"writing_method":"以连续短段呈现颁奖闭环。","reuse_value":"中"},
+    {"paragraph_id":"p010","display_text":"活动组织力量、承办和支持单位。","normalized_text":"本次活动的成功举办汇聚了来自共青团中山大学委员会、中山大学工会委员会、教育发展与校友事务办公室、党委学生工作部及艺术学院的共同力量。由外国语学院倾情承办，并获广播台协力相助。特别鸣谢中山大学2025年文化传承创新重点建设项目的战略引领，以及太合音乐集团、太校园TAIYOUTH的鼎力支持，各方同心，共谱华章。","summary":"组织协同和支持单位鸣谢。","function_tags":["机制说明","结尾收束"],"writing_method":"用组织名单解释活动成功基础。","reuse_value":"中"},
+    {"paragraph_id":"p011","display_text":"四十载歌声不息，新百年青春依旧。","normalized_text":"四十载歌声不息，新百年青春依旧 昨夜的康乐园因音乐而璀璨，因热爱而温暖。我们以歌声致敬百年中大的深厚底蕴，也以旋律展望未来的无限可能。愿青春的旋律长留心间 愿明日的我们依然以歌为梦、向光而行","summary":"以校庆、青春和未来愿景收束。","function_tags":["结尾收束","未来展望"],"writing_method":"用排比式愿景保留活动余韵。","reuse_value":"高"}
+  ],
+  "style": {
+    "reusable_phrases": ["音浪奔涌，乐动康园", "青春主场，由我歌唱", "让我们重返现场", "各方同心，共谱华章", "以歌为梦、向光而行"],
+    "rhetorical_devices": ["排比", "对偶", "比喻", "感叹式标题"],
+    "writing_methods": ["热词开场后交代新闻要素", "按赛道分章节罗列结果", "名次身份曲目评价四段式呈现", "活动事实转向共同体价值收束"],
+    "style_labels": ["事实驱动", "分章节叙事", "校媒报道", "体育赛事型", "共同体叙事型", "校园风物型"],
+    "not_reusable_phrases": ["2025年中大最强音", "中山大学2025年校园师生校友歌手大赛总决赛", "约2000名观众", "近20万名观众", "中国流行音乐协会常务副主席"]
+  },
+  "value_narrative": {
+    "levels": {
+      "personal_level": "以选手姓名、院系、届别和曲目呈现个体舞台。",
+      "team_level": "以四个赛道、嘉宾节目和颁奖群像呈现师生校友共同参与。",
+      "course_level": "本篇不涉及课程教学。",
+      "school_level": "以校庆、康乐园现场和多单位协同呈现校园文化活力。",
+      "national_level": "仅在嘉宾曲目和家国表达处点到为止，不扩写为国家战略叙事。"
+    },
+    "transition_method": "由赛事结果过渡到师生校友共同体，再以校庆和新百年青春愿景收束。",
+    "school_image": ["青春活力", "文化丰盈", "师生校友同频", "组织协同"],
+    "ending_method": "用歌声、热爱、百年底蕴和未来愿景形成抒情收束。"
+  },
+  "visuals": [
+    {"image_id":"cover","caption":"封面图","caption_source":"structural","type":"封面","function":"活动主题引入","position":"标题前"},
+    {"image_id":"img001","caption":"开场现场视觉，无文字图注","caption_source":"inferred","type":"现场图","function":"营造现场感","position":"元信息后"},
+    {"image_id":"img002","caption":"活动主题视觉","caption_source":"structural","type":"主题视觉","function":"强化活动包装","position":"开头"},
+    {"image_id":"img003","caption":"学生组分隔图","caption_source":"structural","type":"分隔图","function":"章节分隔","position":"p003内"},
+    {"image_id":"img004","caption":"学生组冠军梁泳嘉表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p003内"},
+    {"image_id":"img005","caption":"学生组亚军李厚成表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p003内"},
+    {"image_id":"img006","caption":"学生组季军许羽萱表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p003内"},
+    {"image_id":"img007","caption":"颜涵表演","caption_source":"inferred","type":"表演图","function":"呈现参赛选手","position":"p003内"},
+    {"image_id":"img008","caption":"杜芳琪表演","caption_source":"inferred","type":"表演图","function":"呈现参赛选手","position":"p003内"},
+    {"image_id":"img009","caption":"宋文韬表演","caption_source":"inferred","type":"表演图","function":"呈现参赛选手","position":"p003内"},
+    {"image_id":"img010","caption":"梁龄予表演","caption_source":"inferred","type":"表演图","function":"呈现参赛选手","position":"p003内"},
+    {"image_id":"img011","caption":"庞世龙表演","caption_source":"inferred","type":"表演图","function":"呈现参赛选手","position":"p003内"},
+    {"image_id":"img012","caption":"黄子洵表演","caption_source":"inferred","type":"表演图","function":"呈现参赛选手","position":"p003内"},
+    {"image_id":"img013","caption":"梁辰表演","caption_source":"inferred","type":"表演图","function":"呈现参赛选手","position":"p003内"},
+    {"image_id":"img014","caption":"教工组分隔图","caption_source":"structural","type":"分隔图","function":"章节分隔","position":"p004内"},
+    {"image_id":"img015","caption":"教工组冠军谭博珏表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p004内"},
+    {"image_id":"img016","caption":"教工组亚军邱越表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p004内"},
+    {"image_id":"img017","caption":"教工组季军林玥琪表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p004内"},
+    {"image_id":"img018","caption":"校友组分隔图","caption_source":"structural","type":"分隔图","function":"章节分隔","position":"p005内"},
+    {"image_id":"img019","caption":"校友组冠军冯俊壹表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p005内"},
+    {"image_id":"img020","caption":"校友组亚军赵乾皓表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p005内"},
+    {"image_id":"img021","caption":"CJ0012组合表演","caption_source":"inferred","type":"表演图","function":"呈现获奖组合","position":"p005内"},
+    {"image_id":"img022","caption":"校友组现场补充图片","caption_source":"inferred","type":"现场图","function":"补充校友组场景","position":"p005内"},
+    {"image_id":"img023","caption":"学生专业组分隔图","caption_source":"structural","type":"分隔图","function":"章节分隔","position":"p006内"},
+    {"image_id":"img024","caption":"学生专业组冠军张晓祎表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p006内"},
+    {"image_id":"img025","caption":"学生专业组亚军丁汀兰表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p006内"},
+    {"image_id":"img026","caption":"学生专业组季军毛骞表演","caption_source":"inferred","type":"表演图","function":"呈现获奖选手","position":"p006内"},
+    {"image_id":"img027","caption":"嘉宾表演分隔图","caption_source":"structural","type":"分隔图","function":"章节分隔","position":"p007内"},
+    {"image_id":"img028","caption":"刘颖、李达文表演","caption_source":"inferred","type":"嘉宾表演图","function":"呈现嘉宾节目","position":"p007内"},
+    {"image_id":"img029","caption":"嘉宾合奏现场","caption_source":"inferred","type":"嘉宾表演图","function":"呈现嘉宾节目","position":"p007内"},
+    {"image_id":"img030","caption":"李白、张朝夕表演","caption_source":"inferred","type":"嘉宾表演图","function":"呈现嘉宾节目","position":"p007内"},
+    {"image_id":"img031","caption":"崔峥嵘、郎奥博表演","caption_source":"inferred","type":"嘉宾表演图","function":"呈现嘉宾节目","position":"p007内"},
+    {"image_id":"img032","caption":"点评分隔图","caption_source":"structural","type":"分隔图","function":"章节分隔","position":"p008内"},
+    {"image_id":"img033","caption":"陈小奇点评","caption_source":"inferred","type":"点评图","function":"呈现专家点评","position":"p008后"},
+    {"image_id":"img034","caption":"荣誉揭晓分隔图","caption_source":"structural","type":"分隔图","function":"章节分隔","position":"p009内"},
+    {"image_id":"img035","caption":"高松为四组冠军选手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img036","caption":"高松为最具人气奖选手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img037","caption":"国亚萍为四组亚军选手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img038","caption":"国亚萍、邰忠智为最佳组织奖选手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img039","caption":"张琪为四组季军选手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img040","caption":"张琪为最具潜力奖选手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img041","caption":"广州校区十佳歌手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img042","caption":"珠海校区十佳歌手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img043","caption":"深圳校区十佳歌手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img044","caption":"校友十佳歌手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img045","caption":"教职工十佳歌手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img046","caption":"校园十佳歌手颁奖","caption_source":"inferred","type":"颁奖图","function":"记录颁奖","position":"p009内"},
+    {"image_id":"img047","caption":"荣誉揭晓结构分隔图","caption_source":"structural","type":"分隔图","function":"版式分隔","position":"p009内"},
+    {"image_id":"img048","caption":"全场合照","caption_source":"original","type":"合影","function":"活动收束","position":"p009后"},
+    {"image_id":"img049","caption":"主持人合影","caption_source":"original","type":"合影","function":"活动收束","position":"p009后"}
+  ],
+  "image_stats": {"cover_images":1,"content_images":38,"decorative_images":11,"recommendation_images":0,"footer_images":0,"total_image_nodes_in_clean":50,"unique_image_urls":44},
+  "templates": {
+    "title_templates": [
+      {"template":"燃爆了！[年份/届次][活动简称/荣誉称号]出炉","applicable_scenarios":["校园文艺赛事或评选结果发布","标题可承载热烈情绪的活动报道"],"not_applicable_scenarios":["严肃政策通知","科研成果或数据风险高的硬新闻"]}
+    ],
+    "opening_templates": [
+      {"template":"[氛围短句]，[主题短句]。[时间]，[活动全称]在[地点]举行；[参与范围]共同见证[结果/时刻]。","applicable_scenarios":["线下活动报道","需要快速建立现场感和新闻要素的推文"],"not_applicable_scenarios":["无明确时间地点的回顾稿","纯视觉海报"]}
+    ],
+    "structure_templates": [
+      {"template":"导语定调 -> 赛制/环节总览 -> 分组结果展示 -> 嘉宾/点评扩展 -> 颁奖和组织支持 -> 价值收束","applicable_scenarios":["多组别赛事报道","校庆活动结果发布"],"not_applicable_scenarios":["单一人物深描","招生流程说明"]}
+    ],
+    "transition_templates": [
+      {"template":"让我们重返现场，一起领略[群体/活动对象]的[风采/成果]。","applicable_scenarios":["从导语转入现场回顾","从总体事实转向分章节展示"],"not_applicable_scenarios":["需要直接给操作步骤的服务文"]}
+    ],
+    "ending_templates": [
+      {"template":"[时间跨度/历史意象]不息，[未来阶段/青春意象]依旧。愿[核心价值]长留心间，愿[共同体]继续[行动方向]。","applicable_scenarios":["校园文化活动收束","校庆或传统延续主题"],"not_applicable_scenarios":["事故通报","纯通知公告"]}
+    ],
+    "visual_caption_templates": [
+      {"template":"[组别/环节]+[奖项/身份]+[姓名/对象]+[动作/场景]","applicable_scenarios":["表演图、颁奖图、合影图需要补充检索 caption"],"not_applicable_scenarios":["图片内容无法由正文相邻文本确认"]}
+    ],
+    "notice_flow_templates": []
+  },
+  "generation_constraints": {
+    "must_not_invent": ["不得编造选手姓名、院系、届别、曲目、奖项、颁奖人和组织单位。", "不得使用推荐阅读、iSYSU、编辑链、二维码或评论区内容。"],
+    "strong_claims_require_source": ["约2000名观众", "近20万名观众", "19组选手", "冠军、亚军、季军、最具人气奖、最具潜力奖、最佳组织奖、十佳歌手", "中国流行音乐协会常务副主席", "金钟奖冠军得主"],
+    "quote_handling": ["直接引语如“我只想成为最强”必须保留引号和原意。", "source_quote 只可去除 Markdown 强调和合并空白，不可合并远距离句子。"],
+    "scenario_boundaries": ["本文适用于校园文化赛事与活动报道写作，不适用于政策通知或科研硬新闻。", "结构性提示只记录为 structural_note，不进入 paragraph_functions。"],
+    "recommended_writer_use": ["按组别组织事实，先核对名次、身份和曲目。", "结尾可学习情绪收束方式，但不得套用具体校庆数字。"],
+    "type_specific_constraints": [
+      {"term":"赛事名次","constraint":"名次、奖项和人名必须来自正文或权威名单，不能根据图片推断。","category":"strong_claim"},
+      {"term":"观众数据","constraint":"约2000名和近20万名均为原文数据，生成时不得改为精确统计或更大规模。","category":"strong_claim"},
+      {"term":"评论区勘误","constraint":"评论区内容不进入本次清洗稿、事实库或模板抽取。","category":"scenario_boundary"}
+    ]
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "article_id": "sysu_20251128_1259",
+  "title": "从“心”出发，向“心”而行，他们用真心守护真心！",
+  "publish_time": "2025-11-28 12:59",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": [
+    "院系报道类",
+    "社会服务类",
+    "党建思政类",
+    "志愿服务类",
+    "人才培养类"
+  ],
+  "keywords": [
+    "中山大学心理学系",
+    "我们都是收信人",
+    "心理健康服务",
+    "心益信箱",
+    "心理学走进中学",
+    "社区计划",
+    "乡村帮扶",
+    "种子计划",
+    "健康中国",
+    "平安中国",
+    "百千万工程"
+  ],
+  "summary": "文章围绕中山大学心理学系社会服务育人实践，按历史沿革、机制建设、品牌项目、师生成长和贺信精神落实展开，呈现学系以党建引领和专业支撑服务心理健康、乡村帮扶与基层治理的行动路径。",
+  "communication_goal": "回应中山大学建校100周年重要贺信精神，展示心理学系作为“收信人”的实践担当；通过可核验项目、数据、人物引语和奖项报道，塑造学校将学科优势转化为服务国家战略与人民需求的校媒形象。",
+  "value_themes": [
+    "服务国家战略",
+    "心理健康服务",
+    "实践育人",
+    "基层治理",
+    "乡村帮扶",
+    "党建引领",
+    "青年担当"
+  ],
+  "topic_entities": [
+    "中山大学心理学系",
+    "汪敬熙",
+    "佐斌",
+    "粤港澳高校心理学联盟",
+    "心益信箱",
+    "丰阳镇中心学校",
+    "心理学走进中学",
+    "社区计划",
+    "心灵守望心理健康志愿服务队",
+    "肖继珍",
+    "张佳欣",
+    "中小学心理健康教育教师种子计划",
+    "林盈",
+    "丁如一",
+    "陈英群"
+  ],
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "2024年11月12日，中山大学迎来百年校庆，习近平总书记亲致贺信。",
+      "type": "背景事实",
+      "time": "2024-11-12",
+      "subject": "中山大学",
+      "object": "百年校庆贺信",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "涉及重要贺信和准确日期，必须保留原文时间与主体。",
+      "source_paragraph_id": "p001",
+      "source_quote": "2024年11月12日，中山大学迎来百年校庆，习近平总书记亲致贺信，对学校发展提出殷切期望。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "心理学系1927年由汪敬熙创办，1952年停办，2001年复办。",
+      "type": "历史事实",
+      "time": "1927/1952/2001",
+      "subject": "中山大学心理学系",
+      "object": "创办、停办与复办历史",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "历史年份和人物身份需逐项核对。",
+      "source_paragraph_id": "p003",
+      "source_quote": "1927年，著名心理学家、生理学家汪敬熙在中山大学创办心理学系与心理研究所，开启华南地区现代心理学研究先河。1952年全国高校院系调整停办，2001年心理学系复办。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "心理学系聚焦社会心态引导、儿童青少年发展、心理健康服务、乡村振兴等领域。",
+      "type": "学科方向",
+      "time": "",
+      "subject": "中山大学心理学系",
+      "object": "社会服务方向",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "领域清单不可随意增删。",
+      "source_paragraph_id": "p003",
+      "source_quote": "在社会心态引导、儿童青少年发展、心理健康服务、乡村振兴等领域主动作为",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f004",
+      "fact": "佐斌教授表示学系探索构建“课程—项目—服务”一体化实践育人新路径。",
+      "type": "人物引语事实",
+      "time": "",
+      "subject": "佐斌",
+      "object": "实践育人新路径",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "人物职务和引语不可改换为其他主体。",
+      "source_paragraph_id": "p004",
+      "source_quote": "探索构建“课程—项目—服务”一体化的实践育人新路径",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f005",
+      "fact": "心理学系以党建引领、专业支撑、实践导向为核心构建社会服务育人模式。",
+      "type": "机制事实",
+      "time": "",
+      "subject": "中山大学心理学系",
+      "object": "社会服务育人模式",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "三项核心表述需按原文顺序使用。",
+      "source_paragraph_id": "p006",
+      "source_quote": "心理学系以党建引领、专业支撑、实践导向为核心，构建社会服务育人模式。",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f006",
+      "fact": "2023年11月以来，本硕博第一党支部牵头开展“心益信箱”志愿服务项目。",
+      "type": "项目事实",
+      "time": "2023-11",
+      "subject": "心理学系本硕博第一党支部",
+      "object": "心益信箱志愿服务项目",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "项目起始时间和牵头主体需准确。",
+      "source_paragraph_id": "p009",
+      "source_quote": "2023年11月以来，心理学系本硕博第一党支部依托专业优势牵头开展了“心益信箱”志愿服务项目",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f007",
+      "fact": "2025年11月5日下午，141封中山大学来信送达丰阳镇中心学校。",
+      "type": "活动事实",
+      "time": "2025-11-05 下午",
+      "subject": "来自中山大学的信件",
+      "object": "丰阳镇中心学校",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "精确日期和数量必须核验。",
+      "source_paragraph_id": "p010",
+      "source_quote": "2025年11月5日下午，来自中山大学的141封信件如期送达丰阳镇中心学校。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f008",
+      "fact": "“心益信箱”结对200余名初中生，400余名志愿者参与，服务时长超5000小时，往来书信超2500封。",
+      "type": "数据事实",
+      "time": "截至目前",
+      "subject": "心益信箱",
+      "object": "服务规模",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "多项约数和累计数不可改成精确数。",
+      "source_paragraph_id": "p011",
+      "source_quote": "项目结对200余名初中生，累计参与志愿者400余名，服务时长超5000小时，往来书信超2500封",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f009",
+      "fact": "“心理学走进中学”项目自2001年复系以来持续开展，覆盖近50所中学，2024年延伸至小学阶段。",
+      "type": "项目事实",
+      "time": "2001年以来/2024",
+      "subject": "心理学走进中学",
+      "object": "覆盖中小学实践",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "覆盖数量和延伸阶段需保持原文限定。",
+      "source_paragraph_id": "p013",
+      "source_quote": "自2001年复系以来，持续开展“心理学走进中学”实践育人项目",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f010",
+      "fact": "“社区计划”累计组织中山大学31个院系300余名志愿者，为超3500人提供心理健康服务。",
+      "type": "数据事实",
+      "time": "近年来",
+      "subject": "社区计划",
+      "object": "心理健康服务",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "院系数、志愿者数和服务人数均为强事实。",
+      "source_paragraph_id": "p015",
+      "source_quote": "中山大学31个院系300余名志愿者，为超3500人提供心理健康服务。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f011",
+      "fact": "自2023年以来，心理学系300余人次赴连州开展超过100场活动，为连州超一万人次学生提供心理健康服务。",
+      "type": "数据事实",
+      "time": "2023年以来",
+      "subject": "中山大学心理学系",
+      "object": "连州心理健康服务",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "服务人次和活动场次为强数据。",
+      "source_paragraph_id": "p017",
+      "source_quote": "300余人次多次赴连州开展活动，超过100场活动为连州超一万人次学生提供心理健康服务。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f012",
+      "fact": "“心灵守望”心理健康志愿服务队于2024年11月组建，并赴云南凤庆、广东茂名等地开展实践。",
+      "type": "项目事实",
+      "time": "2024-11",
+      "subject": "心灵守望心理健康志愿服务队",
+      "object": "跨地区社会实践",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "地名和项目名需准确。",
+      "source_paragraph_id": "p018",
+      "source_quote": "2024年11月，心理学系组建“心灵守望”心理健康志愿服务队，赴云南凤庆、广东茂名等地",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f013",
+      "fact": "肖继珍扎根贵州成为高校辅导员。",
+      "type": "人物事实",
+      "time": "2025届/2023级",
+      "subject": "肖继珍",
+      "object": "西部就业并扎根贵州",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "人物经历不可泛化为全体毕业生选择。",
+      "source_paragraph_id": "p020",
+      "source_quote": "西部就业，扎根贵州",
+      "confidence": "medium",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f014",
+      "fact": "相关团队入选2025年团中央关爱行动“七彩假期”志愿服务团，并获多项校级荣誉。",
+      "type": "荣誉事实",
+      "time": "2025/2024-2025",
+      "subject": "心理学系相关团队",
+      "object": "志愿服务荣誉",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "入选、获奖和媒体报道属于强声明。",
+      "source_paragraph_id": "p022",
+      "source_quote": "相关团队入选2025年团中央关爱行动“七彩假期”志愿服务团",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f015",
+      "fact": "2024年12月，心理学系教工党支部协同心理健康教育咨询中心党支部在连州市启动“中小学心理健康教育教师种子计划”。",
+      "type": "项目事实",
+      "time": "2024-12",
+      "subject": "心理学系教工党支部",
+      "object": "中小学心理健康教育教师种子计划",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "计划名称、协同主体和地点需保留。",
+      "source_paragraph_id": "p026",
+      "source_quote": "2024年12月协同心理健康教育咨询中心党支部在连州市启动“中小学心理健康教育教师种子计划”",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f016",
+      "fact": "截至2025年11月，种子计划线下培训超60学时，打磨出8门示范课程。",
+      "type": "数据事实",
+      "time": "截至2025-11",
+      "subject": "中小学心理健康教育教师种子计划",
+      "object": "培训学时与示范课程",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "截止时间、学时和课程数需核验。",
+      "source_paragraph_id": "p027",
+      "source_quote": "截至2025年11月，该计划线下培训时长已超60学时",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f017",
+      "fact": "今年9月，心理学系教工党支部通过广东省党建“双创”单位验收。",
+      "type": "荣誉事实",
+      "time": "2025-09",
+      "subject": "心理学系教工党支部",
+      "object": "广东省党建“双创”单位验收",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "验收事实和时间指代需结合发布时间换算。",
+      "source_paragraph_id": "p030",
+      "source_quote": "今年9月顺利通过广东省党建“双创”单位验收。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f018",
+      "fact": "丁如一副教授带队围绕乡村儿童社会情感能力发展开展调研和评估工具开发。",
+      "type": "人物事实",
+      "time": "",
+      "subject": "丁如一",
+      "object": "乡村儿童社会情感能力研究与服务",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "人物职称和研究对象需准确。",
+      "source_paragraph_id": "p032",
+      "source_quote": "丁如一副教授致力于为乡村儿童与青少年心理困境找到突破口",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f019",
+      "fact": "陈英群表示心理学系将在服务中国式现代化实践中实现自身价值，贡献中大心理学力量。",
+      "type": "人物引语事实",
+      "time": "",
+      "subject": "陈英群",
+      "object": "学系未来使命",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "负责人引语不可脱离心理学系党委语境。",
+      "source_paragraph_id": "p034",
+      "source_quote": "在新百年征程上，心理学系须在服务中国式现代化的伟大实践中实现自身价值",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f020",
+      "fact": "张佳欣带队深入乡村开展“百千万工程”实践，并在引语中呈现从知识汲取者到青年服务者的成长。",
+      "type": "人物事实",
+      "time": "2023级",
+      "subject": "张佳欣",
+      "object": "乡村实践与成长",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "人物引语不可脱离个人实践语境。",
+      "source_paragraph_id": "p021",
+      "source_quote": "深入乡村开展“百千万工程”实践",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    }
+  ],
+  "structure": [
+    {
+      "name": "专栏导入",
+      "paragraph_ids": ["p001", "p002"],
+      "summary": "从百年校庆贺信和“我们都是收信人”专栏引出心理学系。"
+    },
+    {
+      "name": "学科定位",
+      "paragraph_ids": ["p003", "p004"],
+      "summary": "用建系历史、复办节点和系主任引语说明心理学服务国家战略与人民需求的基础。"
+    },
+    {
+      "name": "社会服务育人模式",
+      "paragraph_ids": ["p005", "p006", "p007"],
+      "summary": "以党建引领、专业支撑、实践导向概括学系社会服务育人模式。"
+    },
+    {
+      "name": "品牌项目展开",
+      "paragraph_ids": ["p008", "p009", "p010", "p011", "p012", "p013", "p014", "p015", "p016", "p017", "p018"],
+      "summary": "按心益信箱、走进中学、社区计划和乡村帮扶展示服务对象、工作机制和成效数据。"
+    },
+    {
+      "name": "人物成长与荣誉支撑",
+      "paragraph_ids": ["p019", "p020", "p021", "p022", "p023"],
+      "summary": "用学生去向、实践感受、团队荣誉和未来展望证明育人成效。"
+    },
+    {
+      "name": "牢记嘱托担当实干",
+      "paragraph_ids": ["p024", "p025", "p026", "p027", "p028", "p029", "p030", "p031", "p032", "p033", "p034"],
+      "summary": "回到贺信精神，以党建、教师服务案例和党委书记引语完成价值升华。"
+    }
+  ],
+  "paragraph_functions": [
+    {"paragraph_id":"p001","display_text":"2024年11月12日，中山大学迎来百年校庆，习近平总书记亲致贺信...","normalized_text":"2024年11月12日，中山大学迎来百年校庆，习近平总书记亲致贺信，对学校发展提出殷切期望。收到贺信后，中山大学师生校友深受鼓舞、倍感振奋，同时也深感使命在肩、责任重大。我们策划推出“我们都是收信人”专栏，展现新时代中大人的奋斗故事，着力增强中大人奋进一流的使命感、责任感，为建设教育强国、推进中国式现代化作出新的更大贡献。","summary":"交代贺信与专栏背景。","function_tags":["背景交代"],"writing_method":"重大节点导入。","reuse_value":"高"},
+    {"paragraph_id":"p002","display_text":"今天，我们带大家**走进中山大学心理学系**...","normalized_text":"今天，我们带大家走进中山大学心理学系，了解一群从“心”出发、向“心”而行的“收信人”们。","summary":"引出报道对象。","function_tags":["价值转场"],"writing_method":"专栏承接式转场。","reuse_value":"高"},
+    {"paragraph_id":"p003","display_text":"1927年，著名心理学家、生理学家汪敬熙在中山大学创办心理学系与心理研究所...","normalized_text":"1927年，著名心理学家、生理学家汪敬熙在中山大学创办心理学系与心理研究所，开启华南地区现代心理学研究先河。1952年全国高校院系调整停办，2001年心理学系复办。从学科初创到完善体系建设，中山大学心理学系师生坚持“为社会福，为邦家光”，始终以“立足中华大地，服务国家战略”为己任，聚焦国家急需与人民关切，将心理学研究与社会现实相结合，在社会心态引导、儿童青少年发展、心理健康服务、乡村振兴等领域主动作为，从实验室走向社区、从课堂延伸到社会，努力践行学科的使命担当，持续为粤港澳大湾区乃至全国的心理学发展贡献“中大智慧”。","summary":"交代学系历史和服务方向。","function_tags":["背景交代","成果支撑"],"writing_method":"历史节点与使命并置。","reuse_value":"高"},
+    {"paragraph_id":"p004","display_text":"“**心理学是探索人类心灵奥秘、增进人民健康幸福、助力社会文明进步的科学领域**...”","normalized_text":"佐斌教授表示，心理学是探索人类心灵奥秘、增进人民健康幸福、助力社会文明进步的科学领域，学系将心理学学科优势转化为落实国家“健康中国”“平安中国”重大战略的具体举措，探索构建“课程—项目—服务”一体化的实践育人新路径，并牵头发起粤港澳高校心理学联盟。","summary":"系主任阐释学科价值和实践育人路径。","function_tags":["人物引语","机制说明"],"writing_method":"权威引语连接战略与路径。","reuse_value":"高"},
+    {"paragraph_id":"p005","display_text":"**向“心”而行，构建社会服务育人模式**","normalized_text":"向“心”而行，构建社会服务育人模式","summary":"第一部分章节标题。","function_tags":["章节标题"],"writing_method":"主题化标题。","reuse_value":"中"},
+    {"paragraph_id":"p006","display_text":"**心理学系以党建引领、专业支撑、实践导向为核心，构建社会服务育人模式。**...","normalized_text":"心理学系以党建引领、专业支撑、实践导向为核心，构建社会服务育人模式。创新“党建+业务”双促双融机制，将党组织建设与社会服务深度结合，以党员师生为引领，全系师生深入参与，实现思想政治教育与专业实践有机统一。","summary":"总述社会服务育人模式。","function_tags":["核心事实","机制说明"],"writing_method":"加粗核心判断后展开机制。","reuse_value":"高"},
+    {"paragraph_id":"p007","display_text":"学系**坚持实践育人理念**...","normalized_text":"学系坚持实践育人理念，在城市基层社区和乡村地区开展困境儿童关爱、教师心理培训、青少年积极心理品质促进等实践活动，同时依托网络提供线上个案指导，以书信为载体提供长期情感陪伴，构建从城市到乡村，从线下到线上，从短期到长期的可持续发展社会服务格局，培养学生解决实际问题的能力、强化社会责任感，实现育人成效与社会效益协同提升。","summary":"说明服务内容与格局。","function_tags":["机制说明"],"writing_method":"三组对照塑造体系感。","reuse_value":"高"},
+    {"paragraph_id":"p008","display_text":"**心益信箱**","normalized_text":"心益信箱","summary":"项目标题。","function_tags":["章节标题"],"writing_method":"项目名独立成节。","reuse_value":"中"},
+    {"paragraph_id":"p009","display_text":"2023年11月以来，心理学系本硕博第一党支部...","normalized_text":"2023年11月以来，心理学系本硕博第一党支部依托专业优势牵头开展了“心益信箱”志愿服务项目，与广东省连州市丰阳镇中心学校建立帮扶机制，每月组织往返通信，为初中生提供持续性心理支持。","summary":"介绍心益信箱的时间、主体和机制。","function_tags":["核心事实","案例展开"],"writing_method":"时间+主体+项目+对象。","reuse_value":"高"},
+    {"paragraph_id":"p010","display_text":"**2025年11月5日下午，来自中山大学的141封信件如期送达丰阳镇中心学校。**...","normalized_text":"2025年11月5日下午，来自中山大学的141封信件如期送达丰阳镇中心学校。收信学生表达期待，黄老师表示这样的活动对学生来说是珍贵的。","summary":"用送信现场和反馈呈现项目温度。","function_tags":["核心事实","人物引语"],"writing_method":"现场事实叠加原声反馈。","reuse_value":"高"},
+    {"paragraph_id":"p011","display_text":"截至目前，**项目结对200余名初中生...","normalized_text":"截至目前，项目结对200余名初中生，累计参与志愿者400余名，服务时长超5000小时，往来书信超2500封，持续为乡村青少年心理健康成长贡献力量。","summary":"呈现项目累计成效。","function_tags":["数据支撑","成果支撑"],"writing_method":"多项累计数据并列。","reuse_value":"高"},
+    {"paragraph_id":"p012","display_text":"**走进中学**","normalized_text":"走进中学","summary":"项目标题。","function_tags":["章节标题"],"writing_method":"项目名独立成节。","reuse_value":"中"},
+    {"paragraph_id":"p013","display_text":"心理学系**自2001年复系以来...","normalized_text":"心理学系自2001年复系以来，持续开展“心理学走进中学”实践育人项目，依托“1+3”模式，通过团体辅导、心理游园会等方式助力青少年塑造积极心理品质，项目已覆盖广州、珠海、佛山等多地近50所中学，2024年进一步延伸至小学阶段。","summary":"介绍走进中学项目模式和覆盖。","function_tags":["核心事实","机制说明","数据支撑"],"writing_method":"模式解释与覆盖数据结合。","reuse_value":"高"},
+    {"paragraph_id":"p014","display_text":"**社区计划**","normalized_text":"社区计划","summary":"项目标题。","function_tags":["章节标题"],"writing_method":"项目名独立成节。","reuse_value":"中"},
+    {"paragraph_id":"p015","display_text":"近年来，心理学系团委组织开展“社区计划”公益项目...","normalized_text":"近年来，心理学系团委组织开展“社区计划”公益项目，聚焦青少年“童心守护”及老年群体“银发关怀”，构建“心理科普+实践服务”融合模式，累计组织来自中山大学31个院系300余名志愿者，为超3500人提供心理健康服务。","summary":"介绍社区计划对象、模式和数据。","function_tags":["核心事实","数据支撑","人物引语"],"writing_method":"服务对象+规模+外部评价。","reuse_value":"高"},
+    {"paragraph_id":"p016","display_text":"**乡村帮扶**","normalized_text":"乡村帮扶","summary":"项目标题。","function_tags":["章节标题"],"writing_method":"项目名独立成节。","reuse_value":"中"},
+    {"paragraph_id":"p017","display_text":"中山大学心理学系长期以来坚持将专业所学与服务社会相结合...","normalized_text":"中山大学心理学系长期以来坚持将专业所学与服务社会相结合，积极助力“百千万工程”，自2023年以来，先后组织多个党支部和“心领航”心理健康护航队300余人次多次赴连州开展活动，超过100场活动为连州超一万人次学生提供心理健康服务。","summary":"呈现连州乡村帮扶规模。","function_tags":["核心事实","数据支撑"],"writing_method":"组织主体和服务规模前置。","reuse_value":"高"},
+    {"paragraph_id":"p018","display_text":"2024年11月，心理学系组建“心灵守望”心理健康志愿服务队...","normalized_text":"2024年11月，心理学系组建“心灵守望”心理健康志愿服务队，赴云南凤庆、广东茂名等地开展心理科普、团体辅导、专项调研、个案辅导等实践，并列出团体辅导、嘉年华、讲座、教师赋能、家庭访谈等数据。","summary":"呈现心灵守望服务队跨地区实践。","function_tags":["核心事实","数据支撑","案例展开"],"writing_method":"多组活动数据形成项目画像。","reuse_value":"高"},
+    {"paragraph_id":"p019","display_text":"从课堂到基层，从理论到实践...","normalized_text":"从课堂到基层，从理论到实践，心理学系学子以行动践行成长，用专业与热忱传递心理温度，书写青年担当。","summary":"从项目转向学生成长。","function_tags":["价值转场"],"writing_method":"对偶短句概括实践价值。","reuse_value":"高"},
+    {"paragraph_id":"p020","display_text":"中山大学优秀毕业生、心理学系2025届硕士毕业生肖继珍...","normalized_text":"中山大学优秀毕业生、心理学系2025届硕士毕业生肖继珍响应国家号召奔赴西部就业，扎根贵州成为高校辅导员，并用引语说明实践经历推动她投身国家教育事业。","summary":"肖继珍就业选择和引语。","function_tags":["人物经历","人物引语"],"writing_method":"个体选择承接国家号召。","reuse_value":"高"},
+    {"paragraph_id":"p021","display_text":"心理学系2023级本科生张佳欣统筹学系社区实践项目...","normalized_text":"心理学系2023级本科生张佳欣统筹社区实践项目、带队深入乡村开展“百千万工程”实践，并在引语中说明自己从知识汲取者成长为青年服务者。","summary":"张佳欣实践经历和成长感受。","function_tags":["人物经历","人物引语"],"writing_method":"成长转变式人物引语。","reuse_value":"高"},
+    {"paragraph_id":"p022","display_text":"自2001年心理学系复办以来...","normalized_text":"自2001年心理学系复办以来，师生社会实践足迹遍布多地社区和学校，相关团队入选2025年团中央关爱行动“七彩假期”志愿服务团，获得多项校级荣誉，活动被人民网、南方+等媒体报道。","summary":"列举覆盖地区、荣誉和媒体报道。","function_tags":["成果支撑","数据支撑"],"writing_method":"奖项与报道作为外部认可。","reuse_value":"高"},
+    {"paragraph_id":"p023","display_text":"接下来，学系将立足学科优势与服务地实际需求...","normalized_text":"接下来，学系将立足学科优势与服务地实际需求，持续优化校地共建机制，推动心理科普、成长支持等服务向纵深发展，以实践赋能人才培养，用专业回应社会关切。","summary":"展望校地共建和服务发展。","function_tags":["未来展望","结尾收束"],"writing_method":"行动方向与价值回扣。","reuse_value":"高"},
+    {"paragraph_id":"p024","display_text":"**从“心”出发：牢记嘱托担当实干**","normalized_text":"从“心”出发：牢记嘱托担当实干","summary":"第二部分章节标题。","function_tags":["章节标题"],"writing_method":"标题回扣主题。","reuse_value":"中"},
+    {"paragraph_id":"p025","display_text":"一年来，心理学系师生牢记习近平总书记嘱托...","normalized_text":"一年来，心理学系师生牢记习近平总书记嘱托，将贺信精神转化为学习和工作的强大动力，学系党委推动贺信精神与学科建设、人才培养、社会服务深度融合。","summary":"说明贺信精神融入学系工作。","function_tags":["背景交代","价值转场"],"writing_method":"精神落实总述。","reuse_value":"高"},
+    {"paragraph_id":"p026","display_text":"**心理学系教工党支部深入推进社会服务优化...","normalized_text":"心理学系教工党支部深入推进社会服务优化，2024年12月协同心理健康教育咨询中心党支部在连州市启动“中小学心理健康教育教师种子计划”，为8位种子教师配备传帮带团队。","summary":"介绍种子计划的启动与机制。","function_tags":["核心事实","机制说明"],"writing_method":"计划名称、主体和配备方式完整交代。","reuse_value":"高"},
+    {"paragraph_id":"p027","display_text":"**截至2025年11月，该计划线下培训时长已超60学时...","normalized_text":"截至2025年11月，该计划线下培训时长已超60学时，种子教师理论基础和实践能力明显增强，打磨出8门示范课程。","summary":"呈现种子计划阶段成效。","function_tags":["数据支撑","成果支撑"],"writing_method":"截止时间+学时+课程成果。","reuse_value":"高"},
+    {"paragraph_id":"p028","display_text":"中大的老师们根据我们设定的课程主题...","normalized_text":"中大的老师们根据我们设定的课程主题，讲解如何贴合学生需求、如何从学生身上挖掘解决问题的方法。","summary":"种子教师反馈课程指导。","function_tags":["人物引语"],"writing_method":"服务对象反馈。","reuse_value":"中"},
+    {"paragraph_id":"p029","display_text":"中大的老师们让我们认识到...","normalized_text":"中大的老师们让我们认识到，课程不仅是心理知识的传授，更是对学生心灵的滋养和引导。","summary":"种子教师反馈课程价值。","function_tags":["人物引语"],"writing_method":"服务对象反馈。","reuse_value":"中"},
+    {"paragraph_id":"p030","display_text":"近年来，心理学系教工党支部以建设广东省党建工作样板支部为契机...","normalized_text":"近年来，心理学系教工党支部以建设广东省党建工作样板支部为契机，多次赴云南凤庆、澄江、广西都安等地开展中小学心理健康教育帮扶工作，今年9月顺利通过广东省党建“双创”单位验收。","summary":"列举帮扶地点和党建验收。","function_tags":["成果支撑"],"writing_method":"地点清单与验收事实。","reuse_value":"高"},
+    {"paragraph_id":"p031","display_text":"在习近平总书记重要贺信精神引领下...","normalized_text":"在习近平总书记重要贺信精神引领下，心理学系师生在持续推动心理学研究的同时，投身心理健康教育和乡村帮扶工作的热情与毅力也不断增强。","summary":"从党建成效转向教师案例。","function_tags":["价值转场"],"writing_method":"价值判断承接人物故事。","reuse_value":"中"},
+    {"paragraph_id":"p032","display_text":"心理学系青年教师**丁如一副教授致力于为乡村儿童与青少年心理困境找到突破口**...","normalized_text":"心理学系青年教师丁如一副教授致力于为乡村儿童与青少年心理困境找到突破口，带领课题组深入社区和连州、高州等地调研，开展科普培训与辅导，开发针对乡村儿童的评估工具。","summary":"丁如一团队科研服务基层。","function_tags":["人物经历","成果支撑"],"writing_method":"青年教师个案证明学科支撑。","reuse_value":"高"},
+    {"paragraph_id":"p033","display_text":"恰逢“十四五”收官、“十五五”谋篇的关键节点...","normalized_text":"恰逢“十四五”收官、“十五五”谋篇的关键节点，心理学系师生锚定“健康中国”“平安中国”建设目标，依托系列特色品牌项目，将心理服务从城市延伸至乡村，从单向知识传授升级为双向成长，从短期帮扶深化为长期陪伴。","summary":"总结服务体系和价值。","function_tags":["机制说明","结尾收束"],"writing_method":"三组递进概括全篇。","reuse_value":"高"},
+    {"paragraph_id":"p034","display_text":"学系党委书记陈英群表示...","normalized_text":"学系党委书记陈英群表示，心理学系党委推动党建与业务深度融合，在新百年征程上，心理学系须在服务中国式现代化的伟大实践中实现自身价值，全系师生将为培养担当民族复兴大任的时代新人、建设健康中国与平安中国贡献中山大学的心理学力量。","summary":"负责人引语完成价值升华。","function_tags":["人物引语","行动号召","结尾收束"],"writing_method":"党委书记引语收束到国家战略。","reuse_value":"高"}
+  ],
+  "style": {
+    "reusable_phrases": [
+      "从课堂到基层，从理论到实践",
+      "以实践赋能人才培养，用专业回应社会关切",
+      "从短期帮扶深化为长期陪伴",
+      "让专业力量扎根基层、惠及更多群体"
+    ],
+    "rhetorical_devices": [
+      "双关",
+      "排比",
+      "对偶",
+      "递进"
+    ],
+    "writing_methods": [
+      "重大节点导入",
+      "项目分章展开",
+      "数据与人物引语交替支撑",
+      "从学科机制升华到国家战略"
+    ],
+    "style_labels": [
+      "事实驱动",
+      "分章节叙事",
+      "校媒报道",
+      "人物群像型",
+      "志愿服务纪实型",
+      "党建引领型",
+      "医学人文型"
+    ],
+    "not_reusable_phrases": [
+      "中山大学心理学系",
+      "心益信箱",
+      "粤港澳高校心理学联盟",
+      "2025年团中央关爱行动“七彩假期”志愿服务团",
+      "广东省党建“双创”单位验收",
+      "141封信件如期送达丰阳镇中心学校"
+    ]
+  },
+  "value_narrative": {
+    "levels": {
+      "personal_level": "肖继珍、张佳欣、丁如一等个体经历体现专业学习与服务行动的相互转化。",
+      "team_level": "党支部、志愿服务队和项目团队通过长期项目形成稳定服务能力。",
+      "course_level": "“课程—项目—服务”一体化路径把专业训练放到真实一线场景中。",
+      "school_level": "中山大学将心理学学科优势转化为服务社会与实践育人的学校形象。",
+      "national_level": "围绕健康中国、平安中国、教育强国和中国式现代化展开价值升华。"
+    },
+    "transition_method": "从贺信精神导入，到院系机制和项目实践，再由人物成长、荣誉支撑和负责人引语升华。",
+    "school_image": [
+      "服务社会",
+      "扎根基层",
+      "专业报国",
+      "实践育人",
+      "温暖可靠"
+    ],
+    "ending_method": "以党委书记引语和“贡献中山大学的心理学力量”完成行动号召式收束。"
+  },
+  "visuals": [
+    {"image_id":"cover","caption":"封面图","caption_source":"structural","type":"cover","function":"封面呈现","position":"before_title"},
+    {"image_id":"img001","caption":"专栏开篇视觉","caption_source":"structural","type":"decorative","function":"开篇氛围","position":"opening"},
+    {"image_id":"img002","caption":"专栏结构视觉","caption_source":"structural","type":"decorative","function":"段落分隔","position":"after_p002"},
+    {"image_id":"img003","caption":"心理学系学科建设与社会服务情况","caption_source":"original","type":"infographic","function":"学科建设与服务概览","position":"after_p003"},
+    {"image_id":"img004","caption":"粤港澳高校心理学联盟成立仪式暨第一届粤港澳大湾区心理学科创新发展论坛近日举行","caption_source":"original","type":"photo","function":"联盟成立事实支撑","position":"after_p004"},
+    {"image_id":"img005","caption":"章节分隔视觉","caption_source":"structural","type":"decorative","function":"章节分隔","position":"after_p005"},
+    {"image_id":"img006","caption":"心理学系社会服务概况","caption_source":"original","type":"infographic","function":"服务概况支撑","position":"after_p007"},
+    {"image_id":"img007","caption":"项目分隔视觉","caption_source":"structural","type":"decorative","function":"项目分隔","position":"before_p008"},
+    {"image_id":"img008","caption":"项目分隔视觉","caption_source":"structural","type":"decorative","function":"项目分隔","position":"after_p008"},
+    {"image_id":"img009","caption":"来自中山大学的信件送达丰阳镇中心学校","caption_source":"inferred","type":"photo","function":"心益信箱现场支撑","position":"after_p009"},
+    {"image_id":"img010","caption":"参与“心益信箱”初中生和志愿者的反馈","caption_source":"original","type":"photo","function":"反馈支撑","position":"after_p011"},
+    {"image_id":"img011","caption":"参与“心益信箱”初中生和志愿者的反馈","caption_source":"original","type":"photo","function":"反馈支撑","position":"after_p011"},
+    {"image_id":"img012","caption":"参与“心益信箱”初中生和志愿者的反馈","caption_source":"original","type":"photo","function":"反馈支撑","position":"after_p011"},
+    {"image_id":"img013","caption":"参与“心益信箱”初中生和志愿者的反馈","caption_source":"original","type":"photo","function":"反馈支撑","position":"after_p011"},
+    {"image_id":"img014","caption":"项目分隔视觉","caption_source":"structural","type":"decorative","function":"项目分隔","position":"before_p012"},
+    {"image_id":"img015","caption":"项目分隔视觉","caption_source":"structural","type":"decorative","function":"项目分隔","position":"after_p012"},
+    {"image_id":"img016","caption":"“心理学走进中学”实践活动现场","caption_source":"inferred","type":"photo","function":"项目现场支撑","position":"after_p013"},
+    {"image_id":"img017","caption":"项目分隔视觉","caption_source":"structural","type":"decorative","function":"项目分隔","position":"before_p014"},
+    {"image_id":"img018","caption":"项目分隔视觉","caption_source":"structural","type":"decorative","function":"项目分隔","position":"after_p014"},
+    {"image_id":"img019","caption":"“社区计划”公益项目现场","caption_source":"inferred","type":"photo","function":"社区服务现场支撑","position":"after_p015"},
+    {"image_id":"img020","caption":"“社区计划”公益项目现场","caption_source":"inferred","type":"photo","function":"社区服务现场支撑","position":"after_p015"},
+    {"image_id":"img021","caption":"项目分隔视觉","caption_source":"structural","type":"decorative","function":"项目分隔","position":"before_p016"},
+    {"image_id":"img022","caption":"项目分隔视觉","caption_source":"structural","type":"decorative","function":"项目分隔","position":"after_p016"},
+    {"image_id":"img023","caption":"在丰阳镇中心学校开展游园会","caption_source":"original","type":"photo","function":"乡村帮扶现场支撑","position":"after_p018"},
+    {"image_id":"img024","caption":"在广州六中连州实验中学授课","caption_source":"original","type":"photo","function":"乡村帮扶现场支撑","position":"after_p018"},
+    {"image_id":"img025","caption":"张佳欣在社区服务","caption_source":"original","type":"photo","function":"人物实践支撑","position":"after_p021"},
+    {"image_id":"img026","caption":"在高州曹江镇开展心理健康知识科普","caption_source":"original","type":"photo","function":"人物实践支撑","position":"after_p021"},
+    {"image_id":"img027","caption":"章节分隔视觉","caption_source":"structural","type":"decorative","function":"章节分隔","position":"after_p024"},
+    {"image_id":"img028","caption":"学系师生参加学校百年校庆大会","caption_source":"original","type":"photo","function":"贺信精神学习支撑","position":"after_p025"},
+    {"image_id":"img029","caption":"学系党团班骨干集体学习贺信精神","caption_source":"original","type":"photo","function":"贺信精神学习支撑","position":"after_p025"},
+    {"image_id":"img030","caption":"心理健康教育帮扶工作现场","caption_source":"inferred","type":"photo","function":"帮扶工作支撑","position":"after_p030"},
+    {"image_id":"img031","caption":"为家长提供公益辅导","caption_source":"original","type":"photo","function":"教师服务案例支撑","position":"after_p032"}
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 18,
+    "decorative_images": 13,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 32,
+    "unique_image_urls": 24
+  },
+  "templates": {
+    "title_templates": [
+      {
+        "template": "从[专业关键词]出发，向[价值方向]而行，他们用[行动品质]守护[服务对象]",
+        "applicable_scenarios": "适用于带有专业双关、情感温度和群像服务的院系实践报道。",
+        "not_applicable_scenarios": "不适用于硬新闻通报、招生政策、科研成果发布等需要低情绪标题的内容。"
+      }
+    ],
+    "opening_templates": [
+      {
+        "template": "以学校重大节点或上级嘱托开篇，说明专栏背景，再用“走进[院系/团队]”引出报道对象。",
+        "applicable_scenarios": "适用于系列专栏、周年节点、主题教育或精神落实类文章。",
+        "not_applicable_scenarios": "不适用于没有共同主题背景的单一活动报道。"
+      }
+    ],
+    "structure_templates": [
+      {
+        "template": "历史沿革与学科定位 -> 总体机制 -> 多个品牌项目 -> 人物成长与荣誉 -> 负责人引语升华。",
+        "applicable_scenarios": "适用于院系长期建设、社会服务和实践育人的综合报道。",
+        "not_applicable_scenarios": "不适用于只报道一个会议或一次活动的短稿。"
+      }
+    ],
+    "transition_templates": [
+      {
+        "template": "从[实践场景A]到[实践场景B]，从[知识维度]到[行动维度]，[主体]以行动践行[价值]。",
+        "applicable_scenarios": "适用于从项目事实转入人物成长、价值总结或下一章节的过渡。",
+        "not_applicable_scenarios": "不适用于需要直接列公告条件或流程步骤的通知稿。"
+      }
+    ],
+    "ending_templates": [
+      {
+        "template": "以负责人引语总结[机制/共识]，再落到[国家战略/学校使命]和[专业力量]的未来贡献。",
+        "applicable_scenarios": "适用于党建引领、院系建设、社会服务类校媒报道的价值收束。",
+        "not_applicable_scenarios": "不适用于轻量校园生活稿或纯视觉游览稿。"
+      }
+    ],
+    "visual_caption_templates": [
+      {
+        "template": "在[地点/场景]开展[活动类型]",
+        "applicable_scenarios": "适用于现场服务、课堂、帮扶、科普等图片的简洁说明。",
+        "not_applicable_scenarios": "不适用于无法确认地点或活动性质的装饰图。"
+      },
+      {
+        "template": "[项目/团队] [工作概况/服务概况]",
+        "applicable_scenarios": "适用于项目概览图、数据图或结构图。",
+        "not_applicable_scenarios": "不适用于人物肖像或未含信息结构的现场照片。"
+      }
+    ],
+    "notice_flow_templates": []
+  },
+  "generation_constraints": {
+    "must_not_invent": [
+      "不得新增原文没有出现的服务地点、合作单位、人物职务、课程名称或媒体报道。",
+      "不得把约数改写为精确数，也不得把阶段性项目成效改写为长期固定制度成效。",
+      "不得从图片推断未在文字或图注中出现的具体人物姓名。"
+    ],
+    "strong_claims_require_source": [
+      "习近平总书记亲致贺信",
+      "华南地区现代心理学研究先河",
+      "粤港澳高校心理学联盟近期正式成立",
+      "141封信件",
+      "200余名初中生、400余名志愿者、超5000小时、超2500封",
+      "近50所中学",
+      "31个院系300余名志愿者、超3500人",
+      "超过100场活动、超一万人次学生",
+      "2025年团中央关爱行动“七彩假期”志愿服务团",
+      "广东省党建“双创”单位验收"
+    ],
+    "quote_handling": [
+      "佐斌、黄老师、肖继珍、张佳欣、种子教师、陈英群的引语必须对应原人物，不得混用。",
+      "人物引语可摘引短句，但不得改写为官方结论。"
+    ],
+    "scenario_boundaries": [
+      "适用于心理健康服务、院系社会服务、实践育人和党建引领类报道。",
+      "不适用于医疗诊断、心理咨询建议或招生政策说明。"
+    ],
+    "recommended_writer_use": [
+      "优先复用“项目分章+数据支撑+人物反馈+价值收束”的结构。",
+      "生成新稿时需为每个项目保留时间、主体、对象、行动和成效五类信息。"
+    ],
+    "type_specific_constraints": [
+      {"term":"华南地区现代心理学研究先河","constraint":"属于历史定位强声明，必须有原文证据或外部核验。","category":"strong_claim"},
+      {"term":"首批优秀项目","constraint":"涉及荣誉批次，不得脱离奖项全称使用。","category":"strong_claim"},
+      {"term":"广东省党建“双创”单位验收","constraint":"涉及党建验收事实，需保留“今年9月”相对时间对应的发布年份。","category":"strong_claim"},
+      {"term":"心理健康服务","constraint":"不得生成诊断、治疗或个体心理干预建议。","category":"scenario_boundary"}
+    ]
+  }
+}

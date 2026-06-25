@@ -1,0 +1,344 @@
+{
+  "article_id": "202511201019",
+  "title": "刘承功同志任中山大学党委书记",
+  "publish_time": "2025年11月20日 10:19",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": ["人事任命", "会议简讯", "组织工作报道", "人物简历"],
+  "keywords": ["刘承功", "中山大学党委书记", "中央批准", "教师干部会议", "中央组织部", "教育部", "广东省委", "高松"],
+  "summary": "文章以短消息形式发布中央批准刘承功同志任中山大学党委书记的任命信息，并交代中山大学教师干部会议的宣布、出席和主持情况，末尾附刘承功同志基本简历。",
+  "communication_goal": "以权威、简洁、可核验的方式向校内外读者传达学校党委主要负责人任命信息，说明会议宣布程序和参会范围，并提供新任党委书记基本履历。",
+  "value_themes": ["组织任命权威发布", "大学治理", "党委领导", "干部工作规范"],
+  "topic_entities": ["刘承功", "中山大学", "中山大学党委", "中央组织部", "教育部", "广东省委", "张光军", "王嘉毅", "冯忠华", "高松", "复旦大学", "东华大学"],
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "中央批准刘承功同志任中山大学党委书记，职务标注为副部长级。",
+      "type": "appointment",
+      "time": "日前",
+      "subject": "刘承功",
+      "object": "中山大学党委书记（副部长级）",
+      "importance": "high",
+      "can_reuse": false,
+      "risk": "涉及中央批准、学校党委主要负责人和副部长级职务，必须逐字核对。",
+      "source_paragraph_id": "p001",
+      "source_quote": "日前，中央批准：刘承功同志任中山大学党委书记（副部长级）。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "2025年11月20日，中山大学召开教师干部会议。",
+      "type": "meeting",
+      "time": "2025年11月20日",
+      "subject": "中山大学",
+      "object": "教师干部会议",
+      "importance": "high",
+      "can_reuse": true,
+      "risk": "含精确日期和会议名称，引用时需核对。",
+      "source_paragraph_id": "p002",
+      "source_quote": "11月20日，中山大学召开教师干部会议。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "中央组织部副部长张光军同志到会宣布中央决定并讲话。",
+      "type": "meeting_procedure",
+      "time": "2025年11月20日",
+      "subject": "张光军",
+      "object": "宣布中央决定并讲话",
+      "importance": "high",
+      "can_reuse": false,
+      "risk": "含官方职务、姓名和中央决定表述，必须核对。",
+      "source_paragraph_id": "p002",
+      "source_quote": "中央组织部副部长张光军同志到会宣布中央决定并讲话",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f004",
+      "fact": "教育部副部长、党组成员、总督学王嘉毅同志和广东省委常委、组织部部长冯忠华同志出席会议并讲话。",
+      "type": "meeting_attendance",
+      "time": "2025年11月20日",
+      "subject": "王嘉毅、冯忠华",
+      "object": "出席会议并讲话",
+      "importance": "high",
+      "can_reuse": false,
+      "risk": "含多个官方职务和姓名，必须保持完整准确。",
+      "source_paragraph_id": "p002",
+      "source_quote": "教育部副部长、党组成员、总督学王嘉毅同志，广东省委常委、组织部部长冯忠华同志出席会议并讲话。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f005",
+      "fact": "中山大学校长高松同志主持会议。",
+      "type": "meeting_procedure",
+      "time": "2025年11月20日",
+      "subject": "高松",
+      "object": "主持会议",
+      "importance": "medium",
+      "can_reuse": false,
+      "risk": "含官方职务和姓名，需核对。",
+      "source_paragraph_id": "p002",
+      "source_quote": "中山大学校长高松同志主持会议。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f006",
+      "fact": "中央组织部、教育部、广东省有关部门负责同志，以及中山大学相关人员和代表参加会议。",
+      "type": "meeting_attendance",
+      "time": "2025年11月20日",
+      "subject": "中央组织部、教育部、广东省有关部门和中山大学相关人员",
+      "object": "参加教师干部会议",
+      "importance": "medium",
+      "can_reuse": true,
+      "risk": "参会范围为概括性列举，复述时不得增添单位或群体。",
+      "source_paragraph_id": "p003",
+      "source_quote": "中央组织部、教育部、广东省有关部门负责同志，中山大学领导班子成员、部分退出领导班子的老同志、教授代表、部门和院系主要负责同志、教职工代表等参加会议。",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f007",
+      "fact": "刘承功同志1968年6月出生，在职研究生，哲学博士，中共党员。",
+      "type": "biography",
+      "time": "1968年6月",
+      "subject": "刘承功",
+      "object": "出生年月、学历学位和政治面貌",
+      "importance": "high",
+      "can_reuse": false,
+      "risk": "含出生年月、学历学位和政治面貌等个人履历信息。",
+      "source_paragraph_id": "p005",
+      "source_quote": "刘承功，1968年6月出生，在职研究生，哲学博士，中共党员。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f008",
+      "fact": "刘承功同志曾任复旦大学党委副书记、东华大学党委书记。",
+      "type": "biography",
+      "time": "曾任",
+      "subject": "刘承功",
+      "object": "复旦大学党委副书记、东华大学党委书记",
+      "importance": "high",
+      "can_reuse": false,
+      "risk": "含曾任官方职务和机构名称，必须核对。",
+      "source_paragraph_id": "p005",
+      "source_quote": "曾任复旦大学党委副书记、东华大学党委书记。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    }
+  ],
+  "structure": [
+    {
+      "section_id": "s01",
+      "title": "任命核心事实",
+      "paragraph_ids": ["p001"],
+      "summary": "直接发布中央批准刘承功同志任中山大学党委书记的核心信息。"
+    },
+    {
+      "section_id": "s02",
+      "title": "会议宣布过程",
+      "paragraph_ids": ["p002"],
+      "summary": "交代教师干部会议时间、宣布人、出席讲话人和主持人。"
+    },
+    {
+      "section_id": "s03",
+      "title": "参会范围",
+      "paragraph_ids": ["p003"],
+      "summary": "概括中央、部省有关部门和学校相关代表参会情况。"
+    },
+    {
+      "section_id": "s04",
+      "title": "简历补充",
+      "paragraph_ids": ["p004", "p005"],
+      "summary": "以小标题和人物照片引入刘承功同志基本履历及曾任职务。"
+    }
+  ],
+  "paragraph_functions": [
+    {
+      "paragraph_id": "p001",
+      "display_text": "日前，中央批准：刘承功同志任中山大学党委书记（副部长级）。",
+      "normalized_text": "日前，中央批准：刘承功同志任中山大学党委书记（副部长级）。",
+      "summary": "发布党委书记任命核心事实。",
+      "function_tags": ["核心事实"],
+      "writing_method": "首句直给任命结果，以批准主体和职务级别建立权威性。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p002",
+      "display_text": "11月20日，中山大学召开教师干部会议。中央组织部副部长张光军同志到会宣布中央决定并讲话，教育部副部长、党组成员、总督学王嘉毅同志，广东省委常委、组织部部长冯忠华同志出席会议并讲话。中山大学校长高松同志主持会议。",
+      "normalized_text": "11月20日，中山大学召开教师干部会议。中央组织部副部长张光军同志到会宣布中央决定并讲话，教育部副部长、党组成员、总督学王嘉毅同志，广东省委常委、组织部部长冯忠华同志出席会议并讲话。中山大学校长高松同志主持会议。",
+      "summary": "说明会议时间、宣布人、出席讲话人和主持人。",
+      "function_tags": ["核心事实", "机制说明"],
+      "writing_method": "按会议程序依次排列宣布、出席讲话和主持信息。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p003",
+      "display_text": "中央组织部、教育部、广东省有关部门负责同志，中山大学领导班子成员、部分退出领导班子的老同志、教授代表、部门和院系主要负责同志、教职工代表等参加会议。",
+      "normalized_text": "中央组织部、教育部、广东省有关部门负责同志，中山大学领导班子成员、部分退出领导班子的老同志、教授代表、部门和院系主要负责同志、教职工代表等参加会议。",
+      "summary": "概括会议参会范围。",
+      "function_tags": ["群像呈现"],
+      "writing_method": "用单位和身份类别并列呈现会议覆盖面。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p004",
+      "display_text": "**刘承功同志简历**",
+      "normalized_text": "刘承功同志简历",
+      "summary": "简历小节标题。",
+      "function_tags": ["章节标题"],
+      "writing_method": "以简洁标题从会议消息转入人物履历。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p005",
+      "display_text": "刘承功，1968年6月出生，在职研究生，哲学博士，中共党员。曾任复旦大学党委副书记、东华大学党委书记。",
+      "normalized_text": "刘承功，1968年6月出生，在职研究生，哲学博士，中共党员。曾任复旦大学党委副书记、东华大学党委书记。",
+      "summary": "补充刘承功同志基本履历和曾任职务。",
+      "function_tags": ["人物经历"],
+      "writing_method": "采用干部简历式短句，按出生年月、学历学位、政治面貌和任职经历排列。",
+      "reuse_value": "高"
+    }
+  ],
+  "style": {
+    "reusable_phrases": ["日前，中央批准", "召开教师干部会议", "到会宣布中央决定并讲话", "出席会议并讲话", "主持会议", "有关部门负责同志", "参加会议"],
+    "rhetorical_devices": ["职务并列", "程序化列举"],
+    "writing_methods": ["首句直给核心任命", "会议程序支撑权威来源", "参会范围说明组织规格", "简历小节补充人物背景"],
+    "style_labels": ["事实驱动", "分章节叙事", "校媒报道", "党建引领型", "会议综述型", "人物通讯型"],
+    "not_reusable_phrases": ["刘承功同志任中山大学党委书记（副部长级）", "中央组织部副部长张光军", "教育部副部长、党组成员、总督学王嘉毅", "广东省委常委、组织部部长冯忠华", "复旦大学党委副书记、东华大学党委书记"]
+  },
+  "value_narrative": {
+    "levels": {
+      "personal_level": "通过刘承功同志的基本简历呈现新任党委书记个人履历。",
+      "team_level": "通过参会范围呈现学校领导班子、教授代表、部门院系负责人和教职工代表等共同见证任命宣布。",
+      "course_level": "",
+      "school_level": "中山大学召开教师干部会议，完成党委主要负责人任命宣布的信息发布。",
+      "national_level": "中央批准和中央组织部到会宣布体现干部任命的权威程序。"
+    },
+    "transition_method": "从任命核心事实进入会议程序，再由参会范围过渡到人物简历补充。",
+    "school_image": ["组织程序规范的大学", "党委领导体系清晰的高校", "权威发布干部任命信息的校媒"],
+    "ending_method": "以干部简历收束，补足读者对新任党委书记的基本认识。"
+  },
+  "visuals": [
+    {
+      "image_id": "cover",
+      "caption": "封面图",
+      "caption_source": "structural",
+      "type": "cover",
+      "function": "建立文章视觉识别",
+      "position": "before_title"
+    },
+    {
+      "image_id": "img001",
+      "caption": "开篇装饰图",
+      "caption_source": "structural",
+      "type": "opening_image",
+      "function": "承担开篇视觉导入和版式停顿",
+      "position": "after_metadata"
+    },
+    {
+      "image_id": "img002",
+      "caption": "刘承功同志肖像",
+      "caption_source": "inferred",
+      "type": "portrait",
+      "function": "辅助识别简历对象",
+      "position": "after_p004"
+    }
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 1,
+    "decorative_images": 1,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 3,
+    "unique_image_urls": 3
+  },
+  "templates": {
+    "title_templates": [
+      {
+        "template": "[人物姓名]同志任[机构名称][职务名称]",
+        "applicable_scenarios": "适用于官方人事任命、干部到任和学校主要负责人调整的短消息标题。",
+        "not_applicable_scenarios": "不适用于人物专访、荣誉报道或未正式任命的拟任信息。"
+      }
+    ],
+    "opening_templates": [
+      {
+        "template": "日前，[批准/任命主体]批准：[人物姓名]同志任[机构名称][职务名称]。",
+        "applicable_scenarios": "适用于需要第一句即发布任命结果的权威简讯。",
+        "not_applicable_scenarios": "不适用于需要铺垫故事背景的人物通讯或活动报道。"
+      }
+    ],
+    "structure_templates": [
+      {
+        "template": "任命核心事实 -> 会议宣布程序 -> 参会范围 -> 人物简历",
+        "applicable_scenarios": "适用于高校、机关或机构发布干部任命消息。",
+        "not_applicable_scenarios": "不适用于成果综述、招生通知、长篇人物特写。"
+      }
+    ],
+    "transition_templates": [
+      {
+        "template": "在任命结果之后，以会议时间和宣布程序承接，说明该决定如何向相关人员传达。",
+        "applicable_scenarios": "适用于任命消息需要补充会议宣布环节时。",
+        "not_applicable_scenarios": "不适用于没有会议或宣布程序的纯公告。"
+      }
+    ],
+    "ending_templates": [
+      {
+        "template": "以“[人物姓名]同志简历”小节收束，按出生年月、学历学位、政治面貌和曾任职务补充背景。",
+        "applicable_scenarios": "适用于任命消息需要提供人物基础履历时。",
+        "not_applicable_scenarios": "不适用于隐私敏感、未公开履历或无需人物背景的消息。"
+      }
+    ],
+    "visual_caption_templates": [
+      {
+        "template": "[人物姓名]同志肖像",
+        "applicable_scenarios": "适用于任命消息中配发人物照片且源文无原始 caption 时，可作为分析层面的简短说明。",
+        "not_applicable_scenarios": "不适用于多人合影、会议现场图或无法确认人物身份的图片。"
+      }
+    ],
+    "notice_flow_templates": []
+  },
+  "generation_constraints": {
+    "must_not_invent": ["不得编造刘承功同志未在原文出现的任职经历、教育经历、出生地或工作分工。", "不得增添未列出的参会人员、讲话内容或会议议程。", "不得把开篇装饰图解读为事实性会议照片。"],
+    "strong_claims_require_source": ["中央批准", "党委书记（副部长级）", "中央决定", "2025年11月20日", "中央组织部副部长", "教育部副部长、党组成员、总督学", "广东省委常委、组织部部长", "1968年6月出生", "哲学博士", "中共党员", "复旦大学党委副书记", "东华大学党委书记"],
+    "quote_handling": ["官方职务、姓名和机构名称必须按原文保留。", "不得将会议程序改写为未出现的讲话内容或表态。"],
+    "scenario_boundaries": ["适用于干部任命、会议宣布和人物简历型短消息。", "不适用于政策解读、会议长综述、人物访谈或评论文章。"],
+    "recommended_writer_use": ["复用任命消息的短结构：核心事实先行，会议程序支撑，简历补充收束。", "复用句式时替换为真实批准主体、机构名称、职务名称和公开履历。"],
+    "type_specific_constraints": [
+      {
+        "term": "中央批准",
+        "constraint": "属于权威任命表述，必须有原文依据，不得替换为一般性任命或学校决定。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "党委书记（副部长级）",
+        "constraint": "职务和级别须同时核对，不能遗漏括号内级别信息。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "中央决定",
+        "constraint": "只能用于原文明确出现的会议宣布内容，不得泛化到其他决定。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "刘承功同志肖像",
+        "constraint": "caption 为分析性识别说明，源文未提供原始图片说明。",
+        "category": "quote_handling"
+      }
+    ]
+  }
+}

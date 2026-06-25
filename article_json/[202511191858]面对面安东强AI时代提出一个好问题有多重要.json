@@ -1,0 +1,158 @@
+{
+  "article_id": "sysu_20251119_1858",
+  "title": "面对面 | 安东强：AI时代，提出一个“好问题”有多重要？",
+  "publish_time": "2025-11-19 18:58",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": ["人物访谈类", "贺信周年专题类", "学术传承类", "AI教育类", "历史学科建设类"],
+  "keywords": ["安东强", "历史学系", "红色基因", "孙中山研究", "学术传承", "人工智能", "好问题", "历史感"],
+  "summary": "文章以安东强访谈串联中山大学历史学系的红色基因、孙中山研究传统、百年学术传承和AI时代人才培养，强调历史学教育的核心在于培养历史感、体系化思维与提出“好问题”的能力。",
+  "communication_goal": "借“面对面·我们都是收信人”栏目，把贺信精神转化为历史学系的学科叙事：用人物、文献、团队和教学体系说明中大史学如何在百年传承中回应国家、湾区和文明对话的时代需要。",
+  "value_themes": ["红色基因", "手创精神", "学术传承", "历史思维", "文明互鉴", "服务国家与湾区"],
+  "topic_entities": ["安东强", "中山大学历史学系", "孙中山", "李大钊", "毛泽东", "刘少奇", "郭沫若", "王亚南", "许崇清", "陈锡祺", "傅斯年", "顾颉刚", "朱谦之", "陈安仁", "陈寅恪", "岑仲勉", "刘节", "梁方仲", "杨荣国", "金应熙", "陈春声", "刘志伟", "吴义雄", "《孙中山全集》", "《孙中山史事编年》", "《各方致孙中山函电汇编》", "《孙中山思想政见各方论争集》", "《孙中山全集续编》", "粤港澳大湾区"],
+  "facts": [
+    {"id":"f001","fact":"本文为《面对面·我们都是收信人》栏目访谈，受访者为中山大学历史学系主任安东强教授。","type":"栏目与人物","time":"2025-11-19","subject":"中山大学","object":"邀请安东强参与栏目访谈","importance":"高","can_reuse":true,"risk":"受访者职务属于官方身份信息，需按原文表述。","source_paragraph_id":"p001","source_quote":"中山大学历史学系主任安东强教授","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f002","fact":"安东强2001年9月起就读于中山大学历史学系，2010年6月获历史学博士学位，2012年7月到历史学系任教。","type":"人物履历","time":"2001年9月、2010年6月、2012年7月","subject":"安东强","object":"求学与任教经历","importance":"高","can_reuse":true,"risk":"人物履历和日期必须准确。","source_paragraph_id":"p004","source_quote":"2001年9月","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f003","fact":"安东强的主要研究领域为清代政治制度史、辛亥革命史。","type":"研究方向","time":"未注明","subject":"安东强","object":"清代政治制度史、辛亥革命史","importance":"中","can_reuse":true,"risk":"研究领域应与人物介绍一致。","source_paragraph_id":"p004","source_quote":"清代政治制度史、辛亥革命史","confidence":"high","requires_verification":true,"risk_level":"medium"},
+    {"id":"f004","fact":"文章称中山大学自创办起扎根中国大地，筹备建立之初有李大钊等共产党员参与，毛泽东、刘少奇等曾走进中大校园授课。","type":"校史事实","time":"创办初期","subject":"中山大学","object":"红色基因来源","importance":"高","can_reuse":true,"risk":"涉及党史、校史和重要人物活动，必须严格依据原文。","source_paragraph_id":"p007","source_quote":"毛泽东、刘少奇","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f005","fact":"文章称王亚南、许崇清等马克思主义史学者南下中大，传播进步思想，无数中大学子投身革命洪流。","type":"校史事实","time":"国共战争时期","subject":"王亚南、许崇清等马克思主义史学者","object":"南下中大并传播进步思想","importance":"高","can_reuse":true,"risk":"政治史表述和人物身份需逐字核对。","source_paragraph_id":"p008","source_quote":"王亚南、许崇清","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f006","fact":"安东强将“中山手创”概括为中山大学独特且自豪的精神标识。","type":"价值判断","time":"未注明","subject":"安东强","object":"中山手创精神标识","importance":"高","can_reuse":true,"risk":"“最独特”是强表述，只能作为受访者观点使用。","source_paragraph_id":"p011","source_quote":"中山手创","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f007","fact":"1925年孙中山逝世后，师生倡议以他的名字命名大学；1926年学校正式更名为国立中山大学。","type":"校名沿革","time":"1925年、1926年","subject":"中山大学","object":"更名为国立中山大学","importance":"高","can_reuse":true,"risk":"校名沿革、年份和因果关系需准确。","source_paragraph_id":"p012","source_quote":"1926年正式更名为国立中山大学","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f008","fact":"孙中山与近代中国研究被安东强称为中山大学历史学系最具代表性的学术特色之一。","type":"学科特色","time":"未注明","subject":"中山大学历史学系","object":"孙中山与近代中国研究","importance":"高","can_reuse":true,"risk":"“最具代表性”是强判断，应限于受访者表述。","source_paragraph_id":"p014","source_quote":"孙中山与近代中国研究","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f009","fact":"历史学系陆续整理出版《孙中山全集》《孙中山史事编年》《各方致孙中山函电汇编》等基础文献。","type":"学术成果","time":"未注明","subject":"中山大学历史学系","object":"孙中山研究基础文献","importance":"高","can_reuse":true,"risk":"书名和出版成果不得误写。","source_paragraph_id":"p015","source_quote":"《孙中山全集》《孙中山史事编年》《各方致孙中山函电汇编》","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f010","fact":"文章称历史学系与中山大学同呼吸、共命运，有中山大学的那天便有历史学系。","type":"院系历史","time":"中山大学创立之初","subject":"中山大学历史学系","object":"与学校同龄","importance":"高","can_reuse":true,"risk":"建系时间属于强校史判断。","source_paragraph_id":"p019","source_quote":"历史学系与中山大学","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f011","fact":"1952年院系调整后，中山大学历史系迎来陈寅恪、岑仲勉、刘节、梁方仲、杨荣国、金应熙等学者。","type":"学术谱系","time":"1952年后","subject":"中山大学历史系","object":"学者队伍","importance":"高","can_reuse":true,"risk":"年份、人物名单和院系名称需准确。","source_paragraph_id":"p020","source_quote":"1952年院系调整后","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f012","fact":"历史学系在中国史研究方面形成完整的典章制度研究团队，从先秦至近代每一断代至少有一位学者深耕。","type":"团队建设","time":"当代","subject":"中山大学历史学系","object":"典章制度研究团队","importance":"高","can_reuse":true,"risk":"“完整”“每一断代至少一位”属于强覆盖声明。","source_paragraph_id":"p022","source_quote":"典章制度研究团队","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f013","fact":"安东强认为历史学人才培养的核心在于塑造历史学思维，这种思维是一种深层修养。","type":"教育观点","time":"未注明","subject":"安东强","object":"历史学人才培养目标","importance":"高","can_reuse":true,"risk":"观点需保留受访者语境。","source_paragraph_id":"p025","source_quote":"历史学思维","confidence":"high","requires_verification":false,"risk_level":"low"},
+    {"id":"f014","fact":"安东强认为AI等技术提升了处理海量史料的能力，但无法替代提出“好问题”的能力。","type":"技术与教育观点","time":"AI时代","subject":"安东强","object":"技术机遇与能力边界","importance":"高","can_reuse":true,"risk":"不可扩写为技术否定论，应保留乐观前提。","source_paragraph_id":"p029","source_quote":"提出好问题","confidence":"high","requires_verification":false,"risk_level":"low"},
+    {"id":"f015","fact":"历史学系通过第一课堂文献阅读、教师授课和第二课堂田野考察构建进阶性实践教学体系。","type":"培养机制","time":"当代","subject":"中山大学历史学系","object":"进阶性实践教学体系","importance":"高","can_reuse":true,"risk":"教学体系构成和课堂分类需按原文。","source_paragraph_id":"p031","source_quote":"进阶性实践教学体系","confidence":"high","requires_verification":true,"risk_level":"medium"},
+    {"id":"f016","fact":"面向未来，历史学系强调向内扎根、延续传统，同时向外回应国家与粤港澳大湾区迫切需要的学术课题。","type":"未来规划","time":"“十四五”收官与“十五五”开局之际","subject":"中山大学历史学系","object":"未来发展规划","importance":"高","can_reuse":true,"risk":"规划性表述需保留原文方向，避免替换为具体项目。","source_paragraph_id":"p034","source_quote":"粤港澳大湾区","confidence":"high","requires_verification":false,"risk_level":"medium"}
+  ],
+  "structure": [
+    {"section":"栏目与人物导入","paragraphs":["p001","p002","p003","p004"],"purpose":"以贺信、栏目和安东强身份建立访谈语境。"},
+    {"section":"红色血脉","paragraphs":["p005","p006","p007","p008"],"purpose":"从学校创办、共产党人参与、马克思主义史学者南下和学生革命实践说明红色基因。"},
+    {"section":"手创精神与孙中山研究","paragraphs":["p009","p010","p011","p012","p013","p014","p015","p016"],"purpose":"从孙中山创校、更名沿革、基础文献整理和学术方法说明学科特色。"},
+    {"section":"学术传承与队伍建设","paragraphs":["p017","p018","p019","p020","p021","p022","p023"],"purpose":"以百年学者谱系、断代团队和多领域布局呈现历史学系积淀。"},
+    {"section":"AI时代的人才培养","paragraphs":["p024","p025","p026","p027","p028","p029","p030","p031"],"purpose":"围绕“好问题”、历史感、体系化训练和实践教学回应技术变革。"},
+    {"section":"未来规划与价值收束","paragraphs":["p032","p033","p034","p035","p036"],"purpose":"从长远传统、湾区需求、文明对话收束到新百年使命。"}
+  ],
+  "paragraph_functions": [
+    {"paragraph_id":"p001","display_text":"在中山大学百年校庆之际，习近平总书记亲致贺信。","normalized_text":"在中山大学百年校庆之际，习近平总书记亲致贺信。文章设立《面对面·我们都是收信人》栏目，并邀请中山大学历史学系主任安东强教授受访。","summary":"交代贺信、栏目和受访者。","function_tags":["背景交代","核心事实"],"writing_method":"政治时点与栏目说明进入人物访谈","reuse_value":"系列专题开场"},
+    {"paragraph_id":"p002","display_text":"与中山大学同龄\n历史学系百年风雨\n史笔如椽","normalized_text":"历史学系与中山大学同龄，百年风雨中坚守学术根脉、传承人文精神。","summary":"用短句引出历史学系百年传承。","function_tags":["价值转场"],"writing_method":"短句排比营造学科气质","reuse_value":"人文学科氛围导入"},
+    {"paragraph_id":"p003","display_text":"收信人","normalized_text":"收信人","summary":"受访者身份栏标题。","function_tags":["章节标题"],"writing_method":"栏目固定身份标签","reuse_value":"访谈人物卡标题"},
+    {"paragraph_id":"p004","display_text":"安东强，中山大学历史学系主任。2001年9月起就读于中山大学历史学系。","normalized_text":"安东强是中山大学历史学系主任，2001年9月起在历史学系求学，2010年6月获历史学博士学位，2012年7月任教，研究清代政治制度史、辛亥革命史。","summary":"介绍受访者履历和研究方向。","function_tags":["人物经历"],"writing_method":"简历式人物介绍","reuse_value":"学者人物卡"},
+    {"paragraph_id":"p005","display_text":"红色血脉\n\n植根家国，心系人民","normalized_text":"红色血脉：植根家国，心系人民。","summary":"红色基因章节标题。","function_tags":["章节标题"],"writing_method":"四字主题加价值副题","reuse_value":"精神传统章节标题"},
+    {"paragraph_id":"p006","display_text":"问：习近平总书记给中山大学的贺信里面提到我们要传承红色基因。","normalized_text":"主持人从贺信中传承红色基因的要求出发，询问中山大学红色基因的独特之处。","summary":"提出红色基因问题。","function_tags":["背景交代"],"writing_method":"权威要求引出专业阐释","reuse_value":"访谈设问"},
+    {"paragraph_id":"p007","display_text":"安东强：中山大学自创办第一天起，就深深扎根在中国大地。","normalized_text":"安东强表示，中山大学自创办起扎根中国大地，筹备时有李大钊等共产党员参与，毛泽东、刘少奇等曾到中大授课，郭沫若创作第一首校歌。","summary":"从创办史说明红色基因来源。","function_tags":["人物引语","成果支撑"],"writing_method":"总判断后列举校史人物","reuse_value":"校史精神阐释"},
+    {"paragraph_id":"p008","display_text":"国共战争的时候，王亚南、许崇清等一批马克思主义史学者南下中大。","normalized_text":"文章列举王亚南、许崇清等马克思主义史学者南下中大、传播进步思想，以及中大学子投身革命洪流。","summary":"补充马克思主义史学者和学生革命实践。","function_tags":["成果支撑","群像呈现"],"writing_method":"学者群像与学生行动并列","reuse_value":"红色校史展开"},
+    {"paragraph_id":"p009","display_text":"手创精神\n\n以中山之名，传时代薪火","normalized_text":"手创精神：以中山之名，传时代薪火。","summary":"孙中山与校名传承章节标题。","function_tags":["章节标题"],"writing_method":"精神标识加传承副题","reuse_value":"校史章节标题"},
+    {"paragraph_id":"p010","display_text":"问：您是研究孙中山的历史学家，中山大学又是以他的名字命名。","normalized_text":"主持人从安东强研究孙中山和学校以孙中山命名切入，询问二者渊源与精神传承。","summary":"提出孙中山与中山大学关系问题。","function_tags":["背景交代"],"writing_method":"人物专业与校名关联设问","reuse_value":"访谈转场"},
+    {"paragraph_id":"p011","display_text":"安东强：很多人问我，“你为什么研究孙中山？”","normalized_text":"安东强表示，研究孙中山既是血脉延续，也与其在中山大学工作、研究历史有关；孙中山是中山大学创办者，“中山手创”是学校独特而自豪的精神标识。","summary":"解释研究孙中山与“中山手创”的精神意义。","function_tags":["人物引语","价值转场"],"writing_method":"个人追问转入学校精神标识","reuse_value":"人物与机构关系叙述"},
+    {"paragraph_id":"p012","display_text":"最早他创办时，将这所学校命名为国立广东大学。1925年孙中山逝世后。","normalized_text":"学校最初名为国立广东大学，1925年孙中山逝世后师生倡议以其名字命名大学，1926年正式更名为国立中山大学，1928年相关制度取消后中山大学仍坚守校名。","summary":"说明校名沿革和精神延续。","function_tags":["核心事实","成果支撑"],"writing_method":"时间线解释制度沿革","reuse_value":"校史更名叙事"},
+    {"paragraph_id":"p013","display_text":"问：中山大学历史学系对孙中山的研究一直都走在国内前列。","normalized_text":"主持人询问孙中山研究领域的人才培养、团队建设成果与特色。","summary":"提出孙中山研究团队问题。","function_tags":["背景交代"],"writing_method":"学科优势引出成果说明","reuse_value":"学科访谈设问"},
+    {"paragraph_id":"p014","display_text":"安东强：孙中山与近代中国研究，是中山大学历史学系最具代表性的学术特色之一。","normalized_text":"安东强认为孙中山与近代中国研究是历史学系代表性学术特色之一，并提到陈锡祺是新中国第一批研究孙中山的学者。","summary":"概括孙中山研究的学术地位。","function_tags":["人物引语","成果支撑"],"writing_method":"特色判断加代表学者","reuse_value":"学科特色说明"},
+    {"paragraph_id":"p015","display_text":"后来我们也陆续整理出版了《孙中山全集》《孙中山史事编年》。","normalized_text":"历史学系陆续整理出版《孙中山全集》《孙中山史事编年》《各方致孙中山函电汇编》等基础文献，并推出多部续编与论争集。","summary":"列举孙中山研究文献成果。","function_tags":["成果支撑"],"writing_method":"成果清单举证","reuse_value":"科研成果综述"},
+    {"paragraph_id":"p016","display_text":"这些成果不仅梳理了孙中山的言行脉络。","normalized_text":"这些成果梳理孙中山言行脉络，并通过“长编考异”的学术方法呈现其在近代中国知识与制度转型中的枢纽作用。","summary":"解释成果的学术方法和意义。","function_tags":["机制说明","成果支撑"],"writing_method":"成果意义升维","reuse_value":"学术成果评价"},
+    {"paragraph_id":"p017","display_text":"学术传承\n\n百年积淀中的守正创新","normalized_text":"学术传承：百年积淀中的守正创新。","summary":"百年学术传承章节标题。","function_tags":["章节标题"],"writing_method":"时间积淀与创新并置","reuse_value":"学科建设章节标题"},
+    {"paragraph_id":"p018","display_text":"问：去年是中山大学建校100周年，历史学系也已走过百年历程。","normalized_text":"主持人以建校100周年和历史学系百年历程询问学科发展的重要阶段。","summary":"提出学科发展阶段问题。","function_tags":["背景交代"],"writing_method":"周年节点设问","reuse_value":"周年访谈转场"},
+    {"paragraph_id":"p019","display_text":"安东强：历史学系与中山大学同呼吸，共命运。","normalized_text":"安东强表示历史学系与中山大学同龄，创立之初汇聚傅斯年、顾颉刚、朱谦之、陈安仁等学术大家，并列举其学术主张。","summary":"回顾创立初期学术大家与方法传统。","function_tags":["人物引语","群像呈现","成果支撑"],"writing_method":"名家谱系加观点摘述","reuse_value":"学术传统介绍"},
+    {"paragraph_id":"p020","display_text":"1952年院系调整后，中山大学历史系迎来陈寅恪、岑仲勉。","normalized_text":"1952年院系调整后，历史系迎来陈寅恪等学者；改革开放后前辈传承学术脉络，今日陈春声、刘志伟、吴义雄等继续引领学界风潮。","summary":"延展院系调整后至当代的学术谱系。","function_tags":["群像呈现","成果支撑"],"writing_method":"时间分期呈现学者代际","reuse_value":"学术谱系叙事"},
+    {"paragraph_id":"p021","display_text":"问：历史学系的学科人才和师资队伍有怎样的特色？","normalized_text":"主持人询问历史学系学科人才和师资队伍特色。","summary":"提出师资队伍问题。","function_tags":["背景交代"],"writing_method":"直接设问","reuse_value":"访谈问题"},
+    {"paragraph_id":"p022","display_text":"安东强：我们现有的师资队伍体量不大，但特色鲜明，注重传承。","normalized_text":"安东强表示师资队伍体量不大但特色鲜明，在中国史研究方面形成完整典章制度研究团队，陈春声和刘志伟团队在中国社会经济史、历史人类学领域影响深远。","summary":"概括师资规模、传承和中国史团队特色。","function_tags":["人物引语","成果支撑"],"writing_method":"规模判断加团队举证","reuse_value":"师资队伍介绍"},
+    {"paragraph_id":"p023","display_text":"我们还延续了中西交通史的研究传统。","normalized_text":"历史学系延续中西交通史传统，吴义雄领衔清代广州口岸研究，同时在东南亚史、亚洲史、海洋史、环境史等领域形成优势。","summary":"补充中西交通史和多个新兴方向。","function_tags":["成果支撑","群像呈现"],"writing_method":"传统方向与新优势并列","reuse_value":"学科布局说明"},
+    {"paragraph_id":"p024","display_text":"问：作为历史学系的主任，您认为我们应当培养怎样的历史学人才？","normalized_text":"主持人询问历史学系应培养怎样的历史学人才。","summary":"提出人才培养目标问题。","function_tags":["背景交代"],"writing_method":"角色身份设问","reuse_value":"教育访谈问题"},
+    {"paragraph_id":"p025","display_text":"安东强：虽然常说历史学是一门研究过去的学问。","normalized_text":"安东强认为人类文明是延续过程，历史学人才培养核心在于塑造历史学思维，这种思维是深层修养，可帮助个人在时间尺度中认识自我和世界。","summary":"定义历史学思维的人才培养价值。","function_tags":["人物引语","机制说明"],"writing_method":"纠正常识后提出核心概念","reuse_value":"人文学科育人理念"},
+    {"paragraph_id":"p026","display_text":"于国家和民族而言，这种思维关乎历史记忆与民族认同。","normalized_text":"历史学思维在国家民族层面关乎历史记忆与民族认同，在世界层面帮助理解文明多样性并探索未来发展路径。","summary":"把历史学思维提升到国家和世界层面。","function_tags":["价值转场","未来展望"],"writing_method":"个人、国家、世界递进","reuse_value":"价值升维段落"},
+    {"paragraph_id":"p027","display_text":"史学使命\n\n在技术变革中坚守真谛","normalized_text":"史学使命：在技术变革中坚守真谛。","summary":"AI与史学使命章节标题。","function_tags":["章节标题"],"writing_method":"技术语境与学科本质对照","reuse_value":"时代议题章节标题"},
+    {"paragraph_id":"p028","display_text":"问：从移动互联网技术的普及到现在人工智能技术的方兴未艾。","normalized_text":"主持人询问移动互联网和人工智能技术对历史学研究及人才培养带来的机遇和挑战。","summary":"提出技术变革问题。","function_tags":["背景交代"],"writing_method":"技术演进引出挑战设问","reuse_value":"AI时代访谈问题"},
+    {"paragraph_id":"p029","display_text":"安东强：我个人非常乐观。从数据库到人工智能，极大提升了我们处理海量史料的能力。","normalized_text":"安东强对技术保持乐观，认为数据库和人工智能提升处理海量史料能力，但技术无法替代提出好问题的能力，好问题源于史实把握、材料盘活和长期训练。","summary":"阐释AI时代历史学的能力边界。","function_tags":["人物引语","机制说明"],"writing_method":"先肯定工具，再指出核心能力","reuse_value":"技术与人文关系阐释"},
+    {"paragraph_id":"p030","display_text":"问：在现在的历史学人才的培养中，如何来培养这种能提出好问题的学生？","normalized_text":"主持人追问如何培养能够提出好问题的学生。","summary":"提出培养路径问题。","function_tags":["背景交代"],"writing_method":"承接式追问","reuse_value":"访谈递进"},
+    {"paragraph_id":"p031","display_text":"安东强：提出好问题的根源在于一个人的思维。","normalized_text":"安东强强调体系化思维训练、本科生阅读史学与理论经典、培养历史感，并介绍第一课堂文献阅读与教师授课、第二课堂田野考察构成的进阶性实践教学体系。","summary":"说明培养好问题能力的教学机制。","function_tags":["人物引语","机制说明","流程指引"],"writing_method":"理念、阅读、实践三层展开","reuse_value":"课程与实践教学介绍"},
+    {"paragraph_id":"p032","display_text":"未来新篇\n\n以历史智慧贡献时代所需","normalized_text":"未来新篇：以历史智慧贡献时代所需。","summary":"未来规划章节标题。","function_tags":["章节标题"],"writing_method":"未来导向与时代需要并置","reuse_value":"规划章节标题"},
+    {"paragraph_id":"p033","display_text":"问：今年是“十四五”的收官之年，明年是“十五五”的开局之年。","normalized_text":"主持人以“十四五”收官和“十五五”开局为时点，询问历史学系未来发展规划。","summary":"提出未来规划问题。","function_tags":["背景交代"],"writing_method":"规划节点设问","reuse_value":"发展规划访谈问题"},
+    {"paragraph_id":"p034","display_text":"安东强：对于未来，我们重在考虑如何立足长远、延续传统。","normalized_text":"安东强表示未来要立足长远、延续传统，向内坚守关乎人类文明的永恒学术命题，向外对接国家与粤港澳大湾区需要的学术课题。","summary":"提出历史学系未来的内外双向规划。","function_tags":["人物引语","未来展望"],"writing_method":"向内扎根与向外回应对举","reuse_value":"院系发展规划"},
+    {"paragraph_id":"p035","display_text":"比理论成果更珍贵的，是养成一种开放的学术思维。","normalized_text":"安东强认为比理论成果更珍贵的是开放的学术思维，希望让更多人承认多元、尊重差异、理解不同，推动文明深度对话而非对立冲突。","summary":"把未来规划升华为文明对话责任。","function_tags":["人物引语","价值转场","未来展望"],"writing_method":"成果评价转入文明价值","reuse_value":"人文学科使命升华"},
+    {"paragraph_id":"p036","display_text":"百年历史，薪火相传\n\n世纪学问，贯通古今","normalized_text":"文章以百年历史、世纪学问、新百年起点、文明视野和人文根基收束，强调为国家育栋梁、为时代著篇章。","summary":"完成新百年使命收束。","function_tags":["结尾收束","行动号召"],"writing_method":"短句排比与使命动词","reuse_value":"周年专题结尾"}
+  ],
+  "style": {
+    "reusable_phrases": ["以历史智慧贡献时代所需", "在技术变革中坚守真谛", "百年积淀中的守正创新", "从历史中聆听学术传承与时代使命", "以更开阔的文明视野、更坚实的人文根基"],
+    "rhetorical_devices": ["问答推进", "今昔对照", "人物群像", "排比", "概念阐释"],
+    "writing_methods": ["栏目背景引入受访者", "章节标题统摄问答单元", "校史事实支撑价值判断", "学者谱系呈现学术传承", "先肯定技术工具再强调人文核心能力", "未来规划采用向内扎根与向外回应对举"],
+    "style_labels": ["事实驱动", "分章节叙事", "校媒报道", "人物通讯型", "学术传承型", "AI战略布局型", "人文通识型"],
+    "not_reusable_phrases": ["习近平总书记亲致贺信", "中山手创", "孙中山与近代中国研究，是中山大学历史学系最具代表性的学术特色之一", "从先秦至近代，每一断代都至少有一位学者深耕于此", "积极对接国家与粤港澳大湾区最迫切需要的学术课题", "傅斯年、顾颉刚、朱谦之、陈安仁等具体人物谱系"]
+  },
+  "value_narrative": {
+    "levels": {
+      "personal_level": "安东强以个人求学、任教和研究经历进入历史学系叙事。",
+      "team_level": "历史学系通过孙中山研究团队、典章制度研究团队、中西交通史团队等呈现学术共同体。",
+      "course_level": "第一课堂的文献阅读和教师授课、第二课堂的田野考察共同服务历史感和问题意识培养。",
+      "school_level": "中山大学以红色基因、手创精神和百年史学传统塑造人文学科形象。",
+      "national_level": "历史学系面向国家、粤港澳大湾区和文明对话回应时代所需。",
+      "civilization_level": "文章把历史学思维上升为理解文明多样性、促进深度对话的公共价值。"
+    },
+    "transition_method": "从贺信与栏目进入校史，再从学术传统转向AI时代人才培养，最后落到国家、湾区和文明对话。",
+    "school_image": ["扎根中国大地", "重视人文学术", "学统深厚", "面向前沿技术", "服务国家需要"],
+    "ending_method": "用百年历史、世纪学问、新百年起点和短句排比完成学科使命收束。"
+  },
+  "visuals": [
+    {"image_id":"cover","caption":"封面图","caption_source":"structural","type":"封面","function":"建立人物访谈和AI时代问题入口","position":"标题前"},
+    {"image_id":"img001","caption":"《面对面·我们都是收信人》栏目开篇图","caption_source":"structural","type":"栏目图","function":"提示系列栏目属性","position":"元数据后"},
+    {"image_id":"img002","caption":"安东强，中山大学历史学系主任","caption_source":"inferred","type":"人物图","function":"识别受访者","position":"p003后"},
+    {"image_id":"img003","caption":"红色血脉章节配图","caption_source":"structural","type":"章节图","function":"承接红色基因章节","position":"p008后"},
+    {"image_id":"img004","caption":"手创精神章节配图","caption_source":"structural","type":"章节图","function":"承接孙中山与中山大学渊源章节","position":"p012后"},
+    {"image_id":"img005","caption":"孙中山与近代中国研究配图","caption_source":"inferred","type":"学术主题图","function":"辅助呈现孙中山研究特色","position":"p014后"},
+    {"image_id":"img006","caption":"孙中山研究成果配图","caption_source":"inferred","type":"学术成果图","function":"辅助呈现基础文献整理成果","position":"p015后"},
+    {"image_id":"img007","caption":"学术研究章节过渡图","caption_source":"structural","type":"过渡图","function":"连接成果说明与学术传承章节","position":"p016后"},
+    {"image_id":"img008","caption":"历史学系学科与师资队伍配图","caption_source":"inferred","type":"学科建设图","function":"辅助呈现师资队伍和研究方向","position":"p023后"},
+    {"image_id":"img009","caption":"史学使命章节过渡图","caption_source":"structural","type":"过渡图","function":"转入技术变革与史学使命章节","position":"p026后"},
+    {"image_id":"img010","caption":"历史学实践教学配图","caption_source":"inferred","type":"教学图","function":"辅助呈现实践教学体系","position":"p031后"},
+    {"image_id":"img011","caption":"《面对面·我们都是收信人》栏目收束图","caption_source":"structural","type":"收束图","function":"结束访谈专题","position":"p035后"}
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 4,
+    "decorative_images": 7,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 12,
+    "unique_image_urls": 12
+  },
+  "templates": {
+    "title_templates": [
+      {"template":"面对面 | [受访者]：[时代语境]，[核心能力/核心问题]有多重要？","applicable_scenarios":["人物访谈","学术观点访谈","教育理念访谈"],"not_applicable_scenarios":["纯活动通稿","缺少明确受访者观点的新闻短讯"]}
+    ],
+    "opening_templates": [
+      {"template":"以重要节点或权威寄语开场，说明栏目设置，再引出受访者身份和本期讨论主题。","applicable_scenarios":["周年专题","系列访谈","学校精神学习专题"],"not_applicable_scenarios":["无需背景铺垫的即时消息","服务通知"]}
+    ],
+    "structure_templates": [
+      {"template":"栏目背景 -> 受访者身份 -> 历史根脉 -> 学科特色 -> 队伍与培养 -> 时代挑战 -> 未来使命","applicable_scenarios":["学院系所访谈","学科建设专题","周年专题"],"not_applicable_scenarios":["单一成果发布","流程通知"]},
+      {"template":"每章以四字主题和价值副题开头，再用主持人问题引出受访者长答。","applicable_scenarios":["分章节人物访谈","校媒深度报道"],"not_applicable_scenarios":["不采用问答体的综述稿"]}
+    ],
+    "transition_templates": [
+      {"template":"从“历史传统为何重要”转向“当下技术或社会变化提出什么新问题”，再回到人才培养的具体方法。","applicable_scenarios":["人文学科访谈","基础学科教育专题","教学改革访谈"],"not_applicable_scenarios":["没有跨时代对照的单点人物报道"]},
+      {"template":"用“向内扎根/向外回应”的对举，把学术传统和现实需求连接起来。","applicable_scenarios":["院系规划","学科发展访谈"],"not_applicable_scenarios":["缺少未来规划内容的活动报道"]}
+    ],
+    "ending_templates": [
+      {"template":"以“百年/新起点”压缩时间纵深，以“更开阔/更坚实”等并列短语收束使命。","applicable_scenarios":["校史专题","院系周年","学术传承类文章"],"not_applicable_scenarios":["需要明确报名、政策或操作指引的服务稿"]}
+    ],
+    "visual_caption_templates": [
+      {"template":"[栏目名]栏目开篇图","applicable_scenarios":["系列访谈开头图","专题栏目固定视觉"],"not_applicable_scenarios":["有明确新闻事实 caption 的现场照片"]},
+      {"template":"[章节主题]章节配图","applicable_scenarios":["无原始 caption 的章节视觉或过渡图"],"not_applicable_scenarios":["可识别人物、地点、事件但缺少来源核验的图片"]}
+    ],
+    "notice_flow_templates": []
+  },
+  "generation_constraints": {
+    "must_not_invent": ["人物身份、履历日期、研究领域、学者名单和书名", "孙中山与中山大学校名沿革", "党史、校史、革命史相关表述", "无原始 caption 图片中的人物、地点和活动细节"],
+    "strong_claims_require_source": ["中山大学历史学系主任", "2001年9月、2010年6月、2012年7月", "新中国第一批研究孙中山的学者", "最具代表性的学术特色之一", "走在国内前列", "1925年孙中山逝世", "1926年学校正式更名", "1928年相关制度取消", "1952年院系调整", "从先秦至近代每一断代都至少有一位学者深耕", "不可替代的学术价值"],
+    "quote_handling": ["习近平总书记贺信相关表述必须按原文语境处理", "安东强观点需保留受访者身份和问答语境", "引号中的“好问题”“中山手创”“长编考异”等关键词不得随意替换"],
+    "scenario_boundaries": ["仅使用“▼ 推荐阅读 ▼”之前正文", "出品单位、策划、编辑链、推荐链接、二维码和预览残留不得作为事实", "AI相关内容不可扩写为技术万能或技术否定"],
+    "recommended_writer_use": ["按红色血脉、手创精神、学术传承、史学使命、未来新篇组织材料", "每个强校史判断和具体年份都回查段落证据", "复用问答推进、章节标题和价值收束方法，不复用未经核验的具体名单与书名"],
+    "type_specific_constraints": [
+      {"term":"党史和校史人物","constraint":"李大钊、毛泽东、刘少奇、郭沫若、王亚南、许崇清等人物活动只能按原文出现范围使用。","category":"must_not_invent"},
+      {"term":"校名沿革年份","constraint":"1925年、1926年、1928年等年份属于强事实，使用时必须有直接来源。","category":"strong_claim"},
+      {"term":"学术成果书名","constraint":"《孙中山全集》等书名不得简写、错写或扩展为未列成果。","category":"strong_claim"},
+      {"term":"受访者观点","constraint":"“好问题”“历史感”“开放的学术思维”等观点应注明为安东强访谈观点。","category":"quote_handling"},
+      {"term":"AI时代表述","constraint":"只能表达技术提升史料处理能力和不能替代问题能力，不推断具体AI工具或政策。","category":"scenario_boundary"}
+    ]
+  }
+}

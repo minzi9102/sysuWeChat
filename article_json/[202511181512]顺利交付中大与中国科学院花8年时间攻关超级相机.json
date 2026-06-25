@@ -1,0 +1,579 @@
+{
+  "article_id": "sysu_20251118_1512",
+  "title": "顺利交付！中大与中国科学院花8年时间攻关“超级相机”",
+  "publish_time": "2025-11-18 15:12",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": [
+    "科研成果类",
+    "科研平台建设类",
+    "服务国家战略类",
+    "科普解释类"
+  ],
+  "keywords": [
+    "高能非弹谱仪",
+    "高能直接几何非弹性中子散射飞行时间谱仪",
+    "中国散裂中子源",
+    "中山大学",
+    "中国科学院高能物理研究所",
+    "谱仪建设团队",
+    "国家重大科研仪器研制专项"
+  ],
+  "summary": "本文报道中山大学与中国科学院高能物理研究所等单位历经8年合作攻关，完成我国首台高能直接几何非弹性中子散射飞行时间谱仪验收交接，并用“超级相机”的比喻解释其科学能力与后续应用价值。",
+  "communication_goal": "以重大科研仪器交付为核心新闻，展示中山大学参与国家重大科技基础设施建设、服务高水平科技自立自强的能力；同时通过通俗科普降低理解门槛，让读者理解谱仪为何重要、如何工作、将支持哪些前沿科学问题。",
+  "value_themes": [
+    "服务国家战略",
+    "科技自立自强",
+    "科研平台建设",
+    "跨机构协同攻关",
+    "前沿科学支撑"
+  ],
+  "topic_entities": [
+    "中山大学",
+    "中国科学院高能物理研究所",
+    "中国散裂中子源",
+    "散裂中子源科学中心",
+    "高能直接几何非弹性中子散射飞行时间谱仪",
+    "高能非弹谱仪",
+    "谱仪建设团队",
+    "刘新智",
+    "国家重大科研仪器研制专项",
+    "谱仪样品多场耦合加载分析模块",
+    "东莞"
+  ],
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "2025年11月16日，我国首台高能直接几何非弹性中子散射飞行时间谱仪验收会暨交接仪式在东莞中国散裂中子源举行。",
+      "type": "事件事实",
+      "time": "2025-11-16",
+      "subject": "高能直接几何非弹性中子散射飞行时间谱仪",
+      "object": "验收会暨交接仪式",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "含我国首台、精确日期、仪器全称和地点",
+      "source_paragraph_id": "p001",
+      "source_quote": "11月16日，我国首台高能直接几何非弹性中子散射飞行时间谱仪（下称“高能非弹谱仪”）验收会暨交接仪式在位于东莞的中国散裂中子源举行",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "高能非弹谱仪历经8年合作攻关，从概念蓝图变为科学现实，并填补我国百毫电子伏以上非弹性中子散射空白。",
+      "type": "成果事实",
+      "time": "2025",
+      "subject": "高能非弹谱仪",
+      "object": "填补我国百毫电子伏以上非弹性中子散射空白",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "含8年、填补空白和能量范围等强声明",
+      "source_paragraph_id": "p002",
+      "source_quote": "历经8年合作攻关这台致力于观测物质微观世界的结构与动力学性质的大国重器从概念蓝图变为了科学现实填补了我国百毫电子伏以上非弹性中子散射的空白",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "文章用“超级相机”比喻高能非弹性中子散射飞行时间谱仪。",
+      "type": "表达事实",
+      "time": "",
+      "subject": "高能非弹性中子散射飞行时间谱仪",
+      "object": "超级相机比喻",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "比喻可复用但不得绑定到其他仪器事实",
+      "source_paragraph_id": "p004",
+      "source_quote": "如果把常规的科学仪器比作人眼，那么高能非弹性中子散射飞行时间谱仪就是一台具备“超能力”的超级相机。",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "low"
+    },
+    {
+      "id": "f004",
+      "fact": "高能非弹谱仪能探测物质内部原子、分子在皮秒时间尺度的动态过程。",
+      "type": "机制事实",
+      "time": "",
+      "subject": "高能非弹谱仪",
+      "object": "探测皮秒时间尺度动态过程",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "含专业能力和时间尺度",
+      "source_paragraph_id": "p005",
+      "source_quote": "它不仅能看清物质的静态结构，更具备探测物质内部原子、分子在皮秒（万亿分之一秒）时间尺度动态过程的能力",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f005",
+      "fact": "该谱仪利用中子不带电、穿透力强的特性，通过中子与原子核的非弹性碰撞变化反推物质内部动态信息。",
+      "type": "机制事实",
+      "time": "",
+      "subject": "高能非弹谱仪",
+      "object": "通过非弹性碰撞反推动态信息",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "专业原理表述需保持准确",
+      "source_paragraph_id": "p006",
+      "source_quote": "当中子与物质中的原子核发生“非弹性碰撞”时，中子会改变速度与方向，通过这些变化，科学家就能反推出物质内部的动态信息。",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f006",
+      "fact": "2017年，中山大学与中国科学院高能物理研究所签署战略合作协议并启动中子谱仪合作项目，2019年正式启动建设。",
+      "type": "背景事实",
+      "time": "2017; 2019",
+      "subject": "中山大学与中国科学院高能物理研究所",
+      "object": "中子谱仪合作项目",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "含精确年份和合作关系",
+      "source_paragraph_id": "p008",
+      "source_quote": "2017年，中山大学与中国科学院高能物理研究所签署战略合作协议，启动中子谱仪合作项目。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f007",
+      "fact": "中山大学和散裂中子源科学中心共同组成建设团队，攻克自研费米斩波器、超大真空散射腔体等关键技术，并于2023年1月12日成功输出中子。",
+      "type": "成果事实",
+      "time": "2023-01-12",
+      "subject": "谱仪建设团队",
+      "object": "关键技术攻克与输出中子",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "含技术清单和精确日期",
+      "source_paragraph_id": "p009",
+      "source_quote": "攻克了一系列关键技术，包括自研费米斩波器、超大真空散射腔体等，终于在2023年1月12日成功在谱仪上输出中子。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f008",
+      "fact": "谱仪带束调试后获得标准样品钒的声子谱和态密度，2023年11月12日正式揭牌，经过两年多调试后各项指标达到国际领先水平。",
+      "type": "成果事实",
+      "time": "2023-11-12",
+      "subject": "高能非弹谱仪",
+      "object": "调试成果、揭牌和指标水平",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "含精确日期、两年多和国际领先水平强声明",
+      "source_paragraph_id": "p010",
+      "source_quote": "同年11月12日，谱仪正式揭牌，各模块的调试随即按下了加速键。最终，又经过两年多的调试，背景大幅降低，谱仪的各项指标均已达到国际领先水平。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f009",
+      "fact": "高能非弹谱仪验收被文章定位为新探索的开始，可捕捉物质内部原子、磁距分布和细微动态变换。",
+      "type": "价值事实",
+      "time": "2025",
+      "subject": "高能非弹谱仪",
+      "object": "新探索与动态捕捉能力",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "应用能力应依原文表述",
+      "source_paragraph_id": "p011",
+      "source_quote": "高能非弹谱仪的验收不仅是一个项目的完结，更是新探索的开始",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f010",
+      "fact": "刘新智副教授表示，高能非弹谱仪将助力高温超导、量子磁性、新能源材料等研究。",
+      "type": "人物引语事实",
+      "time": "",
+      "subject": "刘新智",
+      "object": "高能非弹谱仪应用前景",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "人物身份和引语不得改写失真",
+      "source_paragraph_id": "p012",
+      "source_quote": "在它的视野里，高温超导的奥秘、量子磁性的机理、新能源材料的本性将逐渐褪去神秘外衣",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f011",
+      "fact": "谱仪建设团队已启动样品多场耦合加载分析模块研制，并获得国家重大科研仪器研制专项支持。",
+      "type": "项目事实",
+      "time": "2025",
+      "subject": "谱仪建设团队",
+      "object": "谱仪样品多场耦合加载分析模块",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "专项名称和项目状态需准确",
+      "source_paragraph_id": "p013",
+      "source_quote": "谱仪建设团队启动了谱仪样品多场耦合加载分析模块的研制，该项目目前已获得国家重大科研仪器研制专项的支持",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    }
+  ],
+  "structure": [
+    {
+      "section_id": "s001",
+      "title": "交付导语",
+      "paragraph_ids": ["p001"],
+      "summary": "以日期、仪器全称、验收会地点交代核心新闻，并立即点出“我国首台”。"
+    },
+    {
+      "section_id": "s002",
+      "title": "价值总括",
+      "paragraph_ids": ["p002"],
+      "summary": "用8年合作攻关、大国重器和填补空白概括科研意义。"
+    },
+    {
+      "section_id": "s003",
+      "title": "科普解释",
+      "paragraph_ids": ["p003", "p004", "p005", "p006"],
+      "summary": "以“超级相机”类比，解释谱仪能看什么、怎样通过中子探测微观运动。"
+    },
+    {
+      "section_id": "s004",
+      "title": "建设历程",
+      "paragraph_ids": ["p007", "p008", "p009", "p010"],
+      "summary": "按2017年协议、2019年建设、2023年输出中子与揭牌、两年多调试的时间线展开。"
+    },
+    {
+      "section_id": "s005",
+      "title": "未来应用",
+      "paragraph_ids": ["p011", "p012", "p013"],
+      "summary": "用验收后新探索、专家引语和后续专项支持，连接前沿科学问题。"
+    }
+  ],
+  "paragraph_functions": [
+    {
+      "paragraph_id": "p001",
+      "display_text": "11月16日，**我国首台**\n\n**高能直接几何非弹性**\n\n**中子散射飞行时间谱仪**\n\n（下称“高能非弹谱仪”）\n\n验收会暨交接仪式\n\n在位于东莞的中国散裂中子源举行",
+      "normalized_text": "11月16日，我国首台高能直接几何非弹性中子散射飞行时间谱仪（下称“高能非弹谱仪”）验收会暨交接仪式在位于东莞的中国散裂中子源举行",
+      "summary": "交代验收会暨交接仪式的时间、仪器名称和地点。",
+      "function_tags": ["核心事实"],
+      "writing_method": "时间地点加核心对象前置。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p002",
+      "display_text": "**历经8年合作攻关**\n\n这台致力于观测物质微观世界的\n\n结构与动力学性质的大国重器\n\n从概念蓝图变为了科学现实\n\n**填补了我国百毫电子伏以上**\n\n**非弹性中子散射的空白**",
+      "normalized_text": "历经8年合作攻关这台致力于观测物质微观世界的结构与动力学性质的大国重器从概念蓝图变为了科学现实填补了我国百毫电子伏以上非弹性中子散射的空白",
+      "summary": "概括8年攻关、大国重器和填补空白。",
+      "function_tags": ["成果支撑", "价值转场"],
+      "writing_method": "用短行强调强事实和科研价值。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p003",
+      "display_text": "**何为高能非弹谱仪？**",
+      "normalized_text": "何为高能非弹谱仪？",
+      "summary": "提出科普解释问题。",
+      "function_tags": ["章节标题"],
+      "writing_method": "以问句启动科普解释。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p004",
+      "display_text": "如果把常规的科学仪器比作人眼，那么高能非弹性中子散射飞行时间谱仪就是一台具备“超能力”的超级相机。",
+      "normalized_text": "如果把常规的科学仪器比作人眼，那么高能非弹性中子散射飞行时间谱仪就是一台具备“超能力”的超级相机。",
+      "summary": "用人眼与超级相机作类比。",
+      "function_tags": ["机制说明"],
+      "writing_method": "熟悉事物类比陌生仪器。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p005",
+      "display_text": "简单来说，**它不仅能看清物质的静态结构，更具备探测物质内部原子、分子在皮秒（万亿分之一秒）时间尺度动态过程的能力，**记录下原子、分子如何振动、如何旋转、如何传递能量的每一个瞬间。",
+      "normalized_text": "简单来说，它不仅能看清物质的静态结构，更具备探测物质内部原子、分子在皮秒（万亿分之一秒）时间尺度动态过程的能力，记录下原子、分子如何振动、如何旋转、如何传递能量的每一个瞬间。",
+      "summary": "解释谱仪能看静态结构和皮秒尺度动态过程。",
+      "function_tags": ["机制说明", "数据支撑"],
+      "writing_method": "能力说明中嵌入时间尺度。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p006",
+      "display_text": "**这台谱仪的独特之处在于，它利用了中子不带电、穿透力强的特性，能够“深入虎穴”，直接探测到物质内部的微观运动。**当中子与物质中的原子核发生“非弹性碰撞”时，中子会改变速度与方向，通过这些变化，科学家就能反推出物质内部的动态信息。",
+      "normalized_text": "这台谱仪的独特之处在于，它利用了中子不带电、穿透力强的特性，能够“深入虎穴”，直接探测到物质内部的微观运动。当中子与物质中的原子核发生“非弹性碰撞”时，中子会改变速度与方向，通过这些变化，科学家就能反推出物质内部的动态信息。",
+      "summary": "解释中子特性、非弹性碰撞与信息反推。",
+      "function_tags": ["机制说明"],
+      "writing_method": "从物理特性到探测原理逐步说明。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p007",
+      "display_text": "**大国重器，来之不易**",
+      "normalized_text": "大国重器，来之不易",
+      "summary": "小标题转入建设历程。",
+      "function_tags": ["章节标题", "价值转场"],
+      "writing_method": "用价值判断转入建设历程。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p008",
+      "display_text": "**2017年，中山大学与中国科学院高能物理研究所签署战略合作协议，启动中子谱仪合作项目。**经过两年的论证和预研，确定面向学术前沿和中国散裂中子源需求，建设中国首台高能非弹性中子散射谱仪，**并自2019年正式启动建设。**",
+      "normalized_text": "2017年，中山大学与中国科学院高能物理研究所签署战略合作协议，启动中子谱仪合作项目。经过两年的论证和预研，确定面向学术前沿和中国散裂中子源需求，建设中国首台高能非弹性中子散射谱仪，并自2019年正式启动建设。",
+      "summary": "2017年签约启动合作，2019年正式建设。",
+      "function_tags": ["核心事实", "背景交代"],
+      "writing_method": "时间线交代项目起点。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p009",
+      "display_text": "中山大学和散裂中子源科学中心共同组成谱仪建设团队，与专业技术组通力协作，攻克了一系列关键技术，包括自研费米斩波器、超大真空散射腔体等，终于在2023年1月12日成功在谱仪上输出中子。",
+      "normalized_text": "中山大学和散裂中子源科学中心共同组成谱仪建设团队，与专业技术组通力协作，攻克了一系列关键技术，包括自研费米斩波器、超大真空散射腔体等，终于在2023年1月12日成功在谱仪上输出中子。",
+      "summary": "建设团队攻克关键技术并在2023年输出中子。",
+      "function_tags": ["成果支撑", "数据支撑"],
+      "writing_method": "团队协作加技术清单加节点结果。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p010",
+      "display_text": "随后，谱仪进入带束调试阶段，并在年中初步获得了标准样品钒的声子谱和态密度。同年11月12日，谱仪正式揭牌，各模块的调试随即按下了加速键。最终，又经过两年多的调试，背景大幅降低，谱仪的各项指标均已达到国际领先水平。",
+      "normalized_text": "随后，谱仪进入带束调试阶段，并在年中初步获得了标准样品钒的声子谱和态密度。同年11月12日，谱仪正式揭牌，各模块的调试随即按下了加速键。最终，又经过两年多的调试，背景大幅降低，谱仪的各项指标均已达到国际领先水平。",
+      "summary": "调试、揭牌和指标达到国际领先水平。",
+      "function_tags": ["成果支撑", "数据支撑"],
+      "writing_method": "连续节点推进到性能评价。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p011",
+      "display_text": "**高能非弹谱仪的验收不仅是一个项目的完结，更是新探索的开始，**如同一位精密的“中子摄影师”，它能够捕捉物质内部原子、磁距分布和细微的动态变换。",
+      "normalized_text": "高能非弹谱仪的验收不仅是一个项目的完结，更是新探索的开始，如同一位精密的“中子摄影师”，它能够捕捉物质内部原子、磁距分布和细微的动态变换。",
+      "summary": "验收不是完结而是新探索开始。",
+      "function_tags": ["价值转场", "未来展望"],
+      "writing_method": "从项目完成转向科研应用。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p012",
+      "display_text": "**“在它的视野里，高温超导的奥秘、量子磁性的机理、新能源材料的本性将逐渐褪去神秘外衣，孕育出更多改变生活的技术创新。”**中山大学物理学院谱仪建设团队刘新智副教授介绍。",
+      "normalized_text": "“在它的视野里，高温超导的奥秘、量子磁性的机理、新能源材料的本性将逐渐褪去神秘外衣，孕育出更多改变生活的技术创新。”中山大学物理学院谱仪建设团队刘新智副教授介绍。",
+      "summary": "刘新智介绍其可服务高温超导、量子磁性、新能源材料。",
+      "function_tags": ["人物引语", "未来展望"],
+      "writing_method": "专家引语拓展应用想象。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p013",
+      "display_text": "为更好利用这一创新平台，谱仪建设团队启动了谱仪样品多场耦合加载分析模块的研制，该项目目前已获得国家重大科研仪器研制专项的支持，将使高能非弹谱仪能在更多重大科学问题上发挥关键作用。",
+      "normalized_text": "为更好利用这一创新平台，谱仪建设团队启动了谱仪样品多场耦合加载分析模块的研制，该项目目前已获得国家重大科研仪器研制专项的支持，将使高能非弹谱仪能在更多重大科学问题上发挥关键作用。",
+      "summary": "后续模块研制获国家重大科研仪器研制专项支持。",
+      "function_tags": ["机制说明", "未来展望"],
+      "writing_method": "平台延展加专项支持收束。",
+      "reuse_value": "高"
+    }
+  ],
+  "style": {
+    "reusable_phrases": [
+      "历经多年合作攻关",
+      "从概念蓝图变为了科学现实",
+      "不仅是一个项目的完结，更是新探索的开始",
+      "在更多重大科学问题上发挥关键作用"
+    ],
+    "rhetorical_devices": [
+      "比喻",
+      "设问",
+      "递进"
+    ],
+    "writing_methods": [
+      "结果前置",
+      "生活化类比解释专业概念",
+      "时间线呈现建设历程",
+      "专家引语引出应用前景"
+    ],
+    "style_labels": [
+      "事实驱动",
+      "分章节叙事",
+      "校媒报道",
+      "科研硬核型",
+      "科研平台建设型",
+      "科普解释型",
+      "国家战略型"
+    ],
+    "not_reusable_phrases": [
+      "我国首台高能直接几何非弹性中子散射飞行时间谱仪",
+      "填补了我国百毫电子伏以上非弹性中子散射的空白",
+      "谱仪的各项指标均已达到国际领先水平",
+      "刘新智副教授介绍",
+      "国家重大科研仪器研制专项"
+    ]
+  },
+  "value_narrative": {
+    "levels": {
+      "personal_level": "以刘新智副教授的介绍呈现科研人员对仪器应用前景的判断。",
+      "team_level": "突出中山大学、散裂中子源科学中心和专业技术组通力协作攻关。",
+      "course_level": "按协议签署、论证预研、正式建设、输出中子、揭牌调试、验收交付的过程推进。",
+      "school_level": "展示中山大学参与国家重大科研平台建设和长期攻关的组织能力。",
+      "national_level": "将仪器交付放在填补国内空白、支撑重大科学问题和服务科技自立自强的语境中。"
+    },
+    "transition_method": "从交付新闻进入价值总括，再用科普解释降低理解门槛，随后回到建设时间线并转向未来应用。",
+    "school_image": [
+      "长期攻关的研究型大学",
+      "服务国家战略的高校",
+      "参与重大科研仪器建设的平台型高校",
+      "善于跨机构协同的科研组织者"
+    ],
+    "ending_method": "以新模块研制和国家重大科研仪器研制专项支持收束，强调平台后续应用空间。"
+  },
+  "visuals": [
+    {
+      "image_id": "cover",
+      "caption": "封面图",
+      "caption_source": "structural",
+      "type": "cover",
+      "function": "提供文章首屏视觉入口。",
+      "position": "before_title"
+    },
+    {
+      "image_id": "img001",
+      "caption": "开场科研装置视觉图",
+      "caption_source": "inferred",
+      "type": "content",
+      "function": "承接交付新闻导语，营造重大科研装置现场感。",
+      "position": "before_p001"
+    },
+    {
+      "image_id": "img002",
+      "caption": "高能非弹谱仪相关视觉图",
+      "caption_source": "inferred",
+      "type": "content",
+      "function": "连接成果总括与科普解释段落。",
+      "position": "after_p002"
+    },
+    {
+      "image_id": "img003",
+      "caption": "我国首台高能直接几何非弹性中子散射飞行时间谱仪",
+      "caption_source": "original",
+      "type": "content",
+      "function": "展示谱仪主体并提供原文说明。",
+      "position": "after_p006"
+    },
+    {
+      "image_id": "img004",
+      "caption": "高能非弹谱仪部分组件",
+      "caption_source": "original",
+      "type": "content",
+      "function": "展示仪器组件，支撑建设历程和技术攻关内容。",
+      "position": "after_p010"
+    }
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 4,
+    "decorative_images": 0,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 5,
+    "unique_image_urls": 5
+  },
+  "templates": {
+    "title_templates": [
+      {
+        "template": "顺利交付！[机构A]与[机构B]花[时间]攻关“[形象化别称]”",
+        "applicable_scenarios": "适用于重大科研仪器、平台或工程项目完成验收交付，且有明确合作主体和攻关周期的报道。",
+        "not_applicable_scenarios": "不适用于没有交付节点、没有合作主体或无法用公众化比喻解释的常规新闻。"
+      }
+    ],
+    "opening_templates": [
+      {
+        "template": "[日期]，[强事实定位]的[成果全称]验收会暨交接仪式在[地点/平台]举行。",
+        "applicable_scenarios": "适用于验收、交付、揭牌、启动等节点明确的科研平台新闻。",
+        "not_applicable_scenarios": "不适用于评论、人物特写或缺少时间地点要素的综述文章。"
+      }
+    ],
+    "structure_templates": [
+      {
+        "template": "核心交付事实 -> 攻关周期与价值总括 -> 通俗科普解释 -> 建设时间线 -> 未来应用与平台延展。",
+        "applicable_scenarios": "适用于硬科技成果报道，尤其是需要同时说明新闻价值和科学原理的文章。",
+        "not_applicable_scenarios": "不适用于招生通知、活动预告、纯图片海报或单纯会议纪要。"
+      }
+    ],
+    "transition_templates": [
+      {
+        "template": "用“何为[专业对象]？”从成果新闻转入科普解释。",
+        "applicable_scenarios": "适用于读者可能不熟悉专业对象、需要降低理解门槛的科研传播。",
+        "not_applicable_scenarios": "不适用于读者已熟悉对象且文章重点是流程安排的通知类内容。"
+      },
+      {
+        "template": "用“[项目]不仅是一个项目的完结，更是新探索的开始”从建设成果转向未来应用。",
+        "applicable_scenarios": "适用于科研平台验收后还将继续服务学科发展或重大问题研究的报道。",
+        "not_applicable_scenarios": "不适用于一次性活动总结或没有后续应用场景的新闻。"
+      }
+    ],
+    "ending_templates": [
+      {
+        "template": "为更好利用这一创新平台，[团队]启动[后续模块/项目]，并获得[支持来源]支持，将使[平台]在更多重大科学问题上发挥关键作用。",
+        "applicable_scenarios": "适用于科研平台已交付且有后续建设项目、专项支持或应用拓展的文章。",
+        "not_applicable_scenarios": "不适用于没有后续安排、支持来源不明确或不宜承诺应用效果的报道。"
+      }
+    ],
+    "visual_caption_templates": [
+      {
+        "template": "[成果/平台]全称",
+        "applicable_scenarios": "适用于仪器、平台、装置主体图片，原文已有实体名称型 caption。",
+        "not_applicable_scenarios": "不适用于无法辨认主体或只是装饰性分隔图的图片。"
+      },
+      {
+        "template": "[成果/平台]部分组件",
+        "applicable_scenarios": "适用于展示仪器组件、实验装置局部或平台设施细节的图片。",
+        "not_applicable_scenarios": "不适用于人物合影、会议现场或无组件信息的图片。"
+      }
+    ],
+    "notice_flow_templates": []
+  },
+  "generation_constraints": {
+    "must_not_invent": [
+      "不得新增高能非弹谱仪的技术指标、造价、参与单位、负责人或应用成果。",
+      "不得把后续模块研制说成已经完成或投入使用。",
+      "不得把文章中的科普比喻替换为未经来源支持的专业结论。"
+    ],
+    "strong_claims_require_source": [
+      "我国首台",
+      "中国首台",
+      "填补了我国百毫电子伏以上非弹性中子散射的空白",
+      "各项指标均已达到国际领先水平",
+      "国家重大科研仪器研制专项"
+    ],
+    "quote_handling": [
+      "刘新智副教授引语可摘引，但必须保留高温超导、量子磁性、新能源材料的原始指向。",
+      "含“超级相机”“中子摄影师”的比喻可改写为写法模板，不得当作客观技术名称。"
+    ],
+    "scenario_boundaries": [
+      "适合重大科研仪器交付、平台验收、硬科技科普报道。",
+      "不适合作为招生公告、流程通知或普通活动报道模板。"
+    ],
+    "recommended_writer_use": [
+      "优先复用“结果导语 + 科普类比 + 时间线 + 应用前景”的组织方式。",
+      "使用前核验所有首台、填补空白、国际领先、专项支持和精确日期。"
+    ],
+    "type_specific_constraints": [
+      {
+        "term": "我国首台",
+        "constraint": "属于首个/首台类强声明，必须有原文或权威来源支撑。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "填补空白",
+        "constraint": "不得扩大为空泛的全国或全球空白，必须保留“百毫电子伏以上非弹性中子散射”的范围。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "国际领先水平",
+        "constraint": "属于比较性强声明，生成时须保留为原文归属或另行核验。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "国家重大科研仪器研制专项",
+        "constraint": "专项名称和支持状态不得简化为已完成资助或已验收成果。",
+        "category": "must_not_invent"
+      }
+    ]
+  }
+}

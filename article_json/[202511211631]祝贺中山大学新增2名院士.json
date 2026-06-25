@@ -1,0 +1,763 @@
+{
+  "article_id": "sysu_20251121_1631",
+  "title": "祝贺！中山大学新增2名院士！",
+  "publish_time": "2025-11-21 16:31",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": [
+    "重大荣誉类",
+    "院士增选类",
+    "人物成就类",
+    "医学科研类",
+    "校媒快讯类"
+  ],
+  "keywords": [
+    "中山大学",
+    "中国科学院院士",
+    "中国工程院院士",
+    "曾木圣",
+    "徐瑞华",
+    "肿瘤防治中心",
+    "EB病毒",
+    "消化道肿瘤",
+    "院士增选"
+  ],
+  "summary": "本文报道2025年两院新当选院士结果公布后，中山大学肿瘤防治中心曾木圣、徐瑞华分别当选中国科学院院士、中国工程院院士，并以人物成就和全国增选数据支撑学校医学科研人才建设形象。",
+  "communication_goal": "第一时间发布中山大学新增2名院士的重大荣誉信息；用两位学者的代表性研究、任职与获奖情况说明入选基础；以全国两院增选数据收束，强化荣誉分量和校媒权威发布属性。",
+  "value_themes": [
+    "人才强校",
+    "医学科研贡献",
+    "服务人民健康",
+    "学术影响力",
+    "国家荣誉"
+  ],
+  "topic_entities": [
+    "中山大学",
+    "中国科学院",
+    "中国工程院",
+    "中山大学肿瘤防治中心",
+    "曾木圣",
+    "徐瑞华",
+    "Epstein-Barr病毒",
+    "EB病毒",
+    "消化道肿瘤",
+    "华南恶性肿瘤防治全国重点实验室",
+    "中国临床肿瘤学会",
+    "中国抗癌协会"
+  ],
+  "facts": [
+    {
+      "id": "f001",
+      "fact": "2025年11月21日，中国科学院、中国工程院2025年新当选院士结果公布。",
+      "type": "时间事实",
+      "time": "2025-11-21",
+      "subject": "中国科学院、中国工程院",
+      "object": "2025年新当选院士结果公布",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "权威结果发布日期需核验",
+      "source_paragraph_id": "p001",
+      "source_quote": "2025年11月21日，中国科学院、中国工程院2025年新当选院士结果公布，中山大学共有2人入选。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f002",
+      "fact": "中山大学共有2人入选2025年新当选院士。",
+      "type": "数量事实",
+      "time": "2025-11-21",
+      "subject": "中山大学",
+      "object": "共有2人入选",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "入选人数为标题核心数字",
+      "source_paragraph_id": "p001",
+      "source_quote": "中山大学共有2人入选",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f003",
+      "fact": "肿瘤防治中心曾木圣研究员当选为中国科学院院士。",
+      "type": "荣誉事实",
+      "time": "2025-11-21",
+      "subject": "曾木圣",
+      "object": "当选为中国科学院院士",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "院士身份属权威荣誉",
+      "source_paragraph_id": "p002",
+      "source_quote": "肿瘤防治中心曾木圣研究员当选为中国科学院院士",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f004",
+      "fact": "肿瘤防治中心徐瑞华教授当选为中国工程院院士。",
+      "type": "荣誉事实",
+      "time": "2025-11-21",
+      "subject": "徐瑞华",
+      "object": "当选为中国工程院院士",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "院士身份属权威荣誉",
+      "source_paragraph_id": "p002",
+      "source_quote": "肿瘤防治中心徐瑞华教授当选为中国工程院院士",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f005",
+      "fact": "曾木圣是获得国际同行高度认可的EB病毒研究领军学者，长期专注于EB病毒致癌机制与靶向干预研究。",
+      "type": "人物事实",
+      "time": "",
+      "subject": "曾木圣",
+      "object": "EB病毒研究领军学者",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "学术定位和评价性表述需来源支撑",
+      "source_paragraph_id": "p004",
+      "source_quote": "曾木圣是获得国际同行高度认可的Epstein-Barr病毒（EB病毒）研究领军学者。他长期专注于EB病毒致癌机制与靶向干预研究",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f006",
+      "fact": "曾木圣发现EB病毒感染上皮细胞特异性受体，以及B细胞和上皮细胞通用受体。",
+      "type": "科研事实",
+      "time": "",
+      "subject": "曾木圣",
+      "object": "发现EB病毒感染相关受体",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "专业科研发现不可脱离原文改写",
+      "source_paragraph_id": "p004",
+      "source_quote": "发现EB病毒感染上皮细胞特异性受体，以及B细胞和上皮细胞通用受体",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f007",
+      "fact": "曾木圣建立EB病毒创新疫苗体系，研发多个候选疫苗并成功转让给国内龙头企业。",
+      "type": "成果转化事实",
+      "time": "",
+      "subject": "曾木圣",
+      "object": "建立EB病毒创新疫苗体系并转让候选疫苗",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "成果转化对象和程度需核验",
+      "source_paragraph_id": "p004",
+      "source_quote": "建立EB病毒创新疫苗体系，研发出多个候选疫苗并成功转让给国内龙头企业",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f008",
+      "fact": "曾木圣以第一完成人获国家自然科学二等奖（2023）。",
+      "type": "获奖事实",
+      "time": "2023",
+      "subject": "曾木圣",
+      "object": "国家自然科学二等奖",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "国家级奖项和第一完成人身份需核验",
+      "source_paragraph_id": "p004",
+      "source_quote": "以第一完成人获国家自然科学二等奖（2023）",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f009",
+      "fact": "曾木圣现任中山大学肿瘤防治中心副主任/副院长等职务。",
+      "type": "职务事实",
+      "time": "2025",
+      "subject": "曾木圣",
+      "object": "中山大学肿瘤防治中心副主任/副院长等",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "现任职务存在时效性",
+      "source_paragraph_id": "p005",
+      "source_quote": "曾木圣现任中山大学肿瘤防治中心副主任/副院长，“国际EB病毒及相关疾病研究协会”主席",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f010",
+      "fact": "曾木圣入选国家高层次人才计划、“南粤百杰”和第九届国家卫生健康突出贡献中青年专家等。",
+      "type": "荣誉事实",
+      "time": "",
+      "subject": "曾木圣",
+      "object": "入选多项人才计划和专家荣誉",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "人才计划和荣誉名称需准确",
+      "source_paragraph_id": "p005",
+      "source_quote": "入选国家高层次人才计划、“南粤百杰”和第九届国家卫生健康突出贡献中青年专家等。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f011",
+      "fact": "徐瑞华是我国具有重要国际学术影响力的消化道肿瘤内科专家。",
+      "type": "人物事实",
+      "time": "",
+      "subject": "徐瑞华",
+      "object": "消化道肿瘤内科专家",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "评价性专业身份需来源支撑",
+      "source_paragraph_id": "p007",
+      "source_quote": "徐瑞华是我国具有重要国际学术影响力的消化道（食管、胃和肠）肿瘤内科专家。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f012",
+      "fact": "徐瑞华37年来创建了克服免疫治疗抵抗的新策略。",
+      "type": "科研事实",
+      "time": "37年来",
+      "subject": "徐瑞华",
+      "object": "克服免疫治疗抵抗的新策略",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "时间跨度和专业表述需核验",
+      "source_paragraph_id": "p007",
+      "source_quote": "37年来，他创建了克服免疫治疗抵抗的新策略",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f013",
+      "fact": "徐瑞华首创消化道肿瘤中国免疫治疗方案并取得全球最佳疗效。",
+      "type": "科研事实",
+      "time": "",
+      "subject": "徐瑞华",
+      "object": "消化道肿瘤中国免疫治疗方案",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "“首创”“全球最佳”属强断言",
+      "source_paragraph_id": "p007",
+      "source_quote": "首创了消化道肿瘤中国免疫治疗方案并取得全球最佳疗效",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f014",
+      "fact": "徐瑞华领衔创建的系列新方案使晚期食管癌、胃癌长期生存率提高2倍，使晚期肠癌5年生存率超40%。",
+      "type": "疗效事实",
+      "time": "",
+      "subject": "徐瑞华",
+      "object": "晚期食管癌、胃癌和晚期肠癌治疗效果",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "疗效数字和疾病范围需严格核验",
+      "source_paragraph_id": "p007",
+      "source_quote": "使晚期食管癌、胃癌的长期生存率提高了2倍，使晚期肠癌的5年生存率超40%",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f015",
+      "fact": "徐瑞华推动国产PD1抗体联合方案获欧美批准。",
+      "type": "成果转化事实",
+      "time": "",
+      "subject": "徐瑞华",
+      "object": "国产PD1抗体联合方案获欧美批准",
+      "importance": "高",
+      "can_reuse": false,
+      "risk": "审批范围和药物方案需核验",
+      "source_paragraph_id": "p007",
+      "source_quote": "使国产PD1抗体联合方案获欧美批准",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f016",
+      "fact": "徐瑞华担任华南恶性肿瘤防治全国重点实验室主任、中国临床肿瘤学会第四届理事长等职务。",
+      "type": "职务事实",
+      "time": "2025",
+      "subject": "徐瑞华",
+      "object": "华南恶性肿瘤防治全国重点实验室主任等",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "现任职务和届次存在时效性",
+      "source_paragraph_id": "p008",
+      "source_quote": "徐瑞华担任华南恶性肿瘤防治全国重点实验室主任、中国临床肿瘤学会第四届理事长",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f017",
+      "fact": "徐瑞华以第一完成人获2项国家科技进步二等奖及7项省部级一等奖。",
+      "type": "获奖事实",
+      "time": "",
+      "subject": "徐瑞华",
+      "object": "国家科技进步二等奖及省部级一等奖",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "奖项数量和第一完成人身份需核验",
+      "source_paragraph_id": "p008",
+      "source_quote": "以第一完成人获2项国家科技进步二等奖及7项省部级一等奖",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f018",
+      "fact": "徐瑞华发表210余篇论文，总他引3.5万余次，连续3年入选全球高被引学者。",
+      "type": "数据事实",
+      "time": "",
+      "subject": "徐瑞华",
+      "object": "论文、引用和高被引学者数据",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "论文数量、引用次数和连续年限需核验",
+      "source_paragraph_id": "p008",
+      "source_quote": "发表210余篇论文，总他引3.5万余次，连续3年入选全球高被引学者",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f019",
+      "fact": "徐瑞华获全国五一劳动奖章及先进工作者。",
+      "type": "荣誉事实",
+      "time": "",
+      "subject": "徐瑞华",
+      "object": "全国五一劳动奖章及先进工作者",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "荣誉名称需准确",
+      "source_paragraph_id": "p009",
+      "source_quote": "徐瑞华治学严谨、医德高尚，获全国五一劳动奖章及先进工作者。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f020",
+      "fact": "徐瑞华任Cancer Communications主编，建成亚洲肿瘤学最高IF（24.9）期刊。",
+      "type": "平台事实",
+      "time": "",
+      "subject": "徐瑞华",
+      "object": "Cancer Communications",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "“最高”和IF数值属强断言",
+      "source_paragraph_id": "p009",
+      "source_quote": "任国产期刊 Cancer Communications 主编，建成亚洲肿瘤学最高IF（24.9）期刊",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f021",
+      "fact": "2025年我国共选举产生中国科学院院士73人、中国工程院院士71人。",
+      "type": "数据事实",
+      "time": "2025",
+      "subject": "中国科学院、中国工程院",
+      "object": "新当选院士人数",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "全国增选人数需核验",
+      "source_paragraph_id": "p010",
+      "source_quote": "2025年我国共选举产生中国科学院院士73人、中国工程院院士71人。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    },
+    {
+      "id": "f022",
+      "fact": "增选后，中国科学院院士总数达908人，中国工程院院士总数达1002人。",
+      "type": "数据事实",
+      "time": "2025",
+      "subject": "中国科学院、中国工程院",
+      "object": "增选后院士总数",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "院士总数需核验",
+      "source_paragraph_id": "p010",
+      "source_quote": "增选后，中国科学院院士总数达908人，中国工程院院士总数达1002人。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "high"
+    }
+  ],
+  "structure": [
+    {
+      "section_id": "s001",
+      "title": "快讯导语",
+      "paragraph_ids": [
+        "p001"
+      ],
+      "summary": "公布两院院士增选结果和中山大学入选人数。"
+    },
+    {
+      "section_id": "s002",
+      "title": "名单确认",
+      "paragraph_ids": [
+        "p002"
+      ],
+      "summary": "点明曾木圣、徐瑞华分别当选中国科学院院士、中国工程院院士。"
+    },
+    {
+      "section_id": "s003",
+      "title": "曾木圣介绍",
+      "paragraph_ids": [
+        "p003",
+        "p004",
+        "p005"
+      ],
+      "summary": "以EB病毒研究、疫苗体系、论文教材引用和获奖任职说明学术贡献。"
+    },
+    {
+      "section_id": "s004",
+      "title": "徐瑞华介绍",
+      "paragraph_ids": [
+        "p006",
+        "p007",
+        "p008",
+        "p009"
+      ],
+      "summary": "以消化道肿瘤诊疗方案、临床转化、论文指南、任职获奖和育人贡献展开。"
+    },
+    {
+      "section_id": "s005",
+      "title": "全国数据收束",
+      "paragraph_ids": [
+        "p010"
+      ],
+      "summary": "用2025年两院增选人数和院士总数强化新闻背景。"
+    }
+  ],
+  "paragraph_functions": [
+    {
+      "paragraph_id": "p001",
+      "display_text": "2025年11月21日，中国科学院、中国工程院2025年新当选院士结果公布，中山大学共有2人入选。",
+      "normalized_text": "2025年11月21日，中国科学院、中国工程院2025年新当选院士结果公布，中山大学共有2人入选。",
+      "summary": "两院2025年新当选院士结果公布，中山大学2人入选。",
+      "function_tags": [
+        "核心事实",
+        "背景交代",
+        "数据支撑"
+      ],
+      "writing_method": "时间和权威发布主体前置，直接给出学校结果。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p002",
+      "display_text": "肿瘤防治中心曾木圣研究员当选为中国科学院院士；肿瘤防治中心徐瑞华教授当选为中国工程院院士。",
+      "normalized_text": "肿瘤防治中心曾木圣研究员当选为中国科学院院士；肿瘤防治中心徐瑞华教授当选为中国工程院院士。",
+      "summary": "曾木圣、徐瑞华分别当选两院院士。",
+      "function_tags": [
+        "核心事实",
+        "人物经历"
+      ],
+      "writing_method": "用并列句压缩名单和当选身份。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p003",
+      "display_text": "**曾木圣**",
+      "normalized_text": "曾木圣",
+      "summary": "曾木圣章节标题。",
+      "function_tags": [
+        "章节标题"
+      ],
+      "writing_method": "以姓名单独成节，便于人物分段。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p004",
+      "display_text": "曾木圣是获得国际同行高度认可的Epstein-Barr病毒（EB病毒）研究领军学者。他长期专注于EB病毒致癌机制与靶向干预研究，发现EB病毒感染上皮细胞特异性受体，以及B细胞和上皮细胞通用受体，阐明多受体序贯协同介导EB病毒感染新机制，建立EB病毒创新疫苗体系，研发出多个候选疫苗并成功转让给国内龙头企业。他的研究为从源头阻断EB病毒感染和预防EB病毒相关疾病提供了理论基础与实施策略，并指导了EB病毒体系化新型疫苗的研发。研究成果发表于 Nature ， Nature Microbiology ， Cell Host Microbe ， Cell Research 等权威期刊，多项写入《Fields Virology》《Human Herpesviruses》等病毒学专业教材、专著等期刊，并被 Cell ， Science 等国际著名期刊正面引用。以第一完成人获国家自然科学二等奖（2023）。",
+      "normalized_text": "曾木圣是获得国际同行高度认可的Epstein-Barr病毒（EB病毒）研究领军学者。他长期专注于EB病毒致癌机制与靶向干预研究，发现EB病毒感染上皮细胞特异性受体，以及B细胞和上皮细胞通用受体，阐明多受体序贯协同介导EB病毒感染新机制，建立EB病毒创新疫苗体系，研发出多个候选疫苗并成功转让给国内龙头企业。他的研究为从源头阻断EB病毒感染和预防EB病毒相关疾病提供了理论基础与实施策略，并指导了EB病毒体系化新型疫苗的研发。研究成果发表于 Nature ， Nature Microbiology ， Cell Host Microbe ， Cell Research 等权威期刊，多项写入《Fields Virology》《Human Herpesviruses》等病毒学专业教材、专著等期刊，并被 Cell ， Science 等国际著名期刊正面引用。以第一完成人获国家自然科学二等奖（2023）。",
+      "summary": "曾木圣的EB病毒研究、疫苗体系、论文引用和国家自然科学二等奖。",
+      "function_tags": [
+        "人物经历",
+        "成果支撑",
+        "数据支撑"
+      ],
+      "writing_method": "先定位学术身份，再连续列举研究发现、成果转化和奖项。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p005",
+      "display_text": "曾木圣现任中山大学肿瘤防治中心副主任/副院长，“国际EB病毒及相关疾病研究协会”主席、中国抗癌协会肿瘤微环境专业委员会主委、广东省肿瘤免疫与疫苗工程技术研究中心主任，广东省细胞生物学会第四届理事会理事长及2024 Gordon Research Conference鼻咽癌国际会议主席。入选国家高层次人才计划、“南粤百杰”和第九届国家卫生健康突出贡献中青年专家等。",
+      "normalized_text": "曾木圣现任中山大学肿瘤防治中心副主任/副院长，“国际EB病毒及相关疾病研究协会”主席、中国抗癌协会肿瘤微环境专业委员会主委、广东省肿瘤免疫与疫苗工程技术研究中心主任，广东省细胞生物学会第四届理事会理事长及2024 Gordon Research Conference鼻咽癌国际会议主席。入选国家高层次人才计划、“南粤百杰”和第九届国家卫生健康突出贡献中青年专家等。",
+      "summary": "曾木圣现任职务和人才荣誉。",
+      "function_tags": [
+        "人物经历",
+        "成果支撑"
+      ],
+      "writing_method": "以“现任”“入选”串联职务与荣誉。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p006",
+      "display_text": "**徐瑞华**",
+      "normalized_text": "徐瑞华",
+      "summary": "徐瑞华章节标题。",
+      "function_tags": [
+        "章节标题"
+      ],
+      "writing_method": "以姓名单独成节，形成对称结构。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p007",
+      "display_text": "徐瑞华是我国具有重要国际学术影响力的消化道（食管、胃和肠）肿瘤内科专家。37年来，他创建了克服免疫治疗抵抗的新策略，据此首创了消化道肿瘤中国免疫治疗方案并取得全球最佳疗效，实现了从“中国方案”到“全球标准”的突破：优化了化疗药物联合免疫治疗以提高肿瘤抗原性，建立了食管癌、胃癌化疗-免疫联合新方案；创新了靶向药物组合以改善免疫微环境，首创了肠癌双靶-免疫联合新方案；国际首创了新靶点免疫治疗方案。他还建立了我国肠癌基因组分子分型，创新了增效低毒的化疗及靶向治疗方案，改写了国内外指南。他领衔创建的系列新方案，显著提高了我国消化道肿瘤治疗水平，使晚期食管癌、胃癌的长期生存率提高了2倍，使晚期肠癌的5年生存率超40%。作为负责人创新设计临床研究联合方案，推动多个国产原研药取得成功，使国产PD1抗体联合方案获欧美批准，是我国生物单抗历史性突破，大幅提高患者药物可及性。",
+      "normalized_text": "徐瑞华是我国具有重要国际学术影响力的消化道（食管、胃和肠）肿瘤内科专家。37年来，他创建了克服免疫治疗抵抗的新策略，据此首创了消化道肿瘤中国免疫治疗方案并取得全球最佳疗效，实现了从“中国方案”到“全球标准”的突破：优化了化疗药物联合免疫治疗以提高肿瘤抗原性，建立了食管癌、胃癌化疗-免疫联合新方案；创新了靶向药物组合以改善免疫微环境，首创了肠癌双靶-免疫联合新方案；国际首创了新靶点免疫治疗方案。他还建立了我国肠癌基因组分子分型，创新了增效低毒的化疗及靶向治疗方案，改写了国内外指南。他领衔创建的系列新方案，显著提高了我国消化道肿瘤治疗水平，使晚期食管癌、胃癌的长期生存率提高了2倍，使晚期肠癌的5年生存率超40%。作为负责人创新设计临床研究联合方案，推动多个国产原研药取得成功，使国产PD1抗体联合方案获欧美批准，是我国生物单抗历史性突破，大幅提高患者药物可及性。",
+      "summary": "徐瑞华在消化道肿瘤免疫治疗、临床方案和患者可及性方面的贡献。",
+      "function_tags": [
+        "人物经历",
+        "成果支撑",
+        "数据支撑"
+      ],
+      "writing_method": "用时间跨度、突破表述和疗效数据建立贡献强度。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p008",
+      "display_text": "徐瑞华担任华南恶性肿瘤防治全国重点实验室主任、中国临床肿瘤学会第四届理事长、中国抗癌协会副理事长和中国医学科学院学术咨询委员会学部委员。以第一完成人获2项国家科技进步二等奖及7项省部级一等奖，获全国创新争先奖、何梁何利科技奖、谈家桢临床医学奖、吴阶平医药创新奖等。主持四大慢病重大专项等重大项目，以最后通讯作者在NEJM、JAMA（2篇）、BMJ、Nat Med（5篇）、 Cancer Cell （4篇）等发表210余篇论文，总他引3.5万余次，连续3年入选全球高被引学者，成果写入85部国内外指南共识。获授权发明专利27项。受邀在 Cell 杂志发表中国肿瘤临床研究述评，并在 Cell 创刊50年之际被评为全球科学50人。",
+      "normalized_text": "徐瑞华担任华南恶性肿瘤防治全国重点实验室主任、中国临床肿瘤学会第四届理事长、中国抗癌协会副理事长和中国医学科学院学术咨询委员会学部委员。以第一完成人获2项国家科技进步二等奖及7项省部级一等奖，获全国创新争先奖、何梁何利科技奖、谈家桢临床医学奖、吴阶平医药创新奖等。主持四大慢病重大专项等重大项目，以最后通讯作者在NEJM、JAMA（2篇）、BMJ、Nat Med（5篇）、 Cancer Cell （4篇）等发表210余篇论文，总他引3.5万余次，连续3年入选全球高被引学者，成果写入85部国内外指南共识。获授权发明专利27项。受邀在 Cell 杂志发表中国肿瘤临床研究述评，并在 Cell 创刊50年之际被评为全球科学50人。",
+      "summary": "徐瑞华任职、奖项、论文、引用、指南和专利。",
+      "function_tags": [
+        "人物经历",
+        "成果支撑",
+        "数据支撑"
+      ],
+      "writing_method": "密集罗列权威职务、奖励与科研产出。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p009",
+      "display_text": "徐瑞华治学严谨、医德高尚，获全国五一劳动奖章及先进工作者。任国产期刊 Cancer Communications 主编，建成亚洲肿瘤学最高IF（24.9）期刊；任《柳叶刀-肿瘤》唯一中国编委、国家指定研究生教材《肿瘤学》主编。作为院长带领医院进入国际一流水平，自然指数稳居全球肿瘤中心排行榜前列；培养多名学生成为国家高层次人才（1名获科学探索奖）。作为肿瘤学带头人及多项全球III期多中心研究负责人，推动了国际肿瘤研究发展。任《中国临床肿瘤学指南》总主编并广泛推广，提高了我国肿瘤诊治水平。",
+      "normalized_text": "徐瑞华治学严谨、医德高尚，获全国五一劳动奖章及先进工作者。任国产期刊 Cancer Communications 主编，建成亚洲肿瘤学最高IF（24.9）期刊；任《柳叶刀-肿瘤》唯一中国编委、国家指定研究生教材《肿瘤学》主编。作为院长带领医院进入国际一流水平，自然指数稳居全球肿瘤中心排行榜前列；培养多名学生成为国家高层次人才（1名获科学探索奖）。作为肿瘤学带头人及多项全球III期多中心研究负责人，推动了国际肿瘤研究发展。任《中国临床肿瘤学指南》总主编并广泛推广，提高了我国肿瘤诊治水平。",
+      "summary": "徐瑞华在医德、期刊、医院建设、育人和指南推广方面的贡献。",
+      "function_tags": [
+        "人物经历",
+        "成果支撑",
+        "价值转场"
+      ],
+      "writing_method": "从科研成果拓展到医德、平台建设和行业影响。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p010",
+      "display_text": "据悉，2025年我国共选举产生中国科学院院士73人、中国工程院院士71人。增选后，中国科学院院士总数达908人，中国工程院院士总数达1002人。",
+      "normalized_text": "据悉，2025年我国共选举产生中国科学院院士73人、中国工程院院士71人。增选后，中国科学院院士总数达908人，中国工程院院士总数达1002人。",
+      "summary": "2025年全国两院增选人数及增选后院士总数。",
+      "function_tags": [
+        "背景交代",
+        "数据支撑",
+        "结尾收束"
+      ],
+      "writing_method": "以全国统计数据补足新闻背景并收束全文。",
+      "reuse_value": "高"
+    }
+  ],
+  "style": {
+    "reusable_phrases": [
+      "共有【数量】人入选",
+      "当选为【荣誉身份】",
+      "长期专注于【研究方向】",
+      "为【目标】提供了理论基础与实施策略",
+      "以第一完成人获【奖项】",
+      "据悉，【年度/范围】共【统计结果】"
+    ],
+    "rhetorical_devices": [
+      "并列铺陈",
+      "数字强调",
+      "祝贺式标题"
+    ],
+    "writing_methods": [
+      "结果先行",
+      "人物分章节展开",
+      "身份定位后接成果清单",
+      "全国数据背景收束"
+    ],
+    "style_labels": [
+      "事实驱动",
+      "分章节叙事",
+      "校媒报道",
+      "榜样荣誉型",
+      "人物群像型",
+      "医学教育创新型",
+      "学术贡献型"
+    ],
+    "not_reusable_phrases": [
+      "中山大学共有2人入选",
+      "曾木圣研究员当选为中国科学院院士",
+      "徐瑞华教授当选为中国工程院院士",
+      "首创了消化道肿瘤中国免疫治疗方案并取得全球最佳疗效",
+      "使晚期食管癌、胃癌的长期生存率提高了2倍",
+      "中国科学院院士总数达908人，中国工程院院士总数达1002人"
+    ]
+  },
+  "value_narrative": {
+    "levels": {
+      "personal_level": "两位学者以长期研究、临床转化、学术任职和获奖成果体现个人贡献。",
+      "team_level": "中山大学肿瘤防治中心作为共同出处，承载医学科研与临床创新团队形象。",
+      "course_level": "",
+      "school_level": "中山大学以新增两名院士呈现高层次人才集聚和医学学科实力。",
+      "national_level": "两院院士增选和国家级奖项、重点实验室、指南共识等内容连接国家科技与人民健康需求。"
+    },
+    "transition_method": "从学校新增院士的核心新闻事实切入，分人物展开学术贡献，再用全国增选数据抬升荣誉语境。",
+    "school_image": [
+      "医学科研实力突出",
+      "高层次人才集聚",
+      "服务人民健康",
+      "权威校媒发布"
+    ],
+    "ending_method": "以全国两院增选人数和增选后院士总数作背景性收束。"
+  },
+  "visuals": [
+    {
+      "image_id": "cover",
+      "caption": "封面图",
+      "caption_source": "structural",
+      "type": "cover",
+      "function": "文章封面",
+      "position": "before_title"
+    },
+    {
+      "image_id": "img001",
+      "caption": "文章开篇装饰动图",
+      "caption_source": "structural",
+      "type": "decorative_gif",
+      "function": "开篇视觉氛围",
+      "position": "before_p001"
+    },
+    {
+      "image_id": "img002",
+      "caption": "人物介绍分隔动图",
+      "caption_source": "structural",
+      "type": "decorative_gif",
+      "function": "分隔导语与曾木圣章节",
+      "position": "before_p003"
+    },
+    {
+      "image_id": "img003",
+      "caption": "人物介绍分隔动图",
+      "caption_source": "structural",
+      "type": "decorative_gif",
+      "function": "分隔曾木圣与徐瑞华章节",
+      "position": "before_p006"
+    }
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 0,
+    "decorative_images": 3,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 4,
+    "unique_image_urls": 4
+  },
+  "templates": {
+    "title_templates": [
+      {
+        "template": "祝贺！【机构】新增【数量】名【荣誉身份】！",
+        "applicable_scenarios": "学校或机构获得明确数量的重大人才、奖项、平台荣誉。",
+        "not_applicable_scenarios": "数量未定、身份未公布或需要复杂解释的政策类文章。"
+      }
+    ],
+    "opening_templates": [
+      {
+        "template": "【日期】，【权威机构/赛事/评审】结果公布，【机构】共有【数量/对象】入选。",
+        "applicable_scenarios": "结果公布型快讯。",
+        "not_applicable_scenarios": "尚处申报、提名、公示争议期的内容。"
+      }
+    ],
+    "structure_templates": [
+      {
+        "template": "结果导语 -> 名单确认 -> 人物/团队分章节介绍 -> 全国或行业背景数据收束。",
+        "applicable_scenarios": "多名人物或团队同获荣誉的校媒报道。",
+        "not_applicable_scenarios": "单一深度人物通讯或流程通知。"
+      }
+    ],
+    "transition_templates": [
+      {
+        "template": "先用姓名作小标题，再用“身份定位 + 长期方向 + 代表成果 + 职务荣誉”展开人物贡献。",
+        "applicable_scenarios": "人物荣誉快讯中的简短人物介绍。",
+        "not_applicable_scenarios": "需要情节、采访和细节场景支撑的人物故事。"
+      }
+    ],
+    "ending_templates": [
+      {
+        "template": "据悉，【年度/范围】共【统计结果】。增选/评定后，【总体规模】。",
+        "applicable_scenarios": "权威结果发布后的背景收束。",
+        "not_applicable_scenarios": "没有权威统计口径或统计口径不一致的报道。"
+      }
+    ],
+    "visual_caption_templates": [
+      {
+        "template": "【功能位置】装饰动图/分隔视觉",
+        "applicable_scenarios": "正文图片无原始图注且仅承担开篇、分隔、装饰等结构功能。",
+        "not_applicable_scenarios": "图片承载人物、成果、数据或现场事实证据时。"
+      }
+    ],
+    "notice_flow_templates": []
+  },
+  "generation_constraints": {
+    "must_not_invent": [
+      "不得新增未在原文出现的院士姓名、单位、学部、研究方向或荣誉。",
+      "不得将推荐阅读、iSYSU编辑链、二维码、评论区内容作为事实来源。",
+      "不得把人物评价性表述改写成更高等级的国家或世界排名。"
+    ],
+    "strong_claims_require_source": [
+      "中国科学院院士、中国工程院院士身份",
+      "中山大学共有2人入选",
+      "首创、国际首创、全球最佳、唯一、最高等断言",
+      "国家自然科学二等奖、国家科技进步二等奖、全国五一劳动奖章等获奖信息",
+      "2倍、超40%、210余篇、3.5万余次、85部、27项、73人、71人、908人、1002人等数字"
+    ],
+    "quote_handling": [
+      "直接引用人物成果、职务或数据时须保留原文证据，不可合并远距离句子。",
+      "期刊名、奖项名、机构名和专业术语应按原文书写。"
+    ],
+    "scenario_boundaries": [
+      "适用于重大荣誉快讯和多人物荣誉报道。",
+      "不适用于招生政策、活动通知或需要流程指引的服务类文章。",
+      "不适用于纯图片或长图文章。"
+    ],
+    "recommended_writer_use": [
+      "可复用“结果先行、人物分节、背景收束”的结构。",
+      "可复用荣誉快讯标题和开头句式。",
+      "不可复用本文具体疗效、奖项、职务和院士统计数字。"
+    ],
+    "type_specific_constraints": [
+      {
+        "term": "院士",
+        "constraint": "院士身份属于权威荣誉，必须以官方发布或原文证据为准。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "首创/全球最佳/唯一/最高",
+        "constraint": "比较级和唯一性表述不得泛化到其他对象，生成时必须逐条核验。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "医学疗效数据",
+        "constraint": "疾病范围、疗效指标和百分比必须与来源一致，不得自行解释医学意义。",
+        "category": "must_not_invent"
+      }
+    ]
+  }
+}

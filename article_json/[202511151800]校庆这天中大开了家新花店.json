@@ -1,0 +1,738 @@
+{
+  "article_id": "sysu_20251115_1800",
+  "title": "校庆这天，中大开了家新花店？",
+  "publish_time": "2025-11-15 18:00",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": [
+    "校庆献礼类",
+    "校园文化类",
+    "学生原创作品类",
+    "微电影推广类",
+    "价值叙事类"
+  ],
+  "keywords": [
+    "中山大学101周年校庆",
+    "双鸭花店",
+    "学生原创微电影",
+    "党委宣传部学生记者团",
+    "周双",
+    "夏雯蕙",
+    "陈楷佳",
+    "主创手记",
+    "观众反馈",
+    "种花隐喻"
+  ],
+  "summary": "文章以“花店”和“种花”为核心隐喻，推介献礼中山大学101周年校庆的学生原创微电影《双鸭花店》，通过剧情梗概、主创手记、观众反馈和上线召唤，表达中大守护青年梦想、鼓励尝试行动与扎根祖国大地的价值叙事。",
+  "communication_goal": "为学生原创微电影《双鸭花店》全网上线做校媒推广。借校庆节点展示学生主创团队的创作过程与校园文化表达。用“种下属于自己的花”引导读者把观影兴趣转化为对中大精神、青年选择和使命担当的认同。",
+  "value_themes": [
+    "青年尝试",
+    "梦想守护",
+    "校庆献礼",
+    "学生原创",
+    "校园文化传承",
+    "使命担当",
+    "扎根祖国大地"
+  ],
+  "topic_entities": [
+    "中山大学",
+    "党委宣传部学生记者团",
+    "双鸭花店",
+    "周双",
+    "夏雯蕙",
+    "陈楷佳",
+    "外国语学院",
+    "中国语言文学系",
+    "康乐园",
+    "中山楼",
+    "天琴测距台站",
+    "天琴中心科研团队",
+    "中大生科院廖文波教授团队",
+    "飞鸟智慧农业团队",
+    "阿者科计划项目团队",
+    "眼科中心5G智能眼科巡诊车项目团队",
+    "驻云南省凤庆县帮扶团队"
+  ],
+  "facts": [
+    {
+      "id": "f002",
+      "fact": "《双鸭花店》是党委宣传部学生记者团为献礼中山大学101周年校庆制作的学生原创微电影。",
+      "type": "作品事实",
+      "time": "2025",
+      "subject": "党委宣传部学生记者团",
+      "object": "学生原创微电影《双鸭花店》",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "101周年为精确校庆节点，需核验",
+      "source_paragraph_id": "p002",
+      "source_quote": "为献礼中山大学101周年校庆，党委宣传部学生记者团温情制作学生原创微电影《双鸭花店》。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f003",
+      "fact": "文章把《双鸭花店》的创作目标表述为“用童话的镜头”创作心里的中大。",
+      "type": "创作定位",
+      "time": "",
+      "subject": "《双鸭花店》",
+      "object": "用童话镜头创作心里的中大",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "作为原文表述使用，不应改成主创正式宣言",
+      "source_paragraph_id": "p003",
+      "source_quote": "用童话的镜头创作出我们心里的中大，一个最能安放心愿和梦想的地方。",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "low"
+    },
+    {
+      "id": "f004",
+      "fact": "文章设定“双鸭花店”从中山大学建校那年开始，每年校庆都会现身校园。",
+      "type": "故事设定",
+      "time": "",
+      "subject": "双鸭花店",
+      "object": "每年校庆现身校园",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "这是童话化故事设定，不能写成真实校园商铺史",
+      "source_paragraph_id": "p004",
+      "source_quote": "听说，从中山大学建校那年开始，每一年校庆，双鸭花店都会现身校园。",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "low"
+    },
+    {
+      "id": "f005",
+      "fact": "微电影故事从“第101次花开”开始。",
+      "type": "故事设定",
+      "time": "101周年校庆",
+      "subject": "《双鸭花店》",
+      "object": "第101次花开",
+      "importance": "中",
+      "can_reuse": false,
+      "risk": "101次与校庆节点绑定，不能泛化为任意数字",
+      "source_paragraph_id": "p005",
+      "source_quote": "故事，从第101次花开开始",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f006",
+      "fact": "剧情主角周双是热爱民俗学的学生，她翻开跨越百年的记录本并读到中大人的热望。",
+      "type": "剧情事实",
+      "time": "",
+      "subject": "周双",
+      "object": "跨越百年的记录本",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "角色与剧情信息不能扩写为真实人物经历",
+      "source_paragraph_id": "p006",
+      "source_quote": "当热爱民俗学的学生周双，意外翻开那本跨越百年的记录本，她读到了中大人的热望",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "low"
+    },
+    {
+      "id": "f007",
+      "fact": "文章用剧情价值解释“启程找寻的意义”和安放迷茫梦想的校园空间。",
+      "type": "价值表达",
+      "time": "",
+      "subject": "双鸭花店",
+      "object": "安放迷茫和梦想",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "情感表述应保留原文语气",
+      "source_paragraph_id": "p007",
+      "source_quote": "无论你正为何事所困，这里总有一个角落，能安放你的迷茫和梦想。",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "low"
+    },
+    {
+      "id": "f008",
+      "fact": "《双鸭花店》由学生主创团队打造，创作环节包括剧本打磨、美术设计、康乐园实地取景、后期录音剪辑。",
+      "type": "创作事实",
+      "time": "",
+      "subject": "学生主创团队",
+      "object": "《双鸭花店》创作链条",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "创作环节和地点需按原文列举",
+      "source_paragraph_id": "p009",
+      "source_quote": "《双鸭花店》由学生主创团队倾力打造。从剧本打磨到美术设计，从康乐园实地取景，到后期录音剪辑",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "low"
+    },
+    {
+      "id": "f009",
+      "fact": "主创团队用电影艺术表达中大人的使命和担当。",
+      "type": "价值表达",
+      "time": "",
+      "subject": "主创团队",
+      "object": "中大人的使命和担当",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "价值判断来自原文，不宜扩展为具体成果",
+      "source_paragraph_id": "p009",
+      "source_quote": "也在用电影艺术表达中大人的使命和担当。",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "low"
+    },
+    {
+      "id": "f010",
+      "fact": "导演为外国语学院2023级本科生夏雯蕙。",
+      "type": "人物身份",
+      "time": "2023级",
+      "subject": "夏雯蕙",
+      "object": "导演、外国语学院2023级本科生",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "人物身份和年级需准确引用",
+      "source_paragraph_id": "p013",
+      "source_quote": "导演 外国语学院 2023级本科生 夏雯蕙",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f011",
+      "fact": "夏雯蕙在主创手记中将影片初心概括为敢于开始、脚踏实地探索和传递希望。",
+      "type": "人物引语",
+      "time": "",
+      "subject": "夏雯蕙",
+      "object": "《双鸭花店》创作初心",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "引用主创观点时应保持原意",
+      "source_paragraph_id": "p011",
+      "source_quote": "重要的是敢于开始的勇气和脚踏实地的探索，这是我们在中大学到的精神，是我们开始创作《双鸭花店》的初心",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "low"
+    },
+    {
+      "id": "f012",
+      "fact": "夏雯蕙将双鸭花店解释为愿意守护和支持心中梦想的温暖小屋。",
+      "type": "人物引语",
+      "time": "",
+      "subject": "夏雯蕙",
+      "object": "双鸭花店的价值含义",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "应保留“不是许诺一切愿望皆成真”的边界",
+      "source_paragraph_id": "p012",
+      "source_quote": "双鸭花店不是一个可以许诺一切愿望皆成真的地方，却是一个无论如何都愿意守护和支持你心中梦想的温暖小屋。",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "low"
+    },
+    {
+      "id": "f013",
+      "fact": "编剧为中国语言文学系2024级本科生陈楷佳。",
+      "type": "人物身份",
+      "time": "2024级",
+      "subject": "陈楷佳",
+      "object": "编剧、中国语言文学系2024级本科生",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "人物身份和年级需准确引用",
+      "source_paragraph_id": "p015",
+      "source_quote": "编剧 中国语言文学系 2024级本科生 陈楷佳",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f014",
+      "fact": "陈楷佳表示，中大花店故事的念头最初产生在2024年寒假。",
+      "type": "创作事实",
+      "time": "2024年寒假",
+      "subject": "陈楷佳",
+      "object": "中大花店故事念头",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "具体时间需按原文核验",
+      "source_paragraph_id": "p014",
+      "source_quote": "想写一个中大花店故事的念头，最初产生在2024年寒假。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f015",
+      "fact": "观众反馈段落以“百年前/百年后”对照，将知识火种与理想之花相连。",
+      "type": "观众反馈",
+      "time": "",
+      "subject": "观众反馈",
+      "object": "知识火种与理想之花",
+      "importance": "中",
+      "can_reuse": true,
+      "risk": "反馈文字不宜改写为官方历史结论",
+      "source_paragraph_id": "p017",
+      "source_quote": "百年前，前辈于乱世种下知识火种；百年后，我们在这土地继续浇灌理想的花。",
+      "confidence": "high",
+      "requires_verification": false,
+      "risk_level": "low"
+    },
+    {
+      "id": "f016",
+      "fact": "文章列举天琴中心科研团队、生科院廖文波教授团队、飞鸟智慧农业团队、“阿者科计划”项目团队、眼科中心5G智能眼科巡诊车项目团队、驻云南省凤庆县帮扶团队。",
+      "type": "实体列举",
+      "time": "",
+      "subject": "中大人",
+      "object": "多领域团队与项目",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "团队和项目名称需逐字核对",
+      "source_paragraph_id": "p018",
+      "source_quote": "“天琴中心”科研团队、中大生科院廖文波教授团队、飞鸟智慧农业团队、“阿者科计划”项目团队、眼科中心5G智能眼科巡诊车项目团队、驻云南省凤庆县帮扶团队......",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    },
+    {
+      "id": "f017",
+      "fact": "微电影《双鸭花店》已全网上线，献礼101周年校庆。",
+      "type": "上线事实",
+      "time": "2025",
+      "subject": "微电影《双鸭花店》",
+      "object": "全网上线",
+      "importance": "高",
+      "can_reuse": true,
+      "risk": "上线状态和101周年节点需核验",
+      "source_paragraph_id": "p019",
+      "source_quote": "微电影《双鸭花店》全网上线，献礼101周年校庆，邀你共赴101次花开之约。",
+      "confidence": "high",
+      "requires_verification": true,
+      "risk_level": "medium"
+    }
+  ],
+  "structure": [
+    {
+      "section": "童话式开场",
+      "function": "建立花店隐喻和阅读悬念",
+      "summary": "用“不是所有花店都只为卖花而开”把读者带入微电影宣传语境。"
+    },
+    {
+      "section": "校庆献礼说明",
+      "function": "交代作品事实",
+      "summary": "说明《双鸭花店》是学生记者团为中山大学101周年校庆制作的原创微电影。"
+    },
+    {
+      "section": "剧情导览",
+      "function": "介绍故事人物和核心主题",
+      "summary": "围绕周双、跨越百年的记录本、第101次花开，呈现找寻、梦想与启程意义。"
+    },
+    {
+      "section": "创作幕后",
+      "function": "展示学生团队制作链条",
+      "summary": "列出剧本打磨、美术设计、康乐园取景、后期录音剪辑等环节。"
+    },
+    {
+      "section": "主创阐释",
+      "function": "解释种花隐喻",
+      "summary": "导演和编剧从勇气、探索、选择、团队支持等角度解释创作初心。"
+    },
+    {
+      "section": "观众反馈与价值外扩",
+      "function": "从作品扩展到中大人群像",
+      "summary": "以百年前后对照和多团队列举，把种花隐喻扩展为扎根祖国大地。"
+    },
+    {
+      "section": "上线召唤",
+      "function": "完成推广闭环",
+      "summary": "宣告微电影全网上线并邀请读者共赴101次花开之约。"
+    }
+  ],
+  "paragraph_functions": [
+    {
+      "paragraph_id": "p001",
+      "display_text": "**“不是所有花店，都只为卖花而开”**",
+      "normalized_text": "“不是所有花店，都只为卖花而开”",
+      "summary": "用反常识花店金句开场。",
+      "function_tags": ["背景交代", "价值转场"],
+      "writing_method": "用引号短句制造悬念，并提示花店具有象征意义。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p002",
+      "display_text": "为献礼中山大学101周年校庆，党委宣传部学生记者团温情制作学生原创微电影《双鸭花店》。",
+      "normalized_text": "为献礼中山大学101周年校庆，党委宣传部学生记者团温情制作学生原创微电影《双鸭花店》。",
+      "summary": "交代校庆节点、制作主体和作品名称。",
+      "function_tags": ["核心事实", "背景交代"],
+      "writing_method": "将节点、主体、作品三个事实集中前置。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p003",
+      "display_text": "“用童话的镜头创作出我们心里的中大，一个最能安放心愿和梦想的地方。”\n\n如果你也想要许一个愿，种一枝花，欢迎光临，双鸭花店。",
+      "normalized_text": "“用童话的镜头创作出我们心里的中大，一个最能安放心愿和梦想的地方。” 如果你也想要许一个愿，种一枝花，欢迎光临，双鸭花店。",
+      "summary": "说明作品的童话化校园想象，并邀请读者进入双鸭花店。",
+      "function_tags": ["价值转场", "活动召唤"],
+      "writing_method": "先给创作愿景，再用第二人称邀请完成代入。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p004",
+      "display_text": "听说，从**中山大学**建校那年开始，每一年**校庆**，**双鸭花店**都会现身校园。",
+      "normalized_text": "听说，从中山大学建校那年开始，每一年校庆，双鸭花店都会现身校园。",
+      "summary": "建立双鸭花店与中山大学校庆相连的故事设定。",
+      "function_tags": ["背景交代", "机制说明"],
+      "writing_method": "用“听说”保留童话语气，避免写成硬新闻事实。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p005",
+      "display_text": "**“故事，从第101次花开开始”**",
+      "normalized_text": "“故事，从第101次花开开始”",
+      "summary": "将101周年校庆转化为故事小节。",
+      "function_tags": ["章节标题", "价值转场"],
+      "writing_method": "把数字节点转译成诗性标题。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p006",
+      "display_text": "今年，**神秘的鸭子店长**又备好了花种。当**热爱民俗学**的学生**周双**，意外翻开那本**跨越百年的记录本**，她读到了**中大人的热望**，也读懂了**不论成功与否**，**启程找寻的意义**。",
+      "normalized_text": "今年，神秘的鸭子店长又备好了花种。当热爱民俗学的学生周双，意外翻开那本跨越百年的记录本，她读到了中大人的热望，也读懂了不论成功与否，启程找寻的意义。",
+      "summary": "概述主角周双和跨越百年的记录本所承载的剧情价值。",
+      "function_tags": ["案例展开", "人物经历"],
+      "writing_method": "用角色、道具和加粗关键词串联剧情梗概。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p007",
+      "display_text": "无论你正为何事所困，这里总有一个角落，能安放你的**迷茫和梦想**。",
+      "normalized_text": "无论你正为何事所困，这里总有一个角落，能安放你的迷茫和梦想。",
+      "summary": "从剧情意义转向读者共情。",
+      "function_tags": ["价值转场", "结尾收束"],
+      "writing_method": "用第二人称把作品主题落到读者处境。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p008",
+      "display_text": "**“我们，也是种花人”**",
+      "normalized_text": "“我们，也是种花人”",
+      "summary": "进入主创与观众共同参与的种花隐喻。",
+      "function_tags": ["章节标题", "价值转场"],
+      "writing_method": "用第一人称复数扩大叙事共同体。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p009",
+      "display_text": "**《双鸭花店》**由**学生主创团队**倾力打造。从**剧本打磨**到**美术设计**，从康乐园**实地取景**，到**后期录音剪辑**，主创团队们用**心中的热爱**诠释**对梦想的理解**，也在用**电影艺术**表达中大人的**使命和担当**。",
+      "normalized_text": "《双鸭花店》由学生主创团队倾力打造。从剧本打磨到美术设计，从康乐园实地取景，到后期录音剪辑，主创团队们用心中的热爱诠释对梦想的理解，也在用电影艺术表达中大人的使命和担当。",
+      "summary": "列出学生主创团队的制作链条，并升华为使命担当表达。",
+      "function_tags": ["核心事实", "机制说明", "成果支撑"],
+      "writing_method": "用“从...到...”列举过程，再以价值句收束。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p010",
+      "display_text": "**主创手记**",
+      "normalized_text": "主创手记",
+      "summary": "主创阐释段落标题。",
+      "function_tags": ["章节标题"],
+      "writing_method": "将竖排视觉标题转写为清晰小标题。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p011",
+      "display_text": "开蓝花还是红花，到底有这么重要吗？**只要种下种子，就会有希望。**重要的是敢于开始的勇气和脚踏实地的探索，这是我们在中大学到的精神，是我们开始创作《双鸭花店》的初心，也是我们希望能够传递给观众的价值。感谢全体剧组朋友们都用热爱和行动浇灌着“小花”，**花总会开，但花的模样或许可以由自己定义**。",
+      "normalized_text": "开蓝花还是红花，到底有这么重要吗？只要种下种子，就会有希望。重要的是敢于开始的勇气和脚踏实地的探索，这是我们在中大学到的精神，是我们开始创作《双鸭花店》的初心，也是我们希望能够传递给观众的价值。感谢全体剧组朋友们都用热爱和行动浇灌着“小花”，花总会开，但花的模样或许可以由自己定义。",
+      "summary": "导演手记强调开始的勇气、脚踏实地探索和自我定义。",
+      "function_tags": ["人物引语", "价值转场"],
+      "writing_method": "用设问引出价值答案，再用加粗句标出核心金句。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p012",
+      "display_text": "生活中有很多选择，但我们怀有这样的一种希望和信念：时代在改变，以周双为代表的新一代人或许有更多的机会去实现自己的心愿，我们迷茫、犹豫，却仍有热爱和坚持。而无论时代如何变迁，你将如何选择，以双鸭花店为代表的中山大学，都鼓励一代代中大人**去尝试和行动，种下属于你自己的花**。双鸭花店不是一个可以许诺一切愿望皆成真的地方，却是一个无论如何都愿意**守护和支持你心中梦想**的温暖小屋。",
+      "normalized_text": "生活中有很多选择，但我们怀有这样的一种希望和信念：时代在改变，以周双为代表的新一代人或许有更多的机会去实现自己的心愿，我们迷茫、犹豫，却仍有热爱和坚持。而无论时代如何变迁，你将如何选择，以双鸭花店为代表的中山大学，都鼓励一代代中大人去尝试和行动，种下属于你自己的花。双鸭花店不是一个可以许诺一切愿望皆成真的地方，却是一个无论如何都愿意守护和支持你心中梦想的温暖小屋。",
+      "summary": "导演将双鸭花店解释为鼓励尝试行动、守护梦想的校园象征。",
+      "function_tags": ["人物引语", "价值转场"],
+      "writing_method": "先承认迷茫和犹豫，再给出学校支持的价值答案。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p013",
+      "display_text": "**导演** 外国语学院 **2023级本科生 夏雯蕙**",
+      "normalized_text": "导演 外国语学院 2023级本科生 夏雯蕙",
+      "summary": "交代导演身份。",
+      "function_tags": ["人物经历"],
+      "writing_method": "人物身份独立成段，便于读者识别。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p014",
+      "display_text": "想写一个中大花店故事的念头，最初产生在2024年寒假。我和**夏雯蕙**一拍即合，旋即开始了漫长的微电影筹备工作。关于这部微电影到底想表达什么，我们经历了反复的建构-解构-重组，这本身也是“种花”的过程。感谢志同道合的伙伴、鼓励包容我们创作的党委宣传部、以及学校其他部门给剧组的大力支持，因而我们相信，**在中大这片热土上，再小的种子都值得被珍重和捧起。**",
+      "normalized_text": "想写一个中大花店故事的念头，最初产生在2024年寒假。我和夏雯蕙一拍即合，旋即开始了漫长的微电影筹备工作。关于这部微电影到底想表达什么，我们经历了反复的建构-解构-重组，这本身也是“种花”的过程。感谢志同道合的伙伴、鼓励包容我们创作的党委宣传部、以及学校其他部门给剧组的大力支持，因而我们相信，在中大这片热土上，再小的种子都值得被珍重和捧起。",
+      "summary": "编剧回忆创意起点、筹备过程和学校支持。",
+      "function_tags": ["人物经历", "人物引语", "机制说明"],
+      "writing_method": "把创作反复比作种花过程，以感谢和价值句收束。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p015",
+      "display_text": "**编剧** 中国语言文学系 **2024级本科生 陈楷佳**",
+      "normalized_text": "编剧 中国语言文学系 2024级本科生 陈楷佳",
+      "summary": "交代编剧身份。",
+      "function_tags": ["人物经历"],
+      "writing_method": "人物身份独立成段，便于读者识别。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p016",
+      "display_text": "**观众反馈**",
+      "normalized_text": "观众反馈",
+      "summary": "观众反馈段落标题。",
+      "function_tags": ["章节标题"],
+      "writing_method": "用小标题完成从主创到观众的视角切换。",
+      "reuse_value": "中"
+    },
+    {
+      "paragraph_id": "p017",
+      "display_text": "百年前，前辈于乱世**种下****知识火种**；百年后，我们在这土地继续**浇灌理想的花**。",
+      "normalized_text": "百年前，前辈于乱世种下知识火种；百年后，我们在这土地继续浇灌理想的花。",
+      "summary": "观众反馈用百年前后对照承接种花隐喻。",
+      "function_tags": ["价值转场", "结尾收束"],
+      "writing_method": "用时间对仗把校史传承和青年理想并置。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p018",
+      "display_text": "“天琴中心”科研团队、中大生科院廖文波教授团队、飞鸟智慧农业团队、“阿者科计划”项目团队、眼科中心5G智能眼科巡诊车项目团队、驻云南省凤庆县帮扶团队......\n\n**中大人的足迹遍布各行各业，中大人的花种在祖国大地上扎根。**",
+      "normalized_text": "“天琴中心”科研团队、中大生科院廖文波教授团队、飞鸟智慧农业团队、“阿者科计划”项目团队、眼科中心5G智能眼科巡诊车项目团队、驻云南省凤庆县帮扶团队...... 中大人的足迹遍布各行各业，中大人的花种在祖国大地上扎根。",
+      "summary": "列举中大多领域团队，将种花隐喻外扩到服务社会。",
+      "function_tags": ["群像呈现", "成果支撑", "价值转场"],
+      "writing_method": "先列实体，再用总结句完成学校群像升华。",
+      "reuse_value": "高"
+    },
+    {
+      "paragraph_id": "p019",
+      "display_text": "**微电影《双鸭花店》**全网上线，献礼**101周年校庆**，邀你共赴**101次花开**之约。",
+      "normalized_text": "微电影《双鸭花店》全网上线，献礼101周年校庆，邀你共赴101次花开之约。",
+      "summary": "宣告微电影上线并发出观看邀请。",
+      "function_tags": ["核心事实", "活动召唤", "结尾收束"],
+      "writing_method": "发布事实与情感邀约合并收束。",
+      "reuse_value": "高"
+    }
+  ],
+  "style": {
+    "reusable_phrases": [
+      "不是所有{{场所}}，都只为{{表层功能}}而开",
+      "用{{审美方式}}创作出我们心里的{{共同体}}",
+      "如果你也想要{{愿望动作}}，欢迎光临{{象征空间}}",
+      "故事，从第{{纪念次数}}次{{象征动作}}开始",
+      "无论你正为何事所困，这里总有一个角落",
+      "重要的是敢于开始的勇气和脚踏实地的探索",
+      "再小的种子都值得被珍重和捧起"
+    ],
+    "rhetorical_devices": [
+      "设问",
+      "隐喻",
+      "时间对照",
+      "反常识开场",
+      "第二人称召唤"
+    ],
+    "writing_methods": [
+      "悬念式标题导入",
+      "作品事实前置",
+      "剧情梗概到价值阐释",
+      "幕后制作链条列举",
+      "主创手记承载价值解释",
+      "观众反馈外扩学校群像",
+      "上线事实加情感邀约收束"
+    ],
+    "style_labels": [
+      "事实驱动",
+      "分章节叙事",
+      "校媒报道",
+      "美育叙事型",
+      "学生成长型",
+      "校园风物型",
+      "校史深情型"
+    ],
+    "not_reusable_phrases": [
+      "中山大学101周年校庆",
+      "党委宣传部学生记者团",
+      "《双鸭花店》",
+      "周双",
+      "夏雯蕙",
+      "陈楷佳",
+      "外国语学院2023级本科生",
+      "中国语言文学系2024级本科生",
+      "天琴中心科研团队、中大生科院廖文波教授团队、飞鸟智慧农业团队、“阿者科计划”项目团队、眼科中心5G智能眼科巡诊车项目团队、驻云南省凤庆县帮扶团队"
+    ]
+  },
+  "value_narrative": {
+    "levels": {
+      "personal_level": "以周双和主创手记承载青年面对迷茫、选择与梦想的个人层面。",
+      "team_level": "以学生主创团队从剧本到后期的协作链条呈现团队创作。",
+      "course_level": "本文不涉及课程教学层面，写作器不应补写课程信息。",
+      "school_level": "以中山大学作为守护梦想、鼓励尝试行动的温暖空间。",
+      "national_level": "通过多领域中大团队和项目扎根祖国大地，连接公共价值。",
+      "aesthetic_level": "以童话镜头、花店空间和种花隐喻完成美育表达。"
+    },
+    "transition_method": "从象征空间进入作品事实，再由剧情、主创和观众反馈逐层外扩到学校群像与使命担当。",
+    "school_image": [
+      "温暖支持",
+      "鼓励探索",
+      "重视学生原创",
+      "传承百年精神",
+      "服务社会"
+    ],
+    "ending_method": "以全网上线事实和101次花开之约形成推广收束。"
+  },
+  "visuals": [
+    {"image_id": "cover", "caption": "封面图", "caption_source": "structural", "type": "封面图", "function": "建立微电影宣传视觉", "position": "标题前"},
+    {"image_id": "img001", "caption": "开场视觉图", "caption_source": "structural", "type": "开场图", "function": "进入花店故事氛围", "position": "元信息后"},
+    {"image_id": "img002", "caption": "段落分隔装饰图", "caption_source": "structural", "type": "装饰图", "function": "分隔开场金句和作品事实", "position": "p001后"},
+    {"image_id": "img003", "caption": "双鸭花店故事视觉", "caption_source": "inferred", "type": "剧照/宣传图", "function": "配合建校与校庆故事设定", "position": "p004后"},
+    {"image_id": "img004", "caption": "双鸭花店故事视觉", "caption_source": "inferred", "type": "剧照/宣传图", "function": "配合每年校庆现身校园的设定", "position": "img003后"},
+    {"image_id": "img005", "caption": "章节视觉图", "caption_source": "structural", "type": "装饰图", "function": "引出第101次花开小节", "position": "p004后"},
+    {"image_id": "img006", "caption": "段落分隔装饰图", "caption_source": "structural", "type": "装饰图", "function": "分隔剧情标题和周双故事", "position": "p005后"},
+    {"image_id": "img007", "caption": "鸭子店长相关剧照", "caption_source": "inferred", "type": "剧照", "function": "呈现神秘店长与花种设定", "position": "p006前"},
+    {"image_id": "img008", "caption": "周双翻阅记录本相关剧照", "caption_source": "inferred", "type": "剧照", "function": "呈现角色行动", "position": "p006中"},
+    {"image_id": "img009", "caption": "《双鸭花店》剧照 中大人在野外考察", "caption_source": "original", "type": "剧照", "function": "展示记录本中的中大人热望", "position": "p006后"},
+    {"image_id": "img010", "caption": "剧情意义相关剧照", "caption_source": "inferred", "type": "剧照", "function": "承接启程找寻的意义", "position": "p006后"},
+    {"image_id": "img011", "caption": "安放迷茫和梦想相关剧照", "caption_source": "inferred", "type": "剧照", "function": "强化情感共鸣", "position": "p007后"},
+    {"image_id": "img012", "caption": "段落分隔装饰图", "caption_source": "structural", "type": "装饰图", "function": "引出主创团队段落", "position": "p008后"},
+    {"image_id": "img013", "caption": "主创团队创作现场", "caption_source": "inferred", "type": "幕后图", "function": "配合剧本打磨和美术设计", "position": "p009后"},
+    {"image_id": "img014", "caption": "《双鸭花店》剧组在选角试镜", "caption_source": "original", "type": "幕后图", "function": "展示学生团队创作过程", "position": "p009后"},
+    {"image_id": "img015", "caption": "康乐园取景相关幕后图", "caption_source": "inferred", "type": "幕后图", "function": "支撑实地取景信息", "position": "p009后"},
+    {"image_id": "img016", "caption": "主创团队工作现场", "caption_source": "inferred", "type": "幕后图", "function": "展示创作协作", "position": "p009后"},
+    {"image_id": "img017", "caption": "主创团队工作现场", "caption_source": "inferred", "type": "幕后图", "function": "承接热爱和梦想表达", "position": "p009后"},
+    {"image_id": "img018", "caption": "主创团队工作现场", "caption_source": "inferred", "type": "幕后图", "function": "承接电影艺术表达", "position": "p009后"},
+    {"image_id": "img019", "caption": "主创团队工作现场", "caption_source": "inferred", "type": "幕后图", "function": "承接使命担当表达", "position": "p009后"},
+    {"image_id": "img020", "caption": "主创手记前置视觉", "caption_source": "structural", "type": "装饰图", "function": "进入主创手记小节", "position": "p010前"},
+    {"image_id": "img021", "caption": "主创手记分隔图", "caption_source": "structural", "type": "装饰图", "function": "分隔标题和手记正文", "position": "p010后"},
+    {"image_id": "img022", "caption": "导演手记配图", "caption_source": "structural", "type": "签名/装饰图", "function": "分隔导演与编剧手记", "position": "p013后"},
+    {"image_id": "img023", "caption": "《双鸭花店》剧组在中山楼观看点映", "caption_source": "original", "type": "幕后图", "function": "展示点映场景", "position": "p015后"},
+    {"image_id": "img024", "caption": "观众反馈分隔图", "caption_source": "structural", "type": "装饰图", "function": "引出观众反馈小节", "position": "p016后"},
+    {"image_id": "img025", "caption": "电子与通信工程学院 谢志远", "caption_source": "original", "type": "反馈图", "function": "呈现观众反馈身份", "position": "p016后"},
+    {"image_id": "img026", "caption": "国际金融学院 李加加", "caption_source": "original", "type": "反馈图", "function": "呈现观众反馈身份", "position": "p016后"},
+    {"image_id": "img027", "caption": "《双鸭花店》剧组在天琴测距台站", "caption_source": "original", "type": "剧照/幕后图", "function": "连接作品与中大科研场景", "position": "p017后"},
+    {"image_id": "img028", "caption": "《双鸭花店》拍摄取景地 高力士屋（中山大学心理健康教育咨询中心）", "caption_source": "original", "type": "取景地图", "function": "展示校园取景空间", "position": "p018后"},
+    {"image_id": "img029", "caption": "微电影上线召唤视觉", "caption_source": "inferred", "type": "宣传图", "function": "配合全网上线信息", "position": "p019后"},
+    {"image_id": "img030", "caption": "结尾视觉图", "caption_source": "structural", "type": "收束图", "function": "完成文章视觉收尾", "position": "文末"}
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 21,
+    "decorative_images": 9,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 31,
+    "unique_image_urls": 28
+  },
+  "templates": {
+    "title_templates": [
+      {
+        "template": "{{纪念节点}}这天，{{学校简称}}开了家{{反常识场所}}？",
+        "applicable_scenarios": ["校园文化作品发布", "活动悬念预热", "校庆主题视觉叙事"],
+        "not_applicable_scenarios": ["政策通知", "考试安排", "需要直接交代事实的严肃新闻"]
+      }
+    ],
+    "opening_templates": [
+      {
+        "template": "先用一句隐喻金句提示{{场所}}不止有表层功能，再交代{{制作主体}}为{{纪念节点}}推出{{作品类型}}，最后用第二人称邀请读者进入场景。",
+        "applicable_scenarios": ["微电影推广", "展览导览", "校园文化活动推介"],
+        "not_applicable_scenarios": ["缺少明确作品主体的情绪散文", "招生录取和考试服务类文章"]
+      }
+    ],
+    "structure_templates": [
+      {
+        "template": "悬念开场 -> 作品事实 -> 剧情导览 -> 幕后创作 -> 主创阐释 -> 观众反馈/价值外扩 -> 上线召唤",
+        "applicable_scenarios": ["学生原创作品推广", "校庆献礼作品报道", "校园文艺项目推介"],
+        "not_applicable_scenarios": ["纯成果发布", "长条款通知", "无剧情或主创材料的新闻"]
+      }
+    ],
+    "transition_templates": [
+      {
+        "template": "从{{作品中的象征物}}过渡到{{创作者的行动}}，再升到{{学校精神或群体使命}}。",
+        "applicable_scenarios": ["文艺作品价值阐释", "校园文化项目传播", "人物或团队创作手记"],
+        "not_applicable_scenarios": ["只需说明流程的服务信息", "无法提供创作行动证据的文章"]
+      }
+    ],
+    "ending_templates": [
+      {
+        "template": "{{作品名称}}已{{发布状态}}，献礼{{纪念节点}}，邀你共赴{{象征性约定}}。",
+        "applicable_scenarios": ["作品上线", "活动开幕", "校庆主题项目发布"],
+        "not_applicable_scenarios": ["未正式发布的预告", "需列报名条件和截止时间的通知"]
+      }
+    ],
+    "visual_caption_templates": [
+      {
+        "template": "《{{作品名称}}》{{团队/剧组}}在{{地点或环节}}",
+        "applicable_scenarios": ["剧照", "幕后花絮", "点映或取景说明"],
+        "not_applicable_scenarios": ["无原始图注的装饰图", "不能确认地点或人物的图片"]
+      }
+    ],
+    "notice_flow_templates": []
+  },
+  "generation_constraints": {
+    "must_not_invent": [
+      "不得把双鸭花店写成真实商业花店或长期实体店。",
+      "不得编造微电影获奖、播放量、主创职务、演员名单或具体观看平台。",
+      "不得把剧情人物周双写成真实受访学生。",
+      "不得使用推荐阅读、iSYSU、编辑链、二维码、小程序提示和评论区内容。"
+    ],
+    "strong_claims_require_source": [
+      "101周年校庆",
+      "第101次花开",
+      "全网上线",
+      "2025年11月15日18:00",
+      "2023级本科生",
+      "2024级本科生",
+      "2024年寒假",
+      "团队和项目名称列表"
+    ],
+    "quote_handling": [
+      "主创手记中的直接表达只可去除Markdown加粗和多余空白，不得改变价值边界。",
+      "“不是一个可以许诺一切愿望皆成真的地方”必须与“守护和支持梦想”同时保留。",
+      "观众反馈不得改写成学校官方历史结论。"
+    ],
+    "scenario_boundaries": [
+      "本文适合作为校园文化作品推广和校庆献礼案例，不适合提取为政策、招生或考试模板。",
+      "“花店/种花/花开”隐喻必须绑定作品和校庆语境使用。",
+      "图片信息中 inferred caption 仅用于分析定位，不能当作原始图注引用。"
+    ],
+    "recommended_writer_use": [
+      "标题可借用反常识疑问句制造悬念。",
+      "正文应先交代作品主体和节点，再展开剧情与主创阐释。",
+      "主创手记可作为价值解释依据，但人物身份需逐字核验。",
+      "结尾可用发布事实加情感邀约完成行动召唤。"
+    ],
+    "type_specific_constraints": [
+      {
+        "term": "101周年校庆",
+        "constraint": "凡涉及101周年、第101次花开、101次花开之约，均须回到原文或校庆事实核验。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "全网上线",
+        "constraint": "只能表述原文称微电影已全网上线，不得补充平台、链接或播放数据。",
+        "category": "strong_claim"
+      },
+      {
+        "term": "双鸭花店",
+        "constraint": "作为作品中的象征空间和微电影标题使用，不得写成真实运营花店。",
+        "category": "scenario_boundary"
+      },
+      {
+        "term": "主创身份",
+        "constraint": "导演、编剧、学院、年级和姓名必须按原文引用，不得扩展职务。",
+        "category": "must_not_invent"
+      },
+      {
+        "term": "图片说明",
+        "constraint": "只有原文出现的剧照、试镜、点映、天琴测距台站和取景地说明可作为原始图注。",
+        "category": "quote_handling"
+      }
+    ]
+  }
+}

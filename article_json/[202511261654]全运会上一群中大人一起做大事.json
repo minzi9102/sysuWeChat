@@ -1,0 +1,202 @@
+{
+  "article_id": "sysu_20251126_1654",
+  "title": "全运会上，一群中大人，一起做大事！",
+  "publish_time": "2025-11-26 16:54",
+  "account": "中山大学",
+  "publish_location": "广东",
+  "article_types": ["体育赛事类", "校园群像类", "志愿服务纪实类", "科技保障类", "人物通讯类"],
+  "keywords": ["十五运会", "中大人", "中大小海豚", "裁判", "广州蓝", "志愿服务", "残特奥会"],
+  "summary": "文章以十五运会闭幕后的回看为线索，串联裁判、科技保障团队、啦啦操队、赛区志愿者领队和校级统筹者，呈现中大人在粤港澳大湾区赛事中的专业服务、科技支撑和共同体担当。",
+  "communication_goal": "借全运会公共事件的余温，讲述中大师生在赛场规则维护、环境质量保障和志愿服务组织中的具体贡献，强化“中大人与大湾区发展紧密相连”的学校形象，并提示读者查看活动开奖信息。",
+  "value_themes": ["服务大湾区", "体育精神", "志愿奉献", "科技支撑", "共同体担当", "育人传承"],
+  "topic_entities": ["第十五届全国运动会", "中山大学体育部", "罗微", "王守力", "张淼", "王金柯博", "智能工程学院", "刘永红教授团队", "环境自适应智能传感器", "大气科学学院", "范绍佳教授团队", "刘一鸣副教授团队", "广州赛区", "黄颖婕", "贾晓丹", "彭雯昕", "中大小海豚", "残特奥会", "WPS协作客户端"],
+  "facts": [
+    {"id":"f001","fact":"第十五届全国运动会已于文章发布前不久圆满结束，许多中大人参与志愿、赛场和技术岗位。","type":"赛事背景","time":"2025-11","subject":"第十五届全国运动会","object":"中大人多岗位参与","importance":"高","can_reuse":true,"risk":"赛事闭幕节点和参与范围需按原文表述","source_paragraph_id":"p001","source_quote":"第十五届全国运动会圆满结束","confidence":"high","requires_verification":true,"risk_level":"medium"},
+    {"id":"f002","fact":"罗微为中山大学体育部副教授，并曾获雅典奥运会、世锦赛、亚运会和全运会跆拳道冠军。","type":"人物身份","time":"2025","subject":"罗微","object":"体育部副教授及冠军履历","importance":"高","can_reuse":true,"risk":"奥运会、世锦赛、亚运会和全运会冠军均属强事实","source_paragraph_id":"p002","source_quote":"2004年雅典奥运会跆拳道冠军","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f003","fact":"罗微在十五运会以跆拳道项目技术代表身份出现，并作为纠错小组成员处理关键重大错误。","type":"赛事岗位","time":"2025","subject":"罗微","object":"担任跆拳道项目技术代表和纠错小组成员","importance":"高","can_reuse":true,"risk":"岗位名称和职责不可扩写","source_paragraph_id":"p003","source_quote":"跆拳道项目技术代表","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f004","fact":"王守力为中山大学体育部副教授、普通本科组男排主教练，并有多项排球赛事执裁经历。","type":"人物身份","time":"2025","subject":"王守力","object":"体育部教师和排球裁判履历","importance":"高","can_reuse":true,"risk":"职务和赛事执裁履历属于强事实","source_paragraph_id":"p007","source_quote":"中山大学体育部副教授，中山大学普通本科组男排主教练","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f005","fact":"王守力认为成年组女排赛事关注度高，对裁判专业度提出更高要求。","type":"人物观点","time":"2025","subject":"王守力","object":"成年组女排裁判专业要求","importance":"中","can_reuse":true,"risk":"关注度评价需保留主观语境","source_paragraph_id":"p008","source_quote":"公众对成年组女排赛事关注度极高","confidence":"high","requires_verification":false,"risk_level":"medium"},
+    {"id":"f006","fact":"王守力执裁目标是每场约两小时赛事中对每一个球的判罚都做到100%准确。","type":"工作标准","time":"2025","subject":"王守力","object":"执裁0失误和100%准确","importance":"高","can_reuse":true,"risk":"0失误、两小时、100%均为精确强表述","source_paragraph_id":"p009","source_quote":"每场长达两小时的赛事中","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f007","fact":"张淼为中山大学体育部副教授、甲组女排主教练、国家级裁判、前广东省女排二传。","type":"人物身份","time":"2025","subject":"张淼","object":"体育部教师和裁判履历","importance":"高","can_reuse":true,"risk":"国家级裁判和运动员经历属于强事实","source_paragraph_id":"p012","source_quote":"国家级裁判、前广东省女排二传","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f008","fact":"张淼参与全运会前期裁判准备，包括统一执裁尺度、审查运动员资格、检查场地器材。","type":"赛事保障","time":"2025","subject":"张淼","object":"全运会裁判前期准备","importance":"中","can_reuse":true,"risk":"准备事项不可添加未列明环节","source_paragraph_id":"p013","source_quote":"统一执裁尺度、审查运动员资格、检查场地器材","confidence":"high","requires_verification":false,"risk_level":"medium"},
+    {"id":"f009","fact":"王金柯博为中山大学体育部2025级运动训练专业本科生，代表浙江队出战并随队夺得十五运会U18男子排球冠军。","type":"赛事成绩","time":"2025","subject":"王金柯博","object":"随浙江队夺得U18男子排球冠军","importance":"高","can_reuse":true,"risk":"学籍、队伍、项目和冠军结果均需核对","source_paragraph_id":"p017","source_quote":"十五运会U18男子排球冠军","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f010","fact":"刘永红教授团队将自主研发的环境自适应智能传感器安装在广州市出租车上，实现道路环境分钟级监测。","type":"科技应用","time":"2025","subject":"刘永红教授团队","object":"环境自适应智能传感器服务赛事保障","importance":"高","can_reuse":true,"risk":"研发归属、安装对象和分钟级监测均为强事实","source_paragraph_id":"p020","source_quote":"实现道路环境中的分钟级监测","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f011","fact":"范绍佳教授和刘一鸣副教授团队是全运会广州赛区空气质量保障核心技术支撑团队之一。","type":"科技保障","time":"2025","subject":"范绍佳教授和刘一鸣副教授团队","object":"广州赛区空气质量保障核心技术支撑","importance":"高","can_reuse":true,"risk":"“核心技术支撑团队之一”属于权威定位","source_paragraph_id":"p021","source_quote":"核心技术支撑团队之一","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f012","fact":"全运会前，相关团队创新建立8类典型天气形势下的空气质量保障情景与实施路径。","type":"方案成果","time":"2025","subject":"范绍佳、刘一鸣团队","object":"建立8类天气形势保障情景和路径","importance":"高","can_reuse":true,"risk":"创新、8类和方案用途均为强表述","source_paragraph_id":"p022","source_quote":"创新建立了8类典型天气形势下的空气质量保障情景与实施路径","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f013","fact":"开幕式前19天起，刘一鸣带队每天报送气象和空气质量预测专报，开幕式前几小时以小时为单位预报。","type":"保障流程","time":"2025","subject":"刘一鸣副教授团队","object":"预测专报和小时级预报","importance":"高","can_reuse":true,"risk":"前19天、每天和小时单位均需核对","source_paragraph_id":"p023","source_quote":"从开幕式的前19天起","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f014","fact":"9日广州市PM2.5曾存在日均浓度超过保障目标25µg/m³的风险。","type":"风险研判","time":"2025-11-09","subject":"广州市PM2.5日均浓度","object":"存在超过保障目标风险","importance":"高","can_reuse":true,"risk":"日期、指标、阈值和风险判断均为高风险事实","source_paragraph_id":"p024","source_quote":"超过保障目标25µg/m³的风险","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f015","fact":"9日开幕式当天，广州市PM2.5日均浓度15µg/m³，开幕式期间达到8µg/m³，全运会举办期间广州空气质量优良率达100%。","type":"保障结果","time":"2025-11-09","subject":"广州市空气质量","object":"PM2.5浓度和优良率结果","importance":"高","can_reuse":true,"risk":"浓度数值和100%优良率均为精确强事实","source_paragraph_id":"p026","source_quote":"广州空气质量优良率达100%","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f016","fact":"刘永红、范绍佳团队将继续服务即将开幕的残特奥会环境质量保障工作。","type":"后续安排","time":"2025","subject":"刘永红教授团队和范绍佳教授团队","object":"继续服务残特奥会环境质量保障","importance":"中","can_reuse":true,"risk":"后续安排以原文时点为准","source_paragraph_id":"p028","source_quote":"将继续服务赛事环境质量保障工作","confidence":"high","requires_verification":false,"risk_level":"medium"},
+    {"id":"f017","fact":"黄颖婕为中山大学大气科学学院团委书记，参与十五运会开幕式啦啦操、仪式展演、颁奖礼仪和火炬传递志愿者带队。","type":"人物身份","time":"2025","subject":"黄颖婕","object":"十五运会相关志愿服务和表演组织","importance":"高","can_reuse":true,"risk":"职务、参与事项和运动员等级需核对","source_paragraph_id":"p029","source_quote":"参与十五运会开幕式啦啦操","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f018","fact":"黄颖婕从面试、团队协作意识培养到肢体表达训练全程参与啦啦操队建设。","type":"组织过程","time":"2025","subject":"黄颖婕","object":"啦啦操队建设","importance":"中","can_reuse":true,"risk":"训练过程不得补写未列项目","source_paragraph_id":"p030","source_quote":"黄颖婕全程与团队在一起","confidence":"high","requires_verification":false,"risk_level":"medium"},
+    {"id":"f019","fact":"中大“小海豚”啦啦操队获得充分表演机会，开幕式舞蹈得到观众好评并被媒体报道。","type":"志愿服务成果","time":"2025","subject":"中大小海豚啦啦操队","object":"开幕式表演获得好评","importance":"高","can_reuse":true,"risk":"一致好评、媒体报道属于强评价","source_paragraph_id":"p032","source_quote":"各大媒体争相报道","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f020","fact":"贾晓丹为中山大学管理学院（创业学院）团委书记，带领220名小海豚开展深圳赛区马术竞赛志愿服务。","type":"志愿服务","time":"2025","subject":"贾晓丹","object":"带领220名志愿者服务深圳赛区马术竞赛","importance":"高","can_reuse":true,"risk":"学院、职务、人数、赛区和项目均需核对","source_paragraph_id":"p035","source_quote":"带领220名小海豚开展深圳赛区马术竞赛志愿服务工作","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f021","fact":"贾晓丹15年前作为中大学生投入亚运会志愿服务，15年后成为中大小海豚领队老师。","type":"人物经历","time":"2010-2025","subject":"贾晓丹","object":"志愿服务初心延续","importance":"中","can_reuse":true,"risk":"时间跨度和身份转变需按原文","source_paragraph_id":"p036","source_quote":"15年前作为中大学生","confidence":"high","requires_verification":true,"risk_level":"medium"},
+    {"id":"f022","fact":"贾晓丹与深圳校区同事张洋、张超协作开展马术赛区志愿服务。","type":"团队协作","time":"2025","subject":"贾晓丹、张洋、张超","object":"协作开展志愿服务","importance":"中","can_reuse":true,"risk":"人员姓名和协作关系不可错配","source_paragraph_id":"p037","source_quote":"张洋老师、张超老师","confidence":"high","requires_verification":false,"risk_level":"medium"},
+    {"id":"f023","fact":"彭雯昕为中山大学团委专职团干，担任十五运会和残特奥会领队老师、赛会志愿服务通用培训讲师，负责学校志愿服务统筹。","type":"人物身份","time":"2025","subject":"彭雯昕","object":"学校志愿服务统筹","importance":"高","can_reuse":true,"risk":"职务、角色和职责属于强事实","source_paragraph_id":"p041","source_quote":"负责中山大学志愿服务统筹工作","confidence":"high","requires_verification":true,"risk_level":"high"},
+    {"id":"f024","fact":"彭雯昕和团队组建分工明确的组织队伍，联动院系并组织学生骨干细化落实工作。","type":"组织机制","time":"2025","subject":"彭雯昕和团队","object":"志愿服务统筹组织机制","importance":"高","can_reuse":true,"risk":"组织动作需保留原文边界","source_paragraph_id":"p042","source_quote":"组建起一支分工明确的组织队伍","confidence":"high","requires_verification":false,"risk_level":"medium"},
+    {"id":"f025","fact":"文章内开奖信息提供两种获取方式：WPS协作入口和文档链接。","type":"活动信息","time":"2025-11-26","subject":"全运会互动活动开奖信息","object":"查询中奖名单和活动信息","importance":"中","can_reuse":false,"risk":"活动入口和链接具有时效性","source_paragraph_id":"p048","source_quote":"“全运会开奖公示”入口","confidence":"high","requires_verification":true,"risk_level":"medium"}
+  ],
+  "structure": [
+    {"section":"赛事回看与群像总起","paragraphs":["p001"],"purpose":"以全运会闭幕后回看建立多岗位中大人群像。"},
+    {"section":"裁判专业线","paragraphs":["p002","p003","p004","p005","p006","p007","p008","p009","p010","p011","p012","p013","p014","p015","p016","p017","p018"],"purpose":"通过三位体育部教师呈现从运动经历、执裁标准到校训育人的专业贡献。"},
+    {"section":"科技保障线","paragraphs":["p019","p020","p021","p022","p023","p024","p025","p026","p027","p028"],"purpose":"说明中大科研团队在广州空气质量保障中的技术、研判、协同和结果。"},
+    {"section":"志愿服务线","paragraphs":["p029","p030","p031","p032","p033","p034","p035","p036","p037","p038","p039","p040","p041","p042","p043","p044","p045"],"purpose":"以啦啦操、马术赛区和学校统筹三组故事呈现中大小海豚共同体。"},
+    {"section":"价值收束与活动信息","paragraphs":["p046","p047","p048","p049","p050"],"purpose":"收束中大人与大湾区发展的连接，并提供开奖查询方式。"}
+  ],
+  "paragraph_functions": [
+    {"paragraph_id":"p001","display_text":"前不久，第十五届全国运动会圆满结束。回看这段精彩纷呈的赛事，无数中大人都投身其中。","normalized_text":"前不久，第十五届全国运动会圆满结束。回看这段精彩纷呈的赛事，无数中大人都投身其中。他们或在志愿者服务岗位上，或在赛场和技术岗位上，让自己成为点亮他人、点亮赛事的一束光。","summary":"全运会结束后的中大人群像总起。","function_tags":["背景交代","群像呈现"],"writing_method":"赛事节点加角色排比","reuse_value":"大型活动回看开篇"},
+    {"paragraph_id":"p002","display_text":"**裁判，是延续我运动生涯的另一种身份**\n\n**罗微**","normalized_text":"裁判，是延续我运动生涯的另一种身份。罗微。中山大学体育部副教授。2004年雅典奥运会跆拳道冠军、2003年世界跆拳道锦标赛冠军，2006年、2010年亚运会冠军，2009年全运会冠军。","summary":"罗微章节标题和冠军履历。","function_tags":["章节标题","人物经历"],"writing_method":"人物口号标题加身份背书","reuse_value":"人物通讯开场"},
+    {"paragraph_id":"p003","display_text":"罗微曾三次以运动员身份参加全运会，而这次十五运会，她则以**跆拳道项目技术代表**的身份出现在公众视野中。","normalized_text":"罗微曾三次以运动员身份参加全运会，而这次十五运会，她则以跆拳道项目技术代表的身份出现在公众视野中。同时作为纠错小组的一员，罗微负责纠正在关键时刻、会影响比赛结果的重大错误。她要保证让错误不离场，让真正该赢的运动员获胜。","summary":"罗微从运动员转为技术代表和纠错人员。","function_tags":["核心事实","机制说明"],"writing_method":"身份转换到职责说明","reuse_value":"运动员转型报道"},
+    {"paragraph_id":"p004","display_text":"罗微说：“作为一个裁判员，我要让自己做到眼里只有对阵的青红双方。”","normalized_text":"罗微说：“作为一个裁判员，我要让自己做到眼里只有对阵的青红双方。这样才能让比赛更为公正公平。”做了十多年运动员的罗微，能清楚地理解运动员在场上的种种感受。","summary":"罗微用裁判准则解释公平。","function_tags":["人物引语","人物经历"],"writing_method":"引语加经历解释","reuse_value":"专业伦理表达"},
+    {"paragraph_id":"p005","display_text":"**“如果你完全不懂运动员在场上的感受，不知道他们的技术将怎么发展，那么你不会成为一个好裁判。”**","normalized_text":"“如果你完全不懂运动员在场上的感受，不知道他们的技术将怎么发展，那么你不会成为一个好裁判。”","summary":"罗微强调理解运动员是好裁判基础。","function_tags":["人物引语"],"writing_method":"判断式引语","reuse_value":"人物观点引用"},
+    {"paragraph_id":"p006","display_text":"当看到一名跆拳道老将在全运会的谢幕之战败后久久不愿离场的情景时，罗微的眼泪掉了下来。","normalized_text":"当看到一名跆拳道老将在全运会的谢幕之战败后久久不愿离场的情景时，罗微的眼泪掉了下来，她想起了当年的自己。如今的罗微，依然在她热爱的跆拳道项目上发光发热。","summary":"以赛场情感记忆收束罗微故事。","function_tags":["人物经历","价值转场"],"writing_method":"情景回忆到价值收束","reuse_value":"人物段落结尾"},
+    {"paragraph_id":"p007","display_text":"**做一个“0失误”的裁判！**\n\n**王守力**","normalized_text":"做一个“0失误”的裁判！王守力。中山大学体育部副教授，中山大学普通本科组男排主教练。中国排球超级联赛执哨裁判员，曾担任亚运会排球比赛、世界排球联赛、亚洲排球锦标等赛事裁判员。","summary":"王守力章节标题和裁判履历。","function_tags":["章节标题","人物经历"],"writing_method":"目标式标题加履历背书","reuse_value":"专业人物开场"},
+    {"paragraph_id":"p008","display_text":"王守力说，赛场上的主角是运动员，而一旦镜头突然对准了裁判，这就意味可能有误判的情况发生。","normalized_text":"王守力说，赛场上的主角是运动员，而一旦镜头突然对准了裁判，这就意味可能有误判的情况发生。此次十五运会，公众对成年组女排赛事关注度极高，这对裁判员们的专业度有了更高的要求。","summary":"王守力说明裁判专业压力。","function_tags":["人物引语","背景交代"],"writing_method":"职业观察引出赛事要求","reuse_value":"岗位压力说明"},
+    {"paragraph_id":"p009","display_text":"王守力需要完成的，是执裁0失误。这意味着他在每场长达两小时的赛事中，需要对每一个球的判罚都做到100%的准确。","normalized_text":"王守力需要完成的，是执裁0失误。这意味着他在每场长达两小时的赛事中，需要对每一个球的判罚都做到100%的准确。除此之外，王守力还需要让赛事平稳而流畅地进行，“这样运动员才能打得更投入，观众也看得更精彩。”","summary":"王守力的执裁标准和赛事流畅目标。","function_tags":["数据支撑","机制说明","人物引语"],"writing_method":"精确目标加效果解释","reuse_value":"专业标准描写"},
+    {"paragraph_id":"p010","display_text":"这一次，王守力做到了。完美执裁的背后，是他多年来的丰富执裁经验和对自己在赛场上近乎严苛的要求。","normalized_text":"这一次，王守力做到了。完美执裁的背后，是他多年来的丰富执裁经验和对自己在赛场上近乎严苛的要求。","summary":"总结王守力完成执裁目标。","function_tags":["成果支撑","结尾收束"],"writing_method":"结果判断加原因概括","reuse_value":"人物小结"},
+    {"paragraph_id":"p011","display_text":"**“真正厉害的裁判员在比赛中是无形的。”**","normalized_text":"“真正厉害的裁判员在比赛中是无形的。”","summary":"以金句收束王守力职业理解。","function_tags":["人物引语","结尾收束"],"writing_method":"金句式收束","reuse_value":"人物段落结尾"},
+    {"paragraph_id":"p012","display_text":"**中大校训是我工作的重要指引**\n\n**张淼**","normalized_text":"中大校训是我工作的重要指引。张淼。中山大学体育部副教授，中山大学甲组女排主教练。国家级裁判、前广东省女排二传、国家级排球裁判员。","summary":"张淼章节标题和身份履历。","function_tags":["章节标题","人物经历"],"writing_method":"价值命题标题加履历","reuse_value":"校训育人开场"},
+    {"paragraph_id":"p013","display_text":"和以往一样，作为裁判员的张淼，忙碌地为全运会赛事准备种种前期工作。","normalized_text":"和以往一样，作为裁判员的张淼，忙碌地为全运会赛事准备种种前期工作，统一执裁尺度、审查运动员资格、检查场地器材……她说，中大的校训精神是她为人处世和工作的重要指引。","summary":"张淼的裁判准备工作和校训指引。","function_tags":["机制说明","价值转场"],"writing_method":"工作清单连接价值来源","reuse_value":"岗位价值说明"},
+    {"paragraph_id":"p014","display_text":"“想成为一名让观众、运动员信服的裁判员，就要**以博学的态度，夯实作为裁判员的专业基础。**”","normalized_text":"“想成为一名让观众、运动员信服的裁判员，就要以博学的态度，夯实作为裁判员的专业基础。”","summary":"张淼阐释裁判专业基础。","function_tags":["人物引语"],"writing_method":"校训词转岗位准则","reuse_value":"价值引语"},
+    {"paragraph_id":"p015","display_text":"从中大毕业后，张淼选择了留校任教，她也时时以中大校训要求她的学生们。","normalized_text":"从中大毕业后，张淼选择了留校任教，她也时时以中大校训要求她的学生们。“每一位学生，首先是一名合格的中大学子，其次才是运动员。”","summary":"张淼把校训延伸到学生培养。","function_tags":["人物经历","人物引语","价值转场"],"writing_method":"个人选择到育人要求","reuse_value":"体育育人叙事"},
+    {"paragraph_id":"p016","display_text":"张淼说，中大的男、女排高水平组与普通组这四支队伍，都拥有“中大排球人”的身份认同。","normalized_text":"张淼说，中大的男、女排高水平组与普通组这四支队伍，都拥有“中大排球人”的身份认同。“我们中大排球最突出的特点就是极强的凝聚力，以及有坚韧不拔的‘中大精神’。”","summary":"张淼概括中大排球共同体。","function_tags":["人物引语","群像呈现"],"writing_method":"身份认同加精神概括","reuse_value":"团队共同体表达"},
+    {"paragraph_id":"p017","display_text":"当得知中大排球人王金柯博和团队取得十五运会U18男子排球冠军时，张淼欣慰不已。","normalized_text":"当得知中大排球人王金柯博和团队取得十五运会U18男子排球冠军时，张淼欣慰不已。","summary":"王金柯博团队获得U18男排冠军。","function_tags":["成果支撑"],"writing_method":"成绩事实承接人物情感","reuse_value":"团队成果补充"},
+    {"paragraph_id":"p018","display_text":"**“看到年轻一代运动员的成长，我自豪于能在中国排球发展的道路上，以裁判的身份贡献自己的一份力量。”**","normalized_text":"“看到年轻一代运动员的成长，我自豪于能在中国排球发展的道路上，以裁判的身份贡献自己的一份力量。”","summary":"张淼以青年成长和排球发展收束。","function_tags":["人物引语","结尾收束"],"writing_method":"个人岗位连接行业发展","reuse_value":"价值收束"},
+    {"paragraph_id":"p019","display_text":"**用中大科技守护“广州蓝”**\n\n**范绍佳 刘一鸣 刘永红**","normalized_text":"用中大科技守护“广州蓝”。范绍佳 刘一鸣 刘永红。全运会期间，“广州蓝”刷屏朋友圈。在这次赛会的环境质量保障工作中，就有来自中大的科研团队。","summary":"科技保障章节导入。","function_tags":["章节标题","核心事实"],"writing_method":"主题标题加团队亮相","reuse_value":"科技服务案例开场"},
+    {"paragraph_id":"p020","display_text":"来自**智能工程学院的刘永红教授团队**，将自主研发的环境自适应智能传感器安装在广州市的出租车上。","normalized_text":"来自智能工程学院的刘永红教授团队，将自主研发的环境自适应智能传感器安装在广州市的出租车上，实现道路环境中的分钟级监测，精准获取PM2.5等污染物实时浓度，为十五全运会开幕式“广州蓝”的目标实现提供了可靠数据支持和技术保障。","summary":"刘永红团队以传感器支撑广州蓝。","function_tags":["核心事实","机制说明","数据支撑"],"writing_method":"团队归属、设备、指标和目标串联","reuse_value":"应用型科研报道"},
+    {"paragraph_id":"p021","display_text":"来自**大气科学学院的范绍佳教授和刘一鸣副教授团队**，则是全运会广州赛区空气质量保障核心技术支撑团队之一。","normalized_text":"来自大气科学学院的范绍佳教授和刘一鸣副教授团队，则是全运会广州赛区空气质量保障核心技术支撑团队之一。","summary":"范绍佳、刘一鸣团队定位。","function_tags":["核心事实"],"writing_method":"团队归属加权威定位","reuse_value":"团队介绍"},
+    {"paragraph_id":"p022","display_text":"全运会前，他们系统分析了广州及周边地区历史同期的污染气象条件。","normalized_text":"全运会前，他们系统分析了广州及周边地区历史同期的污染气象条件，创新建立了8类典型天气形势下的空气质量保障情景与实施路径，为保障方案制定提供了科学依据。","summary":"空气质量保障方案准备。","function_tags":["机制说明","成果支撑","数据支撑"],"writing_method":"分析对象到方案成果","reuse_value":"技术方案说明"},
+    {"paragraph_id":"p023","display_text":"从开幕式的前19天起，刘一鸣副教授便带领团队每天报送气象和空气质量的预测专报。","normalized_text":"从开幕式的前19天起，刘一鸣副教授便带领团队每天报送气象和空气质量的预测专报。在开幕式前的几个小时，团队更是以小时为单位，紧张而有序地的对气象情况进行精准预报。","summary":"预测专报和小时级预报。","function_tags":["流程指引","数据支撑"],"writing_method":"时间推进展示工作强度","reuse_value":"保障流程描写"},
+    {"paragraph_id":"p024","display_text":"开幕式前几天，气象部门和团队预测直到8日（开幕式前1天）……存在9日广州市PM2.5日均浓度超过保障目标25µg/m³的风险。","normalized_text":"开幕式前几天，气象部门和团队预测直到8日（开幕式前1天），受副热带高压影响，大气扩散条件不是很好，存在污染物累积过程；9日（开幕式当天）会有较强冷空气影响，但冷空气具体到达时间不确定，存在9日广州市PM2.5日均浓度超过保障目标25µg/m³的风险。","summary":"开幕式前空气质量风险研判。","function_tags":["风险提醒","数据支撑"],"writing_method":"气象条件到指标风险","reuse_value":"风险研判段"},
+    {"paragraph_id":"p025","display_text":"通过专家会商意见报送广州市生态环境局和市相关部门后，广州市持续实施系列高效和有针对性的空气污染防治强化措施。","normalized_text":"通过专家会商意见报送广州市生态环境局和市相关部门后，广州市持续实施系列高效和有针对性的空气污染防治强化措施，在广东省生态环境厅和周边城市联防联控协调下，广州赛区全运会环境空气质量保障交出了完美的答卷。","summary":"专家会商与联防联控措施。","function_tags":["机制说明","成果支撑"],"writing_method":"会商报送到协同治理","reuse_value":"跨部门协同说明"},
+    {"paragraph_id":"p026","display_text":"9日，开幕式当天，广州市PM2.5日均浓度15µg/m³，开幕式期间达到8µg/m³。","normalized_text":"9日，开幕式当天，广州市PM2.5日均浓度15µg/m³，开幕式期间达到8µg/m³，全运会举办期间，广州空气质量优良率达100%，PM2.5平均浓度18µg/m³，实现了“1字头”的突破。","summary":"广州空气质量保障结果。","function_tags":["数据支撑","成果支撑"],"writing_method":"多指标量化结果","reuse_value":"科技保障结果段"},
+    {"paragraph_id":"p027","display_text":"**中大人为广州赛区“全运蓝”做出了贡献，范绍佳教授团队为此高兴了很久很久。**","normalized_text":"中大人为广州赛区“全运蓝”做出了贡献，范绍佳教授团队为此高兴了很久很久。","summary":"对中大团队贡献作价值强调。","function_tags":["价值转场"],"writing_method":"贡献判断加情绪表达","reuse_value":"成果情感转场"},
+    {"paragraph_id":"p028","display_text":"他们说：“人努力、天帮忙，科技支撑起了重要作用。”","normalized_text":"他们说：“人努力、天帮忙，科技支撑起了重要作用。”在接下来即将开幕的残特奥会上，刘永红教授团队和范绍佳教授团队，将继续服务赛事环境质量保障工作。更重要的是，通过这次全运会空气质量保障的实践探索，积累了宝贵的科研经验，未来可以为粤港澳大湾区持续贡献“中大智慧”。","summary":"科技保障经验延伸到残特奥会和大湾区。","function_tags":["人物引语","未来展望","价值转场"],"writing_method":"引语到后续应用","reuse_value":"科技案例收束"},
+    {"paragraph_id":"p029","display_text":"**努力让我们成为最闪光的队伍**\n\n**黄颖婕**","normalized_text":"努力让我们成为最闪光的队伍。黄颖婕。中山大学大气科学学院团委书记。参与十五运会开幕式啦啦操、仪式展演、颁奖礼仪，火炬传递志愿者带队老师，国家一级排球运动员。","summary":"黄颖婕章节标题和身份。","function_tags":["章节标题","人物经历"],"writing_method":"目标标题加多重身份","reuse_value":"志愿服务人物开场"},
+    {"paragraph_id":"p030","display_text":"**“啦啦操不仅是热情洋溢的表演，它更是展现我们中大学子青春面貌的窗口和机会。”**","normalized_text":"“啦啦操不仅是热情洋溢的表演，它更是展现我们中大学子青春面貌的窗口和机会。”为组建一支高水平的队伍，从面试开始，黄颖婕就深入了解每一位志愿者同学。从团队协作意识的培养到肢体表达能力的训练，黄颖婕全程与团队在一起。","summary":"黄颖婕解释啦啦操意义并组织训练。","function_tags":["人物引语","机制说明"],"writing_method":"价值引语到组织过程","reuse_value":"活动队伍建设"},
+    {"paragraph_id":"p031","display_text":"开幕式时间临近，同学们需要在极短的时间内完成啦啦操舞蹈的学习。","normalized_text":"开幕式时间临近，同学们需要在极短的时间内完成啦啦操舞蹈的学习。第一次集体排练，大家抽出一个中午，从各个校区汇集到南校园。排练结束，黄颖婕马上把录像提供给赛会志愿者部。她期望，这支队伍的第一次露面，便能展示出蓬勃的青春活力，让人眼前一亮。","summary":"啦啦操队紧张排练和争取机会。","function_tags":["案例展开","流程指引"],"writing_method":"排练过程细节推进","reuse_value":"志愿队伍准备过程"},
+    {"paragraph_id":"p032","display_text":"在黄颖婕和同学们的不懈努力之下，最终，这支“显眼包”小海豚啦啦操队伍得到了充分的表演机会。","normalized_text":"在黄颖婕和同学们的不懈努力之下，最终，这支“显眼包”小海豚啦啦操队伍得到了充分的表演机会。开幕式上，他们充满朝气和感染力的舞蹈得到了观众的一致好评，各大媒体争相报道。","summary":"啦啦操队获得展示机会和传播效果。","function_tags":["成果支撑","群像呈现"],"writing_method":"努力到结果的因果承接","reuse_value":"志愿服务成果段"},
+    {"paragraph_id":"p033","display_text":"“我一直想要传达给同学们的是，机会是需要我们自己争取的。”","normalized_text":"“我一直想要传达给同学们的是，机会是需要我们自己争取的。每一次最闪光的绽放，背后都饱含着努力的汗水。”","summary":"黄颖婕总结努力争取机会的价值。","function_tags":["人物引语","价值转场"],"writing_method":"经验式引语","reuse_value":"人物价值金句"},
+    {"paragraph_id":"p034","display_text":"这是一支充满凝聚力的团队，看到同学们充满热情地投入到每次表演中，黄颖婕倍感欣慰。","normalized_text":"这是一支充满凝聚力的团队，看到同学们充满热情地投入到每次表演中，黄颖婕倍感欣慰。","summary":"黄颖婕对团队凝聚力的评价。","function_tags":["群像呈现","结尾收束"],"writing_method":"团队特质收束","reuse_value":"团队段落结尾"},
+    {"paragraph_id":"p035","display_text":"**我们都拥有一个共同身份，就是中大小海豚！**\n\n**贾晓丹**","normalized_text":"我们都拥有一个共同身份，就是中大小海豚！贾晓丹。中山大学管理学院（创业学院）团委书记。这次全运会，她带领220名小海豚开展深圳赛区马术竞赛志愿服务工作。","summary":"贾晓丹章节标题、身份和带队规模。","function_tags":["章节标题","核心事实"],"writing_method":"共同身份标题加精确人数","reuse_value":"志愿服务带队开场"},
+    {"paragraph_id":"p036","display_text":"**“我能成为赛事里边的一份子，哪怕做出一点点小小的努力，我都觉得特别的荣幸。”**","normalized_text":"“我能成为赛事里边的一份子，哪怕做出一点点小小的努力，我都觉得特别的荣幸。”这是15年前作为中大学生的贾晓丹，全身心地投入到亚运会志愿者服务工作后的感想。","summary":"贾晓丹15年前的志愿服务初心。","function_tags":["人物引语","人物经历"],"writing_method":"旧引语带出时间跨度","reuse_value":"志愿传承叙事"},
+    {"paragraph_id":"p037","display_text":"15年后，她延续着志愿服务的初心，成为中大小海豚的领队老师。","normalized_text":"15年后，她延续着志愿服务的初心，成为中大小海豚的领队老师。作为领队，她更加深刻地感受到自己身上的责任。让贾晓丹义无反顾付出的，除了团结友爱的中大小海豚们，还有与她并肩作战的两位深圳校区同事——张洋老师、张超老师。","summary":"贾晓丹成为领队并提到协作同事。","function_tags":["人物经历","群像呈现"],"writing_method":"时间对照加团队支撑","reuse_value":"志愿服务传承"},
+    {"paragraph_id":"p038","display_text":"“我们三个老师总是互相配合，互相加油打气。”","normalized_text":"“我们三个老师总是互相配合，互相加油打气。有时我有突发的情况没法到现场，他们都会及时接替我的工作。我们是一个非常默契的团队。”","summary":"贾晓丹描述三位老师的默契协作。","function_tags":["人物引语","群像呈现"],"writing_method":"协作细节引语","reuse_value":"团队协作描写"},
+    {"paragraph_id":"p039","display_text":"有一天，贾晓丹在马术中心看到来自广东、香港、澳门的三个同学，围坐在一起共同绘制全运会的三色徽章。","normalized_text":"有一天，贾晓丹在马术中心看到来自广东、香港、澳门的三个同学，围坐在一起共同绘制全运会的三色徽章，他们身后的背景板，正好是全运会代表粤港澳大湾区的标志。看到这一幕，贾晓丹感动不已。","summary":"粤港澳学生共同绘制徽章的现场。","function_tags":["案例展开","价值转场"],"writing_method":"小场景承载共同体意义","reuse_value":"区域共同体场景"},
+    {"paragraph_id":"p040","display_text":"**“在这里我们不分彼此，都在拥有一个共同的身份——就是全运会的中大小海豚！”**","normalized_text":"“在这里我们不分彼此，都在拥有一个共同的身份——就是全运会的中大小海豚！”","summary":"贾晓丹以共同身份收束。","function_tags":["人物引语","结尾收束"],"writing_method":"共同身份金句","reuse_value":"共同体收束"},
+    {"paragraph_id":"p041","display_text":"**一群中大人，一起做大事！**\n\n**彭雯昕**","normalized_text":"一群中大人，一起做大事！彭雯昕。彭雯昕，中山大学团委专职团干。十五运会和残特奥会领队老师、赛会志愿服务通用培训讲师，负责中山大学志愿服务统筹工作。","summary":"彭雯昕章节标题和统筹身份。","function_tags":["章节标题","核心事实"],"writing_method":"标题回扣主旨加职责说明","reuse_value":"校级统筹人物开场"},
+    {"paragraph_id":"p042","display_text":"去年年底，刚刚完成百年校庆志愿服务工作的彭雯昕，稍休息片刻，便投入到十五运会和残特奥会的赛会志愿服务统筹工作当中。","normalized_text":"去年年底，刚刚完成百年校庆志愿服务工作的彭雯昕，稍休息片刻，便投入到十五运会和残特奥会的赛会志愿服务统筹工作当中。为了让这支庞大的中大小海豚队伍有效运作，彭雯昕和团队一起组建起一支分工明确的组织队伍，和带队老师分头负责不同板块，联动院系，并组织学生骨干力量，细化落实每一项工作。","summary":"彭雯昕投入统筹并建立组织机制。","function_tags":["机制说明","流程指引"],"writing_method":"时间接续到组织架构","reuse_value":"大型志愿服务统筹"},
+    {"paragraph_id":"p043","display_text":"作为总统筹，彭雯昕自去年年底至今，一直奔走在一线。","normalized_text":"作为总统筹，彭雯昕自去年年底至今，一直奔走在一线。“有时前一天还在珠海，第二天就辗转广州、深圳。”谈到持续高强度的工作所带来的压力，她说：“好在，还有最给力的大家。每次有需要，老师同学们都会说‘我来！’真的特别感动。”","summary":"彭雯昕高强度统筹和团队支持。","function_tags":["人物经历","人物引语","群像呈现"],"writing_method":"奔走细节加支持引语","reuse_value":"统筹人物压力描写"},
+    {"paragraph_id":"p044","display_text":"大家的支持和理解，以及投身其中后互相分享的快乐，总能又使她能量满满。","normalized_text":"大家的支持和理解，以及投身其中后互相分享的快乐，总能又使她能量满满。“服务结束后，看到同学老师分享给我的信息和照片，我突然就泪崩了，在这里‘中大小海豚’是一家人。”除了学生的热情，同事的给力，学校的支持，都是让她和团队不断攻克一个又一个任务的底气。","summary":"共同支持成为彭雯昕的工作底气。","function_tags":["人物引语","群像呈现","价值转场"],"writing_method":"情感反应到支持系统","reuse_value":"共同体情感段"},
+    {"paragraph_id":"p045","display_text":"**当你在中大想做一件好事，会发现所有人都和你站在一起，最后大家一定能共同做成、做好这一件大事。**","normalized_text":"当你在中大想做一件好事，会发现所有人都和你站在一起，最后大家一定能共同做成、做好这一件大事。","summary":"彭雯昕用一句话点题共同做大事。","function_tags":["人物引语","结尾收束"],"writing_method":"主旨金句回扣标题","reuse_value":"群像报道点题"},
+    {"paragraph_id":"p046","display_text":"此时此刻，依然有许许多多的中大人正在为即将开幕的残特奥会奔波着、忙碌着。","normalized_text":"此时此刻，依然有许许多多的中大人正在为即将开幕的残特奥会奔波着、忙碌着。这是中大人与全运会的故事，更是中大人与粤港澳大湾区发展紧密相连的生动体现。在这里，我们也想对所有为这场盛会贡献自己力量的中大人说：“你们辛苦啦！”","summary":"全文价值收束和致谢。","function_tags":["未来展望","结尾收束","行动号召"],"writing_method":"未来赛事到区域价值再致谢","reuse_value":"大型活动总结结尾"},
+    {"paragraph_id":"p047","display_text":"**彩蛋！**\n\n随着全运会的落幕，我们的各大互动赢好礼活动也正式开奖啦。","normalized_text":"彩蛋！随着全运会的落幕，我们的各大互动赢好礼活动也正式开奖啦。无人机大奖究竟花落谁家？划重点！还有互动送好礼活动正在进行中。由于中奖人数众多，完整中奖名单和更多活动信息，获取方式看这里。","summary":"活动开奖信息导入。","function_tags":["活动召唤"],"writing_method":"口语化提示加悬念","reuse_value":"活动后续开头"},
+    {"paragraph_id":"p048","display_text":"**【方式一】** 登录WPS协作客户端（和WPS 365同账号登录）。","normalized_text":"【方式一】登录WPS协作客户端（和WPS 365同账号登录），地址：https://www.kimxz.com/。打开中山大学WPS协作客户端工作台，点击工作台，“全运会开奖公示”入口，即可跳转开奖公示页面。","summary":"通过WPS协作客户端查看开奖。","function_tags":["流程指引"],"writing_method":"平台入口分步说明","reuse_value":"活动查询步骤"},
+    {"paragraph_id":"p049","display_text":"**【方式二】** 复制链接打开文档，查看完整名单汇总及活动信息。","normalized_text":"【方式二】复制链接打开文档，查看完整名单汇总及活动信息：https://365.kdocs.cn/l/cpUMSpu4g9uw。","summary":"通过文档链接查看开奖。","function_tags":["流程指引"],"writing_method":"备用入口说明","reuse_value":"活动查询步骤"},
+    {"paragraph_id":"p050","display_text":"各位中奖的锦鲤，记得及时填写邮寄地址哦！","normalized_text":"各位中奖的锦鲤，记得及时填写邮寄地址哦！活动中如有任何疑问，可查看文档获取支持服务联系方式。","summary":"提醒中奖者填写邮寄地址并查看支持方式。","function_tags":["行动号召","流程指引"],"writing_method":"提醒式收束","reuse_value":"活动通知结尾"}
+  ],
+  "style": {
+    "reusable_phrases": ["前不久，某项重大活动圆满结束，回看这段精彩纷呈的经历", "他们或在一线岗位上，或在技术保障岗位上", "成为点亮他人、点亮活动的一束光", "用专业能力守护重要目标", "一群人，一起做成一件大事"],
+    "rhetorical_devices": ["角色排比", "人物群像", "引语嵌入", "时间对照", "口号式点题"],
+    "writing_methods": ["赛事节点回看", "人物小标题分章", "履历背书到岗位职责", "技术机制到量化结果", "个人经历到共同体价值"],
+    "style_labels": ["事实驱动", "分章节叙事", "校媒报道", "体育赛事型", "人物群像型", "志愿服务纪实型", "共同体叙事型"],
+    "not_reusable_phrases": ["中大小海豚", "广州蓝", "全运蓝", "2004年雅典奥运会跆拳道冠军", "8类典型天气形势", "广州空气质量优良率达100%", "全运会开奖公示"]
+  },
+  "value_narrative": {
+    "levels": {
+      "personal_level": "裁判、教师、科研人员和志愿服务带队者在各自岗位履责。",
+      "team_level": "体育部教师团队、科研团队、啦啦操队、深圳赛区志愿服务团队和校级统筹队伍共同支撑赛事。",
+      "course_level": "体育育人、志愿服务培训和科技实践共同体现学校育人链条。",
+      "school_level": "学校以组织统筹、专业人才和科研能力服务重大赛事。",
+      "national_level": "文章把中大贡献放入十五运会、残特奥会和粤港澳大湾区发展语境。"
+    },
+    "transition_method": "从闭幕回看进入人物分章，再由裁判专业转向科技保障和志愿统筹，最后以残特奥会和大湾区发展收束。",
+    "school_image": ["专业可靠", "师生同心", "科技赋能", "服务大湾区", "组织有力"],
+    "ending_method": "以仍在为残特奥会忙碌的中大人承接未来，再用致谢句完成情感收束。"
+  },
+  "visuals": [
+    {"image_id":"cover","caption":"封面图","caption_source":"structural","type":"封面","function":"建立全运会主题","position":"标题前"},
+    {"image_id":"img001","caption":"开篇动图","caption_source":"structural","type":"开篇视觉","function":"营造赛事回看氛围","position":"元数据后"},
+    {"image_id":"img002","caption":"章节视觉","caption_source":"structural","type":"装饰图","function":"分隔导语和罗微章节","position":"p001后"},
+    {"image_id":"img003","caption":"罗微人物照","caption_source":"inferred","type":"人物图","function":"呈现罗微形象","position":"p002后"},
+    {"image_id":"img004","caption":"罗微担任裁判工作中","caption_source":"original","type":"工作照","function":"支持罗微裁判角色","position":"p003后"},
+    {"image_id":"img005","caption":"罗微在跆拳道赛场上","caption_source":"original","type":"赛场图","function":"连接运动员经验与裁判理解","position":"p005后"},
+    {"image_id":"img006","caption":"十五运会跆拳道项目的吉祥物，它们见证了罗微又一次的成长","caption_source":"original","type":"现场物件图","function":"收束罗微故事","position":"p006后"},
+    {"image_id":"img007","caption":"王守力人物照","caption_source":"inferred","type":"人物图","function":"呈现王守力形象","position":"p007后"},
+    {"image_id":"img008","caption":"赛场上，王守力正在专注地进行执裁工作","caption_source":"original","type":"工作照","function":"支持王守力执裁事实","position":"p008后"},
+    {"image_id":"img009","caption":"王守力需要对每一个球的判罚都做到100%的准确","caption_source":"original","type":"赛场图","function":"强化执裁标准","position":"p009后"},
+    {"image_id":"img010","caption":"张淼人物照","caption_source":"inferred","type":"人物图","function":"呈现张淼形象","position":"p012后"},
+    {"image_id":"img011","caption":"张淼与中大排球队的学生在一起","caption_source":"original","type":"合影","function":"支持体育育人叙事","position":"p015后"},
+    {"image_id":"img012","caption":"中山大学体育部2025级运动训练专业本科生王金柯博，本次全运会代表浙江队出战，他也是团队中的主攻手。经过激烈的角逐，他所在的浙江队夺得冠军。","caption_source":"original","type":"人物成果图","function":"支持U18男排冠军事实","position":"p017后"},
+    {"image_id":"img013","caption":"左三为范绍佳教授","caption_source":"original","type":"人物现场图","function":"呈现空气质量保障团队成员","position":"p021后"},
+    {"image_id":"img014","caption":"图中的讲述者为刘一鸣副教授，他在与团队分析气象情况","caption_source":"original","type":"工作照","function":"支持预测会商场景","position":"p023后"},
+    {"image_id":"img015","caption":"范绍佳教授与其他专家共同商讨如何保障全运会开幕式的空气质量状况","caption_source":"original","type":"会商图","function":"呈现专家会商","position":"p025后"},
+    {"image_id":"img016","caption":"全运会期间，从中大校园里看到的“广州蓝”（王佳鸿 摄）","caption_source":"original","type":"环境图","function":"呈现广州蓝结果","position":"p027后"},
+    {"image_id":"img017","caption":"黄颖婕人物照","caption_source":"inferred","type":"人物图","function":"呈现黄颖婕形象","position":"p029后"},
+    {"image_id":"img018","caption":"黄颖婕与她带领的中大啦啦操队","caption_source":"original","type":"团队图","function":"呈现啦啦操队伍","position":"p030后"},
+    {"image_id":"img019","caption":"黄颖婕与啦啦操队同学们在集体排练后的合影","caption_source":"original","type":"合影","function":"支持排练过程","position":"p031后"},
+    {"image_id":"img020","caption":"来自中大啦啦操队的同学们，他们彼此间有着深厚的友谊","caption_source":"original","type":"团队图","function":"呈现团队凝聚力","position":"p033后"},
+    {"image_id":"img021","caption":"贾晓丹人物照","caption_source":"inferred","type":"人物图","function":"呈现贾晓丹形象","position":"p035后"},
+    {"image_id":"img022","caption":"2010年，还在中大读书的贾晓丹担任亚运会志愿者","caption_source":"original","type":"历史照片","function":"支持15年前志愿经历","position":"p036后"},
+    {"image_id":"img023","caption":"从2010年的亚运会徽章，到2025年的全运会徽章，15年间，贾晓丹一直延续着志愿服务的初心","caption_source":"original","type":"物件图","function":"呈现志愿传承","position":"img022后"},
+    {"image_id":"img024","caption":"照片从左到右依次为贾晓丹、张超、张洋、彭雯昕","caption_source":"original","type":"合影","function":"呈现协作团队","position":"p038后"},
+    {"image_id":"img025","caption":"马术赛场“收官”当天，大家一起合影留念","caption_source":"original","type":"合影","function":"呈现志愿服务收官","position":"img024后"},
+    {"image_id":"img026","caption":"来自广东、香港、澳门的三位中大小海豚，自发绘制全运会的三色徽章之一","caption_source":"original","type":"现场图","function":"呈现大湾区共同体场景","position":"p040后"},
+    {"image_id":"img027","caption":"来自广东、香港、澳门的三位中大小海豚，自发绘制全运会的三色徽章之二","caption_source":"original","type":"现场图","function":"补充共同体场景","position":"img026后"},
+    {"image_id":"img028","caption":"彭雯昕人物照","caption_source":"inferred","type":"人物图","function":"呈现彭雯昕形象","position":"p041后"},
+    {"image_id":"img029","caption":"彭雯昕与同事、学生们在一起","caption_source":"original","type":"合影","function":"呈现校级统筹团队","position":"p043后"},
+    {"image_id":"img030","caption":"彭雯昕和中大小海豚们在传递全运会吉祥物“乐融融”","caption_source":"original","type":"活动图","function":"呈现志愿服务共同体","position":"p044后"},
+    {"image_id":"img031","caption":"WPS协作客户端入口示意","caption_source":"inferred","type":"操作截图","function":"支持开奖查询方式一","position":"p048后"},
+    {"image_id":"img032","caption":"所有全运会嘉年华活动均在此公示","caption_source":"original","type":"操作截图","function":"支持活动公示入口","position":"img031后"}
+  ],
+  "image_stats": {
+    "cover_images": 1,
+    "content_images": 27,
+    "decorative_images": 5,
+    "recommendation_images": 0,
+    "footer_images": 0,
+    "total_image_nodes_in_clean": 33,
+    "unique_image_urls": 33
+  },
+  "templates": {
+    "title_templates": [
+      {"template":"某重大活动上，一群{学校/组织}人，一起做{价值动作}！","applicable_scenarios":["多岗位参与的重大活动回顾","需要突出共同体和行动感的校园群像"],"not_applicable_scenarios":["单一人物专访","纯结果公告","严肃政策解读"]}
+    ],
+    "opening_templates": [
+      {"template":"前不久，{重大活动}圆满结束。回看这段{形容词}的经历，{组织成员}或在{岗位一}，或在{岗位二}，共同成为{价值意象}。","applicable_scenarios":["活动结束后的回顾报道","多角色参与综述"],"not_applicable_scenarios":["活动尚未发生的预告","需要直接给出通知事项的文章"]}
+    ],
+    "structure_templates": [
+      {"template":"总起赛事背景 -> 人物分章呈现专业岗位 -> 科技或组织保障案例 -> 志愿服务共同体 -> 价值收束与后续信息","applicable_scenarios":["大型赛事或重大活动的校媒群像报道"],"not_applicable_scenarios":["单项科研论文解读","单个通知流程说明"]},
+      {"template":"人物口号式小标题 -> 身份履历 -> 本次任务 -> 关键引语 -> 学校精神/区域使命连接","applicable_scenarios":["多人物人物通讯","带采访引语的志愿服务故事"],"not_applicable_scenarios":["缺少采访材料的短讯","匿名群体报道"]}
+    ],
+    "transition_templates": [
+      {"template":"从{专业岗位}写到{技术/组织保障}，用“在这次工作中，就有来自{组织}的团队”完成线索切换。","applicable_scenarios":["同一活动中多类贡献并列呈现"],"not_applicable_scenarios":["单线叙事无需切换的文章"]},
+      {"template":"以人物一句价值判断收束小节，再用下一位人物的口号式标题开启新段。","applicable_scenarios":["人物群像连续分章"],"not_applicable_scenarios":["需要完整论证链条的评论或政策文"]}
+    ],
+    "ending_templates": [
+      {"template":"此时此刻，仍有许多人正为{后续任务}忙碌。这个故事也是{组织}与{区域/使命}紧密相连的体现，最后向所有贡献者致谢。","applicable_scenarios":["重大活动服务总结","有后续赛事或任务承接的报道"],"not_applicable_scenarios":["已完全结束且无后续任务的活动简讯"]}
+    ],
+    "visual_caption_templates": [
+      {"template":"{人物姓名}与{团队/学生}在一起","applicable_scenarios":["人物通讯中的合影说明","突出带队或育人关系的图片"],"not_applicable_scenarios":["无法确认人物身份或关系的图片"]},
+      {"template":"{团队/专家}共同商讨如何保障{具体任务}","applicable_scenarios":["保障、会商、研判类工作照"],"not_applicable_scenarios":["单纯摆拍或无工作场景的图片"]}
+    ],
+    "notice_flow_templates": [
+      {"template":"【方式一】登录{平台} -> 打开{工作台/页面} -> 点击{入口名称} -> 查看{名单/信息}；【方式二】复制链接打开文档查看。","applicable_scenarios":["活动开奖查询","名单公示入口说明","多入口查询通知"],"not_applicable_scenarios":["无明确操作平台的活动宣传","长期制度性通知"]}
+    ]
+  },
+  "generation_constraints": {
+    "must_not_invent": ["未写明的裁判具体场次和判罚结果", "照片中未标注的人物身份", "环境传感器的安装车辆数量和覆盖范围", "啦啦操队具体人数", "马术志愿服务的岗位细分", "活动中奖名单和奖品归属"],
+    "strong_claims_require_source": ["奥运会、世锦赛、亚运会、全运会冠军履历", "技术代表、国家级裁判、教授、副教授等身份", "0失误、两小时、100%准确", "220名小海豚", "8类典型天气形势", "前19天、每天报送、小时级预报", "25µg/m³、15µg/m³、8µg/m³、18µg/m³和100%优良率", "核心技术支撑团队之一", "媒体争相报道"],
+    "quote_handling": ["人物引语须保留说话者归属，不得改成学校官方结论", "“中大小海豚”“广州蓝”“全运蓝”属于原文语境表达，复用时需说明语境", "活动入口和链接只能作为本篇事实复述，不得写成当前长期有效规则"],
+    "scenario_boundaries": ["只使用“▼ 推荐阅读 ▼”之前的正文内容", "推荐阅读、iSYSU来源编辑链、预览残留和留言不得进入事实", "开奖查询信息属于活动后续内容，具有时效性", "后续残特奥会安排以2025年11月26日原文时点为准"],
+    "recommended_writer_use": ["保留人物分章和口号式小标题的节奏", "强事实用履历、数字和原文引语支撑", "科技保障段按团队归属、技术机制、风险研判、结果数据、后续应用组织", "结尾从个人贡献提升到学校与大湾区关系"],
+    "type_specific_constraints": [
+      {"term":"罗微冠军履历","constraint":"奥运会、世锦赛、亚运会、全运会冠军年份和项目不得省略或替换。","category":"strong_claim"},
+      {"term":"王守力执裁0失误","constraint":"0失误、两小时、100%准确是人物工作目标和原文表述，不得改写为官方考核结果。","category":"strong_claim"},
+      {"term":"广州空气质量数据","constraint":"PM2.5浓度、25µg/m³保障目标和100%优良率必须逐项核对，不得取整或合并。","category":"strong_claim"},
+      {"term":"220名小海豚","constraint":"仅指贾晓丹带领开展深圳赛区马术竞赛志愿服务的规模，不得扩展为全校志愿者总数。","category":"scenario_boundary"},
+      {"term":"开奖查询方式","constraint":"WPS入口和文档链接只属于本篇活动信息，不得在新稿中作为通用入口复用。","category":"scenario_boundary"}
+    ]
+  }
+}
