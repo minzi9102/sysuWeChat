@@ -19,14 +19,20 @@
 
 ## 使用 context pack
 
-在仓库根目录运行：
+在仓库根目录先查看真实存在的文章类型：
+
+```powershell
+./scripts/list-article-types.ps1 -Root . -Filter '青年'
+```
+
+再用真实类型和关键词生成 context pack：
 
 ```powershell
 ./scripts/make-writing-context.ps1 `
   -Root . `
-  -ArticleTypes '活动报道' `
-  -Keywords '活动主题,核心对象' `
-  -Output 'writing_context/current.json'
+  -ArticleTypes '人工智能类,青年成长类,校园纪实类' `
+  -Keywords 'AI,学生,项目,实践,创新,培训' `
+  -Output 'writing_context/vibecoding.context.json'
 ```
 
 各字段只用于写法选择：

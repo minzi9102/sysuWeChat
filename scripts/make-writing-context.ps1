@@ -145,6 +145,17 @@ $styles = @(Read-JsonLines (Join-Path $indexDir 'style_index.jsonl'))
 $visuals = @(Read-JsonLines (Join-Path $indexDir 'visual_index.jsonl'))
 $constraints = @(Read-JsonLines (Join-Path $indexDir 'constraint_index.jsonl'))
 
+$availableTypeSet = [Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
+foreach ($article in $articles) {
+  foreach ($articleType in @($article.article_types)) {
+    $normalized = ([string]$articleType).Trim()
+    if ($normalized) {
+      [void]$availableTypeSet.Add($normalized)
+    }
+  }
+}
+$unknownArticleTypes = @($queryArticleTypes | Where-Object { -not $availableTypeSet.Contains($_) })
+
 $rankedArticles = @($articles | ForEach-Object {
   $typeMatches = @(Get-ExactMatches $_.article_types $queryArticleTypes)
   $keywordMatches = @(Get-KeywordMatches $_ $queryKeywords)
@@ -246,6 +257,9 @@ $rankedConstraints = @($constraints | ForEach-Object {
 $selectedConstraintRanks = @(Select-UniqueRecords $rankedConstraints { param($item) "$($item.record.constraint_category)|$($item.record.rule)|$($item.record.risk_level)" } 20)
 
 $warnings = [Collections.Generic.List[string]]::new()
+if ($unknownArticleTypes.Count -gt 0) {
+  $warnings.Add("Unknown article type(s): $($unknownArticleTypes -join ', '). Run ./scripts/list-article-types.ps1 -Root . to inspect available types.")
+}
 if ($selectedArticleRanks.Count -lt 3) {
   $warnings.Add("Only $($selectedArticleRanks.Count) reference article(s) found; the target minimum is 3.")
 }

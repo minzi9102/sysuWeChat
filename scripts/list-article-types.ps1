@@ -66,6 +66,4 @@ if ($filterText -and $rows.Count -eq 0) {
   exit 0
 }
 
-foreach ($row in $rows) {
-  Write-Output ("{0}`t{1}" -f $row.article_type, $row.count)
-}
+$rows

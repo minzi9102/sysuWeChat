@@ -117,9 +117,10 @@
 ```powershell
 ./scripts/list-article-types.ps1 -Root . -Filter 'AI'
 ./scripts/list-article-types.ps1 -Root . -Filter '青年'
+./scripts/list-article-types.ps1 -Root . -Filter '人工智能'
 ```
 
-建议先查看 `article_index.jsonl` 中真实存在的文章类型及数量，再填写 `make-writing-context.ps1` 的 `ArticleTypes` 参数，避免用不存在或拼写不一致的类型名检索。
+建议先查看 `article_index.jsonl` 中真实存在的文章类型及数量，再填写 `make-writing-context.ps1` 的 `ArticleTypes` 参数，避免用不存在或拼写不一致的类型名检索。`ArticleTypes` 应优先使用该命令列出的真实类型；不确定时，用多个关键词补足召回。
 
 ### 生成新稿写作参考
 
