@@ -80,6 +80,7 @@
 ├── scripts/
 │   ├── build-indexes.ps1       # 索引构建兼容入口
 │   ├── lint-draft-style.ps1     # 新稿风格风险轻量提醒
+│   ├── list-article-types.ps1   # 列出索引中真实文章类型
 │   ├── make-writing-context.ps1 # 生成新稿参考 context pack
 │   └── repair-indexes.ps1      # 旧索引修复兼容入口
 ├── AGENTS.md                   # 仓库协作、提交和环境规则
@@ -104,6 +105,21 @@
 ## 常用命令
 
 以下命令均在仓库根目录的 PowerShell 中执行。
+
+### 查看可用文章类型
+
+```powershell
+./scripts/list-article-types.ps1 -Root .
+```
+
+可用 `Filter` 先做类型名称的模糊筛选：
+
+```powershell
+./scripts/list-article-types.ps1 -Root . -Filter 'AI'
+./scripts/list-article-types.ps1 -Root . -Filter '青年'
+```
+
+建议先查看 `article_index.jsonl` 中真实存在的文章类型及数量，再填写 `make-writing-context.ps1` 的 `ArticleTypes` 参数，避免用不存在或拼写不一致的类型名检索。
 
 ### 生成新稿写作参考
 
