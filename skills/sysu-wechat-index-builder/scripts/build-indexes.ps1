@@ -53,6 +53,19 @@ function Write-JsonLines {
   [IO.File]::WriteAllLines($Path, $lines, $utf8NoBom)
 }
 
+function Get-Templates {
+  param([AllowNull()][object] $Templates)
+  if ($null -eq $Templates) { return @() }
+  if ($Templates -is [array]) { return @($Templates) }
+  $result = [Collections.Generic.List[object]]::new()
+  foreach ($prop in $Templates.PSObject.Properties) {
+    if ($prop.Value -is [array]) {
+      foreach ($item in $prop.Value) { $result.Add($item) }
+    }
+  }
+  return @($result)
+}
+
 function Get-ParagraphLabel {
   param([object] $Paragraph)
   $value = (Join-Values $Paragraph.function_tags ' ') + ' ' + (Normalize-Text $Paragraph.summary)
@@ -304,14 +317,15 @@ foreach ($source in $readySources) {
   $articleId = [string]$j.article_id
   $articleTypes = @(As-Array $j.article_types)
   $keywords = @(As-Array $j.keywords)
-  $styleLabels = @(As-Array $j.style.labels)
-  $valueThemes = @(As-Array $j.value_narrative.themes)
+  $styleLabels = @(if ($j.style.labels) { As-Array $j.style.labels } elseif ($j.style.style_labels) { As-Array $j.style.style_labels } else { @() })
+  $valueThemes = @(if ($j.value_narrative.themes) { As-Array $j.value_narrative.themes } elseif ($j.value_themes) { As-Array $j.value_themes } else { @() })
   $schoolImage = @(As-Array $j.value_narrative.school_image)
   $structureSummary = ((As-Array $j.structure | ForEach-Object {
     $parts = @((Normalize-Text $_.section), (Normalize-Text $_.function), (Normalize-Text $_.summary)) | Where-Object { $_ }
     $parts -join '：'
   }) -join '；')
-  $scenes = @($j.templates.applicable_scenarios | ForEach-Object { As-Array $_ } | Select-Object -Unique)
+  $flatTemplates = Get-Templates $j.templates
+  $scenes = @($flatTemplates | ForEach-Object { As-Array $_.applicable_scenarios } | Select-Object -Unique)
   $articleEmbedding = @(
     "标题：$($j.title)", "文章类型：$(Join-Values $articleTypes)", "关键词：$(Join-Values $keywords)",
     "摘要：$($j.summary)", "传播目的：$($j.communication_goal)", "文章结构：$structureSummary",
@@ -357,7 +371,7 @@ foreach ($source in $readySources) {
   }
 
   $templateNumber = 0
-  foreach ($template in As-Array $j.templates) {
+  foreach ($template in $flatTemplates) {
     $templateNumber++
     $applicable = @(As-Array $template.applicable_scenarios)
     $notApplicable = @(As-Array $template.not_applicable_scenarios)
@@ -373,7 +387,7 @@ foreach ($source in $readySources) {
   $primaryStyle = @($styleLabels | Where-Object { $_ -notin $baseStyleLabels } | Select-Object -First 1)
   $primaryStyleLabel = if ($primaryStyle.Count) { [string]$primaryStyle[0] } elseif ($styleLabels.Count) { [string]$styleLabels[0] } else { '' }
   $styleCandidates = New-List
-  foreach ($sourceType in @('common_phrases','reusable_phrases','sentence_features','rhetorical_devices')) {
+  foreach ($sourceType in @('common_phrases','reusable_phrases','sentence_features','rhetorical_devices','writing_methods')) {
     foreach ($phrase in As-Array $j.style.$sourceType) {
       $styleCandidates.Add([pscustomobject]@{ SourceType=$sourceType; Phrase=(Normalize-Text $phrase); Usage=''; FunctionLabel='' })
     }

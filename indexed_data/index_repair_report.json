@@ -1,38 +1,38 @@
 {
   "repair_version": "v1",
-  "source_article_count": 45,
+  "source_article_count": 65,
   "repair_actions": {
-    "themes_migrated_to_topics": 72,
-    "style_records_removed": 244,
+    "themes_migrated_to_topics": 85,
+    "style_records_removed": 479,
     "style_removal_reasons": {
       "empty": 0,
       "markup_or_image_residue": 3,
-      "fact_bound_long_text": 142,
-      "entity_only": 38,
-      "fact_bound_expression": 44,
+      "fact_bound_long_text": 349,
+      "entity_only": 40,
+      "fact_bound_expression": 70,
       "duplicate": 17
     },
-    "facts_promoted_to_verification": 22,
+    "facts_promoted_to_verification": 35,
     "visuals_reclassified": 234,
     "templates_removed_as_duplicates": 46
   },
   "final_counts": {
-    "article_index": 45,
-    "paragraph_index": 918,
-    "fact_index": 825,
-    "template_index": 44,
-    "style_index": 713,
-    "visual_index": 816,
-    "constraint_index": 712,
+    "article_index": 65,
+    "paragraph_index": 1534,
+    "fact_index": 1222,
+    "template_index": 185,
+    "style_index": 1096,
+    "visual_index": 1161,
+    "constraint_index": 1119,
     "unresolved_body_images": 0
   },
   "constraint_categories": {
-    "fact_integrity": 146,
-    "strong_claim": 285,
-    "quote": 111,
-    "scenario_boundary": 155,
-    "medical": 14,
-    "admissions": 1,
+    "fact_integrity": 226,
+    "strong_claim": 489,
+    "quote": 165,
+    "scenario_boundary": 217,
+    "medical": 19,
+    "admissions": 3,
     "safety": 0
   },
   "validation": {
