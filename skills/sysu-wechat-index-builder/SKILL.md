@@ -63,7 +63,7 @@ Preview counts and validation without writing files:
 ./scripts/repair-indexes.ps1 -Root . -DryRun
 ```
 
-The repair operates only on `indexed_data/`. It normalizes constraint categories, removes style noise, separates value themes from topic entities, promotes strong claims for verification, reclassifies generic body images from text metadata, and deduplicates and clusters structure templates. It validates all transformed records before replacing any generated index. Running it twice must produce byte-identical output.
+The repair operates only on `indexed_data/`. It normalizes constraint categories, removes style noise, separates value themes from topic entities, promotes strong claims for verification, reclassifies generic body images from text metadata, and deduplicates and clusters templates by type (title, opening, structure, transition, ending, visual_caption, notice_flow). It validates all transformed records before replacing any generated index. Running it twice must produce byte-identical output.
 
 The canonical builder does not invoke repair automatically. A later builder run recreates the legacy indexes, so rerun repair manually afterward.
 

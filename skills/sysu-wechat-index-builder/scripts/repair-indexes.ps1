@@ -385,7 +385,7 @@ function Get-TemplateClusterSignature {
 $templateGroups = @{}
 foreach ($template in $templates) {
   $normalized = Normalize-TemplateText $template.template
-  $type = if (Normalize-Text $template.template_type) { Normalize-Text $template.template_type } else { 'structure' }
+  $type = if ([string]$template.template_type) { ([string]$template.template_type).Trim() } else { 'structure' }
   $key = "$type|$($normalized.ToLowerInvariant())"
   if (-not $templateGroups.ContainsKey($key)) {
     $templateGroups[$key] = [pscustomobject]@{
@@ -412,7 +412,7 @@ foreach ($key in @($templateGroups.Keys | Sort-Object)) {
   $sourceIds = @($group.ArticleIds | Where-Object { $_ } | Sort-Object -Unique)
   $sourceTitles = @(Get-SortedUniqueValues $group.Titles)
   $signature = Get-TemplateClusterSignature $group.Template
-  $clusterId = "structure_cluster_$(Get-StableHash $signature 12)"
+  $clusterId = "$($group.Type)_cluster_$(Get-StableHash $signature 12)"
   $values = [Collections.Generic.List[string]]::new()
   $topics = [Collections.Generic.List[string]]::new()
   foreach ($id in $sourceIds) {

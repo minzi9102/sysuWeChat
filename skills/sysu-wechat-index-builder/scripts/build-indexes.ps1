@@ -56,11 +56,34 @@ function Write-JsonLines {
 function Get-Templates {
   param([AllowNull()][object] $Templates)
   if ($null -eq $Templates) { return @() }
-  if ($Templates -is [array]) { return @($Templates) }
+
+  # Map source JSON property names to canonical template_type values
+  $typeKeyMap = @{
+    'title_templates'          = 'title'
+    'opening_templates'        = 'opening'
+    'structure_templates'      = 'structure'
+    'transition_templates'     = 'transition'
+    'ending_templates'         = 'ending'
+    'visual_caption_templates' = 'visual_caption'
+    'notice_flow_templates'    = 'notice_flow'
+  }
+
+  if ($Templates -is [array]) {
+    # Flat array (legacy): use per-item template_type if present, else default to 'structure'
+    return @($Templates | ForEach-Object {
+      $type = if ($_.template_type) { [string]$_.template_type } else { 'structure' }
+      [pscustomobject]@{ Item = $_; Type = $type }
+    })
+  }
+
+  # Dict with named property arrays: map property name to canonical type
   $result = [Collections.Generic.List[object]]::new()
   foreach ($prop in $Templates.PSObject.Properties) {
-    if ($prop.Value -is [array]) {
-      foreach ($item in $prop.Value) { $result.Add($item) }
+    if ($prop.Value -is [array] -and $prop.Value.Count -gt 0) {
+      $type = if ($typeKeyMap.ContainsKey($prop.Name)) { $typeKeyMap[$prop.Name] } else { $prop.Name -replace '_templates$', '' }
+      foreach ($item in $prop.Value) {
+        $result.Add([pscustomobject]@{ Item = $item; Type = $type })
+      }
     }
   }
   return @($result)
@@ -325,7 +348,7 @@ foreach ($source in $readySources) {
     $parts -join '：'
   }) -join '；')
   $flatTemplates = Get-Templates $j.templates
-  $scenes = @($flatTemplates | ForEach-Object { As-Array $_.applicable_scenarios } | Select-Object -Unique)
+  $scenes = @($flatTemplates | ForEach-Object { As-Array $_.Item.applicable_scenarios } | Select-Object -Unique)
   $articleEmbedding = @(
     "标题：$($j.title)", "文章类型：$(Join-Values $articleTypes)", "关键词：$(Join-Values $keywords)",
     "摘要：$($j.summary)", "传播目的：$($j.communication_goal)", "文章结构：$structureSummary",
@@ -373,14 +396,25 @@ foreach ($source in $readySources) {
   $templateNumber = 0
   foreach ($template in $flatTemplates) {
     $templateNumber++
-    $applicable = @(As-Array $template.applicable_scenarios)
-    $notApplicable = @(As-Array $template.not_applicable_scenarios)
+    $typeValue = $template.Type
+    $typeDisplayName = @{
+      'title'          = '标题模板'
+      'opening'        = '开头模板'
+      'structure'      = '结构模板'
+      'transition'     = '过渡模板'
+      'ending'         = '结尾模板'
+      'visual_caption' = '视觉图注模板'
+      'notice_flow'    = '通知流程模板'
+    }[$typeValue]
+    if (-not $typeDisplayName) { $typeDisplayName = "$typeValue模板" }
+    $applicable = @(As-Array $template.Item.applicable_scenarios)
+    $notApplicable = @(As-Array $template.Item.not_applicable_scenarios)
     $templateRecords.Add([ordered]@{
-      template_index_id = ('{0}::template_structure_{1:d3}' -f $articleId,$templateNumber)
-      article_id = $articleId; source_title = [string]$j.title; template_type = 'structure'
-      template = [string]$template.template; applicable_scenarios = $applicable; not_applicable_scenarios = $notApplicable
+      template_index_id = ('{0}::template_{1}_{2:d3}' -f $articleId,$typeValue,$templateNumber)
+      article_id = $articleId; source_title = [string]$j.title; template_type = $typeValue
+      template = [string]$template.Item.template; applicable_scenarios = $applicable; not_applicable_scenarios = $notApplicable
       required_facts = @(); risk_notes = @(); article_types = $articleTypes; style_labels = $styleLabels; value_themes = $valueThemes
-      text_for_embedding = "模板类型：结构模板`n模板内容：$($template.template)`n适用场景：$(Join-Values $applicable)`n不适用场景：$(Join-Values $notApplicable)`n所需事实：`n风险提示：`n来源文章：$($j.title)"
+      text_for_embedding = "模板类型：$typeDisplayName`n模板内容：$($template.Item.template)`n适用场景：$(Join-Values $applicable)`n不适用场景：$(Join-Values $notApplicable)`n所需事实：`n风险提示：`n来源文章：$($j.title)"
     })
   }
 

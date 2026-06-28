@@ -192,7 +192,31 @@ $rankedTemplates = @($templates | ForEach-Object {
   @{ Expression = 'primary'; Descending = $true },
   @{ Expression = 'type_score'; Descending = $true },
   @{ Expression = { $_.record.template_index_id }; Descending = $false })
-$selectedTemplateRanks = @(Select-UniqueRecords $rankedTemplates { param($item) $item.record.template } 5)
+# Type-diversified template selection: ensure title, opening, structure, transition, ending each get a slot
+$selectedTemplateRanks = [Collections.Generic.List[object]]::new()
+$usedTemplateTexts = [Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
+$typePriority = @('title', 'opening', 'structure', 'transition', 'ending')
+$maxTemplates = 5
+
+# Round 1: take best from each priority type (one per type)
+foreach ($targetType in $typePriority) {
+  if ($selectedTemplateRanks.Count -ge $maxTemplates) { break }
+  $bestOfType = @($rankedTemplates | Where-Object {
+    $_.record.template_type -eq $targetType -and -not $usedTemplateTexts.Contains([string]$_.record.template)
+  } | Select-Object -First 1)
+  if ($bestOfType.Count -gt 0) {
+    $selectedTemplateRanks.Add($bestOfType[0])
+    [void]$usedTemplateTexts.Add([string]$bestOfType[0].record.template)
+  }
+}
+
+# Round 2: fill remaining slots with best remaining of any type (including visual_caption, notice_flow)
+foreach ($rt in $rankedTemplates) {
+  if ($selectedTemplateRanks.Count -ge $maxTemplates) { break }
+  if ($usedTemplateTexts.Contains([string]$rt.record.template)) { continue }
+  $selectedTemplateRanks.Add($rt)
+  [void]$usedTemplateTexts.Add([string]$rt.record.template)
+}
 
 $allowedStyleTypes = @('expression_phrase', 'writing_method', 'rhetorical_device')
 $rankedStyles = @($styles | ForEach-Object {
@@ -264,7 +288,7 @@ if ($selectedArticleRanks.Count -lt 3) {
   $warnings.Add("Only $($selectedArticleRanks.Count) reference article(s) found; the target minimum is 3.")
 }
 if ($selectedTemplateRanks.Count -lt 3) {
-  $warnings.Add("Only $($selectedTemplateRanks.Count) structure template(s) found; the target minimum is 3.")
+  $warnings.Add("Only $($selectedTemplateRanks.Count) template(s) found; the target minimum is 3.")
 }
 
 $referenceArticles = @($selectedArticleRanks | ForEach-Object {
